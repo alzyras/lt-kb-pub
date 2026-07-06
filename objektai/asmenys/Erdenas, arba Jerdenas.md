@@ -43,7 +43,6 @@ Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido,
 - t-001
   global_id: t-87498
   teiginys: "Erdenas nurodomas kaip pirmuoju Vilniaus kunigaikščiu laikyto Dovilo arba Dovydo sūnus."
-  semantiniai_rysiai: "Erdenas, arba Jerdenas buvo sūnus Dovydas (0.97)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "116497-117007; hash=f0ddb0e66f5bccc32fed2d0b11187bdd0d85fed35c867bb59b499bc5cb1ceec2; match=exact"
   sprendimo_priezastis: "auto"
@@ -101,6 +100,3 @@ Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87498
-
-## Ryšiai
-- Tėvai: [[objektai/asmenys/Dovydas]]

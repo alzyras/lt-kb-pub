@@ -39,7 +39,6 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
   global_id: t-187303
   teiginys: "Prie Putnos Steponas apsistojo su visa kariuomene kaip tvirtovėje."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Steponas gyveno Putna (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "261007-261675; hash=19ea5cf1ecfb0edf75e5b083ffcd46c686dc4b7a7fae5b4268831ca78d859193; match=whitespace_regex"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -58,7 +57,6 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
   global_id: t-187304
   teiginys: "Putna buvo kalnuose esantis Stepono mėgstamas vienuolynas, kuriame jis apsistojo su visa kariuomene."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Steponas gyveno Putna (0.88)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "261007-261675; hash=19ea5cf1ecfb0edf75e5b083ffcd46c686dc4b7a7fae5b4268831ca78d859193; match=whitespace_regex"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -131,6 +129,3 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
   pagrindzia:
     - t-187304
     - t-187303
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/asmenys/Steponas]]

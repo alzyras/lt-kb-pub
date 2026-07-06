@@ -64,7 +64,6 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - t-001
   global_id: t-63794
   teiginys: "Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų."
-  semantiniai_rysiai: "Karigaila buvo sūnus Julijona (0.96)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "761711-762367; hash=d5c5831d7d6e1a0e69a0c107757c0c36ab75bb51cf0bf150957924ae7113b422; match=exact"
   sprendimo_priezastis: "auto"
@@ -303,7 +302,7 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Vasilijus Čartoriskis]]
-- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Julijona]], [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - Broliai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Sąjungininkai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Kariavo prieš: [[objektai/grupes/Kryžiuočių ordinas]]

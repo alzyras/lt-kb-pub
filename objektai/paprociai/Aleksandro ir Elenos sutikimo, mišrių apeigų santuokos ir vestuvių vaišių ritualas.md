@@ -80,7 +80,7 @@ Nenurodyta
 - t-001
   global_id: t-87198
   teiginys: "1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį."
-  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) keliavo į Vilnius (0.93); Aleksandras keliavo į Nemėžis (0.62); Elena (vyskupas, XV–XVI a.) keliavo į Maskva (0.55)"
+  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) keliavo į Vilnius (0.93); Elena (vyskupas, XV–XVI a.) keliavo į Maskva (0.55)"
   temporaliniai_duomenys: "kelionės data: 1494 m.; kelionės data: 1495 m.; kelionės data: 1496 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Aleksandras keliavo į Vilnius“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Iš ilgo fragmento išskirtas aiškus atvykimo ir sutikimo faktas."

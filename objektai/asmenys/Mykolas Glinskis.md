@@ -319,7 +319,6 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vasilijus paskyrė Mykolas Glinskis (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "1117110-1117743; hash=ba1594da43cdf8a927e9ba86ba52c86ef4cf5417fc0eda7227202a3217be86e9; match=exact"
   sprendimo_priezastis: "auto"
@@ -1338,7 +1337,6 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - t-193964
 
 ## Ryšiai
-- Paskyrė Mykolas Glinskį: [[objektai/asmenys/Vasilijus]]
 - Rėmė Mykolas Glinskį: [[objektai/grupes/Bajorai]]
 - Mykolas Glinskis keliavo į [[objektai/vietos/Kleckas]], [[objektai/vietos/Vilnius]]
 - Mykolas Glinskis puolė [[objektai/grupes/Totoriai]]

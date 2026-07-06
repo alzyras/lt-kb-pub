@@ -33,7 +33,7 @@ Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Onulfas buvo brolis Odoakras (0.90); Herulai keliavo į Italija (0.78); Onulfas puolė Frederikas (0.76)"
+  semantiniai_rysiai: "Onulfas buvo brolis Odoakras (0.90); Herulai keliavo į Italija (0.78)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "571861-572351; hash=59d3a0cfe60c19001939ec89d5a71abe93b330e476582a0c36e9dc7f84cf12bf; match=exact"
   sprendimo_priezastis: "auto"
@@ -96,6 +96,4 @@ Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Odoakras]]
-- Onulfas puolė [[objektai/asmenys/Frederikas]]
 - Onulfas siuntė į [[objektai/vietos/Italija]]
-- Onulfas kariavo prieš [[objektai/asmenys/Frederikas]]

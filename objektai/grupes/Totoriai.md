@@ -4390,7 +4390,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 ## Ryšiai
 - Priešai: [[objektai/grupes/Kazokai]]
 - Sąjungininkai: [[objektai/grupes/Armėnai]], [[objektai/grupes/Gruzinai]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Levas (Haličo kunigaikštis)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Maskvėnai]]
-- Puolė Totoriai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mykolas]], [[objektai/asmenys/Mykolas Glinskis]]
+- Puolė Totoriai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mykolas Glinskis]]
 - Gynė Totoriai: [[objektai/grupes/Kryžiuočių ordinas]]
 - Kariavo prieš: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Dimitrijus]], [[objektai/asmenys/Dmitrijus Doniškis]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Karijotaičiai]], [[objektai/grupes/Kazokai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mykolas Glinskis]], [[objektai/asmenys/Ostapas Kropotkovas]], [[objektai/grupes/Vokiečių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Paskyrė Totoriai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

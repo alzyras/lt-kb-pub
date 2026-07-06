@@ -137,7 +137,6 @@ Nenurodyta
   global_id: t-186656
   teiginys: "Sučiavos gynėjai paragino Olbrachtą kautis su Steponu lauke."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Steponas gynė Sučiava (0.63)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "261678-262514; hash=4b6a2e2cea0b30ab3195ea930d709dae2a2742aebe8cf5a691161a66a6a8e4a1; match=whitespace_regex"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"

@@ -85,7 +85,6 @@ Nenurodyta
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vasilijus siuntė į Možaiskas (0.94)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "1171394-1172000; hash=98474bec89cf287586e06e4fb366cffa991b982af29d3ad9f2104729cd48f829; match=ocr_normalized_gapped"
   sprendimo_priezastis: "auto"

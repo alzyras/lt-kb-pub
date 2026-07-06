@@ -45,7 +45,6 @@ Nenurodyta
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Dimitrijus apgulė Smolenskas (0.74); Dimitrijus puolė Smolenskas (0.72)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "1011716-1012322; hash=87d1284626e894c78e0fd35a286044bd73a4893bfdac366837474a626f6822d7; match=exact"
   sprendimo_priezastis: "auto"

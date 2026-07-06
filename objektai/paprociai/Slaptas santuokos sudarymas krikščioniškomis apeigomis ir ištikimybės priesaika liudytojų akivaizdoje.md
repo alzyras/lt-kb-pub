@@ -54,7 +54,6 @@ Nenurodyta
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Augustas buvo vyras Barbora Radvilaitė (0.90); Barbora Radvilaitė buvo žmona Augustas (0.90)"
   temporaliniai_duomenys: "įvykio data: 1546 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir tiesiogiai paremtas citata apie Augusto ir Barboros santuoką."

@@ -61,7 +61,6 @@ Tekste jos siejamos su viešu išplakimu.
   global_id: t-187814
   teiginys: "1850 m. pasakojime rykštės minimos kaip priemonė, kuria viešai išplaktas Teodoro Narbuto sūnus Liudvikas."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Liudvikas keliavo į Kaukazas (0.80)"
   temporaliniai_duomenys: "kelionės data: 1850 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Liudvikas keliavo į Kaukazas“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys jau yra gramatiškas sakinys su aiškiu subjektu ir predikatu apie rykštes. Citata tiesiogiai palaiko viešo išplakimo rykštėmis faktą."

@@ -98,4 +98,3 @@ Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Aleksandras Jogailaitis]]
 - Puolė Zaberezinskį: [[objektai/grupes/Totoriai]]
-- Paskyrė Zaberezinskį: [[objektai/asmenys/Aleksandras]]

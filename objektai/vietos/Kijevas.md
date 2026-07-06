@@ -3899,5 +3899,5 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - Užėmė Kijevą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo žygio kryptis: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Buvo užkariauta: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Mongolų imperija]]
-- Gyvenamoji vieta: [[objektai/grupes/Geninai]], [[objektai/grupes/Graikai]], [[objektai/asmenys/Mykolas]], [[objektai/grupes/Rusinai]], [[objektai/grupes/Tochtamišo totoriai]]
+- Gyvenamoji vieta: [[objektai/grupes/Geninai]], [[objektai/grupes/Graikai]], [[objektai/grupes/Rusinai]], [[objektai/grupes/Tochtamišo totoriai]]
 - Kijevas priklausė [[objektai/grupes/Auksinė Orda]], [[objektai/grupes/Aukso orda]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Rusija]], [[objektai/asmenys/Skirgaila]]

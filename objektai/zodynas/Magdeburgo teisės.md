@@ -230,7 +230,6 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
 - t-022
   global_id: t-113653
   teiginys: "Žygimantas dviem privilegijomis lotynų ir rusų kalbomis atnaujino ir patvirtino Vilniaus Magdeburgo teises."
-  semantiniai_rysiai: "Žygimantas buvo valdovas Lietuva (0.82)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "441753-442945; hash=13a7a7bd96fd56b887c3c706b679d9a79dda4b630942a01114ac07d8eca72e1d; match=ocr_normalized_gapped"
   sprendimo_priezastis: "auto"

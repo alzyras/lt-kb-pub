@@ -35,7 +35,6 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
 - t-003
   global_id: t-90326
   teiginys: "Treniota su talkininkais subūrė iki 30000 vyrų ir dalį jų pasiuntė į Kulmo žemę, kur buvo paimta Birgelavos pilis."
-  semantiniai_rysiai: "Treniota užėmė Birgelava (0.68)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "456820-457408; hash=9dce7b960cc19e623319fb6f41e664e65b305bb2b51673de594dbfa1dc1cf2b3; match=exact"
   sprendimo_priezastis: "auto"
@@ -169,4 +168,4 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Sūduviai]]
-- Užėmė Birgelavą: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Treniota]]
+- Užėmė Birgelavą: [[objektai/grupes/Lietuviai]]

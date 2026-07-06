@@ -35,7 +35,7 @@ Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
 - t-001
   global_id: t-86780
   teiginys: "Žygimanto grupuotė kartu su Švitrigailos šalininkais vėl pavertė Vilnių politinės kovos taikiniu."
-  semantiniai_rysiai: "Žygimanto šalininkai buvo priešas Švitrigaila (0.74); Žygimantas valdė miestą Vilnius (0.70)"
+  semantiniai_rysiai: "Žygimanto šalininkai buvo priešas Švitrigaila (0.74)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "440409-441400; hash=844ed12131af273380e035050b2d38522e30e1a4fba8f8c9ce849d1c316ed972; match=exact"
   sprendimo_priezastis: "auto"

@@ -230,7 +230,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Bisenė (0.92); Liutauras pastatė Ariogala (0.82)"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Bisenė (0.92)"
   temporaliniai_duomenys: "mūšio data: 1262 m.; pastatymo data: 1262 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas puolė Bisenė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liutauras pastatė Ariogala“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Subjektas patikslintas kaip Liutauras, o Ariogalos faktas suformuluotas be OCR klaidų. Vertinamasis „jūrų karžygio“ apibūdinimas paliktas su Narbuto atribucija."
@@ -254,7 +254,6 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Liutauras valdė Polockas (0.74)"
   temporaliniai_duomenys: "valdymo laikotarpis: 1232 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Liutauras valdė Polockas“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Iš ilgo sakinio palikti Ariogalai aktualūs Vytenio gyvenimo ir valdymo faktai. Kadangi tai Narbuto dinastinis pasakojimas, teiginys suatributuotas autoriui."
@@ -803,7 +802,6 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
     - t-188667
 
 ## Ryšiai
-- Buvo pastatyta: [[objektai/asmenys/Liutauras]]
 - Puolė Ariogalą: [[objektai/asmenys/Fridrichas iš Vildenbergo]], [[objektai/grupes/Kryžiuočių ordinas]]
 - Gyvenamoji vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
 - Ariogala priklausė [[objektai/grupes/Kryžiuočių ordinas]]

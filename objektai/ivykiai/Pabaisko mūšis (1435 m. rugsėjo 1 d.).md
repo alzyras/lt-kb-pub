@@ -97,7 +97,7 @@ Nenurodyta
 - t-009
   global_id: t-66812
   teiginys: "1435 m. rugsėjo 1 d. prie Ukmergės, prie Šventosios upės, įvyko mūšis, kuriame Žygimantas ir jo sūnus Mykolas sumušė Švitrigailos pajėgas."
-  semantiniai_rysiai: "Švitrigaila dalyvavo mūšyje Pabaisko mūšis (1435 m. rugsėjo 1 d.) (0.90); Žygimantas dalyvavo mūšyje Pabaisko mūšis (1435 m. rugsėjo 1 d.) (0.88); Žygimantas kariavo prieš Švitrigaila (0.88)"
+  semantiniai_rysiai: "Švitrigaila dalyvavo mūšyje Pabaisko mūšis (1435 m. rugsėjo 1 d.) (0.90)"
   temporaliniai_duomenys: "mūšio data: 1435 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -427,4 +427,4 @@ Nenurodyta
     - t-66815
 
 ## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/Kerskorfas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Livonijos ordinas]], [[objektai/grupes/Rusėnai]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Žygimantas]]
+- Turėjo dalyvį: [[objektai/asmenys/Kerskorfas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Livonijos ordinas]], [[objektai/grupes/Rusėnai]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]]

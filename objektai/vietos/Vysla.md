@@ -71,7 +71,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - t-029
   global_id: t-181212
   teiginys: "Brunonas išplaukė Vysla į jūrą ir priplaukė krantą Priegliaus žiotyse."
-  semantiniai_rysiai: "Brunonas keliavo į Prieglius (0.86)"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   saltinio_vieta: "93993-94263; hash=3fafe15e00f6e7d5f1564475025a966419e5761fe6e8343a85d5e0050598f85d; match=exact"
   sprendimo_priezastis: "auto"

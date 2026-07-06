@@ -75,7 +75,6 @@ Nenurodyta
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Brunonas puolė Lietuviai (0.88)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "302073-302531; hash=f8cc583be0ee2ec4b0a5f6fa4ee299e396338fedb278f284af6e1bc196ff1763; match=exact"
   sprendimo_priezastis: "auto"

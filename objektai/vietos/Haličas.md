@@ -98,7 +98,6 @@ Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo lai
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jurijus buvo sūnus Levas (Haličo kunigaikštis) (0.95)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "93062-93268; hash=908e3b7056e079096831def73bc8deedd783a760f5c48200a9ba9168a164709d; match=whitespace_regex"
   sprendimo_priezastis: "auto"

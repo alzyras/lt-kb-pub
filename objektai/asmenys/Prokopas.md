@@ -34,7 +34,6 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
 - t-001
   global_id: t-35268
   teiginys: "Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą."
-  semantiniai_rysiai: "Kaributas kariavo prieš Zigmantas (Romos imperatorius) (0.93); Kaributas buvo sąjungininkas su Prokopas (0.87)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "346850-347259; hash=fef0c59f90cd2aba6d4c49d52410a5fad134007ff4219c27d24fdb227468e201; match=exact"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Treniota siuntė į Polockas (0.91)"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   saltinio_vieta: "361981-362619; hash=5d73ace79a00eea919dcbea90725c61ea1efbf8ce97d48f82c477ff7a6516a31; match=exact"
   sprendimo_priezastis: "auto"
@@ -151,6 +149,3 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188604
-
-## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Kaributas]]

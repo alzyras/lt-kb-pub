@@ -7253,8 +7253,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Jaunė (Jievna)]]
-- Sūnūs: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Liubartas]], [[objektai/asmenys/Manvydas]]
-- Dukterys: [[objektai/asmenys/Aldona Gediminaitė]], [[objektai/asmenys/Aldona Ona]], [[objektai/asmenys/Marija]], [[objektai/asmenys/Marija (Gedimino duktė)]]
+- Sūnūs: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Manvydas]]
+- Dukterys: [[objektai/asmenys/Aldona Gediminaitė]], [[objektai/asmenys/Aldona Ona]], [[objektai/asmenys/Marija (Gedimino duktė)]]
 - Broliai: [[objektai/asmenys/Gvaželutis]], [[objektai/asmenys/Teodoras]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
 - Priešai: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Teutonai]]
 - Sąjungininkai: [[objektai/grupes/Lenkai]], [[objektai/grupes/Rygiečiai]], [[objektai/asmenys/Vladislovas Lokietka]]

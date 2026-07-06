@@ -39,7 +39,6 @@ Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turt
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Augustas buvo sūnus Bona (0.92); Bona keliavo į Italija (0.86); Bona buvo priešas Papakoda (0.62)"
   temporaliniai_duomenys: "įvykio data: 1557 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata pagrindžia testamento turinį ir jo neįvykdymą."

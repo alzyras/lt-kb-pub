@@ -47,7 +47,6 @@ Nenurodyta
   global_id: t-186565
   teiginys: "Lietuvos metraščio pasakojimu, po Mindaugo nužudymo Treniota pasiuntė pasiuntinius į Polocką kviesti Tautvilos dalytis Mindaugo žeme ir turtu."
   teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Treniota siuntė į Polockas (0.95); Treniota valdė Lietuva (0.82)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "95221-95726; hash=2b8955ebfa3a52bb4553f507bbd71a92fb906e3198b997309956c9198fd6dd9c; match=exact"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -68,7 +67,6 @@ Nenurodyta
   global_id: t-186566
   teiginys: "Lietuvos metraščio pasakojimu, Prakapui išdavus Tautvilos kėslą, Treniota užbėgo Tautvilai už akių, jį nužudė ir liko kunigaikščiauti vienas."
   teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Treniota valdė Lietuva (0.82)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "95221-95726; hash=2b8955ebfa3a52bb4553f507bbd71a92fb906e3198b997309956c9198fd6dd9c; match=exact"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"

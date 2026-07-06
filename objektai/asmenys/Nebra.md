@@ -33,7 +33,6 @@ Teodoro Narbuto pasakojime Danielius traukimosi metu pavijo jotvingių vadą Neb
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Danielius puolė Nebra (0.78)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "219498-220092; hash=b603f3c1e2a8ea60bdaa9dbf881be60450ba4107faa099f627b9abe4b62ebb96; match=exact"
   sprendimo_priezastis: "auto"

@@ -51,7 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-66499
   teiginys: "Konradas iš Tirbergo su didele kariuomene perėjo užšalusį Nemuną, puolė Bisenės pilį, įsiveržė į ją ir sudegino."
-  semantiniai_rysiai: "Konradas puolė Bisenė (0.91); Konradas užėmė Bisenė (0.88); Konradas surengė žygį į Lietuva (0.82)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "543167-543754; hash=2e76f8ba36b1887ce259c7f3443d4e886a3946ade044c19705433ff96cb52a51; match=exact"
   sprendimo_priezastis: "auto"

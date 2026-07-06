@@ -170,6 +170,3 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60150
-
-## Ryšiai
-- Jeronimas keliavo į [[objektai/vietos/Lenkija]]

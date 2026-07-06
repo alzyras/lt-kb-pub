@@ -309,5 +309,4 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 
 ## Ryšiai
 - Jaroslavas buvo valdovas [[objektai/vietos/Kijevo Rusia]]
-- Jaroslavas pastatė [[objektai/vietos/Naugardukas]]
 - Jaroslavas surengė žygį į [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

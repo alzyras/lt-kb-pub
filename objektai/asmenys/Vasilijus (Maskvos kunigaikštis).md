@@ -93,7 +93,6 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vasilijus (Maskvos kunigaikštis) kariavo prieš Žygimantas (0.93)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "1102383-1102885; hash=7e7aa7315a3365fe02afa9d228cd03ad2d3855f01c74044288d5f36924157af8; match=exact"
   sprendimo_priezastis: "auto"
@@ -323,6 +322,3 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185995
-
-## Ryšiai
-- Vasilijus (Maskvos kunigaikštis) kariavo prieš [[objektai/asmenys/Žygimantas]]

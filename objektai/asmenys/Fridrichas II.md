@@ -119,7 +119,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 - t-005
   global_id: t-59861
   teiginys: "Fridricho II sūnus Konradas 1251 m. užpuolė Apulijos karalystę ir Neapolį, sugriovė Neapolio sienas ir kitais metais mirė nunuodytas."
-  semantiniai_rysiai: "Konradas buvo sūnus Fridrichas II (0.95); Konradas puolė Apulija (0.90); Konradas puolė Neapolis (0.90)"
   temporaliniai_duomenys: "įvykio data: 1251 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Perrašyta, kad būtų įtrauktas citatoje minimas Neapolio sienų sugriovimas."
@@ -464,7 +463,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-59861
 
 ## Ryšiai
-- Sūnūs: [[objektai/asmenys/Konradas]]
 - Rėmė Fridrichas II: [[objektai/grupes/Venedai]]
 - Turėjo priklausinį: [[objektai/daiktai/Kryžius]]
 - Fridrichas II paskyrė [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]], [[objektai/grupes/Kryžiuočių ordinas]]

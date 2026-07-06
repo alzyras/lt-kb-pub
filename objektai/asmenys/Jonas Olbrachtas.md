@@ -109,7 +109,6 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jonas Olbrachtas buvo brolis Vladislovas (0.73)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "993411-993867; hash=eb8512085c929547e2810712e6f2c0dd733bfa95c007d19bda6bc9252a33c0c9; match=exact"
   sprendimo_priezastis: "auto"
@@ -320,6 +319,5 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
     - t-185966
 
 ## Ryšiai
-- Broliai: [[objektai/asmenys/Vladislovas]]
 - Jonas Olbrachtas keliavo į [[objektai/vietos/Krokuva]]
 - Jonas Olbrachtas kariavo prieš [[objektai/grupes/Vengrai]]

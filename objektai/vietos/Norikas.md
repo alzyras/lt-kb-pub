@@ -90,7 +90,7 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Onulfas siuntė į Italija (0.86); Onulfas kariavo prieš Frederikas (0.78); Herulai keliavo į Italija (0.78)"
+  semantiniai_rysiai: "Onulfas siuntė į Italija (0.86); Herulai keliavo į Italija (0.78)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "571955-572599; hash=17419924674ac87f198bde00e7ecbd3583f2a94634eecfd229415a35d644b36d; match=exact"
   sprendimo_priezastis: "auto"

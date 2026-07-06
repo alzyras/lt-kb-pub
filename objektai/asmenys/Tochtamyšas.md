@@ -319,5 +319,4 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Saladinas]]
 - Broliai: [[objektai/asmenys/Kerim Berdis]]
-- Sąjungininkai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Puolė Tochtamyšą: [[objektai/asmenys/Kerim Berdis]]

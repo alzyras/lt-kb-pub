@@ -143,7 +143,3 @@ Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185962
-
-## Ryšiai
-- Ivanas puolė [[objektai/vietos/Livonija]]
-- Ivanas gynė [[objektai/grupes/Rusai]]

@@ -51,7 +51,6 @@ Nenurodyta
   global_id: t-62217
   teiginys: "Braunšveigo kunigaikštis Otonas su daugybe maldininkų atvyko į Prūsiją padėti sunkioje padėtyje atsidūrusiems broliams."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Otonas keliavo į Prūsija (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "268150-268529; hash=e907b9e8f48273ac24c0a98bd8a508f50164c16dee79506f14ae071727724f1f; match=exact"
   sprendimo_priezastis: "auto"

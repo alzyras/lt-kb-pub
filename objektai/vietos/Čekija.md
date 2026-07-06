@@ -68,7 +68,6 @@ media_all_json: |-
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kaributas rėmė Husitai (0.90); Kaributas keliavo į Čekija (0.86)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "305284-305813; hash=76f1ec619cd8927302887bbff2af3426e7fa38f8c30781fa2900bc46fb1fc111; match=ocr_normalized"
   sprendimo_priezastis: "auto"
@@ -596,6 +595,6 @@ media_all_json: |-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Jonas Liuksemburgietis]], [[objektai/asmenys/Pršemyslas Otokaras II]]
 - Buvo valdoma: [[objektai/grupes/Jogailaičių dinastija]], [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]
-- Buvo kelionės vieta: [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Zigmantas Kaributas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Zigmantas Kaributas]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Gyvenamoji vieta: [[objektai/asmenys/Martynas iš Opavos|Martynas iš Opavos (arkivyskupas, XIII a.)]]

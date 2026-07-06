@@ -33,7 +33,6 @@ Narbuto pasakojime rugių karalius Febanas pernelyg engė Odoakro sąjungininkus
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Frederikas buvo sūnus Febanas (0.86)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "571401-571838; hash=3a19319339968b1a518b7a9f0f75ff0978eefc66157ba7b4045668b0848db3ab; match=exact"
   sprendimo_priezastis: "auto"
@@ -92,6 +91,3 @@ Narbuto pasakojime rugių karalius Febanas pernelyg engė Odoakro sąjungininkus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191395
-
-## Ryšiai
-- Sūnūs: [[objektai/asmenys/Frederikas]]

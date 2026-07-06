@@ -63,7 +63,6 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Steponas gynė Sučiava (0.78); Steponas valdė Moldavija (0.72)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "261007-261675; hash=19ea5cf1ecfb0edf75e5b083ffcd46c686dc4b7a7fae5b4268831ca78d859193; match=exact"
   sprendimo_priezastis: "auto"
@@ -229,7 +228,3 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187616
-
-## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Steponas]]
-- Buvo valdoma: [[objektai/asmenys/Steponas]]

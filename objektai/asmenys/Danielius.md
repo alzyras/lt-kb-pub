@@ -251,9 +251,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - t-191161
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Ziemovitas]]
-- Rėmė Danielių: [[objektai/asmenys/Boleslovas Gėdingasis]]
-- Danielius keliavo į [[objektai/vietos/Vizna]]
 - Danielius puolė [[objektai/asmenys/Nebra]]
 - Danielius surengė žygį į [[objektai/vietos/Brasta]]
 - Danielius kariavo prieš [[objektai/grupes/Jotvingiai]]

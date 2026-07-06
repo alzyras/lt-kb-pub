@@ -95,7 +95,3 @@ Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas pers�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191423
-
-## Ryšiai
-- Julijonas siuntė į [[objektai/vietos/Dnepras]], [[objektai/vietos/Volga]]
-- Julijonas gyveno [[objektai/vietos/Isteris]]

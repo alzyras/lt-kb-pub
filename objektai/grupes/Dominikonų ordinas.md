@@ -115,7 +115,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 - t-012
   global_id: t-172084
   teiginys: "Aleksandras 1501 metais pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti."
-  semantiniai_rysiai: "Aleksandras rėmė Dominikonų ordinas (0.86)"
   temporaliniai_duomenys: "įvykio data: 1501 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys glaustai perteikia citatoje nurodytą dominikonų pakvietimą ir fundaciją."
@@ -1161,4 +1160,4 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-172082
 
 ## Ryšiai
-- Rėmė Dominikonų ordiną: [[objektai/asmenys/Aleksandras]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Rėmė Dominikonų ordiną: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

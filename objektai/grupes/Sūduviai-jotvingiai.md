@@ -277,7 +277,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - t-036
   global_id: t-175119
   teiginys: "Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių."
-  semantiniai_rysiai: "Konradas puolė Sūduva (0.90); Konradas puolė Kimenava (0.88)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "510260-510970; hash=943201c6f266e43ff08f621345ef51d434b359dac1201b8f8025909799aee934; match=exact"
   sprendimo_priezastis: "auto"
@@ -295,7 +294,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - t-025
   global_id: t-175120
   teiginys: "Prie Vinso miško brolių kariuomenę pasivijo 3000 rinktinių sūduvių vyrų, bet broliai juos užpuolė ir privertė trauktis."
-  semantiniai_rysiai: "Konradas puolė Sūduva (0.85); Konradas puolė Kimenava (0.84)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "510260-510970; hash=943201c6f266e43ff08f621345ef51d434b359dac1201b8f8025909799aee934; match=exact"
   sprendimo_priezastis: "auto"
@@ -444,7 +442,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - t-023
   global_id: t-175130
   teiginys: "Spalio 21 d. Skomantas su 4000 sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę keršyti už savųjų žūtį."
-  semantiniai_rysiai: "Skomantas puolė Kulmas (0.91); Sūduviai puolė Kulmas (0.88); Lietuviai puolė Kulmas (0.86)"
+  semantiniai_rysiai: "Sūduviai puolė Kulmas (0.88); Lietuviai puolė Kulmas (0.86)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "506635-507435; hash=fa8a230f07ebbbf0fe68e98d79af85d4656e427d38e349451dbc140e6d0d48e7; match=exact"
   sprendimo_priezastis: "auto"
@@ -462,7 +460,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - t-019
   global_id: t-175131
   teiginys: "Skomantas su sūduviais įsibrovė į Kulmo žemę ir padalijo kariuomenę į dvi dalis, nukreiptas prieš Torunę ir Kulmo miestą."
-  semantiniai_rysiai: "Skomantas puolė Kulmas (0.90); Sūduviai puolė Kulmas (0.88)"
+  semantiniai_rysiai: "Sūduviai puolė Kulmas (0.88)"
   temporaliniai_duomenys: "įvykio data: 1263 m.; įvykio data: 1264 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalintas išnašos triukšmas ir paliktas sūduvius liečiantis faktas."

@@ -67,7 +67,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-001
   global_id: t-54956
   teiginys: "Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus."
-  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) buvo duktė Vasiljevičius (Maskvos valdovas) (0.92); Aleksandras vedė Elena (vyskupas, XV–XVI a.) (0.86)"
+  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) buvo duktė Vasiljevičius (Maskvos valdovas) (0.92)"
   temporaliniai_duomenys: "įvykio data: 1494 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
@@ -107,7 +107,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-003
   global_id: t-54958
   teiginys: "Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena."
-  semantiniai_rysiai: "Aleksandras vedė Elena (vyskupas, XV–XVI a.) (0.88)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "467430-467851; hash=17dce260f34f777b0e355d3de9d1f395b09d5065cc031ba13246033c119be3f5; match=whitespace_regex"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -219,7 +218,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-011
   global_id: t-82283
   teiginys: "Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus."
-  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) buvo duktė Vasiljevičius (Maskvos valdovas) (0.92); Aleksandras vedė Elena (vyskupas, XV–XVI a.) (0.87)"
+  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) buvo duktė Vasiljevičius (Maskvos valdovas) (0.92)"
   temporaliniai_duomenys: "įvykio data: 1494 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata pagrindžia vedybų motyvą, o pradinis teiginys prasidėjo neaiškiu įvardžiu."
@@ -1394,7 +1393,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Aleksandras Jogailaitis]]
-- Sutuoktiniai: [[objektai/asmenys/Aleksandras]], [[objektai/asmenys/Aleksandras Jogailaitis]]
+- Sutuoktiniai: [[objektai/asmenys/Aleksandras Jogailaitis]]
 - Tėvai: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
 - Rėmė Eleną (vyskupas, XV–XVI a.): [[objektai/asmenys/Žygimantas Senasis]]
 - Turėjo priklausinį: [[objektai/vietos/Losičiai]], [[objektai/vietos/Mogiliavas]]

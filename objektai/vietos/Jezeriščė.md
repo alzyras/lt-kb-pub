@@ -40,7 +40,6 @@ media_all_json: |-
 - t-001
   global_id: t-80616
   teiginys: "1580 m. buvo paimtos Veližo, Didžiųjų Lukų, Usviatų ir Jezeriščės tvirtovės."
-  semantiniai_rysiai: "Radvila surengė žygį į Rusija (0.76); Radvila užėmė Jezeriščė (0.73); Radvila užėmė Usviatai (0.73)"
   temporaliniai_duomenys: "įvykio data: 1580 m.; įvykio data: 1581 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys neturėjo aiškaus subjekto; perrašyta kaip savarankiškas faktinis sakinys."
@@ -153,6 +152,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184964
-
-## Ryšiai
-- Užėmė Jezeriščę: [[objektai/asmenys/Radvila]]

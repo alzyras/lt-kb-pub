@@ -59,7 +59,6 @@ Nenurodyta
 - t-003
   global_id: t-05298
   teiginys: "1044 m. Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką."
-  semantiniai_rysiai: "Jaroslavas surengė žygį į Lietuva (0.93); Jaroslavas pastatė Naugardukas (0.91)"
   temporaliniai_duomenys: "įkūrimo data: 1044 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"

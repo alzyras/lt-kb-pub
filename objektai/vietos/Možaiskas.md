@@ -442,4 +442,3 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Vasilijus]]

@@ -455,7 +455,6 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - t-080
   global_id: t-179851
   teiginys: "1305 m. Konradas iš Lichtenhageno su didele kariuomene nusiaubė Gardino pilies apylinkes degindamas ir plėšdamas."
-  semantiniai_rysiai: "Konradas puolė Gardinas (0.88)"
   temporaliniai_duomenys: "įvykio data: 1305 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako veikėją, vietą ir veiksmą, citata tai patvirtina."
@@ -1336,7 +1335,6 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Skomantas užėmė Gardinas (0.95)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "267286-267637; hash=9e5a1d474a5a30ea10687499e7e0a5f866cec07554ae6c1bfa0fd224b82f3c7a; match=exact"
   sprendimo_priezastis: "auto"
@@ -1357,7 +1355,6 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Konradas puolė Lietuva (0.90); Konradas puolė Gardinas (0.90)"
   temporaliniai_duomenys: "įvykio data: po 1304 m.; įvykio data: 1304 m."
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys pilnai perteikia citatoje nurodytą faktą apie Gardino krašto nuniokojimą."
@@ -4632,7 +4629,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo kelionės vieta: [[objektai/asmenys/Birutė]], [[objektai/asmenys/Ibrahimas (Turkijos čiaušas)]], [[objektai/asmenys/Kazimieras Jogailaitis]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Skomantas]], [[objektai/grupes/Slavai]], [[objektai/grupes/Vokiečių pirkliai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Zigfridas iš Rechbergo]], [[objektai/asmenys/Žygimantas]]
 - Mirties vieta: [[objektai/asmenys/Steponas Batoras]]
-- Puolė Gardiną: [[objektai/asmenys/Albertas fon Hagenas]], [[objektai/asmenys/Albrechtas iš Hageno]], [[objektai/asmenys/Henrikas Cutsvertas]], [[objektai/asmenys/Konradas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Skomantas]], [[objektai/asmenys/Švitrigaila]]
+- Puolė Gardiną: [[objektai/asmenys/Albertas fon Hagenas]], [[objektai/asmenys/Albrechtas iš Hageno]], [[objektai/asmenys/Henrikas Cutsvertas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Skomantas]], [[objektai/asmenys/Švitrigaila]]
 - Užėmė Gardiną: [[objektai/asmenys/Albertas fon Hagenas]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]], [[objektai/asmenys/Skomantas]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
 - Gynė Gardiną: [[objektai/asmenys/Dovydas Gardiniškis]], [[objektai/grupes/Lietuviai]]
 - Buvo siuntimo vieta: [[objektai/grupes/Kryžiuočių ordinas]]

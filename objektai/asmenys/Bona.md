@@ -301,9 +301,3 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87467
-
-## Ryšiai
-- Sūnūs: [[objektai/asmenys/Augustas]]
-- Priešai: [[objektai/asmenys/Papakoda]]
-- Bona keliavo į [[objektai/vietos/Italija]]
-- Bona gyveno [[objektai/vietos/Merkys]]

@@ -278,8 +278,3 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184682
-
-## Ryšiai
-- Brunonas keliavo į [[objektai/vietos/Prieglius]]
-- Brunonas mirė [[objektai/vietos/Lietuva]], [[objektai/vietos/Rusija]]
-- Brunonas puolė [[objektai/grupes/Lietuviai]], [[objektai/vietos/Treiderės upė]]

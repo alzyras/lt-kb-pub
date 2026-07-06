@@ -495,8 +495,3 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184743
-
-## Ryšiai
-- Vyrai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Sūnūs: [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Karigaila]], [[objektai/asmenys/Švitrigaila]]
-- Rėmė Julijoną: [[objektai/asmenys/Paulius Rusdorfas]]

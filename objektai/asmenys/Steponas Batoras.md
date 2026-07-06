@@ -489,7 +489,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-042
   global_id: t-113989
   teiginys: "Steponas Batoras įsakė Vilniaus vaivadai Radvilai skatinti vilniečius mokėti nustatytus muitus."
-  semantiniai_rysiai: "Steponas Batoras paskyrė Radvila (0.61)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "642230-643802; hash=ef95ff981fcd0734c7943aebf44ccfad30210bff9b02cca08ccd8f3b833bd504; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -2091,6 +2090,5 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - Steponas Batoras mirė [[objektai/vietos/Gardinas]]
 - Steponas Batoras apgulė [[objektai/vietos/Pskovas]]
 - Steponas Batoras siuntė į [[objektai/vietos/Rusija]], [[objektai/vietos/Švedija]]
-- Steponas Batoras paskyrė [[objektai/asmenys/Radvila]]
 - Steponas Batoras rėmė [[objektai/asmenys/Gabrielius Bekešas]], [[objektai/grupes/Vilniaus miestiečių luomas]], [[objektai/grupes/Vilniaus pirkliai]]
 - Steponas Batoras užkariavo [[objektai/vietos/Ryga]]

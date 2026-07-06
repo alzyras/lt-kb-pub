@@ -99,7 +99,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 - t-061
   global_id: t-179643
   teiginys: "1393 m. tarp Vytauto ir Skirgailos kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius (0.96); Jadvyga keliavo į Vilnius (0.96)"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius (0.96)"
   temporaliniai_duomenys: "kelionės data: 1393 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Skirgaila keliavo į Vilnius“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalintas kontekstinis žodis „vėl“, kad sakinys būtų savarankiškas."

@@ -592,7 +592,7 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - t-193986
 
 ## Ryšiai
-- Tėvai: [[objektai/asmenys/Liubartas]], [[objektai/asmenys/Pisimantas]]
+- Tėvai: [[objektai/asmenys/Pisimantas]]
 - Kariavo prieš: [[objektai/asmenys/Mstislavas Romanovičius]]
 - Rėmė Skirmantą: [[objektai/asmenys/Kukovaitis]]
 - Skirmantas valdė [[objektai/vietos/Naugardukas]]

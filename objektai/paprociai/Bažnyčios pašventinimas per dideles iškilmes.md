@@ -60,7 +60,6 @@ Nenurodyta
 - t-001
   global_id: t-87262
   teiginys: "1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas."
-  semantiniai_rysiai: "Mykolas gyveno Kijevas (0.70)"
   temporaliniai_duomenys: "įvykio data: 1386 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir atitinka citatos duomenis."

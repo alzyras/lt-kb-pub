@@ -158,7 +158,6 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Ivanas gynė Rusai (0.69)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "986017-986799; hash=63654dfcf6a5c35e95db19ef62b5345ab70cd87810adf8f2da67f0765ab2869d; match=exact"
   sprendimo_priezastis: "auto"

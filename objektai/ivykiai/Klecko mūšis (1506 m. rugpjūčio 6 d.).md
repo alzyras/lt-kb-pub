@@ -75,7 +75,7 @@ Nenurodyta
 - t-007
   global_id: t-171467
   teiginys: "Klecko mūšyje kunigaikštis Mykolas su kairiuoju sparnu perėjo upę, smogė totorių pulkams ir perskėlė juos į dvi dalis."
-  semantiniai_rysiai: "Mykolas puolė Totoriai (0.93); Mykolas dalyvavo mūšyje Klecko mūšis (1506 m. rugpjūčio 6 d.) (0.88); Lietuvos kariuomenė kariavo prieš Totoriai (0.87)"
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Totoriai (0.87)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "320897-321314; hash=1fc401953c4285fa1d9c464b432d1563a39d3583990ea2d5d51eae01d8554d67; match=exact"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -383,4 +383,4 @@ Nenurodyta
     - t-171468
 
 ## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mykolas]], [[objektai/grupes/Totoriai]]
+- Turėjo dalyvį: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Totoriai]]

@@ -78,7 +78,7 @@ Nenurodyta
 - t-001
   global_id: t-35898
   teiginys: "1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, šalininkų remiamas jį paėmė, o Rygos pirklys Hanulo įteikė jam pilies raktus."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius (0.92); Jogaila (kunigaikštis, XIV–XV a.) užėmė Vilnius (0.90); Hanulas rėmė Jogaila (kunigaikštis, XIV–XV a.) (0.78)"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius (0.92); Jogaila (kunigaikštis, XIV–XV a.) užėmė Vilnius (0.90)"
   temporaliniai_duomenys: "įvykio data: 1382 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata."

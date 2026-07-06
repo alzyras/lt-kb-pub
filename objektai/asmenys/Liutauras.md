@@ -115,10 +115,3 @@ Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė L
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190106
-
-## Ryšiai
-- Sūnūs: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
-- Tėvai: [[objektai/asmenys/Dormunimundas]]
-- Paskyrė Liutaurą: [[objektai/grupes/Lietuvos ponai]]
-- Liutauras valdė [[objektai/vietos/Polockas]]
-- Liutauras pastatė [[objektai/vietos/Ariogala]]

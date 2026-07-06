@@ -63,7 +63,6 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
 - t-002
   global_id: t-87559
   teiginys: "1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas."
-  semantiniai_rysiai: "Mykolas (Žygimanto sūnus) buvo sūnus Žygimantas (0.95)"
   temporaliniai_duomenys: "įvykio data: 1440 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Claimas buvo per platus ir turėjo papildomą pilies kontekstą; citata palaiko Mykolo tremties faktą."
@@ -639,7 +638,6 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     - t-184798
 
 ## Ryšiai
-- Tėvai: [[objektai/asmenys/Žygimantas]]
 - Rėmė Mykolą (Žygimanto sūnus): [[objektai/grupes/Žemaičiai]]
 - Mykolas (Žygimanto sūnus) valdė [[objektai/vietos/Belskas]], [[objektai/vietos/Brianskas]]
 - Mykolas (Žygimanto sūnus) keliavo į [[objektai/vietos/Mazovija]]

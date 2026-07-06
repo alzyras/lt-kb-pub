@@ -326,7 +326,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - t-019
   global_id: t-79507
   teiginys: "Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę."
-  semantiniai_rysiai: "Skomantas puolė Kulmo žemė (0.88); Sūduviai puolė Kulmo žemė (0.88); Rusai puolė Kulmo žemė (0.82)"
+  semantiniai_rysiai: "Sūduviai puolė Kulmo žemė (0.88); Rusai puolė Kulmo žemė (0.82)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "463137-463541; hash=f9ab0cedb845b2903c5779b0c387465af1c60f2cf7f54057c93f2b876d928428; match=exact"
   sprendimo_priezastis: "auto"
@@ -1083,6 +1083,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
     - t-79495
 
 ## Ryšiai
-- Puolė Kulmo žemę: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Linkas]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Skomantas]], [[objektai/grupes/Sūduviai]], [[objektai/asmenys/Sventopelkas]]
+- Puolė Kulmo žemę: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Linkas]], [[objektai/grupes/Rusai]], [[objektai/grupes/Sūduviai]], [[objektai/asmenys/Sventopelkas]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
 - Kulmo žemė priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Prūsai]], [[objektai/grupes/Vokiečiai]]

@@ -32,7 +32,6 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
 - t-001
   global_id: t-29022
   teiginys: "Lengvenio sūnus Jurgis vadovavo Smolensko pulkams, kurie Žalgirio mūšyje laikėsi tarp lietuvių ir lenkų kariuomenės dalių."
-  semantiniai_rysiai: "Jurgis (Lengvenio sūnus) buvo sūnus Lengvenis (0.98)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "930937-931129; hash=90a73d12facd141b0067cfb54b540a148b57964ba179c4ef5b88384de4bb10b5; match=exact"
   sprendimo_priezastis: "auto"
@@ -76,6 +75,3 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-29022
-
-## Ryšiai
-- Tėvai: [[objektai/asmenys/Lengvenis]]

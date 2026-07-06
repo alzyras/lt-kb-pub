@@ -51,7 +51,6 @@ Nenurodyta
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Boleslovas puolė Lietuva (0.93)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "782080-782656; hash=61ebe8f8206a5c373899d7bbe3ca4f156bd6e1384f68d63de8820ef509732e82; match=ocr_normalized_gapped"
   sprendimo_priezastis: "auto"

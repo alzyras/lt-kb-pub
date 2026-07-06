@@ -150,7 +150,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - t-009
   global_id: t-182793
   teiginys: "Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją."
-  semantiniai_rysiai: "Vilnius prekiavo su Prūsija (0.90); Vilnius prekiavo su Silezija (0.90); Žygimantas mirė Trakai (0.88); Žygimantas užėmė Vilnius (0.70)"
+  semantiniai_rysiai: "Vilnius prekiavo su Prūsija (0.90); Vilnius prekiavo su Silezija (0.90)"
   temporaliniai_duomenys: "įvykio data: 1430-1586; įvykio data: 1560 m.; įvykio data: 1586 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata yra titulinis puslapis, patvirtinantis autorių, kūrinį ir antro tomo chronologines ribas."

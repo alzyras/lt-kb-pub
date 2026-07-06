@@ -48,7 +48,6 @@ Nenurodyta
   global_id: t-187467
   teiginys: "Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros."
   teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) sudarė sutartį su Dimitrijus (0.93)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "390019-391028; hash=7c92ebb1c98a8f102f6d3ea6aadf704493bf7ee6692d6f4fa99f9217a52ecd60; match=ocr_normalized_gapped"
   sprendimo_priezastis: "gap::events"

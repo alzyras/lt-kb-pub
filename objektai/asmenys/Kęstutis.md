@@ -723,7 +723,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Žygimantas buvo sūnus Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.90)"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   saltinio_vieta: "268056-268683; hash=2ee54b6249e8ba1cc3f3bb073dec550430d67f1ce8491ae7f2c4ba329589b6ff; match=exact"
   sprendimo_priezastis: "auto"
@@ -3290,7 +3289,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Birutė]]
-- Sūnūs: [[objektai/asmenys/Patirgas]], [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]], [[objektai/asmenys/Tautvila]], [[objektai/asmenys/Tautvilas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]]
+- Sūnūs: [[objektai/asmenys/Patirgas]], [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]], [[objektai/asmenys/Tautvila]], [[objektai/asmenys/Tautvilas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Dukterys: [[objektai/asmenys/Danuta]], [[objektai/asmenys/Danutė]]
 - Broliai: [[objektai/asmenys/Narimantas Gediminaitis]], [[objektai/asmenys/Žygimantas]]

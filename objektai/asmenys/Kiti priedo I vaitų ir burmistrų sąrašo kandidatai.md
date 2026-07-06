@@ -73,7 +73,6 @@ media_all_json: |-
 - t-003
   global_id: t-87351
   teiginys: "Motiejus, arba Matas, Božiminskis 1597 m. karaliaus Zigmanto Vazos raštu iš Varšuvos buvo paskirtas Vilniaus vaitu."
-  semantiniai_rysiai: "Motiejus valdė miestą Vilnius (0.62)"
   temporaliniai_duomenys: "įvykio data: 1597 m.; įvykio data: 1600 m.; įvykio data: 1610 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir atitinka cituojamą sąrašo informaciją."

@@ -124,7 +124,6 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Mykolas užėmė Serpeiskas (0.86); Mykolas užėmė Starodubas (0.86)"
   temporaliniai_duomenys: "įvykio data: 1448 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys turi daug OCR triukšmo; perrašyta į pilną faktinį sakinį."
@@ -546,7 +545,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kaributas]]
 - Buvo kelionės vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Kazimieras Jogailaitis]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
-- Puolė Severską: [[objektai/asmenys/Mykolas]], [[objektai/asmenys/Mykolas (Žygimanto sūnus)]], [[objektai/asmenys/Šich Achmetas]]
+- Puolė Severską: [[objektai/asmenys/Mykolas (Žygimanto sūnus)]], [[objektai/asmenys/Šich Achmetas]]
 - Užėmė Severską: [[objektai/asmenys/Skirmantas]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Dimitras Kaributas]]
 - Buvo žygio kryptis: [[objektai/asmenys/Andrejus Možaiskis]], [[objektai/asmenys/Andriejus Šemiačičius]], [[objektai/asmenys/Jakovas Zachariničius]], [[objektai/asmenys/Šich Achmetas]]

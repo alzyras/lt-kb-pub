@@ -916,12 +916,3 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184778
-
-## Ryšiai
-- Sūnūs: [[objektai/asmenys/Skirmantas]], [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
-- Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Broliai: [[objektai/asmenys/Pisimantas]]
-- Liubartas valdė [[objektai/vietos/Karačevas]], [[objektai/vietos/Volinija]]
-- Liubartas keliavo į [[objektai/vietos/Trakai]]
-- Liubartas puolė [[objektai/grupes/Lenkai]]
-- Liubartas gynė [[objektai/vietos/Volinija]]

@@ -565,5 +565,4 @@ media_all_json: |-
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Rėmė Jadvygą: [[objektai/asmenys/Švitrigaila]]
-- Turėjo priklausinį: [[objektai/vietos/Lietuva]], [[objektai/vietos/Rusija]]
-- Jadvyga keliavo į [[objektai/vietos/Krokuva]], [[objektai/vietos/Lvovas]], [[objektai/vietos/Vilnius]]
+- Jadvyga keliavo į [[objektai/vietos/Krokuva]], [[objektai/vietos/Vilnius]]

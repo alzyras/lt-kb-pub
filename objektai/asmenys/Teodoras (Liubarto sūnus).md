@@ -34,7 +34,7 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
 - t-001
   global_id: t-64171
   teiginys: "Vytautas iš Liubarto sūnaus Teodoro atėmė Volinijos Vladimirą ir paskyrė jį vietininku į Naugardą-Sieverską."
-  semantiniai_rysiai: "Teodoras (Liubarto sūnus) buvo sūnus Liubartas (0.99); Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė Teodoras (Liubarto sūnus) (0.95)"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė Teodoras (Liubarto sūnus) (0.95)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "852508-852735; hash=c86af95a1276a577d9feb625ffe1665b9fda76d8cceaef0069e36bcb459b8f6f; match=exact"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,6 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
 - t-003
   global_id: t-64172
   teiginys: "Vytautas, remiamas Jogailos, suvaldė nepaklusnų Volynijos kunigaikštį Teodorą, Liubarto sūnų."
-  semantiniai_rysiai: "Teodoras (Liubarto sūnus) buvo sūnus Liubartas (0.99)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "696053-696564; hash=42ee22519dc5c28bdb626ee7d487e95b14e82814a100f5d181e4c76033e8f389; match=exact"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,6 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
 - t-002
   global_id: t-64173
   teiginys: "Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis."
-  semantiniai_rysiai: "Teodoras (Liubarto sūnus) buvo sūnus Liubartas (0.99)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "852577-852847; hash=662c9df532beb1adce3b638950ebd2f92ad9d5cb41f334b293de7d3478704693; match=exact"
   sprendimo_priezastis: "auto"
@@ -186,5 +184,4 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
     - t-64173
 
 ## Ryšiai
-- Tėvai: [[objektai/asmenys/Liubartas]]
 - Paskyrė Teodorą (Liubarto sūnus): [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

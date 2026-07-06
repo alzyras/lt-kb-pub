@@ -175,7 +175,6 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - t-004
   global_id: t-172104
   teiginys: "Čekai husitai pasiūlė karališką vainiką Jogailai, bet Jogaila atsisakė jį priimti kaip eretikų siūlymą."
-  semantiniai_rysiai: "Kaributas rėmė Husitai (0.84)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "305168-305542; hash=9d4ba8852c11c862f6f7998899c6904a7055356297e67d1b5f19ed2e374bcf6e; match=ocr_normalized"
   sprendimo_priezastis: "auto"
@@ -671,5 +670,5 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - t-184478
 
 ## Ryšiai
-- Rėmė Husitai: [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Rėmė Husitai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Husitai keliavo į [[objektai/vietos/Varėna]]

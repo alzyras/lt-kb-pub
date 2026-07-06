@@ -122,7 +122,6 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Zenonas sudarė sutartį su Teodorikas (0.94)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "573488-574169; hash=a9e3e4608969912a1c257b388c74295575b8d56a40fd995f378c5f1fb938e6fb; match=exact"
   sprendimo_priezastis: "auto"

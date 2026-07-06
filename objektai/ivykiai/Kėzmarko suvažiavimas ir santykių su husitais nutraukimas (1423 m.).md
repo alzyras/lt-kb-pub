@@ -57,7 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-35843
   teiginys: "Lietuvių santykiai su husitais baigėsi, kai Kaributas po derybų su popiežiumi buvo išvytas iš Čekijos."
-  semantiniai_rysiai: "Kaributas keliavo į Čekija (0.95)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "347004-347455; hash=c35c24e11ee39f9d61a79907f84c45e433e10ee2f81700fd86dc513c5f62e783; match=ocr_normalized"
   sprendimo_priezastis: "auto"

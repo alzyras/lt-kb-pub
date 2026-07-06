@@ -52,7 +52,6 @@ Nenurodyta
   global_id: t-62959
   teiginys: "Imperatorius Fridrichas II perdavė Hermanui didelę Šventojo Kryžiaus relikvijos dalį, o Hermanas ją išsiuntė į Elbingo pilį."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Hermanas siuntė į Elbingas (0.88); Kryžius priklausė Hermanas (0.68)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "126449-127167; hash=83729a22f9312f507e9ea06f8bd59dc84efaca40e9a5d965f6fb5b894fa706ce; match=exact"
   sprendimo_priezastis: "auto"

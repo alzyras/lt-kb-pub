@@ -80,7 +80,6 @@ Nenurodyta
   global_id: t-186790
   teiginys: "Redakcinė pastaba nurodo, kad Aleksandras iš Melniko į Krokuvą išvyko 1501.XI.29."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Aleksandras keliavo į Krokuva (0.95)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "639560-639676; hash=3d97962bcfaf5f211c4bb5ed2cb7385c6840e5e688af04be51dbdb5cd62cc51d; match=exact"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"

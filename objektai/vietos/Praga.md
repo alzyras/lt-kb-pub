@@ -87,7 +87,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
 - t-004
   global_id: t-71958
   teiginys: "Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Praga (0.93); Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė Kaributas (0.84)"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Praga (0.93)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "481205-481638; hash=3f41cca0b9e70c8d49cec8355b41a8d46e75e25dbe36f94744b1869fe1adf17a; match=exact"
   sprendimo_priezastis: "auto"

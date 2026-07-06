@@ -94,6 +94,3 @@ Serpeiskas aiškinamas kaip Smolensko žemės miestas. Serpeiskas seniau priklau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187325
-
-## Ryšiai
-- Užėmė Serpeiską: [[objektai/asmenys/Mykolas]]

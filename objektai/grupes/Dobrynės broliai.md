@@ -83,7 +83,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - t-004
   global_id: t-65110
   teiginys: "Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu."
-  semantiniai_rysiai: "Konradas sudarė sutartį su Dobrynės broliai (0.72)"
   temporaliniai_duomenys: "įvykio data: 1217 m.; įvykio data: 1223 m.; įvykio data: 1225 m.; įvykio data: 1228 m.; įvykio data: 1235 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citatoje pateiktu šaltinio komentaru."
@@ -457,6 +456,5 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - t-192375
 
 ## Ryšiai
-- Sudarė sutartį su: [[objektai/asmenys/Konradas]]
 - Turėjo priklausinį: [[objektai/vietos/Drohičinas]], [[objektai/vietos/Sedlcai]]
 - Dobrynės broliai gyveno [[objektai/vietos/Livonija]]

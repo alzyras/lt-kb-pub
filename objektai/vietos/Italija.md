@@ -832,7 +832,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Odoakras]], [[objektai/asmenys/Otonas Didysis]]
-- Buvo kelionės vieta: [[objektai/asmenys/Bona]], [[objektai/asmenys/Enėjas]], [[objektai/grupes/Gepidai]], [[objektai/grupes/Herulai]], [[objektai/grupes/Langobardai]], [[objektai/asmenys/Petras Atsiskyrėlis]], [[objektai/asmenys/Vilius]]
+- Buvo kelionės vieta: [[objektai/asmenys/Enėjas]], [[objektai/grupes/Gepidai]], [[objektai/grupes/Herulai]], [[objektai/grupes/Langobardai]], [[objektai/asmenys/Petras Atsiskyrėlis]], [[objektai/asmenys/Vilius]]
 - Puolė Italiją: [[objektai/asmenys/Deziderijus]], [[objektai/grupes/Gepidai]], [[objektai/grupes/Langobardai]], [[objektai/grupes/Saracėnai]], [[objektai/grupes/Vengrai]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Onulfas]]
 - Buvo žygio kryptis: [[objektai/asmenys/Karolis Didysis]], [[objektai/asmenys/Teodorikas]], [[objektai/asmenys/Teodorikas Didysis]]

@@ -54,7 +54,7 @@ Nenurodyta
 - t-001
   global_id: t-28877
   teiginys: "1393 m. Vytauto ir Skirgailos ginčui spręsti Jogaila ir Jadvyga nuvyko į Vilnių."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius (0.91); Jadvyga keliavo į Vilnius (0.91)"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius (0.91)"
   temporaliniai_duomenys: "kelionės data: 1393 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jadvyga keliavo į Vilnius“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradiniame teiginyje įvardis neįvardija Vytauto, todėl sakinys patikslintas."

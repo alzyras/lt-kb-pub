@@ -680,7 +680,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Priešai: [[objektai/asmenys/Treniota]]
 - Sąjungininkai: [[objektai/grupes/Rygos vokiečiai]]
 - Tautvilas buvo valdovas [[objektai/vietos/Lietuva]]
 - Tautvilas mirė [[objektai/vietos/Vilnius]]

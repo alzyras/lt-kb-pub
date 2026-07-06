@@ -55,7 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-66575
   teiginys: "Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį."
-  semantiniai_rysiai: "Bertoldas puolė Medraba (0.91); Bertoldas puolė Junigeda (0.56)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "567315-567799; hash=76e8bee7be7da94dae5261dd4e9eff86e40bcfeec260b2b55a50cff480081f7c; match=exact"
   sprendimo_priezastis: "auto"
@@ -94,7 +93,6 @@ Nenurodyta
 - t-002
   global_id: t-66575
   teiginys: "Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį."
-  semantiniai_rysiai: "Bertoldas puolė Medraba (0.91); Bertoldas puolė Junigeda (0.56)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "567315-567799; hash=76e8bee7be7da94dae5261dd4e9eff86e40bcfeec260b2b55a50cff480081f7c; match=exact"
   sprendimo_priezastis: "auto"

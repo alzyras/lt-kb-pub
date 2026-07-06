@@ -903,7 +903,5 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
 
 ## Ryšiai
 - Skomantas keliavo į [[objektai/vietos/Gardinas]], [[objektai/vietos/Prūsų žemė]]
-- Skomantas puolė [[objektai/vietos/Gardinas]], [[objektai/vietos/Kujavija]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Kulmo žemė]], [[objektai/vietos/Liubava]], [[objektai/vietos/Torunė]]
+- Skomantas puolė [[objektai/vietos/Gardinas]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Torunė]]
 - Skomantas užėmė [[objektai/vietos/Gardinas]]
-- Skomantas surengė žygį į [[objektai/vietos/Kulmas]]
-- Skomantas gyveno [[objektai/vietos/Kresmena]]

@@ -150,5 +150,4 @@ st.) ir lenkė Rumuniją, Bulgariją.
     - t-46557
 
 ## Ryšiai
-- Mirties vieta: [[objektai/asmenys/Vladislovas]]
 - Gyvenamoji vieta: [[objektai/asmenys/J. Basanavičius]]

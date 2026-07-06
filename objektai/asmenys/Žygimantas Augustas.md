@@ -379,7 +379,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) vedė Kotryna (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "1331202-1331805; hash=ff88e362d390eb55292c8f1fa099797bc621dcde24d6010cf77d6359f14a4124; match=exact"
   sprendimo_priezastis: "auto"
@@ -1354,7 +1353,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Barbora Radvilaitė]]
-- Sutuoktiniai: [[objektai/asmenys/Barbora Radvilaitė]], [[objektai/asmenys/Kotryna]]
+- Sutuoktiniai: [[objektai/asmenys/Barbora Radvilaitė]]
 - Turėjo priklausinį: [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]
 - Žygimantas Augustas (arkivyskupas, XVI a.) buvo valdovas [[objektai/vietos/Lietuva]]
 - Žygimantas Augustas (arkivyskupas, XVI a.) valdė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

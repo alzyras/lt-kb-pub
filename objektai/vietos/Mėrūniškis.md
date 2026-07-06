@@ -32,7 +32,7 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
 - t-001
   global_id: t-58600
   teiginys: "Ordino magistras Konradas su raitija įsiveržė į Mėrūniškio valsčių, jį nusiaubė ir nukovė arba paėmė į nelaisvę 600 žmonių."
-  semantiniai_rysiai: "Konradas puolė Mėrūniškis (0.88); Mėrūniškis priklausė Sūduva (0.82)"
+  semantiniai_rysiai: "Mėrūniškis priklausė Sūduva (0.82)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "514148-514656; hash=ecf3dfabea8c58a5228d9ca66fe68ff72a5c557789257367cd6da354a0e6cfb0; match=exact"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
 - t-001
   global_id: t-58600
   teiginys: "Ordino magistras Konradas su raitija įsiveržė į Mėrūniškio valsčių, jį nusiaubė ir nukovė arba paėmė į nelaisvę 600 žmonių."
-  semantiniai_rysiai: "Konradas puolė Mėrūniškis (0.88); Mėrūniškis priklausė Sūduva (0.82)"
+  semantiniai_rysiai: "Mėrūniškis priklausė Sūduva (0.82)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "514148-514656; hash=ecf3dfabea8c58a5228d9ca66fe68ff72a5c557789257367cd6da354a0e6cfb0; match=exact"
   sprendimo_priezastis: "auto"
@@ -173,5 +173,4 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
     - t-58601
 
 ## Ryšiai
-- Puolė Mėrūniškį: [[objektai/asmenys/Konradas]]
 - Mėrūniškis priklausė [[objektai/vietos/Sūduva]]

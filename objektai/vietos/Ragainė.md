@@ -273,7 +273,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - t-020
   global_id: t-169156
   teiginys: "Brolis Bertoldas, vadinamas Briuhavenu, neilgai vadovavo Ragainės piliai ir netrukus buvo paskirtas Karaliaučiaus komtūru."
-  semantiniai_rysiai: "Bertoldas valdė Ragainė (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "557017-557353; hash=1ea1353a2042acef83b9b1fdc0658b19f53c3c41e5801a0af5ad5f664786caec; match=exact"
   sprendimo_priezastis: "auto"
@@ -1753,7 +1752,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-193426
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Bertoldas]], [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
+- Buvo valdoma: [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
 - Buvo kelionės vieta: [[objektai/asmenys/Draika]], [[objektai/asmenys/Pinas]]
 - Puolė Ragainę: [[objektai/asmenys/Aleksandras Karijotaitis]], [[objektai/asmenys/Ditrichas (Sembos fogtas)]], [[objektai/grupes/Lietuviai]]
 - Gynė Ragainę: [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]], [[objektai/asmenys/Ditrichas iš Ezbeko]]

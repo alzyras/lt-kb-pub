@@ -141,7 +141,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
 - t-004
   global_id: t-175161
   teiginys: "Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes."
-  semantiniai_rysiai: "Konradas paskyrė Kryžiuočių ordinas (0.78); Kulmas priklausė Kryžiuočių ordinas (0.74); Lubava priklausė Kryžiuočių ordinas (0.74)"
+  semantiniai_rysiai: "Kulmas priklausė Kryžiuočių ordinas (0.74); Lubava priklausė Kryžiuočių ordinas (0.74)"
   temporaliniai_duomenys: "įvykio data: 1228 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko teiginį apie Hohenlohės reliacijoje priskiriamą Konrado dovanojimą."

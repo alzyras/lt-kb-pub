@@ -232,7 +232,3 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186058
-
-## Ryšiai
-- Vyrai: [[objektai/asmenys/Pranciškus Gonzaga]]
-- Sutuoktiniai: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

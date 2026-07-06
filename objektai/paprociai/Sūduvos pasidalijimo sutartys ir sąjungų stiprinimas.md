@@ -52,7 +52,6 @@ Nenurodyta
 - t-004
   global_id: t-09532
   teiginys: "1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį ir sustiprino tarpusavio sąjungą."
-  semantiniai_rysiai: "Zemovitas buvo valdovas Mozūrija (0.93)"
   temporaliniai_duomenys: "valdymo laikotarpis: 1260 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Zemovitas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -72,7 +71,6 @@ Nenurodyta
 - t-003
   global_id: t-09533
   teiginys: "1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį."
-  semantiniai_rysiai: "Zemovitas buvo valdovas Mozūrija (0.93)"
   temporaliniai_duomenys: "valdymo laikotarpis: 1260 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Zemovitas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pirminis teiginys neįvardija užrašo objekto, o citata leidžia tiksliai suformuluoti faktą apie sutartį."

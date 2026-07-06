@@ -63,7 +63,6 @@ Nenurodyta
   global_id: t-186730
   teiginys: "Vladislovas žuvo 1444 m. lapkričio 10 d. mūšyje su turkais ties Varna Bulgarijoje."
   teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Vladislovas dalyvavo mūšyje Varnos mūšis (mūšis, XV a.) (0.94); Vladislovas mirė Bulgarija (0.91)"
   temporaliniai_duomenys: "įvykio data: po 1434 m.; įvykio data: 1434 m.; įvykio data: po 1440 m.; įvykio data: 1440 m.; įvykio data: 1444 m."
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys paverstas tiesioginiu faktiniu sakiniu apie Varnos mūšio rezultatą. Redakcinės pastabos atribucija pašalinta, nes citata remia datą, vietą ir žūtį."
@@ -112,6 +111,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186730
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/Vladislovas]]

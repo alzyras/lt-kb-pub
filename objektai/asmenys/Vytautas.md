@@ -659,7 +659,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-164
   global_id: t-176633
   teiginys: "Po sūnų Jono ir Jurgio netekties Vytautas puolėsi prie sutarties su Jogaila."
-  semantiniai_rysiai: "Jonas buvo sūnus Vytautas (Lietuvos valdovas, XIV–XV a.) (0.78)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "115424-115668; hash=90c0742cc15637e1be7361a20e1ccef813f9d0a404e79b9e2a746792b5735559; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -1442,7 +1441,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-126
   global_id: t-176678
   teiginys: "Po sūnų Jono ir Jurgio netekties Vytautas puolėsi prie sutarties su Jogaila."
-  semantiniai_rysiai: "Jonas buvo sūnus Vytautas (Lietuvos valdovas, XIV–XV a.) (0.78)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "115463-115836; hash=994fcf6a27c2fdec1ed7d82e75a9b96e8e9b121c29e76cd241f4fd6399e6dd6b; match=exact"
   sprendimo_priezastis: "auto"
@@ -1868,7 +1866,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-186
   global_id: t-176706
   teiginys: "1426 m. Vytautas dėl žmonos Julijonos ligos kreipėsi į didįjį magistrą prašydamas gydytojo."
-  semantiniai_rysiai: "Julijona buvo žmona Vytautas (Lietuvos valdovas, XIV–XV a.) (0.92)"
   temporaliniai_duomenys: "įvykio data: 1426 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir paremtas citata."
@@ -12387,17 +12384,16 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-194245
 
 ## Ryšiai
-- Žmonos: [[objektai/asmenys/Julijona]], [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]], [[objektai/asmenys/Ona Vytautienė]]
-- Sūnūs: [[objektai/asmenys/Jonas]]
+- Žmonos: [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]], [[objektai/asmenys/Ona Vytautienė]]
 - Tėvai: [[objektai/asmenys/Birutė]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Dukterys: [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - Broliai: [[objektai/asmenys/Karigaila]], [[objektai/asmenys/Kazimieras Karigaila]]
 - Priešai: [[objektai/grupes/Auksinė Orda]], [[objektai/grupes/Didžlenkiai]], [[objektai/asmenys/Dimitras Kaributas]], [[objektai/asmenys/Jonas Šafranas]], [[objektai/asmenys/Kerimberdėjus]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Markvardas Salzbaclias]], [[objektai/grupes/Maskvos kunigaikštija]], [[objektai/asmenys/Mikalojus Michalovskis]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/grupes/Pamario kunigaikščių sąjunga]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Timūr-Kutlukas]], [[objektai/asmenys/Zbignievas Olesnickis]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]
-- Sąjungininkai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Karo partija]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Markvardas (Ragainės komtūras)]], [[objektai/grupes/Podoliečiai]], [[objektai/asmenys/Skirgaila]], [[objektai/grupes/Smolensko pulkai]], [[objektai/asmenys/Tochtamyšas]], [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- Sąjungininkai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Karo partija]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Markvardas (Ragainės komtūras)]], [[objektai/grupes/Podoliečiai]], [[objektai/asmenys/Skirgaila]], [[objektai/grupes/Smolensko pulkai]], [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - Puolė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/grupes/Livonijos ordinas]], [[objektai/grupes/Vokiečiai]]
 - Gynė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/grupes/Karaimai]], [[objektai/grupes/Kryžiuočių ordinas]]
 - Kariavo prieš: [[objektai/asmenys/Mikalojus iš Moskožovo]], [[objektai/asmenys/Timuras]]
-- Sudarė sutartį su: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Ulrichas von Jungingenas]], [[objektai/asmenys/Vosylius]], [[objektai/grupes/Žemaičiai]]
+- Sudarė sutartį su: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Ulrichas von Jungingenas]], [[objektai/grupes/Žemaičiai]]
 - Paskyrė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/asmenys/Martynas V]], [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - Rėmė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/grupes/Bajorai]], [[objektai/asmenys/Bonifacas IX]], [[objektai/grupes/Čekai]], [[objektai/grupes/Didžiojo Naugardo respublika]], [[objektai/asmenys/Jedigėjus]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Marquardas von Salzbachas]], [[objektai/asmenys/Martynas V]], [[objektai/grupes/Pskoviečiai]], [[objektai/asmenys/Saladinas]], [[objektai/asmenys/Sventopelkas]], [[objektai/grupes/Vokiečiai]], [[objektai/grupes/Vokiečių ordinas]], [[objektai/asmenys/Zigmantas I]]
 - Turėjo priklausinį: [[objektai/daiktai/Karūna]], [[objektai/grupes/Lenkai]], [[objektai/vietos/Luckas]], [[objektai/vietos/Novosielsko]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Žemaitija]]
@@ -12417,6 +12413,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - Vytautas (Lietuvos valdovas, XIV–XV a.) dalyvavo mūšyje [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Konradas Jungingenas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno [[objektai/vietos/Gardinas]], [[objektai/vietos/Marienburgas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vorskla]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė [[objektai/grupes/Didžiojo Naugardo respublika]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jomantas]], [[objektai/asmenys/Jurgis Cemblakas]], [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Lengvenis]], [[objektai/asmenys/Saladinas]], [[objektai/asmenys/Teodoras (Liubarto sūnus)]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Zigmantas Kaributas]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė [[objektai/grupes/Didžiojo Naugardo respublika]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jomantas]], [[objektai/asmenys/Jurgis Cemblakas]], [[objektai/asmenys/Saladinas]], [[objektai/asmenys/Teodoras (Liubarto sūnus)]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Zigmantas Kaributas]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]], [[objektai/asmenys/Andrius Važila]], [[objektai/asmenys/Bazilius (Vasilius) II]], [[objektai/grupes/Domininkonų ordinas]], [[objektai/grupes/Husitai]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Machmetas]], [[objektai/asmenys/Manuelis]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/St. Ciolką]], [[objektai/asmenys/Teodosijus]], [[objektai/asmenys/Tochtamišas]], [[objektai/asmenys/Vosylius I]], [[objektai/asmenys/Zbignievas Olesnickis]], [[objektai/grupes/Žemaičiai]], [[objektai/grupes/Žydai]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) užkariavo [[objektai/vietos/Didysis Naugardas]], [[objektai/vietos/Dniepras]], [[objektai/vietos/Pskovas]]

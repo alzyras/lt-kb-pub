@@ -33,7 +33,6 @@ media_all_json: |-
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Pisimantas buvo brolis Liubartas (0.95)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "146112-146615; hash=9fec8544a784a1ee05ed4986200b63cffd6d4c9a3bbf99354622cb930e30292d; match=exact"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ media_all_json: |-
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Pisimantas buvo brolis Treniota (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "148569-149254; hash=fbf0a96e461b5b7fb26ad46264a9dd59ac160482f3efedb725de75525b8ab38f; match=exact"
   sprendimo_priezastis: "auto"
@@ -202,5 +200,4 @@ media_all_json: |-
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Skirmantas]]
-- Broliai: [[objektai/asmenys/Liubartas]], [[objektai/asmenys/Treniota]]
 - Pisimantas valdė [[objektai/vietos/Turovas]]

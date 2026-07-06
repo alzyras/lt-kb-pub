@@ -200,7 +200,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) siuntė į Brianskas (0.78); Daumantas (kunigaikštis, XV a.) rėmė Treniota (0.72)"
+  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) siuntė į Brianskas (0.78)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "181543-182036; hash=59bfb3e0fc90cce604530a43f289763055d3a40ea5a09fcb53daffd39f561b33; match=exact"
   sprendimo_priezastis: "auto"
@@ -1191,4 +1191,3 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - Daumantas (kunigaikštis, XV a.) pastatė [[objektai/vietos/Svyrių pilis|Svyrių pilis (pilis)]]
 - Daumantas (kunigaikštis, XV a.) puolė [[objektai/vietos/Nalšėnai]]
 - Daumantas (kunigaikštis, XV a.) surengė žygį į [[objektai/vietos/Nalšėnai]]
-- Daumantas (kunigaikštis, XV a.) rėmė [[objektai/asmenys/Treniota]]

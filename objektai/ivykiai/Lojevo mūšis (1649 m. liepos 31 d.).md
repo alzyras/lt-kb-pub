@@ -54,7 +54,6 @@ Nenurodyta
 - t-008
   global_id: t-49171
   teiginys: "Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė."
-  semantiniai_rysiai: "Radvila dalyvavo mūšyje Lojevo mūšis (1649 m. liepos 31 d.) (0.86)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "506542-506970; hash=19dfdcbf9ff6a6aac9fecb91628c553617d8a352a699708d742ddbf267381eae; match=ocr_normalized_gapped"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -111,7 +110,7 @@ Nenurodyta
 - t-007
   global_id: t-49174
   teiginys: "Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė, o žinia apie ją pasklido visoje Europoje."
-  semantiniai_rysiai: "Radvila dalyvavo mūšyje Lojevo mūšis (1649 m. liepos 31 d.) (0.86); Kazokai dalyvavo mūšyje Lojevo mūšis (1649 m. liepos 31 d.) (0.84)"
+  semantiniai_rysiai: "Kazokai dalyvavo mūšyje Lojevo mūšis (1649 m. liepos 31 d.) (0.84)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "506542-506970; hash=19dfdcbf9ff6a6aac9fecb91628c553617d8a352a699708d742ddbf267381eae; match=ocr_normalized_gapped"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -301,4 +300,4 @@ Nenurodyta
     - t-49174
 
 ## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Kazokai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Radvila]]
+- Turėjo dalyvį: [[objektai/grupes/Kazokai]], [[objektai/grupes/Lietuviai]]

@@ -56,7 +56,7 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Odoakras kariavo prieš Orestas (0.72); Odoakras kariavo prieš Teodorikas (0.70)"
+  semantiniai_rysiai: "Odoakras kariavo prieš Orestas (0.72)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "578109-578385; hash=999ef85b7df2e5f40bdace7967503282f5cc58623d67f1db5a5c8403dc0d24a4; match=exact"
   sprendimo_priezastis: "auto"
@@ -147,4 +147,4 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
 
 ## Ryšiai
 - Apgulė Paviją: [[objektai/asmenys/Odoakras]]
-- Užėmė Paviją: [[objektai/asmenys/Odoakras]], [[objektai/asmenys/Teodorikas]]
+- Užėmė Paviją: [[objektai/asmenys/Odoakras]]

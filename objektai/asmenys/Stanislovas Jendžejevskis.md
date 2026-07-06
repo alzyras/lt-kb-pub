@@ -33,7 +33,7 @@ Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančio
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Augustas siuntė į Maskva (0.92); Stanislovas Jendžejevskis keliavo į Maskva (0.78)"
+  semantiniai_rysiai: "Stanislovas Jendžejevskis keliavo į Maskva (0.78)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "1211364-1211985; hash=3aa1984830e5566b1c229ff2cfa218b4e0583061f8c6befd7d01de80c84a40d2; match=exact"
   sprendimo_priezastis: "auto"

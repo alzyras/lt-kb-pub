@@ -34,7 +34,7 @@ Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrant
 - t-001
   global_id: t-58604
   teiginys: "Konradas pastatydino Noihauzą Kuršių nerijoje prie Sūriosios jūros, kad lietuviai netikėtai nesiveržtų į Sembą."
-  semantiniai_rysiai: "Konradas pastatė Noihauzas (0.95); Konradas gynė Semba (0.82); Lietuviai puolė Semba (0.64)"
+  semantiniai_rysiai: "Lietuviai puolė Semba (0.64)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "535806-536316; hash=dce9664d5c3595f4d53b59c235002859d1c1e32002df2b836d5ffd2d93f1cb71; match=exact"
   sprendimo_priezastis: "auto"
@@ -98,6 +98,3 @@ Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrant
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58604
-
-## Ryšiai
-- Buvo pastatyta: [[objektai/asmenys/Konradas]]

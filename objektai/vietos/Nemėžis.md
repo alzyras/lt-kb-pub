@@ -213,5 +213,4 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
     - t-86090
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras]]
 - Gyvenamoji vieta: [[objektai/grupes/Totoriai]]

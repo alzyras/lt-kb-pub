@@ -225,13 +225,3 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193973
-
-## Ryšiai
-- Sūnūs: [[objektai/asmenys/Kristupas Radvila]]
-- Paskyrė Radvilą: [[objektai/asmenys/Steponas Batoras]]
-- Radvila užėmė [[objektai/vietos/Jezeriščė]], [[objektai/vietos/Usviatai]]
-- Radvila siuntė į [[objektai/vietos/Kopysė]]
-- Radvila surengė žygį į [[objektai/vietos/Rusija]]
-- Radvila kariavo prieš [[objektai/grupes/Rusai]]
-- Radvila dalyvavo mūšyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
-- Radvila rėmė [[objektai/grupes/Vilniaus pirkliai]]

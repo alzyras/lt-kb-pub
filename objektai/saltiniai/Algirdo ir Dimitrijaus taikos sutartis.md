@@ -33,7 +33,6 @@ Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Liet
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) sudarė sutartį su Dimitrijus (0.93); Dimitrijus sudarė sutartį su Algirdas (Lietuvos valdovas) (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "390019-390626; hash=6c5f02606fc2ec6658f5767cce146ad3d56445b09f5cc80d56afff97d39ac64a; match=exact"
   sprendimo_priezastis: "auto"

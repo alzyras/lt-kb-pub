@@ -55,7 +55,7 @@ Nenurodyta
 - t-001
   global_id: t-87272
   teiginys: "Aleksandras lydėjo rogėse sėdinčią Eleną į Vilnių, kur ji po graikų apeigų mišių buvo nuvesta į Šv. Stanislovo katedrą."
-  semantiniai_rysiai: "Aleksandras keliavo į Vilnius (0.78); Elena (vyskupas, XV–XVI a.) keliavo į Vilnius (0.70)"
+  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) keliavo į Vilnius (0.70)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "467202-468045; hash=08eabc673c413ce9e813aee26d4d4a807055ea4b79e5bf1d7810677af1a9f86a; match=whitespace_regex"
   sprendimo_priezastis: "auto"

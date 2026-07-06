@@ -181,7 +181,3 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191001
-
-## Ryšiai
-- Zenonas kariavo prieš [[objektai/asmenys/Odoakras]]
-- Zenonas sudarė sutartį su [[objektai/asmenys/Teodorikas]]

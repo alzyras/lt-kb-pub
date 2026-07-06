@@ -33,7 +33,6 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Julijonas siuntė į Dnepras (0.76)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "182437-182925; hash=c12231e9f8d923d81f241215b201df4092b3e4884bf295bbf31af9d40c60b936; match=exact"
   sprendimo_priezastis: "auto"

@@ -732,7 +732,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Kryžiuočių ordinas]]
-- Puolė Sūduvą: [[objektai/asmenys/Konradas]], [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]], [[objektai/grupes/Kryžiuočių ordinas]], [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D), [[objektai/asmenys/Martynas iš Golino]], [[objektai/asmenys/Ulrichas Bajeris]]
+- Puolė Sūduvą: [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]], [[objektai/grupes/Kryžiuočių ordinas]], [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D), [[objektai/asmenys/Martynas iš Golino]], [[objektai/asmenys/Ulrichas Bajeris]]
 - Užėmė Sūduvą: [[objektai/asmenys/Martynas iš Golino]], [[objektai/grupes/Vokiečiai]]
 - Buvo žygio kryptis: [[objektai/asmenys/Martynas iš Golino]], [[objektai/asmenys/Ulrichas Bajeris]]
 - Buvo užkariauta: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -410,16 +410,5 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - t-190907
 
 ## Ryšiai
-- Tėvai: [[objektai/asmenys/Fridrichas II]]
-- Sąjungininkai: [[objektai/asmenys/Albrechtas iš Hageno]]
-- Konradas buvo valdovas [[objektai/vietos/Krokuva]], [[objektai/vietos/Kujavija]], [[objektai/vietos/Lenčica]], [[objektai/vietos/Mazovija]]
-- Konradas valdė [[objektai/vietos/Drohičinas]], [[objektai/vietos/Kujavija]], [[objektai/vietos/Lenkija]]
-- Konradas keliavo į [[objektai/vietos/Nagutinas]]
-- Konradas pastatė [[objektai/vietos/Noihauzas]]
-- Konradas puolė [[objektai/vietos/Apulija]], [[objektai/vietos/Bisenė]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Karšuva]], [[objektai/vietos/Kimenava]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Mėrūniškis]], [[objektai/vietos/Neapolis]], [[objektai/vietos/Sūduva]], [[objektai/vietos/Zilija]]
-- Konradas užėmė [[objektai/vietos/Bisenė]]
-- Konradas gynė [[objektai/vietos/Semba]]
-- Konradas siuntė į [[objektai/vietos/Nadruva]], [[objektai/vietos/Semba]]
-- Konradas surengė žygį į [[objektai/vietos/Karšuva]], [[objektai/vietos/Lietuva]]
-- Konradas sudarė sutartį su [[objektai/grupes/Dobrynės broliai]]
-- Konradas paskyrė [[objektai/grupes/Kryžiuočių ordinas]]
+- Konradas buvo valdovas [[objektai/vietos/Mazovija]]
+- Konradas valdė [[objektai/vietos/Drohičinas]]

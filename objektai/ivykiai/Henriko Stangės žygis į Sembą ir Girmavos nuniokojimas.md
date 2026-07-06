@@ -58,7 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-66560
   teiginys: "Henriko Stangės brolis Hermanas stojo į kovą ir kartu su komtūru žuvo po ilgos gynybos."
-  semantiniai_rysiai: "Hermanas dalyvavo mūšyje Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas (0.82)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "339627-339992; hash=5545166c916cf75c127e374fedb7651195272e59da48a621e49be79641913c58; match=exact"
   sprendimo_priezastis: "auto"
@@ -216,6 +215,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66561
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/Hermanas]]

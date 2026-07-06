@@ -772,13 +772,3 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193997
-
-## Ryšiai
-- Broliai: [[objektai/asmenys/Pisimantas]]
-- Priešai: [[objektai/asmenys/Tautvilas]]
-- Rėmė Treniotą: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/grupes/Naugardukiečiai]], [[objektai/grupes/Žemaičiai]]
-- Treniota valdė [[objektai/vietos/Lietuva]]
-- Treniota puolė [[objektai/vietos/Červinskas]], [[objektai/vietos/Livonija]], [[objektai/vietos/Mazovija]]
-- Treniota užėmė [[objektai/vietos/Birgelava]]
-- Treniota siuntė į [[objektai/vietos/Polockas]]
-- Treniota surengė žygį į [[objektai/vietos/Kulmas]]

@@ -64,7 +64,7 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Saporas gyveno Volga (0.72); Julijonas gyveno Isteris (0.70); Julijonas siuntė į Volga (0.62)"
+  semantiniai_rysiai: "Saporas gyveno Volga (0.72)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "182437-182925; hash=c12231e9f8d923d81f241215b201df4092b3e4884bf295bbf31af9d40c60b936; match=exact"
   sprendimo_priezastis: "auto"
@@ -300,5 +300,4 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Poloviečiai]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Julijonas]]
 - Gyvenamoji vieta: [[objektai/grupes/Kolchai]], [[objektai/grupes/Roksolanai]], [[objektai/asmenys/Saporas]]

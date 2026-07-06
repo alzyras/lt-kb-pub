@@ -290,7 +290,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kazimieras Jogailaitis keliavo į Severskas (0.90); Kazimieras Jogailaitis kariavo prieš Mykolas (0.80)"
+  semantiniai_rysiai: "Kazimieras Jogailaitis keliavo į Severskas (0.90)"
   temporaliniai_duomenys: "įvykio data: 1448 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir tiksliai perteikia citatos informaciją."
@@ -1214,5 +1214,4 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 ## Ryšiai
 - Kazimieras Jogailaitis keliavo į [[objektai/vietos/Gardinas]], [[objektai/vietos/Severskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
 - Kazimieras Jogailaitis užėmė [[objektai/vietos/Smolenskas]]
-- Kazimieras Jogailaitis kariavo prieš [[objektai/asmenys/Mykolas]]
 - Kazimieras Jogailaitis gyveno [[objektai/vietos/Gardinas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]

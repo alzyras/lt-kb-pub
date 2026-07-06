@@ -42,7 +42,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - t-001
   global_id: t-60446
   teiginys: "Kronikoje pasakojama, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas, Hertvigo iš Pokarvių sūnus, mirė ir atgijo per Viešpaties kryžiaus atskalą."
-  semantiniai_rysiai: "Tomas (Hertvigo iš Pokarvių sūnus) buvo sūnus Hertvigas (0.99); Tomas (Hertvigo iš Pokarvių sūnus) mirė Prūsija (0.65)"
+  semantiniai_rysiai: "Tomas (Hertvigo iš Pokarvių sūnus) mirė Prūsija (0.65)"
   temporaliniai_duomenys: "įvykio data: 1322 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Stebuklinį pasakojimą geriau pateikti su šaltinio pobūdį rodančia atribucija."
@@ -860,6 +860,5 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
     - t-60446
 
 ## Ryšiai
-- Tėvai: [[objektai/asmenys/Hertvigas]]
 - Tomas (Hertvigo iš Pokarvių sūnus) keliavo į [[objektai/vietos/Lenčica]]
 - Tomas (Hertvigo iš Pokarvių sūnus) mirė [[objektai/vietos/Prūsija]]

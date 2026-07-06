@@ -33,7 +33,6 @@ Greta didžiojo etmono M.
 - t-001
   global_id: t-42451
   teiginys: "Kristupas Radvila vėliau tapo didžiuoju etmonu ir buvo vadinamas Perkūnu."
-  semantiniai_rysiai: "Kristupas Radvila buvo sūnus Radvila (0.67)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "351776-352227; hash=0c20f3859f2a4927e191007ea8627fb8cdbdba6983c8216843e81db7d9ea0da6; match=exact"
   sprendimo_priezastis: "auto"

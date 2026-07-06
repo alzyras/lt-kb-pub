@@ -33,7 +33,6 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Tufą buvo sąjungininkas su Teodorikas (0.62)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "577213-577464; hash=3308e45568779623ee90dd628348b83567636c3fa34e908cff38f105a34901eb; match=exact"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Tufą buvo priešas Teodorikas (0.70)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "577938-578108; hash=d56975627508e13e56ca852a5f912ca50d68409e632303f1dc786d4b1feaeb0d; match=exact"
   sprendimo_priezastis: "auto"
@@ -136,7 +134,3 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191331
-
-## Ryšiai
-- Priešai: [[objektai/asmenys/Teodorikas]]
-- Sąjungininkai: [[objektai/asmenys/Teodorikas]]

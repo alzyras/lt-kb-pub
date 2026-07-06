@@ -83,7 +83,6 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 - t-007
   global_id: t-97457
   teiginys: "Kaributas, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų."
-  semantiniai_rysiai: "Kaributas buvo sūnus Julijona (0.96)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "1338069-1338505; hash=2fba29ee0260a73159cc8132823723c4b7f92101af2b490f9465fd4f3ad8714f; match=exact"
   sprendimo_priezastis: "auto"
@@ -449,12 +448,6 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
     - t-97459
 
 ## Ryšiai
-- Tėvai: [[objektai/asmenys/Julijona]]
 - Priešai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Sąjungininkai: [[objektai/asmenys/Prokopas]]
-- Paskyrė Kaributą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Kaributas valdė [[objektai/vietos/Naugardas]], [[objektai/vietos/Severskas]]
-- Kaributas keliavo į [[objektai/vietos/Čekija]], [[objektai/vietos/Naugardukas]]
 - Kaributas gynė [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Kaributas kariavo prieš [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- Kaributas rėmė [[objektai/grupes/Husitai]]

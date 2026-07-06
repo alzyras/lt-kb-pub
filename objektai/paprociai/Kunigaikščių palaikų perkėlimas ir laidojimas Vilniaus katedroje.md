@@ -83,7 +83,6 @@ Nenurodyta
 - t-001
   global_id: t-87214
   teiginys: "Žygimanto palaikai buvo atvežti iš Trakų į Vilnių ir, atlikus įprastas apeigas, palaidoti Vilniaus katedros didžiųjų kunigaikščių kape."
-  semantiniai_rysiai: "Žygimantas mirė Trakai (0.94); Žygimantas buvo palaidotas Vilnius (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "450964-451562; hash=78b3c463fd1ebfeacc06b69c0a45af5a6f8ff67a335e0a6f9a0c2cbbf8d46872; match=whitespace_regex"
   sprendimo_priezastis: "auto"

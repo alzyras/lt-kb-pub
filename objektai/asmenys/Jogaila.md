@@ -995,7 +995,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) vedė Elžbieta (0.96)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "688671-689174; hash=9cf2eca81d6df31f5df3d7623514f2a654a98537ca6aa2ebc0308769898afb41; match=exact"
   sprendimo_priezastis: "auto"
@@ -5107,7 +5106,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-194709
 
 ## Ryšiai
-- Sutuoktiniai: [[objektai/asmenys/Elžbieta]], [[objektai/asmenys/Elžbieta Granauskaitė]], [[objektai/asmenys/Jadvyga]], [[objektai/asmenys/Jadvyga Jogailienė]]
+- Sutuoktiniai: [[objektai/asmenys/Elžbieta Granauskaitė]], [[objektai/asmenys/Jadvyga]], [[objektai/asmenys/Jadvyga Jogailienė]]
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Dukterys: [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
 - Broliai: [[objektai/asmenys/Skirgaila]]
@@ -5116,7 +5115,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - Gynė Jogailą (kunigaikštis, XIV–XV a.): [[objektai/asmenys/Kaributas]]
 - Sudarė sutartį su: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Paskyrė Jogailą (kunigaikštis, XIV–XV a.): [[objektai/grupes/Lenkai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Rėmė Jogailą (kunigaikštis, XIV–XV a.): [[objektai/asmenys/Hanulas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai]], [[objektai/asmenys/Skirgaila]], [[objektai/grupes/Vilniaus miestiečių luomas]]
+- Rėmė Jogailą (kunigaikštis, XIV–XV a.): [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai]], [[objektai/asmenys/Skirgaila]], [[objektai/grupes/Vilniaus miestiečių luomas]]
 - Turėjo priklausinį: [[objektai/vietos/Vitebskas]]
 - Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
 - Jogaila (kunigaikštis, XIV–XV a.) valdė [[objektai/vietos/Lietuva]], [[objektai/vietos/Luckas]], [[objektai/vietos/Rusija]], [[objektai/vietos/Vilnius]]

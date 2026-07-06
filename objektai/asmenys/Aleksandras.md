@@ -552,12 +552,4 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - t-190842
 
 ## Ryšiai
-- Sutuoktiniai: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- Priešai: [[objektai/asmenys/Mendli Girėjus]]
-- Paskyrė Aleksandrą: [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
-- Aleksandras keliavo į [[objektai/vietos/Borisovas]], [[objektai/vietos/Brasta]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Minskas]], [[objektai/vietos/Nemėžis]], [[objektai/vietos/Vilnius]]
-- Aleksandras pastatė [[objektai/vietos/Braclavas]]
-- Aleksandras siuntė į [[objektai/vietos/Smolenskas]]
-- Aleksandras gyveno [[objektai/vietos/Minskas]]
-- Aleksandras paskyrė [[objektai/asmenys/Jonas Černinas]], [[objektai/asmenys/Kiška]], [[objektai/asmenys/Stanislovas Kiška]], [[objektai/asmenys/Zaberezinskis]]
-- Aleksandras rėmė [[objektai/grupes/Dominikonų ordinas]]
+- Aleksandras paskyrė [[objektai/asmenys/Stanislovas Kiška]]

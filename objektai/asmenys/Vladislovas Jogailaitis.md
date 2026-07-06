@@ -131,7 +131,6 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo brolis Jonas (0.80)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "945354-945803; hash=f34504236500bf6bec939a3ab32141f7c113ac8767c37469aacfdcffb0a48cd0; match=exact"
   sprendimo_priezastis: "auto"
@@ -152,7 +151,6 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo brolis Jonas (0.79)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "947770-948153; hash=980461b5672d808e8c572d272ad2444fa098538ad457aaa45c1e1c592db92475; match=exact"
   sprendimo_priezastis: "auto"
@@ -688,7 +686,6 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-184861
 
 ## Ryšiai
-- Broliai: [[objektai/asmenys/Jonas]]
 - Vladislovas Jogailaitis (Lenkijos karalius, XV a.) valdė [[objektai/vietos/Čekija]], [[objektai/vietos/Vengrija]]
 - Vladislovas Jogailaitis (Lenkijos karalius, XV a.) sudarė sutartį su [[objektai/asmenys/Rusdorfas]]
 - Vladislovas Jogailaitis (Lenkijos karalius, XV a.) rėmė [[objektai/grupes/Lietuviai]]

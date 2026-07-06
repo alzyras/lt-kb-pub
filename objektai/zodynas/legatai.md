@@ -33,7 +33,6 @@ Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti 
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vasilijus buvo valdovas Maskva (0.84)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "1075031-1075629; hash=d256708b059c02531dfb24a3ca5655058fc05e821b85c64118c174e7528a610f; match=exact"
   sprendimo_priezastis: "auto"

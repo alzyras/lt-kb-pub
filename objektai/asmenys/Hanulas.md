@@ -169,4 +169,3 @@ media_all_json: |-
 ## Ryšiai
 - Hanulas valdė [[objektai/vietos/Vilnius]]
 - Hanulas keliavo į [[objektai/vietos/Lenkija]]
-- Hanulas rėmė [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

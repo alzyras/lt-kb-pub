@@ -114,4 +114,4 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Sūduvos prūsai]]
-- Puolė Liubavą: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Skomantas]]
+- Puolė Liubavą: [[objektai/grupes/Lietuviai]]

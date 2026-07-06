@@ -81,7 +81,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Danielius keliavo į Vizna (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "235645-236060; hash=8ede94f468b9fa27880eb6cb1bdf9483350057243382cddc9ebd490940ee51ed; match=exact"
   sprendimo_priezastis: "auto"
@@ -245,6 +244,5 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]]
-- Buvo kelionės vieta: [[objektai/asmenys/Danielius]]
 - Puolė Vizną: [[objektai/grupes/Lietuviai]]
 - Užėmė Vizną: [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]

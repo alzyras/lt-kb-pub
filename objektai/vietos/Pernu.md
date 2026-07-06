@@ -33,7 +33,6 @@ Sofijos palyda per jūrą pasiekė Pernu.
   global_id: t-187285
   teiginys: "Kunigaikštytė Sofija su palyda iš Gdansko laivais per jūrą pasiekė Pernu ir Pskovą."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Sofija keliavo į Pernu (0.90); Sofija keliavo į Pskovas (0.86)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "161212-161834; hash=fbd2ba73d8bafe93dfb9ed5b1126c99462dd38327dd16a8193773d217397e8e6; match=exact"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -169,4 +168,4 @@ Sofijos palyda per jūrą pasiekė Pernu.
     - t-187632
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Sofija]], [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Sofija (Vytauto duktė)]]

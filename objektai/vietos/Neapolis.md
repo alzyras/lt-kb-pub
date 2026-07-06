@@ -102,4 +102,4 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
     - t-58708
 
 ## Ryšiai
-- Puolė Neapolį: [[objektai/asmenys/Konradas]], [[objektai/asmenys/Konradas (Fridricho II sūnus)]]
+- Puolė Neapolį: [[objektai/asmenys/Konradas (Fridricho II sūnus)]]

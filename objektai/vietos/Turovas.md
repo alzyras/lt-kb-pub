@@ -85,7 +85,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Pisimantas valdė miestą Turovas (0.95); Liubartas valdė miestą Karačevas (0.95)"
+  semantiniai_rysiai: "Pisimantas valdė miestą Turovas (0.95)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "86949-87186; hash=a9ff60aad04631a645d91059da50a8a2ebc31faa3cee314d229206d899debbdc; match=whitespace_regex"
   sprendimo_priezastis: "auto"

@@ -266,7 +266,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Aleksandras siuntė į Smolenskas (0.88); Aleksandras keliavo į Minskas (0.74); Aleksandras keliavo į Borisovas (0.74)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "92486-92815; hash=69f29e16aee64178241c21c13661a7e1f5f229b4d360dbfa89c763be2da7f510; match=exact"
   sprendimo_priezastis: "auto"
@@ -287,7 +286,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Aleksandras gyveno Minskas (0.82)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "355138-355696; hash=1c0bf08977e241b20a6c1f3902dbbfdc2d4078b4123e044de1f1d134497e0474; match=exact"
   sprendimo_priezastis: "auto"
@@ -1139,10 +1137,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - t-185051
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras]]
 - Puolė Minską: [[objektai/grupes/Maskvėnai]], [[objektai/asmenys/Mechmet Girėjus]], [[objektai/grupes/Totoriai]]
 - Užėmė Minską: [[objektai/grupes/Rusijos kariuomenė]], [[objektai/grupes/Totoriai]]
 - Buvo žygio kryptis: [[objektai/asmenys/A. N. Trubeckojus]], [[objektai/asmenys/Darijus]]
 - Prekiavo su: [[objektai/grupes/Vilniaus miestiečių luomas]]
-- Gyvenamoji vieta: [[objektai/asmenys/Aleksandras]]
 - Minskas priklausė [[objektai/grupes/Slavai]]

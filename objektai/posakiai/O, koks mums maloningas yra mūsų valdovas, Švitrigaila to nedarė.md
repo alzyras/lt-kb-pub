@@ -41,7 +41,6 @@ Visi kalba: „O, koks mums maloningas yra mūsų valdovas, Švitrigaila to ne­
 - t-001
   global_id: t-86867
   teiginys: "Posakiu „O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė“ miestiečiai gyrė Žygimanto suteiktas garantijas."
-  semantiniai_rysiai: "Žygimantas buvo valdovas Lietuva (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "441988-442505; hash=16784402f0423fb3fec10d15aaf072ef88d31536d4bccb829bbf13c4c0e7b412; match=whitespace_regex"
   sprendimo_priezastis: "auto"

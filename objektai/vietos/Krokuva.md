@@ -1301,7 +1301,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Aleksandras keliavo į Krokuva (0.93)"
   temporaliniai_duomenys: "įvykio data: 1501 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra išbaigtas sakinys apie Aleksandro kelionę į Krokuvą ir vainikavimą joje. Citata tiesiogiai pateikia tas pačias datas ir rezultatą."
@@ -3945,8 +3944,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     - t-193197
 
 ## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Konradas]]
-- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras]], [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]], [[objektai/asmenys/Borisas (Tverės kunigaikštis)]], [[objektai/asmenys/Borisas Karijotaitis]], [[objektai/asmenys/Jadvyga]], [[objektai/asmenys/Jadvyga Jogailienė]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jonas Olbrachtas]], [[objektai/asmenys/Karigaila]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Maskvos pasiuntiniai]], [[objektai/asmenys/Motiejus iš Blonios]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]], [[objektai/asmenys/Borisas (Tverės kunigaikštis)]], [[objektai/asmenys/Borisas Karijotaitis]], [[objektai/asmenys/Jadvyga]], [[objektai/asmenys/Jadvyga Jogailienė]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jonas Olbrachtas]], [[objektai/asmenys/Karigaila]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Maskvos pasiuntiniai]], [[objektai/asmenys/Motiejus iš Blonios]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Puolė Krokuvą: [[objektai/grupes/Lietuviai]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo žygio kryptis: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

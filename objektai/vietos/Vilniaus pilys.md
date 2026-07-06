@@ -81,7 +81,6 @@ media_all_json: |-
 - t-003
   global_id: t-85967
   teiginys: "1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę."
-  semantiniai_rysiai: "Daugirdas užėmė Vilniaus pilys (0.88)"
   temporaliniai_duomenys: "įvykio data: 1440 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, užbaigtas ir pagrįstas citata."
@@ -351,6 +350,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85966
-
-## Ryšiai
-- Užėmė Vilniaus pilį: [[objektai/asmenys/Daugirdas]]

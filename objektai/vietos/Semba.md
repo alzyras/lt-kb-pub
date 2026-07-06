@@ -202,7 +202,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Konradas siuntė į Semba (0.76)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "536317-537015; hash=7a7eef7cf03c838b0a263bb33b32172ee835ec51d7b5c7481bcd4f875c05b564; match=exact"
   sprendimo_priezastis: "auto"
@@ -1744,8 +1743,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - Buvo kelionės vieta: [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Pelužis]]
 - Puolė Sembą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Glapas]], [[objektai/asmenys/Henrikas Stange]], [[objektai/asmenys/Jarmerikas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/grupes/Nadruviai]], [[objektai/asmenys/Otokaras II]], [[objektai/grupes/Skalviai]], [[objektai/grupes/Sūduviai]], [[objektai/grupes/Vokiečiai]], [[objektai/asmenys/Vytenis (Lietuvos karalius)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]], [[objektai/grupes/Žemaičiai]]
 - Užėmė Sembą: [[objektai/asmenys/Jarmerikas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]]
-- Gynė Sembą: [[objektai/asmenys/Konradas]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Konradas]]
 - Buvo žygio kryptis: [[objektai/asmenys/Henrikas Stange]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Lietuviai]]
 - Gyvenamoji vieta: [[objektai/asmenys/Dargis]], [[objektai/grupes/Kimbrai]], [[objektai/asmenys/Laukstetas]], [[objektai/grupes/Prūsai]]
 - Turėjo priklausinį: [[objektai/vietos/Abenda]], [[objektai/vietos/Aistmarios]], [[objektai/vietos/Fišhauzenas]], [[objektai/vietos/Lochštetė]], [[objektai/vietos/Medenava]], [[objektai/vietos/Pabečiai]], [[objektai/vietos/Rinava]], [[objektai/vietos/Romehnen]]

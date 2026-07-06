@@ -40,7 +40,6 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
 - t-001
   global_id: t-91352
   teiginys: "Brolio Ditricho kariuomenė įsiveržė į Retavos valsčių ir jį nusiaubė plėšdama bei degindama."
-  semantiniai_rysiai: "Konradas siuntė į Nadruva (0.86)"
   temporaliniai_duomenys: "įvykio data: 1274 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, turi išnašos triukšmo ir rašybos klaidą."
@@ -61,7 +60,6 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
 - t-003
   global_id: t-91353
   teiginys: "Konradas iš Tirbergo pasiuntė sembų fogtą Ditrichą su kariuomene į Nadruvą, kur ši įsiveržė į Retavos valsčių."
-  semantiniai_rysiai: "Konradas siuntė į Nadruva (0.86)"
   temporaliniai_duomenys: "įvykio data: 1274 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi antraštės triukšmo."

@@ -113,7 +113,6 @@ media_all_json: |-
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Aleksandras paskyrė Zaberezinskis (0.72)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "986937-987595; hash=c2273c701833c9a54a8e1658222cc3685e65884cefdb51aed3f5f870419d0535; match=exact"
   sprendimo_priezastis: "auto"

@@ -41,7 +41,6 @@ Narbutas rašo, kad apie 1405 m. Jeronimas, grįždamas į tėvynę, parsinešė
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jeronimas keliavo į Lenkija (0.90)"
   temporaliniai_duomenys: "kelionės data: 1405 m.; kelionės data: apie 1405 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jeronimas keliavo į Lenkija“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalinti poleminiai ir moralizuojantys epitetai, o faktinis veiksmas paliktas su Narbuto atribucija. Nepridėta duomenų apie Huso ryšius ar vėlesnius įtarimus."

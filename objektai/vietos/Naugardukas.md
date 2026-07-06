@@ -53,7 +53,6 @@ media_all_json: |-
 - t-002
   global_id: t-119084
   teiginys: "1044 m. Jaroslavas įkūrė Naugarduką, turbūt dar lietuvių gyvenamoje žemėje."
-  semantiniai_rysiai: "Jaroslavas pastatė Naugardukas (0.72)"
   temporaliniai_duomenys: "įkūrimo data: 1044 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -276,7 +275,6 @@ media_all_json: |-
 - t-001
   global_id: t-119098
   teiginys: "1044 m. Jaroslavas, anot šaltinio, pavasarį įkūrė Naugarduką."
-  semantiniai_rysiai: "Jaroslavas pastatė Naugardukas (0.72)"
   temporaliniai_duomenys: "įkūrimo data: 1044 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -644,7 +642,6 @@ media_all_json: |-
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Liubartas valdė miestą Karačevas (0.93)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "86949-87186; hash=a9ff60aad04631a645d91059da50a8a2ebc31faa3cee314d229206d899debbdc; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -712,7 +709,6 @@ media_all_json: |-
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kaributas keliavo į Naugardukas (0.84)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "165776-166168; hash=0ed7c6eeefa374321b25b93fffc463e1e950ed17917f0f6bd6986c699a1907c3; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -2325,8 +2321,8 @@ media_all_json: |-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Kukovaitis]]
 - Buvo valdoma: [[objektai/asmenys/Karijotas]], [[objektai/asmenys/Skirmantas]]
-- Buvo kelionės vieta: [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Buvo pastatyta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jaroslavas]], [[objektai/asmenys/Konstantinas Ostrogiškis]]
+- Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo pastatyta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Konstantinas Ostrogiškis]]
 - Puolė Naugarduką: [[objektai/grupes/Krymo totoriai]], [[objektai/grupes/Totoriai]]
 - Buvo siuntimo vieta: [[objektai/grupes/Totoriai]]
 - Buvo žygio kryptis: [[objektai/grupes/Totoriai]]

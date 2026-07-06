@@ -33,7 +33,6 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
 - t-001
   global_id: t-87749
   teiginys: "Kasparas Januševičius su broliu Motiejumi buvo tarp parapijoje gyvenusių bajorų, privalėjusių mokėti dešimtinę."
-  semantiniai_rysiai: "Kasparas Januševičius buvo brolis Motiejus (0.95)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "499475-500242; hash=8a21890b0199f1c9da3f33ac89f0633cc188d3839aedfd205cfb6c217ccf59b6; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -106,6 +105,3 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87749
-
-## Ryšiai
-- Broliai: [[objektai/asmenys/Motiejus]]

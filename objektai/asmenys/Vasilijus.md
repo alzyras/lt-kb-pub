@@ -366,7 +366,5 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
     - t-194004
 
 ## Ryšiai
-- Vasilijus buvo valdovas [[objektai/vietos/Maskva]]
 - Vasilijus keliavo į [[objektai/vietos/Maskva]]
-- Vasilijus siuntė į [[objektai/vietos/Maskva]], [[objektai/vietos/Možaiskas]]
-- Vasilijus paskyrė [[objektai/asmenys/Mykolas Glinskis]]
+- Vasilijus siuntė į [[objektai/vietos/Maskva]]

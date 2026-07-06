@@ -134,7 +134,3 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63987
-
-## Ryšiai
-- Broliai: [[objektai/asmenys/Kasparas Januševičius]]
-- Motiejus valdė [[objektai/vietos/Vilnius]]

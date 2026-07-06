@@ -442,7 +442,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
     - t-191004
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Danielius]], [[objektai/asmenys/Vasilka]]
 - Ziemovitas buvo valdovas [[objektai/vietos/Lenkija]]
 - Ziemovitas valdė [[objektai/vietos/Mazovija]]
 - Ziemovitas surengė žygį į [[objektai/vietos/Dobrynė]]

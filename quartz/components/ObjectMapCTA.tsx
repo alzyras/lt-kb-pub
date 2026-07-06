@@ -22,7 +22,7 @@ const ObjectMapCTA: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const hasGallery = Boolean(fallbackPrimary && all.length > 0)
   const objectHref = resolveRelative(currentSlug, objectSlug)
   const galleryHref = resolveRelative(currentSlug, objectGallerySlug(objectSlug))
-  const mapHref = `${resolveRelative(currentSlug, "zemelapis/index" as FullSlug)}?focus=${encodeURIComponent(
+  const mapHref = `/zemelapis/?focus=${encodeURIComponent(
     objectSlug,
   )}&depth=1&panel=details&maxNodes=1000&types=${encodeURIComponent(objectMapTypes)}`
 

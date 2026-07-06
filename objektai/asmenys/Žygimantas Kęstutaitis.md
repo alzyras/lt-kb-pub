@@ -103,7 +103,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 - t-009
   global_id: t-114102
   teiginys: "1440 m. balandį sąmokslininkai Trakų pilyje nužudė Žygimantą Kęstutaitį, o jo sūnų Mykolą ištrėmė."
-  semantiniai_rysiai: "Mykolas buvo sūnus Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) (0.94); Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) mirė Trakai (0.90)"
+  semantiniai_rysiai: "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) mirė Trakai (0.90)"
   temporaliniai_duomenys: "įvykio data: 1440 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
@@ -239,7 +239,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 - t-013
   global_id: t-114110
   teiginys: "1440 m. balandį Žygimantas Kęstutaitis buvo sąmokslininkų nužudytas Trakų pilyje."
-  semantiniai_rysiai: "Mykolas buvo sūnus Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) (0.94); Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) mirė Trakai (0.90); Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) buvo palaidotas Vilnius (0.74)"
+  semantiniai_rysiai: "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) mirė Trakai (0.90); Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) buvo palaidotas Vilnius (0.74)"
   temporaliniai_duomenys: "įvykio data: 1440 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai atitinka citatoje pateiktą informaciją."
@@ -369,7 +369,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jonas puolė Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) (0.86)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "813156-813891; hash=73b1dda2a677424d16562f8b1d6432541c9ea8dd2b38ebd0e0e5f3c8e784b216; match=exact"
   sprendimo_priezastis: "auto"
@@ -1372,8 +1371,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - t-194729
 
 ## Ryšiai
-- Sūnūs: [[objektai/asmenys/Mykolas]]
-- Puolė Žygimantas Kęstutaitį (Lietuvos didysis kunigaikštis, XIV–XV a.): [[objektai/asmenys/Jonas]]
 - Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) buvo valdovas [[objektai/vietos/Lietuva]]
 - Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) valdė [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
 - Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo į [[objektai/vietos/Livonija]], [[objektai/vietos/Severskas]], [[objektai/vietos/Trakai]]

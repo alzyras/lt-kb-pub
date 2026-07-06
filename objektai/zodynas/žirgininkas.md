@@ -44,7 +44,6 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Augustas keliavo į Livonija (0.86)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "1243866-1244360; hash=6b2a4547e638657c9b556de3c91e65bc095064a743e7c3d10e1c6ad540ef5545; match=exact"
   sprendimo_priezastis: "auto"

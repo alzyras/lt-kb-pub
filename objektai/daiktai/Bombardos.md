@@ -64,7 +64,6 @@ Nenurodyta
 - t-003
   global_id: t-113454
   teiginys: "Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė."
-  semantiniai_rysiai: "Hermanas kariavo prieš Lietuviai (0.85); Lietuviai kariavo prieš Hermanas (0.78)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "204977-205354; hash=9aa42be083ecfae1fe2a60e93664fbd8a0238759c7c7291e85f5e1a213f93083; match=exact"
   sprendimo_priezastis: "auto"

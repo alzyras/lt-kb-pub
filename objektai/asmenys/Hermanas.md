@@ -203,8 +203,4 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 
 ## Ryšiai
 - Puolė Hermaną: [[objektai/grupes/Lietuviai]]
-- Kariavo prieš: [[objektai/grupes/Lietuviai]]
-- Turėjo priklausinį: [[objektai/daiktai/Kryžius]]
-- Hermanas siuntė į [[objektai/vietos/Elbingas]]
 - Hermanas kariavo prieš [[objektai/grupes/Lietuviai]]
-- Hermanas dalyvavo mūšyje [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]

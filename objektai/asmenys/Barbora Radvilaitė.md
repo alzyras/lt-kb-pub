@@ -66,7 +66,7 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 - t-001
   global_id: t-54947
   teiginys: "Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų vaivados, našlė."
-  semantiniai_rysiai: "Barbora Radvilaitė buvo žmona Augustas (0.90); Augustas vedė Barbora Radvilaitė (0.90); Barbora Radvilaitė gyveno Barboros rūmai Vilniuje (0.72)"
+  semantiniai_rysiai: "Barbora Radvilaitė gyveno Barboros rūmai Vilniuje (0.72)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex"
   sprendimo_priezastis: "gap::people"
@@ -84,7 +84,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 - t-002
   global_id: t-54948
   teiginys: "Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje."
-  semantiniai_rysiai: "Barbora Radvilaitė buvo žmona Augustas (0.90); Augustas vedė Barbora Radvilaitė (0.90)"
   temporaliniai_duomenys: "įvykio data: 1547 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
@@ -248,7 +247,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 - t-011
   global_id: t-173121
   teiginys: "Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio dukra ir Trakų vaivados Goštauto našlė."
-  semantiniai_rysiai: "Augustas vedė Barbora Radvilaitė (0.82)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex"
   sprendimo_priezastis: "gap::people"
@@ -309,7 +307,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Barbora Radvilaitė buvo žmona Augustas (0.95)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "1205342-1205619; hash=098543354f38458f7653d4becec834e9bb4758829832dc4de7a3c084bb2a9b88; match=exact"
   sprendimo_priezastis: "auto"
@@ -924,7 +921,7 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     - t-184673
 
 ## Ryšiai
-- Vyrai: [[objektai/asmenys/Augustas]], [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
-- Sutuoktiniai: [[objektai/asmenys/Augustas]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- Vyrai: [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- Sutuoktiniai: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
 - Turėjo priklausinį: [[objektai/daiktai/Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos]], [[objektai/vietos/Barboros rūmai Vilniuje]]
 - Barbora Radvilaitė gyveno [[objektai/vietos/Barboros rūmai Vilniuje]]

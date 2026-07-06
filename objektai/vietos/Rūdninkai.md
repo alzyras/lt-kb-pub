@@ -90,7 +90,6 @@ media_all_json: |-
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Mykolas keliavo į Mazovija (0.91)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "821549-822276; hash=71863cc46a7833f7eb27abc4080ccd2871f94b72bed0c45702623b45e33bc901; match=exact"
   sprendimo_priezastis: "auto"

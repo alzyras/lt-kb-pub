@@ -65,7 +65,6 @@ Nenurodyta
   global_id: t-186806
   teiginys: "1971 m. leidinio pastaba nurodo, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą skiriasi nuo platesnio M. Miechovitos pasakojimo."
   teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Aleksandras keliavo į Brasta (0.74)"
   temporaliniai_duomenys: "įvykio data: 1505 m.; įvykio data: apie 1505 m.; įvykio data: 1506 m.; įvykio data: 1507 m.; įvykio data: 1971 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Teiginys yra faktinis sakinys apie 1971 m. leidinio pastabą ir dviejų pasakojimų skirtumą. Atribucija komentarui jau yra aiški, papildomas vertinimas nepridėtas."

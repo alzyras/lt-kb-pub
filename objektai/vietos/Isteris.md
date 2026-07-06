@@ -380,4 +380,4 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Eduka]], [[objektai/grupes/Herulai]], [[objektai/grupes/Persai]]
-- Gyvenamoji vieta: [[objektai/grupes/Getai]], [[objektai/grupes/Herulai]], [[objektai/grupes/Jotvingiai]], [[objektai/asmenys/Julijonas]], [[objektai/grupes/Skiriai]], [[objektai/grupes/Sudargai]]
+- Gyvenamoji vieta: [[objektai/grupes/Getai]], [[objektai/grupes/Herulai]], [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Skiriai]], [[objektai/grupes/Sudargai]]

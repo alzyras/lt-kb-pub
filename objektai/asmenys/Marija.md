@@ -198,8 +198,3 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193954
-
-## Ryšiai
-- Vyrai: [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]
-- Sutuoktiniai: [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]
-- Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

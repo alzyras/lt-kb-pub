@@ -33,7 +33,7 @@ Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus �
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Augustas siuntė į Polockas (0.91); Florijonas Zebžidovskis surengė žygį į Polockas (0.78)"
+  semantiniai_rysiai: "Florijonas Zebžidovskis surengė žygį į Polockas (0.78)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "1283547-1284090; hash=e394b97ceab6a4a801758dd71e4fd7b51d5795b5869c10322460ba9a7b782eb6; match=exact"
   sprendimo_priezastis: "auto"

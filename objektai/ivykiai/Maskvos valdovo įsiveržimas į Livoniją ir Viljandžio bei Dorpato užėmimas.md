@@ -45,7 +45,6 @@ Nenurodyta
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Ivanas puolė Livonija (0.94)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "1246565-1247289; hash=c713d8b8c2b022e231530fcf2c8b80d8f27b61b0dd6f6d2d56f717a27aaa5917; match=exact"
   sprendimo_priezastis: "auto"

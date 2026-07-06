@@ -196,7 +196,6 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Odoakras kariavo prieš Teodorikas (0.70)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "575183-575821; hash=4b43f015729c597280623f66ae2e37cf699a3b0f44581cb3c4d31f2d47b93718; match=exact"
   sprendimo_priezastis: "auto"
@@ -219,7 +218,6 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Odoakras puolė Teodorikas (0.86)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "576847-577464; hash=efed83f6874ad6b2799e649a42bd97f92ecdd0e2940dc6ff1fbac6e78cdf3527; match=exact"
   sprendimo_priezastis: "auto"
@@ -807,14 +805,12 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - Sūnūs: [[objektai/asmenys/Telanas]]
 - Broliai: [[objektai/asmenys/Onulfas]]
 - Sąjungininkai: [[objektai/grupes/Vandalai]]
-- Kariavo prieš: [[objektai/asmenys/Teodorikas]], [[objektai/asmenys/Zenonas]]
 - Sudarė sutartį su: [[objektai/asmenys/Teodorikas]], [[objektai/asmenys/Teodorikas Didysis]]
 - Paskyrė Odoakrą: [[objektai/grupes/Alanai]], [[objektai/grupes/Gepidai]], [[objektai/grupes/Herulai]], [[objektai/asmenys/Julijus Nepas]], [[objektai/grupes/Skiriai]], [[objektai/grupes/Turcilingai]]
 - Odoakras buvo valdovas [[objektai/grupes/Herulai]]
 - Odoakras valdė [[objektai/vietos/Italija]]
 - Odoakras mirė [[objektai/vietos/Ravena]]
-- Odoakras puolė [[objektai/asmenys/Teodorikas]]
 - Odoakras apgulė [[objektai/ivykiai/Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą]], [[objektai/vietos/Pavija]]
 - Odoakras užėmė [[objektai/vietos/Pavija]]
-- Odoakras kariavo prieš [[objektai/asmenys/Orestas]], [[objektai/asmenys/Teodorikas]]
+- Odoakras kariavo prieš [[objektai/asmenys/Orestas]]
 - Odoakras sudarė sutartį su [[objektai/asmenys/Evarikas]]

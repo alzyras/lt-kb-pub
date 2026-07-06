@@ -45,7 +45,6 @@ Nenurodyta
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Teodorikas sudarė sutartį su Odoakras (0.96)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "579324-579616; hash=2d76ef13b9e563b553cabe320a2a14348b122ab10fd55ead08b7c12690c8f162; match=exact"
   sprendimo_priezastis: "auto"

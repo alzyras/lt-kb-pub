@@ -58,7 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-91913
   teiginys: "Konrado iš Tirbergo pasiųstas Sembos fogtas Ditrichas su kariuomene Retavos valsčiuje užėmė ir sudegino dvi pilis."
-  semantiniai_rysiai: "Konradas siuntė į Nadruva (0.86)"
   temporaliniai_duomenys: "įvykio data: 1274 m.; įvykio data: 1292 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata remia aiškų veikėjo, vietos ir rezultato sakinį be nutrūkusio fragmento."

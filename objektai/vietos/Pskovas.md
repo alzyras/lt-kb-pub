@@ -3193,7 +3193,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jurgis Vytautaitis]], [[objektai/asmenys/Jurijus Vytutaitis]]
-- Buvo kelionės vieta: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/grupes/Pskoviečiai]], [[objektai/asmenys/Sofija]], [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/grupes/Pskoviečiai]], [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - Puolė Pskovą: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Apgulė Pskovą: [[objektai/asmenys/Steponas Batoras]]
 - Gynė Pskovą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Dovydas Gardiniškis]], [[objektai/grupes/Lietuviai]]

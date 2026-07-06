@@ -443,7 +443,6 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
 - t-019
   global_id: t-85762
   teiginys: "Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
-  semantiniai_rysiai: "Augustas vedė Barbora Radvilaitė (0.82)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex"
   sprendimo_priezastis: "auto"

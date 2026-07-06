@@ -52,7 +52,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
 - t-003
   global_id: t-58455
   teiginys: "Sūduvos valsčiuje Kresmenoje Skomantas garsėjo galia ir turtais."
-  semantiniai_rysiai: "Skomantas gyveno Kresmena (0.74)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "527659-528161; hash=f8bb3a06147eecac4b710f8c31642d009ee03ca084b25af066435cb7dddbafbf; match=exact"
   sprendimo_priezastis: "auto"
@@ -104,7 +103,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
 - t-003
   global_id: t-58455
   teiginys: "Sūduvos valsčiuje Kresmenoje Skomantas garsėjo galia ir turtais."
-  semantiniai_rysiai: "Skomantas gyveno Kresmena (0.74)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "527659-528161; hash=f8bb3a06147eecac4b710f8c31642d009ee03ca084b25af066435cb7dddbafbf; match=exact"
   sprendimo_priezastis: "auto"
@@ -272,4 +270,3 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
 
 ## Ryšiai
 - Puolė Kresmeną: [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D)
-- Gyvenamoji vieta: [[objektai/asmenys/Skomantas]]

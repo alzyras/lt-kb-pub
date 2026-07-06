@@ -97,8 +97,5 @@ Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiai
     - t-191203
 
 ## Ryšiai
-- Tėvai: [[objektai/asmenys/Febanas]]
 - Priešai: [[objektai/grupes/Gotai]]
 - Sąjungininkai: [[objektai/grupes/Herulai]]
-- Puolė Frederiką: [[objektai/asmenys/Onulfas]]
-- Kariavo prieš: [[objektai/asmenys/Onulfas]]

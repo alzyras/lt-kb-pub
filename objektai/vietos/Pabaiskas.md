@@ -100,7 +100,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 - t-009
   global_id: t-171929
   teiginys: "Žygimantas mūšio lauką pavadino Pabaisku ir toje vietoje pastatė parapijos bažnyčią."
-  semantiniai_rysiai: "Žygimantas pastatė Pabaiskas (0.55)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "447057-447527; hash=ba28d1bb8620ef8d415ae7cc4a60418e96b4dedb27029becc09a356b13ee6c9f; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -135,7 +134,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 - t-006
   global_id: t-171933
   teiginys: "Žygimantas mūšio lauką pavadino Pabaisku, per jį tekantį upelį – Viktorija, ir toje vietoje pastatė parapijos bažnyčią."
-  semantiniai_rysiai: "Žygimantas pastatė Pabaiskas (0.55)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "447057-447527; hash=ba28d1bb8620ef8d415ae7cc4a60418e96b4dedb27029becc09a356b13ee6c9f; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -471,4 +469,4 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     - t-193778
 
 ## Ryšiai
-- Buvo pastatyta: [[objektai/asmenys/Žygimantas]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- Buvo pastatyta: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]

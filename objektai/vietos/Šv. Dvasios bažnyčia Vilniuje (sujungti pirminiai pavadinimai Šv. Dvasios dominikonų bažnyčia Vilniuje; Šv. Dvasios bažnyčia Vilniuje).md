@@ -110,7 +110,6 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 - t-001
   global_id: t-85992
   teiginys: "1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti."
-  semantiniai_rysiai: "Aleksandras keliavo į Vilnius (0.70)"
   temporaliniai_duomenys: "įvykio data: 1501 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į aiškų sakinį be nutrūkusių dalių."

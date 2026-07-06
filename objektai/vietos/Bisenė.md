@@ -427,8 +427,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Ditrichas iš Altenburgo]]
-- Puolė Bisenę: [[objektai/asmenys/Fridrichas Kvicas]], [[objektai/asmenys/Henrikas iš Plockės]], [[objektai/asmenys/Konradas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Notangai]], [[objektai/grupes/Sembai]]
+- Puolė Bisenę: [[objektai/asmenys/Fridrichas Kvicas]], [[objektai/asmenys/Henrikas iš Plockės]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Notangai]], [[objektai/grupes/Sembai]]
 - Apgulė Bisenę: [[objektai/asmenys/Henrikas iš Plockės]], [[objektai/grupes/Kryžiuočių ordinas]]
-- Užėmė Bisenę: [[objektai/asmenys/Ditrichas iš Altenburgo]], [[objektai/asmenys/Fridrichas Kvicas]], [[objektai/asmenys/Konradas]]
+- Užėmė Bisenę: [[objektai/asmenys/Ditrichas iš Altenburgo]], [[objektai/asmenys/Fridrichas Kvicas]]
 - Gynė Bisenę: [[objektai/grupes/Lietuviai]]
 - Buvo žygio kryptis: [[objektai/asmenys/Ditrichas iš Altenburgo]], [[objektai/asmenys/Fridrichas Kvicas]]

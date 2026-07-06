@@ -83,7 +83,6 @@ Kolomyja aiškinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nu
   global_id: t-187235
   teiginys: "Moldavijos vaivada Steponas atvyko į Kolomyją tarp 1485 m. rugsėjo 6 ir 12 d."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Steponas keliavo į Kolomyja (0.90)"
   temporaliniai_duomenys: "kelionės data: 1485 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatos informaciją apie Stepono atvykimą į Kolomyją. Papildomos interpretacijos ar motyvų nepridėta."
@@ -236,6 +235,3 @@ Kolomyja aiškinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187235
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Steponas]]

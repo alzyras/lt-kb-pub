@@ -1089,7 +1089,6 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Julijona buvo žmona Algirdas (Lietuvos valdovas) (0.95)"
   temporaliniai_duomenys: "įkūrimo data: 1331 m.; įkūrimo data: apie 1331 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Julijona buvo žmona Algirdas (Lietuvos valdovas)“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys susietas su Algirdu per jo žmoną Julijoną. Religinis maldyklos ir cerkvės kontekstas paliktas su Narbuto atribucija."
@@ -4325,15 +4324,15 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-194221
 
 ## Ryšiai
-- Žmonos: [[objektai/asmenys/Julijona]], [[objektai/asmenys/Julijona Vitebskietė]], [[objektai/asmenys/Marija (Algirdo žmona)]]
+- Žmonos: [[objektai/asmenys/Julijona Vitebskietė]], [[objektai/asmenys/Marija (Algirdo žmona)]]
 - Sutuoktiniai: [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė)]]
 - Sūnūs: [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Dimitras Kaributas]], [[objektai/asmenys/Dmitrijus Kaributas]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Karigaila]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]], [[objektai/asmenys/Vladimiras (Algirdo sūnus)]], [[objektai/asmenys/Vladimiras Algirdaitis]], [[objektai/asmenys/Vladislovas Jogaila]]
 - Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Broliai: [[objektai/asmenys/Karijotas]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Narimantas Gediminaitis]]
 - Priešai: [[objektai/grupes/Maskvos kunigaikštystė]]
 - Sąjungininkai: [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Patirgas]], [[objektai/asmenys/Svirdeika]]
-- Kariavo prieš: [[objektai/asmenys/Dmitrijus]], [[objektai/grupes/Kryžiuočių ordinas]]
-- Sudarė sutartį su: [[objektai/asmenys/Dimitrijus]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Kariavo prieš: [[objektai/grupes/Kryžiuočių ordinas]]
+- Sudarė sutartį su: [[objektai/grupes/Kryžiuočių ordinas]]
 - Rėmė Algirdą (Lietuvos valdovas): [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Algirdas (Lietuvos valdovas) buvo valdovas [[objektai/vietos/Vitebskas]]
 - Algirdas (Lietuvos valdovas) valdė [[objektai/vietos/Brasta]], [[objektai/vietos/Kijevo Rusia]], [[objektai/vietos/Krėva]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Možaiskas]], [[objektai/vietos/Podolė]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
@@ -4348,7 +4347,6 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - Algirdas (Lietuvos valdovas) surengė žygį į [[objektai/ivykiai/Algirdo žygiai į Maskvą]], [[objektai/vietos/Deimena]], [[objektai/vietos/Maskva]], [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]], [[objektai/vietos/Nadruva]], [[objektai/vietos/Rusia]], [[objektai/vietos/Rusia Rusios žemės]]
 - Algirdas (Lietuvos valdovas) kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Mongolai]], [[objektai/grupes/Totoriai]]
 - Algirdas (Lietuvos valdovas) dalyvavo mūšyje [[objektai/ivykiai/Algirdo žygiai į Maskvą]], [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]], [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
-- Algirdas (Lietuvos valdovas) sudarė sutartį su [[objektai/asmenys/Dimitrijus]]
 - Algirdas (Lietuvos valdovas) gyveno [[objektai/vietos/Paneriai]]
 - Algirdas (Lietuvos valdovas) paskyrė [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Petras Goštautas]]
 - Algirdas (Lietuvos valdovas) rėmė [[objektai/grupes/Karijotaičiai]], [[objektai/grupes/Pranciškonų ordinas]], [[objektai/grupes/Stačiatikiai]]

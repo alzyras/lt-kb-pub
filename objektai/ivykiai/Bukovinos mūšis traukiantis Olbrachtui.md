@@ -81,7 +81,6 @@ Nenurodyta
   global_id: t-186658
   teiginys: "Lietuvos metraštis pasakoja, kad karaliui Olbrachtui perėjus miškus ir Bukoviną, Moldavijos vaivada Steponas su savo žmonėmis pasuko atgal."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Steponas puolė Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.) (0.82)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "263448-264343; hash=ee8775d55db2b8bfc525d89a804008e58c11693b52530e18991cbc73e91bbaac; match=exact"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -158,6 +157,3 @@ Nenurodyta
   pagrindzia:
     - t-186658
     - t-186657
-
-## Ryšiai
-- Puolė Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.): [[objektai/asmenys/Steponas]]

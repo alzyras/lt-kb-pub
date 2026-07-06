@@ -39,7 +39,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - t-011
   global_id: t-65933
   teiginys: "Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, o šis nusiaubė Retavos valsčių."
-  semantiniai_rysiai: "Konradas siuntė į Nadruva (0.88)"
   temporaliniai_duomenys: "įvykio data: 1274 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paremtas citata apie Nadruvos žemę."

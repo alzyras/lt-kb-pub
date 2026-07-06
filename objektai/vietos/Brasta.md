@@ -352,7 +352,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - t-021
   global_id: t-176984
   teiginys: "Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita."
-  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) keliavo į Vilnius (0.90); Elžbieta keliavo į Vilnius (0.78)"
+  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) keliavo į Vilnius (0.90)"
   temporaliniai_duomenys: "kelionės data: 1544 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Augustas keliavo į Vilnius“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
@@ -485,7 +485,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - t-021
   global_id: t-176984
   teiginys: "Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita."
-  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) keliavo į Vilnius (0.90); Elžbieta keliavo į Vilnius (0.78)"
+  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) keliavo į Vilnius (0.90)"
   temporaliniai_duomenys: "kelionės data: 1544 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Augustas keliavo į Vilnius“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
@@ -1788,7 +1788,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras]], [[objektai/asmenys/Šach Achmedas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Šach Achmedas]]
 - Apgulė Brastą: [[objektai/grupes/Švedai]]
 - Užėmė Brastą: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Gynė Brastą: [[objektai/grupes/Lietuvos kariuomenė]]

@@ -33,7 +33,6 @@ Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno t
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Pranciškus Gonzaga buvo vyras Kotryna (0.88)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "1229631-1230051; hash=7fbe37fb7b7f4a07918e7996b13deb8abd3b54da18bade1af30d3b7809add28c; match=exact"
   sprendimo_priezastis: "auto"
@@ -94,6 +93,3 @@ Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186249
-
-## Ryšiai
-- Žmonos: [[objektai/asmenys/Kotryna]]

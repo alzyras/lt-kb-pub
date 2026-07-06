@@ -243,9 +243,5 @@ Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir 
     - t-193905
 
 ## Ryšiai
-- Sudarė sutartį su: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Dimitrijus buvo valdovas [[objektai/vietos/Maskva]]
-- Dimitrijus puolė [[objektai/vietos/Smolenskas]]
-- Dimitrijus apgulė [[objektai/vietos/Smolenskas]]
 - Dimitrijus kariavo prieš [[objektai/grupes/Totoriai]]
-- Dimitrijus sudarė sutartį su [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

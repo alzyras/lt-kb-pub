@@ -90,4 +90,4 @@ Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų ž
     - t-175281
 
 ## Ryšiai
-- Puolė Apuliją: [[objektai/asmenys/Konradas]], [[objektai/asmenys/Konradas (Fridricho II sūnus)]]
+- Puolė Apuliją: [[objektai/asmenys/Konradas (Fridricho II sūnus)]]

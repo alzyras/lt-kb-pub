@@ -99,4 +99,4 @@ media_all_json: |-
     - t-80620
 
 ## Ryšiai
-- Užėmė Usviatai: [[objektai/asmenys/Kristupas Radvila]], [[objektai/asmenys/Radvila]]
+- Užėmė Usviatai: [[objektai/asmenys/Kristupas Radvila]]

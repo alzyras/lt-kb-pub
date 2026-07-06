@@ -81,7 +81,6 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 - t-002
   global_id: t-71739
   teiginys: "1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais."
-  semantiniai_rysiai: "Brunonas mirė Lietuva (0.66); Brunonas mirė Rusija (0.66)"
   temporaliniai_duomenys: "įvykio data: 1009 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"

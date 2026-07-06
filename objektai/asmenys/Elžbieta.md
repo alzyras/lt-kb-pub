@@ -664,5 +664,4 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - t-184696
 
 ## Ryšiai
-- Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Elžbieta keliavo į [[objektai/vietos/Vilnius]]

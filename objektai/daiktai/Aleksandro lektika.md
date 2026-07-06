@@ -52,7 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-54484
   teiginys: "Galutinai paliegęs Aleksandras lektikoje buvo nugabentas į Vilnių, jį lydint Elenai, Vilniaus vyskupui Vaitiekui Taborui, Jonui Zabžezinskiui ir Jonui Laskiui."
-  semantiniai_rysiai: "Aleksandras keliavo į Vilnius (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "474960-475472; hash=d58a2c066455c2f635ebb59fca3e2839e1c72782097837084768a9aa2e16598c; match=whitespace_regex"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"

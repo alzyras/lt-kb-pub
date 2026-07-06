@@ -168,7 +168,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - t-027
   global_id: t-175083
   teiginys: "Brolis Bertoldas su tūkstančiu Sembos vyrų sudegino Medrabos pilį iki pamatų, jos žmones išžudė arba paėmė į nelaisvę."
-  semantiniai_rysiai: "Bertoldas puolė Medraba (0.83); Bertoldas užėmė Medraba (0.65)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "567358-567767; hash=1e73b288d5b486196e4bc7811ab51d3676f71ea428de0e9282976dfeeb3e95a5; match=exact"
   sprendimo_priezastis: "auto"

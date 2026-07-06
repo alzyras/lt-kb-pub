@@ -114,7 +114,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - t-008
   global_id: t-172855
   teiginys: "Vilniaus pirkliai ir gyventojai, remdamiesi privilegijomis, priešinosi muito mokėjimui."
-  semantiniai_rysiai: "Radvila rėmė Vilniaus pirkliai (0.87)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "642738-643038; hash=6fe59fc074e8ae77d27551cf6a162426c319aafa17392b3eaea76cc168c9930c; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -708,4 +707,4 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Stanislovas Sabina]]
-- Rėmė Vilniaus pirkliai: [[objektai/asmenys/Mikalojus Radvila Rudasis]], [[objektai/asmenys/Radvila]], [[objektai/asmenys/Steponas Batoras]]
+- Rėmė Vilniaus pirkliai: [[objektai/asmenys/Mikalojus Radvila Rudasis]], [[objektai/asmenys/Steponas Batoras]]

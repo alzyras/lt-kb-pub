@@ -114,6 +114,3 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58706
-
-## Ryšiai
-- Užėmė Milaną: [[objektai/asmenys/Teodorikas]]

@@ -342,5 +342,4 @@ media_all_json: |-
     - t-184934
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras]]
 - Užėmė Borisovą: [[objektai/grupes/Totorių pajėgos]]

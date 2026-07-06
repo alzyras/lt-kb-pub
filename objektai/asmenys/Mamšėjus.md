@@ -42,7 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-40326
   teiginys: "1279 m. pradžioje Mamšėjus vadovavo Nogajaus pasiųstai kariuomenei prieš Traidenio Lietuvą."
-  semantiniai_rysiai: "Nogajus siuntė į Lietuva (0.73)"
   temporaliniai_duomenys: "įvykio data: 1278-1279; įvykio data: 1279 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"

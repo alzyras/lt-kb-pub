@@ -1107,7 +1107,6 @@ media_all_json: |-
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Barbora Cyleikaitė]]
 - Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Kariavo prieš: [[objektai/asmenys/Kaributas]]
 - Sudarė sutartį su: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Zigmantas (Romos imperatorius) paskyrė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Zig. Rothas]]
 - Zigmantas (Romos imperatorius) rėmė [[objektai/grupes/Kryžiuočių ordinas]]

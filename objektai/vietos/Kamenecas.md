@@ -433,5 +433,4 @@ media_all_json: |-
 - Buvo pastatyta: [[objektai/grupes/Karijotaičiai]]
 - Užėmė Kamenecą: [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Zigmantas Vaza]]
-- Buvo žygio kryptis: [[objektai/asmenys/Steponas]]
 - Kamenecas priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Podolė]]

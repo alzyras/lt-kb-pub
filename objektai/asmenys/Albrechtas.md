@@ -128,5 +128,4 @@ media_all_json: |-
     - t-18766
 
 ## Ryšiai
-- Paskyrė Albrechtą: [[objektai/asmenys/Albrechtas (Romos karalius)]]
 - Albrechtas rėmė [[objektai/asmenys/Abraomas Kulvietis]]

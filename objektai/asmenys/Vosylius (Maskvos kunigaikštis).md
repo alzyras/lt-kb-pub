@@ -42,7 +42,6 @@ Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškė
 - t-001
   global_id: t-35328
   teiginys: "1425 m. mirdamas Maskvos kunigaikštis Vosylius savo nepilnametį sūnų Vosylių paliko senelio Vytauto globai."
-  semantiniai_rysiai: "Vosylius buvo sūnus Vosylius (Maskvos kunigaikštis) (0.86)"
   temporaliniai_duomenys: "valdymo laikotarpis: 1425 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vosylius (Maskvos kunigaikštis) buvo valdovas Maskva“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Reikia aiškiau įvardyti globos ryšį ir pašalinti dviprasmybę."
@@ -109,6 +108,3 @@ Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35328
-
-## Ryšiai
-- Sūnūs: [[objektai/asmenys/Vosylius]]

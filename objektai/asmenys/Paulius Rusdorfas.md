@@ -41,7 +41,6 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 - t-002
   global_id: t-87452
   teiginys: "Didysis magistras Paulius Rusdorfas atsiuntė kunigaikštienei Julijonai gydomųjų gėrimų."
-  semantiniai_rysiai: "Paulius Rusdorfas rėmė Julijona (0.84)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "481102-481927; hash=4de902e0e2aeae062f7dcc1a62c9acf77a700f24393c687c7b771fa77a36b3d5; match=exact"
   sprendimo_priezastis: "auto"
@@ -395,4 +394,3 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 
 ## Ryšiai
 - Paulius Rusdorfas sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]
-- Paulius Rusdorfas rėmė [[objektai/asmenys/Julijona]]

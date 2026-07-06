@@ -158,7 +158,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - t-013
   global_id: t-77024
   teiginys: "Magistras Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, kur Retavos valsčius buvo nusiaubtas plėšiant ir deginant."
-  semantiniai_rysiai: "Konradas siuntė į Nadruva (0.86); Retavos valsčius priklausė Nadruva (0.72)"
+  semantiniai_rysiai: "Retavos valsčius priklausė Nadruva (0.72)"
   temporaliniai_duomenys: "įvykio data: 1274 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, bet citata palaiko aiškų faktą apie žygį į Nadruvą."
@@ -827,7 +827,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     - t-192701
 
 ## Ryšiai
-- Buvo siuntimo vieta: [[objektai/asmenys/Konradas]]
 - Buvo žygio kryptis: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Ditrichas (Sembos fogtas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Gyvenamoji vieta: [[objektai/asmenys/Krivis]]
 - Turėjo priklausinį: [[objektai/vietos/Auktuolyčiai]], [[objektai/vietos/Katavos valsčius]], [[objektai/vietos/Katinavos apylinkės]], [[objektai/vietos/Retavos valsčius]], [[objektai/vietos/Romintės giria]], [[objektai/vietos/Romovė Romuva]], [[objektai/vietos/Romuva]], [[objektai/vietos/Sasava (Salavijos tvirtovė)]]

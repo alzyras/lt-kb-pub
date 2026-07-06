@@ -68,7 +68,6 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Brunonas puolė Treiderės upė (0.82)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "301942-302385; hash=df56b39730b2ccd724ee136328794075a38f2e30f965511bd3469e62c66b1e58; match=exact"
   sprendimo_priezastis: "auto"
@@ -169,4 +168,4 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     - t-185164
 
 ## Ryšiai
-- Puolė Treiderės upę: [[objektai/asmenys/Brunonas]], [[objektai/grupes/Teutonai]]
+- Puolė Treiderės upę: [[objektai/grupes/Teutonai]]

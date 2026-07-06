@@ -110,6 +110,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87807
-
-## Ryšiai
-- Nogajus siuntė į [[objektai/vietos/Lietuva]]

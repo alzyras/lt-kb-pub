@@ -51,7 +51,6 @@ Nenurodyta
   global_id: t-62509
   teiginys: "Treniota subūrė iki 30 tūkst. vyrų, įsiveržė į Kulmo žemę ir paėmė Birgelavos pilį, pagrobdamas gyvulius bei mantą."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Treniota užėmė Birgelava (0.96); Treniota surengė žygį į Kulmas (0.94)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "456820-457408; hash=9dce7b960cc19e623319fb6f41e664e65b305bb2b51673de594dbfa1dc1cf2b3; match=exact"
   sprendimo_priezastis: "auto"

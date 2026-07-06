@@ -822,7 +822,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Boleslovas surengė žygį į Podolė (0.96)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "757032-757421; hash=e9a18eefa0e677ac8006c454d1da4f28221f6dcb420be93f4bc5cd34e30515e4; match=exact"
   sprendimo_priezastis: "auto"
@@ -3210,7 +3209,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - Puolė Podolę: [[objektai/asmenys/Edyga]], [[objektai/asmenys/Fiodoras Ostrogiškis]], [[objektai/grupes/Krymo totoriai]], [[objektai/grupes/Totoriai]]
 - Užėmė Podolę: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kazimieras Didysis]], [[objektai/grupes/Podolės bajorai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Gynė Podolę: [[objektai/grupes/Karijotaičiai]], [[objektai/grupes/Kazokai]], [[objektai/grupes/Lenkai]]
-- Buvo žygio kryptis: [[objektai/asmenys/Boleslovas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Gyvenamoji vieta: [[objektai/asmenys/Borisas (Tverės kunigaikštis)]], [[objektai/asmenys/Borisas Karijotaitis]], [[objektai/grupes/Karijotaičiai]]
 - Turėjo priklausinį: [[objektai/vietos/Braclavo sritis]], [[objektai/vietos/Kamenecas]], [[objektai/vietos/Podolės Kamenecas]]
 - Podolė priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

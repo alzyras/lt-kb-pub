@@ -113,7 +113,6 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Aleksandras pastatė Braclavas (0.80)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "260048-260557; hash=8fa643521542bf15e2b56117b3f7a4e5a6d3d427ab3e17c2388e5aa663db8209; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -405,6 +404,5 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Jogailaitis]]
-- Buvo pastatyta: [[objektai/asmenys/Aleksandras]]
 - Gynė Braclavą: [[objektai/asmenys/Jurga (pasienio seniūnas)]]
 - Braclavas priklausė [[objektai/vietos/Lenkija]], [[objektai/grupes/Lietuviai]]

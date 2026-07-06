@@ -99,6 +99,3 @@ Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatori
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186124
-
-## Ryšiai
-- Karolis puolė [[objektai/vietos/Junigeda]]

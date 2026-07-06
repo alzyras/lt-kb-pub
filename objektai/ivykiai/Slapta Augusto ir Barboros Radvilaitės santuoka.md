@@ -75,7 +75,6 @@ Nenurodyta
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Augustas vedė Barbora Radvilaitė (0.88)"
   temporaliniai_duomenys: "įvykio data: 1546 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija santuokos veikėjus, veiksmą ir liudytojus."

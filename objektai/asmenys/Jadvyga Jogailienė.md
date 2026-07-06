@@ -192,7 +192,6 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 - t-025
   global_id: t-176422
   teiginys: "Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai."
-  semantiniai_rysiai: "Jadvyga Jogailienė buvo duktė Liudvikas (0.94)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "366530-366891; hash=22e41bb9e777ff0eddc39f3c9d8431bf6cb9b5323d42464afc9d9e40e173ea6b; match=ocr_normalized"
   sprendimo_priezastis: "auto"
@@ -966,7 +965,6 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Tėvai: [[objektai/asmenys/Liudvikas]]
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]
 - Jadvyga Jogailienė keliavo į [[objektai/vietos/Krokuva]], [[objektai/vietos/Vilnius]]
 - Jadvyga Jogailienė rėmė [[objektai/grupes/Lietuviai]]

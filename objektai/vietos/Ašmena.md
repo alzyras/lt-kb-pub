@@ -307,7 +307,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-019
   global_id: t-176950
   teiginys: "Apie rugpjūčio 28 d. Žygimantas įsiveržė į Švitrigailos dvarą Ašmenoje, bet jo ten neberado."
-  semantiniai_rysiai: "Žygimantas keliavo į Ašmena (0.91); Žygimantas užėmė Vilnius (0.90); Žygimantas užėmė Trakai (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "437556-438095; hash=28c2c162913141496293f76f2426c47f7129f36cc1c5c52ceb6c037b1dd138fb; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -382,7 +381,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-023
   global_id: t-176954
   teiginys: "Apie rugpjūčio 28 d. Žygimantas slapta nužygiavo į Ašmeną ir įsiveržė į Švitrigailos dvarą, bet jo ten neberado."
-  semantiniai_rysiai: "Žygimantas keliavo į Ašmena (0.93); Žygimantas užėmė Vilnius (0.90); Žygimantas užėmė Trakai (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "437556-438095; hash=28c2c162913141496293f76f2426c47f7129f36cc1c5c52ceb6c037b1dd138fb; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -1196,10 +1194,10 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
-- Buvo kelionės vieta: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Puolė Ašmeną: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]], [[objektai/asmenys/Žygimantas]]
+- Puolė Ašmeną: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]]
 - Užėmė Ašmeną: [[objektai/asmenys/Švitrigaila]]
-- Buvo žygio kryptis: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Petrašu Montgirdaitis]], [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]], [[objektai/asmenys/Žygimantas]]
+- Buvo žygio kryptis: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Petrašu Montgirdaitis]], [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]]
 - Gyvenamoji vieta: [[objektai/asmenys/Mangaila iš Ašmenos]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]]
 - Ašmena priklausė [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]

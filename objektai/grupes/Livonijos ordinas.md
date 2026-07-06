@@ -923,7 +923,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 - t-083
   global_id: t-179411
   teiginys: "Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės."
-  semantiniai_rysiai: "Mykolas kariavo prieš Švitrigaila (0.90); Lenkai kariavo prieš Švitrigaila (0.84); Lietuviai kariavo prieš Švitrigaila (0.84); Mykolas kariavo prieš Livonijos ordinas (0.78)"
+  semantiniai_rysiai: "Lenkai kariavo prieš Švitrigaila (0.84); Lietuviai kariavo prieš Švitrigaila (0.84)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "445551-446229; hash=9555219a64bbf6c2a7330a0bcd9f29602cbc99ccfd04c9dd4d4fdeb52c539369; match=exact"
   sprendimo_priezastis: "auto"
@@ -4357,7 +4357,6 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Švitrigaila]]
-- Kariavo prieš: [[objektai/asmenys/Mykolas]]
 - Sudarė sutartį su: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Livonijos ordinas keliavo į [[objektai/vietos/Semba]]
 - Livonijos ordinas puolė [[objektai/vietos/Kulių (Jurgaičių) pilys]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Šiaulių žemė]], [[objektai/vietos/Šiaurės Žemaitija]], [[objektai/vietos/Vitebskas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

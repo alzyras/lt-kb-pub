@@ -170,14 +170,3 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
   pagrindzia:
     - t-64009
     - t-64008
-
-## Ryšiai
-- Tėvai: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
-- Kariavo prieš: [[objektai/asmenys/Kazimieras Jogailaitis]]
-- Mykolas keliavo į [[objektai/vietos/Mazovija]]
-- Mykolas mirė [[objektai/vietos/Maskva]]
-- Mykolas puolė [[objektai/vietos/Severskas]], [[objektai/grupes/Totoriai]]
-- Mykolas užėmė [[objektai/vietos/Serpeiskas]], [[objektai/vietos/Starodubas]]
-- Mykolas kariavo prieš [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Švitrigaila]]
-- Mykolas dalyvavo mūšyje [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
-- Mykolas gyveno [[objektai/vietos/Kijevas]]

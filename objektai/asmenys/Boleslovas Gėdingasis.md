@@ -67,7 +67,6 @@ media_all_json: |-
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Boleslovas Gėdingasis rėmė Danielius (0.86); Danielius buvo sąjungininkas su Ziemovitas (0.75)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "231522-231718; hash=6c524e56c80a8e13a00f63a37bdca293e1908d8ed062567e4eb82fa63d72b17c; match=exact"
   sprendimo_priezastis: "auto"
@@ -170,4 +169,3 @@ media_all_json: |-
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/grupes/Galindai]], [[objektai/grupes/Jotvingiai]]
-- Boleslovas Gėdingasis rėmė [[objektai/asmenys/Danielius]]

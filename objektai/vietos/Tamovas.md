@@ -59,7 +59,6 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
   global_id: t-187352
   teiginys: "Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Steponas surengė žygį į Tamovas (0.80)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "265417-265881; hash=396b6b744fe3f5b7ed9ed455a9b03432da34f9ed8a75bbbafbe77a5b97ae6dd0; match=exact"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -80,7 +79,6 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
   global_id: t-187352
   teiginys: "Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Steponas surengė žygį į Tamovas (0.80)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "265417-265881; hash=396b6b744fe3f5b7ed9ed455a9b03432da34f9ed8a75bbbafbe77a5b97ae6dd0; match=exact"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -123,7 +121,6 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Steponas surengė žygį į Tamovas (0.82); Steponas surengė žygį į Kamenecas (0.78); Steponas surengė žygį į Lvovas (0.78)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "265417-265881; hash=396b6b744fe3f5b7ed9ed455a9b03432da34f9ed8a75bbbafbe77a5b97ae6dd0; match=exact"
   sprendimo_priezastis: "auto"
@@ -207,6 +204,3 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
     - t-187350
     - t-187658
     - t-194040
-
-## Ryšiai
-- Buvo žygio kryptis: [[objektai/asmenys/Steponas]]

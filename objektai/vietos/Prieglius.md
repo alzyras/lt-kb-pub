@@ -405,5 +405,4 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
     - t-58371
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Brunonas]]
 - Užėmė Prieglių: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -633,7 +633,6 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytenis kariavo prieš Pilypas (0.72)"
   temporaliniai_duomenys: "įvykio data: 1305 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo nutrūkęs; citata remia aiškų Vytenio veiksmą."
@@ -2202,7 +2201,7 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
     - t-194017
 
 ## Ryšiai
-- Tėvai: [[objektai/asmenys/Liutauras]], [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
+- Tėvai: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - Broliai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Sąjungininkai: [[objektai/grupes/Rygiečiai]]
 - Vytenis (valdovas, XIII–XIV a.) buvo valdovas [[objektai/vietos/Lietuva]]
@@ -2213,7 +2212,7 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
 - Vytenis (valdovas, XIII–XIV a.) apgulė [[objektai/vietos/Kristmemelis]]
 - Vytenis (valdovas, XIII–XIV a.) užėmė [[objektai/vietos/Drohičinas]], [[objektai/vietos/Lenčica]], [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.)]]
 - Vytenis (valdovas, XIII–XIV a.) surengė žygį į [[objektai/vietos/Lenčica]], [[objektai/vietos/Livonija]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Sandomiras]]
-- Vytenis (valdovas, XIII–XIV a.) kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Pilypas]]
+- Vytenis (valdovas, XIII–XIV a.) kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]]
 - Vytenis (valdovas, XIII–XIV a.) dalyvavo mūšyje [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]
 - Vytenis (valdovas, XIII–XIV a.) gyveno [[objektai/vietos/Ariogala]], [[objektai/vietos/Kumanų žemė]], [[objektai/vietos/Lietuva]]
 - Vytenis (valdovas, XIII–XIV a.) paskyrė [[objektai/grupes/Pranciškonų ordinas]], [[objektai/asmenys/Surminas]]

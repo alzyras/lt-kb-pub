@@ -1473,7 +1473,7 @@ media_all_json: |-
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytenis buvo sūnus Liutauras (0.95); Vytenis gimė Žemaitija (0.95); Vytenis gyveno Ariogala (0.93); Vytenis valdė Polockas (0.88); Liutauras valdė Polockas (0.76)"
+  semantiniai_rysiai: "Vytenis gimė Žemaitija (0.95); Vytenis gyveno Ariogala (0.93); Vytenis valdė Polockas (0.88)"
   temporaliniai_duomenys: "gimimo data: 1232 m.; gyvenimo laikotarpis: 1232 m.; valdymo laikotarpis: 1232 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vytenis gimė Žemaitija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytenis buvo sūnus Liutauras“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytenis gyveno Ariogala“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Ilgas biografinis fragmentas sutrauktas į vieną sakinį apie Vytenį ir Žemaitiją. Nepridėta detalių už citatos ribų, o chronologinis pasakojimas paliktas su atribucija."

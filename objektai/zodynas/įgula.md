@@ -33,7 +33,6 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Skomantas užėmė Gardinas (0.96)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "267286-267637; hash=9e5a1d474a5a30ea10687499e7e0a5f866cec07554ae6c1bfa0fd224b82f3c7a; match=exact"
   sprendimo_priezastis: "auto"

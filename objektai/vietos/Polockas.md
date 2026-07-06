@@ -1259,7 +1259,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuvos ponai siuntė į Polockas (0.78); Lietuvos ponai paskyrė Liutauras (0.62)"
+  semantiniai_rysiai: "Lietuvos ponai siuntė į Polockas (0.78)"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   saltinio_vieta: "362620-363124; hash=0c321c6e4db0c2f2d7087b2ddacef5c4d11e60a7e70bad1c82c742eb01f98b25; match=exact"
   sprendimo_priezastis: "auto"
@@ -3682,12 +3682,12 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Skirgaila]]
-- Buvo valdoma: [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/asmenys/Ginvilas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Liutauras]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Buvo valdoma: [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/asmenys/Ginvilas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
 - Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]], [[objektai/asmenys/Rostislavas Rogvoldovičius]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]]
 - Puolė Polocką: [[objektai/asmenys/Gabrielius Bekešas]], [[objektai/asmenys/Mechmet Girėjus]], [[objektai/grupes/Pskoviečiai]], [[objektai/grupes/Totoriai]]
 - Apgulė Polocką: [[objektai/asmenys/Ivanas Rūstusis]], [[objektai/asmenys/Skirgaila]]
 - Užėmė Polocką: [[objektai/asmenys/Skirgaila]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Augustas]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Lietuvos ponai]], [[objektai/asmenys/Treniota]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Lietuvos ponai]]
 - Buvo žygio kryptis: [[objektai/asmenys/Florijonas Zebžidovskis]], [[objektai/grupes/Rusijos kariuomenė]], [[objektai/grupes/Totoriai]]
 - Prekiavo su: [[objektai/vietos/Ryga]]
 - Gyvenamoji vieta: [[objektai/grupes/Rusai]], [[objektai/asmenys/Tautvilas]]

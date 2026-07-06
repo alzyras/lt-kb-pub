@@ -33,7 +33,6 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Aleksandras paskyrė Jonas Černinas (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "993263-993569; hash=d9a6c54fbb36f5dc18aa4ed3a6ce95c4280f1fffaa9513a101879a377edafd00; match=exact"
   sprendimo_priezastis: "auto"
@@ -84,6 +83,3 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186219
-
-## Ryšiai
-- Paskyrė Jonas Černiną: [[objektai/asmenys/Aleksandras]]

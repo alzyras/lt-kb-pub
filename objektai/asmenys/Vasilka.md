@@ -82,7 +82,6 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vasilka buvo sąjungininkas su Ziemovitas (0.70)"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   saltinio_vieta: "233034-233403; hash=6f8ecbe9728db82bb9b3a1ca6615b03b489d430b7ec851381bad10393233b5fc; match=exact"
   sprendimo_priezastis: "auto"
@@ -293,7 +292,6 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
     - t-194005
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Ziemovitas]]
 - Vasilka keliavo į [[objektai/vietos/Voluinės Vladimiras]]
 - Vasilka siuntė į [[objektai/vietos/Haličas]]
 - Vasilka kariavo prieš [[objektai/grupes/Jotvingiai]]

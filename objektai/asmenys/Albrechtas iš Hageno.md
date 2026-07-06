@@ -42,7 +42,7 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
 - t-001
   global_id: t-60004
   teiginys: "Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių."
-  semantiniai_rysiai: "Albrechtas iš Hageno kariavo prieš Lietuviai (0.72); Konradas buvo sąjungininkas su Albrechtas iš Hageno (0.70); Albrechtas iš Hageno gynė Skalviai (0.63)"
+  semantiniai_rysiai: "Albrechtas iš Hageno kariavo prieš Lietuviai (0.72); Albrechtas iš Hageno gynė Skalviai (0.63)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "578323-579028; hash=7399529ef4181162f50fa6dad9e68adc614d71696ccd8b918dbcaa0d57d3e6db; match=exact"
   sprendimo_priezastis: "auto"
@@ -233,7 +233,6 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
     - t-60004
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Konradas]]
 - Albrechtas iš Hageno puolė [[objektai/vietos/Gardinas]], [[objektai/asmenys/Sudargas]]
 - Albrechtas iš Hageno gynė [[objektai/grupes/Skalviai]]
 - Albrechtas iš Hageno kariavo prieš [[objektai/grupes/Lietuviai]]

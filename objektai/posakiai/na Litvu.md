@@ -43,7 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-31562
   teiginys: "„Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą („na Litvu“), bet jo eigos neaprašė."
-  semantiniai_rysiai: "Jaroslavas surengė žygį į Lietuva (0.95); Jaroslavas pastatė Naugardukas (0.90)"
   temporaliniai_duomenys: "įvykio data: 1040 m.; įvykio data: 1044 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -63,7 +62,6 @@ media_all_json: |-
 - t-002
   global_id: t-31563
   teiginys: "1131-1132 m. Kijevo Mstislavas esą dvejus metus iš eilės rengė žygius į Lietuvą („na Litvu“)."
-  semantiniai_rysiai: "Jaroslavas surengė žygį į Lietuva (0.88)"
   temporaliniai_duomenys: "įvykio data: 1131 m.; įvykio data: 1131-1132; įvykio data: 1132 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"

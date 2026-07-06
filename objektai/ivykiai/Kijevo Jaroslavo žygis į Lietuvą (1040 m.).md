@@ -58,7 +58,6 @@ Nenurodyta
 - t-003
   global_id: t-47770
   teiginys: "Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą, bet jo eiga metraštyje neaprašyta."
-  semantiniai_rysiai: "Jaroslavas surengė žygį į Lietuva (0.91)"
   temporaliniai_duomenys: "įvykio data: 1040 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -78,7 +77,6 @@ Nenurodyta
 - t-005
   global_id: t-47771
   teiginys: "XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą."
-  semantiniai_rysiai: "Jaroslavas surengė žygį į Lietuva (0.91)"
   temporaliniai_duomenys: "įvykio data: 1040 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata."

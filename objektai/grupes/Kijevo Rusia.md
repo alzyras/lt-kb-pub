@@ -40,7 +40,7 @@ Kijevo Rusia šiame šaltinyje minima kaip 988 m. Bizantijos krikštą priėmęs
 - t-020
   global_id: t-181458
   teiginys: "XI a. Lietuva patyrė Kijevo Rusios agresiją."
-  semantiniai_rysiai: "Jaroslavas surengė žygį į Lietuva (0.94); Kijevo Rusia puolė Lietuva (0.86)"
+  semantiniai_rysiai: "Kijevo Rusia puolė Lietuva (0.86)"
   temporaliniai_duomenys: "įvykio data: 1040 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, aiškus ir tiesiogiai paremtas citata."

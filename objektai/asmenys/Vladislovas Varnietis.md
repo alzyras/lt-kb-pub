@@ -44,7 +44,6 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
 - t-001
   global_id: t-87886
   teiginys: "Mirus Jogailai, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės į Didžiąją Kunigaikštystę."
-  semantiniai_rysiai: "Vladislovas Varnietis rėmė Žygimantas (0.62)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "448930-449428; hash=4e8c2b54eaaa424d853f9409cf51975d6847860215ed1b3013d520c22b256c5f; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -241,4 +240,3 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
 
 ## Ryšiai
 - Vladislovas Varnietis sudarė sutartį su [[objektai/asmenys/Rusdorfas]]
-- Vladislovas Varnietis rėmė [[objektai/asmenys/Žygimantas]]

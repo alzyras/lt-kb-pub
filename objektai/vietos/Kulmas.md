@@ -1520,7 +1520,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - Apgulė Kulmą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Gynė Kulmą: [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo (karvedys, XIII a.)]], [[objektai/asmenys/Hermanas ton Senenbergas]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
-- Buvo žygio kryptis: [[objektai/asmenys/Divanas]], [[objektai/asmenys/Herkus Mantas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Linkas]], [[objektai/asmenys/Skomantas]], [[objektai/grupes/Sūduviai]], [[objektai/asmenys/Sventopelkas]], [[objektai/asmenys/Treniota]], [[objektai/asmenys/Vladislovas Lokietka]]
+- Buvo žygio kryptis: [[objektai/asmenys/Divanas]], [[objektai/asmenys/Herkus Mantas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Linkas]], [[objektai/grupes/Sūduviai]], [[objektai/asmenys/Sventopelkas]], [[objektai/asmenys/Vladislovas Lokietka]]
 - Buvo užkariauta: [[objektai/asmenys/Sventopelkas]]
 - Gyvenamoji vieta: [[objektai/asmenys/Bertoldas iš Nordhauzeno]], [[objektai/grupes/Lenkai]]
 - Turėjo priklausinį: [[objektai/vietos/Lubava]], [[objektai/daiktai/Pilys]], [[objektai/vietos/Sasava (Salavijos tvirtovė)]], [[objektai/vietos/Vartenbergas]]

@@ -93,4 +93,4 @@ Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų 
     - t-186226
 
 ## Ryšiai
-- Tėvai: [[objektai/asmenys/Levas (Haličo kunigaikštis)]], [[objektai/asmenys/Sviatoslavas]]
+- Tėvai: [[objektai/asmenys/Sviatoslavas]]

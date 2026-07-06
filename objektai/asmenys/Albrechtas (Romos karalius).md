@@ -86,7 +86,6 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
 - t-002
   global_id: t-63418
   teiginys: "Dusburgietis pasakoja, kad 1307 m. Albrechtas į Čekijos sostą pakėlė savo sūnų."
-  semantiniai_rysiai: "Albrechtas (Romos karalius) paskyrė Albrechtas (0.55)"
   temporaliniai_duomenys: "įvykio data: 1307 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -127,7 +126,6 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
 - t-005
   global_id: t-63420
   teiginys: "Romos karalius Albrechtas pakėlė savo sūnų į Čekijos sostą, kai po Vaclovo ir jo sūnaus mirties sostas liko be įpėdinių."
-  semantiniai_rysiai: "Albrechtas (Romos karalius) paskyrė Albrechtas (0.55)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "736876-737268; hash=5dc9fb2f76a91b76f38088522f5305d715a787bf595f2217bbb19bc4a51dc91c; match=exact"
   sprendimo_priezastis: "auto"
@@ -270,4 +268,3 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
 ## Ryšiai
 - Paskyrė Albrechtą (Romos karalius): [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]
 - Albrechtas (Romos karalius) valdė [[objektai/vietos/Prancūzija]]
-- Albrechtas (Romos karalius) paskyrė [[objektai/asmenys/Albrechtas]]

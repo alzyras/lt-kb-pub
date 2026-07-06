@@ -495,7 +495,6 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     - t-185005
 
 ## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Konradas]]
 - Buvo valdoma: [[objektai/asmenys/Zemislovas]]
 - Buvo kelionės vieta: [[objektai/asmenys/Gedgaudas]], [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - Puolė Lenčicą: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

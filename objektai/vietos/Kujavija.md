@@ -48,7 +48,6 @@ media_all_json: |-
 - t-005
   global_id: t-90737
   teiginys: "Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis."
-  semantiniai_rysiai: "Konradas buvo valdovas Kujavija (0.93); Konradas buvo valdovas Lenčica (0.93); Konradas buvo valdovas Krokuva (0.86)"
   temporaliniai_duomenys: "valdymo pradžia: po 1202 m.; valdymo pradžia: 1202 m.; valdymo pradžia: 1243 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Konradas buvo valdovas Lenčica“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys glaustai perteikia išnašoje pateiktą informaciją apie Konradą."
@@ -136,7 +135,6 @@ media_all_json: |-
 - t-004
   global_id: t-90742
   teiginys: "Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai veikė Prūsijos vyskupas Kristijonas."
-  semantiniai_rysiai: "Konradas valdė Kujavija (0.94); Konradas valdė Lenkija (0.92)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "128337-128985; hash=455a79b5f119cea3db2cbb1c4e1373df81e0d68fa6629d7a391c5e6395977a37; match=exact"
   sprendimo_priezastis: "auto"
@@ -214,7 +212,6 @@ media_all_json: |-
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Konradas valdė Kujavija (0.94); Konradas valdė Lenkija (0.92)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "128337-128985; hash=455a79b5f119cea3db2cbb1c4e1373df81e0d68fa6629d7a391c5e6395977a37; match=exact"
   sprendimo_priezastis: "auto"
@@ -687,9 +684,8 @@ media_all_json: |-
     - t-192679
 
 ## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Konradas]]
-- Buvo valdoma: [[objektai/asmenys/Konradas]], [[objektai/asmenys/Zemislovas]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- Buvo valdoma: [[objektai/asmenys/Zemislovas]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - Buvo kelionės vieta: [[objektai/grupes/Herulai]], [[objektai/grupes/Lietuviai]]
-- Puolė Kujaviją: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Skomantas]], [[objektai/asmenys/Sventopelkas]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Puolė Kujaviją: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Sventopelkas]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
 - Turėjo priklausinį: [[objektai/vietos/Sedlcai]]
 - Kujavija priklausė [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]

@@ -604,7 +604,6 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - t-072
   global_id: t-180617
   teiginys: "Trakuose sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje."
-  semantiniai_rysiai: "Žygimantas mirė Trakai (0.90); Žygimantas buvo palaidotas Vilnius (0.86)"
   temporaliniai_duomenys: "įvykio data: 1440 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paremtas nurodyta citata."
@@ -884,7 +883,6 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - t-098
   global_id: t-180633
   teiginys: "Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje."
-  semantiniai_rysiai: "Žygimantas mirė Trakai (0.90)"
   temporaliniai_duomenys: "įvykio data: 1440 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pirminiame teiginyje įvardis „jis“ gali būti dviprasmis."
@@ -1051,7 +1049,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - t-041
   global_id: t-180645
   teiginys: "Rugpjūčio 3 d. Kęstučiui su Vytautu ir Liubartu atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai."
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.92); Liubartas keliavo į Trakai (0.78)"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.92)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "757687-757966; hash=f77ec0f6d5be675320fd70eff54161ad9351844b5fd77a3c47177609570b522f; match=exact"
   sprendimo_priezastis: "auto"
@@ -5791,12 +5789,12 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
-- Buvo kelionės vieta: [[objektai/asmenys/Birutė]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Kazimieras Jogailaitis]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Liubartas]], [[objektai/grupes/Maskvos kunigaikštystė]], [[objektai/grupes/Mazovijos kunigaikščiai]], [[objektai/asmenys/Snorro Sturleson]], [[objektai/asmenys/Šich Achmetas]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]], [[objektai/asmenys/Vasilijus Vasiljevičius]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/grupes/Žemaičiai]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
-- Mirties vieta: [[objektai/asmenys/Ona (Vytauto žmona)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Birutė]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Kazimieras Jogailaitis]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Maskvos kunigaikštystė]], [[objektai/grupes/Mazovijos kunigaikščiai]], [[objektai/asmenys/Snorro Sturleson]], [[objektai/asmenys/Šich Achmetas]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]], [[objektai/asmenys/Vasilijus Vasiljevičius]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/grupes/Žemaičiai]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- Mirties vieta: [[objektai/asmenys/Ona (Vytauto žmona)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
 - Buvo pastatyta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Puolė Trakai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Skirgaila]]
 - Apgulė Trakai: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/grupes/Vytauto šalininkai]]
-- Užėmė Trakai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Kazokai]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Skirgaila]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Totorių pajėgos]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]]
+- Užėmė Trakai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Kazokai]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Skirgaila]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Totorių pajėgos]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Gynė Trakai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo siuntimo vieta: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo žygio kryptis: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

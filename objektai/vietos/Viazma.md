@@ -47,7 +47,6 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 - t-002
   global_id: t-69558
   teiginys: "Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos paliaubos."
-  semantiniai_rysiai: "Vosylius sudarė sutartį su Vytautas (Lietuvos valdovas, XIV–XV a.) (0.91)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "877628-877913; hash=2b510183fce5e4dc9eadb2ef30157425d1640283c2b0766dbfb60d27bb405393; match=exact"
   sprendimo_priezastis: "auto"

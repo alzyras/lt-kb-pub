@@ -66,7 +66,6 @@ Nenurodyta
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Skomantas puolė Liubava (0.90); Skomantas puolė Kulmas (0.90); Skomantas puolė Kujavija (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "224658-225052; hash=a0cc75f046eedb96ccff121203b26f2f8012867df4e2b91eb502a745eebe69aa; match=exact"
   sprendimo_priezastis: "auto"

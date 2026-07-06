@@ -115,7 +115,3 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40086
-
-## Ryšiai
-- Dmitrijus kariavo prieš [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Dmitrijus gyveno [[objektai/vietos/Kremlius]]

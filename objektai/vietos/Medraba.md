@@ -50,7 +50,6 @@ Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygia
 - t-001
   global_id: t-58595
   teiginys: "Brolis Bertoldas su tūkstančiu Sembos vyrų užpuolė Medrabos pilį, ją sudegino, o žmones išžudė arba paėmė į nelaisvę."
-  semantiniai_rysiai: "Bertoldas puolė Medraba (0.93)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "567315-567799; hash=76e8bee7be7da94dae5261dd4e9eff86e40bcfeec260b2b55a50cff480081f7c; match=exact"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygia
 - t-001
   global_id: t-58595
   teiginys: "Brolis Bertoldas su tūkstančiu Sembos vyrų užpuolė Medrabos pilį, ją sudegino, o žmones išžudė arba paėmė į nelaisvę."
-  semantiniai_rysiai: "Bertoldas puolė Medraba (0.93)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "567315-567799; hash=76e8bee7be7da94dae5261dd4e9eff86e40bcfeec260b2b55a50cff480081f7c; match=exact"
   sprendimo_priezastis: "auto"
@@ -185,5 +183,5 @@ Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygia
     - t-58595
 
 ## Ryšiai
-- Puolė Medrabą: [[objektai/asmenys/Bertoldas]], [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
-- Užėmė Medrabą: [[objektai/asmenys/Bertoldas]], [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
+- Puolė Medrabą: [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
+- Užėmė Medrabą: [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]

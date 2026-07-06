@@ -1095,6 +1095,5 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Gotai]], [[objektai/grupes/Hiriai]], [[objektai/asmenys/Kaidanas]], [[objektai/grupes/Slavai]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Julijonas]]
 - Gyvenamoji vieta: [[objektai/grupes/Agatirai]], [[objektai/grupes/Budinai]], [[objektai/grupes/Gelonai]], [[objektai/grupes/Graikai]], [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Kujavai]], [[objektai/grupes/Pelazgai]], [[objektai/grupes/Roksolanai]], [[objektai/grupes/Sarmatai]]
 - Turėjo priklausinį: [[objektai/vietos/Gerų kraštas]], [[objektai/vietos/Lojevas]]

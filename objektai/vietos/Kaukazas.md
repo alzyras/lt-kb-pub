@@ -189,6 +189,5 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
     - t-192669
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Liudvikas]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Liudvikas Narbutas]]
 - Gyvenamoji vieta: [[objektai/grupes/Kolchai]]

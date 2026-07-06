@@ -45,7 +45,7 @@ Nenurodyta
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Teodorikas užėmė Milanas (0.90); Teodorikas užėmė Pavija (0.90); Teodorikas kariavo prieš Odoakras (0.75); Gotai dalyvavo mūšyje Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m (0.70)"
+  semantiniai_rysiai: "Gotai dalyvavo mūšyje Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m (0.70)"
   temporaliniai_duomenys: "įvykio data: 489 m; mūšio data: 489 m"
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Teodorikas užėmė Milanas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Teodorikas užėmė Pavija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gotai dalyvavo mūšyje Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Spėjama priežastis palikta su atribucija, nes citatoje vartojama abejonė. Nepridėta platesnio kampanijos konteksto už nurodytus miestus ir rezultatą."

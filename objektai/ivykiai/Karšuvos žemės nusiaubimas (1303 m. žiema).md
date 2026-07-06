@@ -55,7 +55,6 @@ Nenurodyta
   global_id: t-62821
   teiginys: "1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Konradas puolė Karšuva (0.90)"
   temporaliniai_duomenys: "pastatymo data: 1303 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiksliai atitinka citatos duomenis."
@@ -77,7 +76,6 @@ Nenurodyta
   global_id: t-62821
   teiginys: "1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Konradas puolė Karšuva (0.90)"
   temporaliniai_duomenys: "pastatymo data: 1303 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiksliai atitinka citatos duomenis."

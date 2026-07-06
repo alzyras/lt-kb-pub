@@ -38,7 +38,6 @@ Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo Annales Quedlinbur
 - t-001
   global_id: t-31616
   teiginys: "„Annales Quedlinburgenses“ pirmieji paminėjo Lietuvos vardą, pažymėdami, kad 1009 m. prie Lietuvos ir Rusijos sienos nužudytas šv. Brunonas su 18 palydovų."
-  semantiniai_rysiai: "Brunonas mirė Lietuva (0.62); Brunonas mirė Rusija (0.62)"
   temporaliniai_duomenys: "įvykio data: 1009 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata."

@@ -285,7 +285,3 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
     - t-47958
     - t-47955
     - t-47954
-
-## Ryšiai
-- Sūnūs: [[objektai/asmenys/Jurgis (Lengvenio sūnus)]]
-- Paskyrė Lengvenį: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

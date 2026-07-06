@@ -146,7 +146,6 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 - t-010
   global_id: t-72613
   teiginys: "Kazimiero viešpatavimo metu Ponų taryba sustiprėjo ir, išrinkusi Aleksandrą, pareikalavo nustatyti jos kompetencijos ribas."
-  semantiniai_rysiai: "Ponų taryba (institucija) paskyrė Aleksandras (0.82)"
   temporaliniai_duomenys: "įvykio data: 1492 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
@@ -880,4 +879,4 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 
 ## Ryšiai
 - Ponų taryba (institucija) siuntė į [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]
-- Ponų taryba (institucija) paskyrė [[objektai/asmenys/Aleksandras]], [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- Ponų taryba (institucija) paskyrė [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]

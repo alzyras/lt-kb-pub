@@ -84,7 +84,6 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
   global_id: t-187341
   teiginys: "Moldavijos vaivada Steponas sustiprino savo sostinę Sučiavos pilį ir kitus miestus, palikdamas juose įgulas."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Steponas buvo valdovas Moldavija (0.90)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "261007-261544; hash=01c98413802b1cc0aed2aa46aadcd5aac8de3d6cb2311dae77d706fb485a0a19; match=exact"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -319,4 +318,3 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
 
 ## Ryšiai
 - Puolė Sučiavą: [[objektai/grupes/Turkijos kariuomenė]]
-- Gynė Sučiavą: [[objektai/asmenys/Steponas]]

@@ -33,7 +33,6 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
 - t-001
   global_id: t-39674
   teiginys: "Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje."
-  semantiniai_rysiai: "Dmitrijus gyveno Kremlius (0.64)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "191177-191491; hash=ae8b40a4f6b202ddf830f4bb7459c39c5dccae30eb0e896392499af614906432; match=exact"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Dmitrijus gyveno Kremlius (0.64)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "191052-191438; hash=7966b4a9f4eb6505550fe85e87caca54ec5a14a424860cb7b64f06ed2590b35b; match=exact"
   sprendimo_priezastis: "auto"

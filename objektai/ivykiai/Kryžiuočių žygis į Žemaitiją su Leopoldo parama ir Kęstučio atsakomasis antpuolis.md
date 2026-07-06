@@ -45,7 +45,6 @@ Nenurodyta
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Leopoldas rėmė Kryžiuočių ordinas (0.88)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "439609-440270; hash=cf0e7d27bba211289802091b36dfe7e01511cedfcca08ae44976daee1477f55c; match=exact"
   sprendimo_priezastis: "auto"

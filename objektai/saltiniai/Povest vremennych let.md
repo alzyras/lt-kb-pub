@@ -61,7 +61,6 @@ PVL = Povest’ vremennych let, cast’ pervaja. Štai, XII amž. pradžioje sur
 - t-002
   global_id: t-29722
   teiginys: "XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą."
-  semantiniai_rysiai: "Jaroslavas surengė žygį į Lietuva (0.93); Jaroslavas pastatė Naugardukas (0.86)"
   temporaliniai_duomenys: "įvykio data: 1040 m.; įvykio data: 1044 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata patvirtina šaltinio datavimą ir minimą 1040 m. žygį."

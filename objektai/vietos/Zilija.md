@@ -34,7 +34,6 @@ Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir 
 - t-001
   global_id: t-58659
   teiginys: "Konradas iš Tirbergo su Ordino kariuomene įsiveržė į Sūduvos valsčių Ziliją ir jį nusiaubė."
-  semantiniai_rysiai: "Konradas puolė Zilija (0.92)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "528177-529228; hash=2d73fb39934e2e6160521243a06365c5368f6cb86ab77316a66a32dbc5b25ba9; match=ocr_normalized_gapped"
   sprendimo_priezastis: "auto"
@@ -107,6 +106,3 @@ Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58659
-
-## Ryšiai
-- Puolė Ziliją: [[objektai/asmenys/Konradas]]

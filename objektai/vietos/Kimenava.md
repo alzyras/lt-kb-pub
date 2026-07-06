@@ -120,4 +120,3 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Gedetas]]
-- Puolė Kimenavą: [[objektai/asmenys/Konradas]]

@@ -59,7 +59,6 @@ Nenurodyta
   global_id: t-186577
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas pasiuntė Simoną Lengvenį su didele kariuomene ir Smolensko pajėgomis prieš Riazanės kunigaikštį Olegą."
   teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė Lengvenis (0.80)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "171388-171969; hash=c8bc5a4fa6c20b982ee44a7b2761d59d013088166304399a188ef58008c5d05c; match=exact"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -78,7 +77,7 @@ Nenurodyta
   global_id: t-186578
   teiginys: "Lietuvos metraštis pasakoja, kad 1396 m. Vytautas prieš Riazanės kunigaikštį Olegą pasiuntė Simoną Lengvenį su Smolensko pajėgomis."
   teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Riazanė (0.87); Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė Lengvenis (0.80)"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Riazanė (0.87)"
   temporaliniai_duomenys: "įvykio data: 1396 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir išlaikyta šaltinio atribucija."

@@ -43,7 +43,7 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - t-006
   global_id: t-113785
   teiginys: "Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos."
-  semantiniai_rysiai: "Žygimantas puolė Švitrigaila (0.88); Goštautas (vyskupas, XV a.) buvo sąjungininkas su Žygimantas (0.84); Goštautas (vyskupas, XV a.) keliavo į Ašmena (0.72)"
+  semantiniai_rysiai: "Goštautas (vyskupas, XV a.) keliavo į Ašmena (0.72)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "436404-437940; hash=3aa0ec0c924649780a0a8a2fc26c76528679c9a750698704c0c43deee41afb17; match=ocr_normalized_gapped"
   sprendimo_priezastis: "auto"
@@ -681,7 +681,6 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     - t-184709
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Žygimantas]]
 - Paskyrė Goštautą (vyskupas, XV a.): [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - Goštautas (vyskupas, XV a.) valdė [[objektai/vietos/Podolė]]
 - Goštautas (vyskupas, XV a.) keliavo į [[objektai/vietos/Alšėnai]], [[objektai/vietos/Ašmena]], [[objektai/vietos/Korčinas]], [[objektai/vietos/Tikocinas]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Voložinas]]

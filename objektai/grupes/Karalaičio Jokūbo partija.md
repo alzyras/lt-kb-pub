@@ -32,7 +32,6 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
 - t-001
   global_id: t-01344
   teiginys: "Dauguma Karalaičio Jokūbo partijos šalininkų perėjo į Augusto pusę."
-  semantiniai_rysiai: "Karalaičio Jokūbo partija rėmė Augustas (0.82)"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   saltinio_vieta: "750409-750712; hash=3c0c8fe0285aaada4729a8fe14a4b8b5bca6d64df24ebafbc4a334f8a10ab526; match=exact"
   sprendimo_priezastis: "auto"
@@ -147,6 +146,3 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193096
-
-## Ryšiai
-- Karalaičio Jokūbo partija rėmė [[objektai/asmenys/Augustas]]

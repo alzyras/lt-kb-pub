@@ -63,7 +63,6 @@ Nenurodyta
   global_id: t-186714
   teiginys: "Komentare nurodoma, kad Jogailos krikštas įvyko 1386 m. vasario 15 d., jungtuvės su Jadvyga vasario 18 d., o vainikavimas kovo 4 d."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) vedė Jadvyga (0.96)"
   temporaliniai_duomenys: "įvykio data: 1385 m.; įvykio data: 1386 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pridėtas trūkstamas skyrybos ženklas ir išlaikyta komentaro atribucija."
@@ -85,7 +84,7 @@ Nenurodyta
   global_id: t-186715
   teiginys: "Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą ir kovo 4 d. vainikuotas Lenkijos karaliumi."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) vedė Jadvyga (0.96); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Krokuva (0.94)"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Krokuva (0.94)"
   temporaliniai_duomenys: "kelionės data: 1385 m.; kelionės data: 1386 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Išskleistos citatoje pateiktos konkrečios datos ir palikta atribucija komentarui. Titulas „Lenkijos karalius“ išlaikytas kaip komentaro formuluotės dalis."

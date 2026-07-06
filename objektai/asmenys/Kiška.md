@@ -35,7 +35,6 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
 - t-001
   global_id: t-87755
   teiginys: "Krymo totoriams priartėjus prie Lydos, Aleksandras pavedė kariuomenei vadovauti etmonui Kiškai ir kunigaikščiui Glinskiui."
-  semantiniai_rysiai: "Aleksandras paskyrė Kiška (0.93)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "474960-475472; hash=d58a2c066455c2f635ebb59fca3e2839e1c72782097837084768a9aa2e16598c; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -132,4 +131,3 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
 
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Mikalojus Radvila]]
-- Paskyrė Kišką: [[objektai/asmenys/Aleksandras]]

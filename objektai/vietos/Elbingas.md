@@ -1300,6 +1300,6 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - Buvo kelionės vieta: [[objektai/asmenys/Konradas Bremeris]], [[objektai/grupes/Pagudėnai]]
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
 - Puolė Elbingą: [[objektai/grupes/Pagudėnai]], [[objektai/grupes/Sūduviai]], [[objektai/asmenys/Sventopelkas]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Hermanas]], [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]], [[objektai/asmenys/Poponas iš Osternos]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]], [[objektai/asmenys/Poponas iš Osternos]]
 - Turėjo priklausinį: [[objektai/vietos/Elbingo pilis|Elbingo pilis (pilis)]], [[objektai/daiktai/Kryžius]], [[objektai/vietos/Pagudė]]
 - Elbingas priklausė [[objektai/grupes/Kryžiuočių ordinas]]

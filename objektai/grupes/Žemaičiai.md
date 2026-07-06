@@ -953,7 +953,6 @@ media_all_json: |-
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Žemaičiai rėmė Treniota (0.88); Naugardukiečiai rėmė Treniota (0.73)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "181105-181490; hash=c4542dbf08167be8bbc66e16317bf656858e1ed7b39cb13f5ff9b2cc5dca688c; match=exact"
   sprendimo_priezastis: "auto"
@@ -4445,4 +4444,4 @@ media_all_json: |-
 - Žemaičiai sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Žemaičiai prekiavo su [[objektai/vietos/Dancigas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Prūsai]]
 - Žemaičiai priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Vokiečiai]]
-- Žemaičiai rėmė [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Mykolas (Žygimanto sūnus)]], [[objektai/grupes/Sūduvos prūsai]], [[objektai/asmenys/Treniota]]
+- Žemaičiai rėmė [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Mykolas (Žygimanto sūnus)]], [[objektai/grupes/Sūduvos prūsai]]

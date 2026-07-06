@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-186583
   teiginys: "Lietuvos metraštis pasakoja, kad prieš Vorsklos mūšį Vytautas su Tochtamyšu ištraukė prieš chaną Temir-Kutlujų su didele kariuomene."
   teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sąjungininkas su Tochtamyšas (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Totoriai (0.86)"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Totoriai (0.86)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "172287-173029; hash=a325e50148f3a5a53a5b737030a7d7d349e4c2d66b31f93ad05c8ad3ba731c23; match=exact"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"

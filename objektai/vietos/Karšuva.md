@@ -62,7 +62,6 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 - t-005
   global_id: t-90530
   teiginys: "1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus."
-  semantiniai_rysiai: "Konradas surengė žygį į Karšuva (0.93)"
   temporaliniai_duomenys: "pastatymo data: 1303 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai susijęs su Karšuva ir atitinka citatoje nurodytą įvykį."
@@ -421,8 +420,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Burchardas iš Hornhauzeno]]
-- Puolė Karšuvą: [[objektai/asmenys/Konradas]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Puolė Karšuvą: [[objektai/grupes/Kryžiuočių ordinas]]
 - Gynė Karšuvą: [[objektai/grupes/Žemaičiai]]
-- Buvo žygio kryptis: [[objektai/asmenys/Konradas]]
 - Turėjo priklausinį: [[objektai/vietos/Karšuvos sritis]], [[objektai/vietos/Karšuvos žemė]], [[objektai/vietos/Putvė]], [[objektai/vietos/Švento Jurgio pilis|Švento Jurgio pilis (pilis, XIII a.)]]
 - Karšuva priklausė [[objektai/vietos/Kuršas]]

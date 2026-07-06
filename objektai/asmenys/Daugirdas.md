@@ -184,4 +184,3 @@ Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vil
 
 ## Ryšiai
 - Daugirdas keliavo į [[objektai/vietos/Vilnius]]
-- Daugirdas užėmė [[objektai/vietos/Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)]], [[objektai/vietos/Vilniaus pilys]]

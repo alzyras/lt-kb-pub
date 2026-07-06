@@ -33,7 +33,6 @@ Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Iva
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Boleslovas puolė Michaila Ivanovičius (0.88)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "787338-787701; hash=e162690e27b011b6275016f82e1a9a7a0139729db8e4c3af6c6287ae39fb5f06; match=exact"
   sprendimo_priezastis: "auto"
@@ -88,6 +87,3 @@ Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Iva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186238
-
-## Ryšiai
-- Puolė Michaila Ivanovičių: [[objektai/asmenys/Boleslovas]]

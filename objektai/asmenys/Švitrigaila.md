@@ -247,7 +247,6 @@ media_all_json: |-
 - t-066
   global_id: t-179700
   teiginys: "1382 m. Dubysos sutarčių aktams pritarė Jogailos motina Julijona ir broliai, tarp jų Švitrigaila."
-  semantiniai_rysiai: "Švitrigaila buvo sūnus Julijona (0.80)"
   temporaliniai_duomenys: "įvykio data: 1382 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir nutrūkęs, citata palaiko trumpesnį faktą."
@@ -445,7 +444,7 @@ media_all_json: |-
 - t-056
   global_id: t-179712
   teiginys: "Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną."
-  semantiniai_rysiai: "Žygimantas užėmė Vilnius (0.95); Žygimantas užėmė Trakai (0.95); Žygimantas surengė žygį į Ašmena (0.88); Švitrigaila gyveno Ašmena (0.80)"
+  semantiniai_rysiai: "Švitrigaila gyveno Ašmena (0.80)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "436404-438095; hash=524aed87abc131f3ecace75b630e8f3ac87607902e88aca428e6bac8c0abd43d; match=ocr_normalized_gapped"
   sprendimo_priezastis: "auto"
@@ -648,7 +647,6 @@ media_all_json: |-
 - t-022
   global_id: t-179723
   teiginys: "Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse."
-  semantiniai_rysiai: "Švitrigaila buvo sūnus Julijona (0.88)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "761711-762367; hash=d5c5831d7d6e1a0e69a0c107757c0c36ab75bb51cf0bf150957924ae7113b422; match=exact"
   sprendimo_priezastis: "auto"
@@ -3395,11 +3393,10 @@ media_all_json: |-
     - t-194021
 
 ## Ryšiai
-- Tėvai: [[objektai/asmenys/Julijona]]
-- Priešai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]], [[objektai/grupes/Žygimanto šalininkai]]
+- Priešai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/grupes/Žygimanto šalininkai]]
 - Sąjungininkai: [[objektai/asmenys/Jurgis Lengvenaitis]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Žygimantas]]
-- Puolė Švitrigailą: [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]]
-- Kariavo prieš: [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mykolas]], [[objektai/asmenys/Mykolas (Žygimanto sūnus)]], [[objektai/grupes/Smolensko pulkai]], [[objektai/asmenys/Žygimantas]]
+- Puolė Švitrigailą: [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Kariavo prieš: [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mykolas (Žygimanto sūnus)]], [[objektai/grupes/Smolensko pulkai]]
 - Sudarė sutartį su: [[objektai/asmenys/Aleksas Jefremovičius]], [[objektai/asmenys/Chariničius]], [[objektai/grupes/Didžiojo Naugardo bojarinai]], [[objektai/asmenys/Ivanas Jermoliničius]], [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
 - Rėmė Švitrigailą: [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ordinas]], [[objektai/grupes/Moldovos kunigaikščiai]]
 - Švitrigaila valdė [[objektai/vietos/Černigovas]], [[objektai/vietos/Gomelis]], [[objektai/vietos/Kamenecas]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Naugardas Sieverskas]], [[objektai/vietos/Podolija]], [[objektai/vietos/Polockas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Voluinė]]

@@ -51,7 +51,6 @@ Nenurodyta
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Mykolas puolė Severskas (0.90)"
   temporaliniai_duomenys: "įvykio data: 1448 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys apie įvykį."

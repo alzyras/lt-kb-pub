@@ -154,5 +154,4 @@ Nenurodyta
 ## Ryšiai
 - Puolė Kremlių: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Apgulė Kremlių: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Gyvenamoji vieta: [[objektai/asmenys/Dmitrijus]]
 - Kremlius priklausė [[objektai/vietos/Pskovas]]

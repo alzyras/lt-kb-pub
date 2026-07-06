@@ -54,7 +54,6 @@ Tos vė­ liavos buvusios smolenskiečių.
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Smolenskiečiai rėmė Žygimantas (0.68)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "208726-209305; hash=37ed5b78b586220aa9ba205e8b85f446a5afa577f488067d3a1ae3d387afee37; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -155,4 +154,3 @@ Tos vė­ liavos buvusios smolenskiečių.
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Andrius Sakavičius]]
-- Smolenskiečiai rėmė [[objektai/asmenys/Žygimantas]]

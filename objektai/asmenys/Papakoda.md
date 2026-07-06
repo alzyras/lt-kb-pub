@@ -124,6 +124,3 @@ Dėl tarno Papakodos suktybių nebuvo įvykdyta karalienės Bonos paskutinė val
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186245
-
-## Ryšiai
-- Priešai: [[objektai/asmenys/Bona]]

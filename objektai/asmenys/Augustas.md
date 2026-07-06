@@ -576,12 +576,5 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
     - t-193387
 
 ## Ryšiai
-- Žmonos: [[objektai/asmenys/Barbora Radvilaitė]]
-- Sutuoktiniai: [[objektai/asmenys/Barbora Radvilaitė]]
-- Tėvai: [[objektai/asmenys/Bona]], [[objektai/asmenys/Žygimantas Senasis]]
-- Paskyrė Augustą: [[objektai/asmenys/Žygimantas Senasis]]
-- Rėmė Augustą: [[objektai/grupes/Karalaičio Jokūbo partija]]
-- Augustas valdė [[objektai/vietos/Lietuva]], [[objektai/vietos/Livonija]]
-- Augustas keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Livonija]], [[objektai/vietos/Vilnius]]
-- Augustas siuntė į [[objektai/vietos/Maskva]], [[objektai/vietos/Polockas]]
-- Augustas surengė žygį į [[objektai/vietos/Livonija]]
+- Augustas valdė [[objektai/vietos/Lietuva]]
+- Augustas keliavo į [[objektai/vietos/Vilnius]]

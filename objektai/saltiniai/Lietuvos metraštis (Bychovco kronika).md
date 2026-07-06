@@ -54,7 +54,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
 - t-011
   global_id: t-117482
   teiginys: "Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą."
-  semantiniai_rysiai: "Dmitrijus kariavo prieš Algirdas (Lietuvos valdovas) (0.78)"
   temporaliniai_duomenys: "valdymo laikotarpis: 1368 m.; valdymo laikotarpis: 1370 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Maskva“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys turi antraštės triukšmo, bet citata pagrindžia aiškų perrašymą."
@@ -166,7 +165,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Dmitrijus kariavo prieš Algirdas (Lietuvos valdovas) (0.78)"
   temporaliniai_duomenys: "mūšio data: 1368 m.; mūšio data: 1370 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Dmitrijus kariavo prieš Algirdas (Lietuvos valdovas)“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Raw kronikos citata perrašyta į vientisą sakinį apie Bychovco kroniką. Laidotuvių papročio aiškinimas paliktas su Narbuto citavimo atribucija."

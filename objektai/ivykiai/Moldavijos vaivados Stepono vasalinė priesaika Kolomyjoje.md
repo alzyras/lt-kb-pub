@@ -99,7 +99,6 @@ Nenurodyta
   global_id: t-186763
   teiginys: "Redakcinėje pastaboje Moldavijos vaivados Stepono atvykimas į Kolomyją datuojamas 1485 m. rugsėjo 6-12 d."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Steponas keliavo į Kolomyja (0.94)"
   temporaliniai_duomenys: "įvykio data: 1485 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir išvalytas nuo perteklinio veiksmažodžio."

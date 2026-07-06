@@ -229,7 +229,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Silezija priklausė Jonas (0.78)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "947820-948257; hash=4b983557cc6f9c3bf4ed174e40774888a9f2195662b8819f885171c385860eb6; match=exact"
   sprendimo_priezastis: "auto"
@@ -760,4 +759,3 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - Buvo kelionės vieta: [[objektai/asmenys/Hansas Tscheizas]], [[objektai/asmenys/Mikalojus Sachse]]
 - Prekiavo su: [[objektai/vietos/Vilnius]]
 - Silezija prekiavo su [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
-- Silezija priklausė [[objektai/asmenys/Jonas]]

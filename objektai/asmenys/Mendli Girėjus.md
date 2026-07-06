@@ -200,6 +200,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87445
-
-## Ryšiai
-- Priešai: [[objektai/asmenys/Aleksandras]]

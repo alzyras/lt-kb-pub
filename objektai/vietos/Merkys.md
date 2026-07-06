@@ -96,7 +96,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - t-006
   global_id: t-111947
   teiginys: "Prie Merkio, ant nedidelės aukštumėlės, stovėjo du mažesni, veikiausiai dviejų aukštų namai."
-  semantiniai_rysiai: "Žygimantas Senasis gyveno Merkys (0.70); Bona gyveno Merkys (0.70)"
+  semantiniai_rysiai: "Žygimantas Senasis gyveno Merkys (0.70)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "513293-513673; hash=04954914d5e9c7478d3e76a6cc049718ee7a519f7a78c46aa98ea6580613d64f; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -346,4 +346,4 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     - t-111949
 
 ## Ryšiai
-- Gyvenamoji vieta: [[objektai/asmenys/Bona]], [[objektai/asmenys/Žygimantas Senasis]]
+- Gyvenamoji vieta: [[objektai/asmenys/Žygimantas Senasis]]

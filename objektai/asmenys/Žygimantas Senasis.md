@@ -356,7 +356,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-014
   global_id: t-173325
   teiginys: "1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį atidavė sūnui Lietuvos valdžią."
-  semantiniai_rysiai: "Žygimantas Senasis paskyrė Augustas (0.82); Augustas buvo sūnus Žygimantas Senasis (0.78); Augustas valdė Lietuva (0.76)"
   temporaliniai_duomenys: "įvykio data: 1544 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą įvykį."
@@ -2314,12 +2313,11 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - t-183855
 
 ## Ryšiai
-- Sūnūs: [[objektai/asmenys/Augustas]]
 - Priešai: [[objektai/grupes/Bajorai]]
 - Turėjo priklausinį: [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]
 - Žygimantas Senasis buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Mazovija]]
 - Žygimantas Senasis valdė [[objektai/vietos/Lietuva]]
 - Žygimantas Senasis keliavo į [[objektai/vietos/Vilnius]]
 - Žygimantas Senasis gyveno [[objektai/vietos/Merkys]]
-- Žygimantas Senasis paskyrė [[objektai/asmenys/Augustas]], [[objektai/asmenys/Jonas Hozijus]]
+- Žygimantas Senasis paskyrė [[objektai/asmenys/Jonas Hozijus]]
 - Žygimantas Senasis rėmė [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]

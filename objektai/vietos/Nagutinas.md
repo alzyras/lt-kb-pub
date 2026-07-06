@@ -33,7 +33,6 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - t-001
   global_id: t-58602
   teiginys: "Po Pakimos nusiaubimo Konrado iš Tirbergo Jaunesniojo kariuomenė vakare perėjo užšalusį Nagutino ežerą."
-  semantiniai_rysiai: "Konradas keliavo į Nagutinas (0.72)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "518416-518937; hash=22bae81f27effc0c5794c5b00e891c7671f652b38fa276aaf83451054d9e94b2; match=exact"
   sprendimo_priezastis: "auto"
@@ -102,4 +101,4 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
     - t-58602
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Konradas]], [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]]
+- Buvo kelionės vieta: [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]]

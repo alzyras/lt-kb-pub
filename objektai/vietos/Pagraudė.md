@@ -43,7 +43,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 - t-004
   global_id: t-58391
   teiginys: "1317 m. vasarą apie birželio 24 d. maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis."
-  semantiniai_rysiai: "Fridrichas Kvicas puolė Pagraudė (0.56); Hartmanas puolė Pagraudė (0.56)"
+  semantiniai_rysiai: "Fridrichas Kvicas puolė Pagraudė (0.56)"
   temporaliniai_duomenys: "įvykio data: 1317 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą žygį ir kariuomenės padalijimą."
@@ -397,7 +397,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - t-185076
 
 ## Ryšiai
-- Puolė Pagraudę: [[objektai/asmenys/Eberhardas (Varmės vyskupas)]], [[objektai/asmenys/Fridrichas Kvicas]], [[objektai/asmenys/Hartmanas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Liudvikas iš Libencelės]]
+- Puolė Pagraudę: [[objektai/asmenys/Eberhardas (Varmės vyskupas)]], [[objektai/asmenys/Fridrichas Kvicas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Liudvikas iš Libencelės]]
 - Buvo žygio kryptis: [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
 - Turėjo priklausinį: [[objektai/vietos/Gedimino pilis|Gedimino pilis (pilis)]]
 - Pagraudė priklausė [[objektai/vietos/Lietuva]], [[objektai/vietos/Žemaitija]]

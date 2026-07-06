@@ -33,7 +33,6 @@ Kambarinis Slavka savo kūnu bandė užstoti leisgyvį valdovą nuo smūgių, be
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jonas puolė Slavka (0.91)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "813472-814018; hash=0c4c3d4d951278d188cc2da466b2ddac4ad5f6960e63affe4d2ad3b456124fd5; match=exact"
   sprendimo_priezastis: "auto"
@@ -100,6 +99,3 @@ Kambarinis Slavka savo kūnu bandė užstoti leisgyvį valdovą nuo smūgių, be
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186162
-
-## Ryšiai
-- Puolė Slavką: [[objektai/asmenys/Jonas]]

@@ -33,7 +33,6 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
   global_id: t-187230
   teiginys: "Lietuvos metraštis pasakoja, kad po Skirmanto mirties Liubartas sėdo valdyti Karačevą ir ėmė tituluotis Karačevo kunigaikščiu."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Liubartas valdė miestą Karačevas (0.97)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "86949-87186; hash=a9ff60aad04631a645d91059da50a8a2ebc31faa3cee314d229206d899debbdc; match=exact"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -54,7 +53,7 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
   global_id: t-187231
   teiginys: "Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Skirmantas buvo sūnus Liubartas (0.96); Skirmantas buvo sūnus Pisimantas (0.96); Skirmantas užėmė Karačevas (0.93); Skirmantas užėmė Mozyrius (0.93); Skirmantas užėmė Starodubas (0.93)"
+  semantiniai_rysiai: "Skirmantas buvo sūnus Pisimantas (0.96); Skirmantas užėmė Karačevas (0.93); Skirmantas užėmė Mozyrius (0.93); Skirmantas užėmė Starodubas (0.93)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "86465-86946; hash=b8f6406daa213cbdd02a9baa61bdb21a8a64cccb041a628f3840f3f4b3d994aa; match=exact"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -75,7 +74,6 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
   global_id: t-187232
   teiginys: "Lietuvos metraštis Liubartą sieja su Karačevo valdymu ir Karačevo kunigaikščio titulu."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Liubartas valdė miestą Karačevas (0.97)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "86949-87186; hash=a9ff60aad04631a645d91059da50a8a2ebc31faa3cee314d229206d899debbdc; match=exact"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -98,7 +96,7 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Skirmantas buvo sūnus Liubartas (0.96); Skirmantas buvo sūnus Pisimantas (0.96); Skirmantas užėmė Karačevas (0.93); Skirmantas užėmė Mozyrius (0.93); Skirmantas užėmė Starodubas (0.93)"
+  semantiniai_rysiai: "Skirmantas buvo sūnus Pisimantas (0.96); Skirmantas užėmė Karačevas (0.93); Skirmantas užėmė Mozyrius (0.93); Skirmantas užėmė Starodubas (0.93)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   saltinio_vieta: "86465-86946; hash=b8f6406daa213cbdd02a9baa61bdb21a8a64cccb041a628f3840f3f4b3d994aa; match=exact"
   sprendimo_priezastis: "auto"
@@ -226,5 +224,4 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
     - t-187232
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Liubartas]]
 - Užėmė Karačevą: [[objektai/asmenys/Skirmantas]]

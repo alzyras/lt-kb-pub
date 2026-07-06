@@ -130,7 +130,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 - t-012
   global_id: t-121913
   teiginys: "Tuo metu, kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai įvažiavo į Lvovą ir suteikė tam miestui privilegiją."
-  semantiniai_rysiai: "Jadvyga keliavo į Lvovas (0.92)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "791438-791823; hash=9e96882f334393f40b490f8b9ad13ad891385648fef34ea7250711908a7d51c9; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -712,6 +711,4 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - t-193211
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Jadvyga]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Vincentas iš Šamotulų]]
-- Buvo žygio kryptis: [[objektai/asmenys/Steponas]]

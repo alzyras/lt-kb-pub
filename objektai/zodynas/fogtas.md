@@ -46,7 +46,6 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
 - t-001
   global_id: t-58810
   teiginys: "Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą."
-  semantiniai_rysiai: "Konradas siuntė į Nadruva (0.94)"
   temporaliniai_duomenys: "įvykio data: 1274 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata pagrindžia fogto Ditricho vaidmenį ir veiksmą."

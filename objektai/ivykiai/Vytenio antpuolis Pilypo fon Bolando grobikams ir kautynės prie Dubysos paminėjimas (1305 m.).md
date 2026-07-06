@@ -51,7 +51,6 @@ Nenurodyta
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Pilypas puolė Lietuva (0.73)"
   temporaliniai_duomenys: "įvykio data: 1305 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinė pretenzija sugadinta OCR; citata pagrindžia faktą."

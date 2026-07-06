@@ -56,7 +56,6 @@ Nenurodyta
   global_id: t-62300
   teiginys: "1315 m. spalio 12 d. Karolis su 6000 vyrų naktį puolė Junigedos papilį, paėmė 78 žmones į nelaisvę ir sudegino papilį iki pamatų."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Karolis puolė Junigeda (0.95)"
   temporaliniai_duomenys: "įvykio data: 1315 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija veikėją, veiksmą, datą ir rezultatą."

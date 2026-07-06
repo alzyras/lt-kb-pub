@@ -43,7 +43,7 @@ media_all_json: |-
 - t-001
   global_id: t-87561
   teiginys: "Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos."
-  semantiniai_rysiai: "Žygimantas puolė Švitrigaila (0.86); Petrašu Montgirdaitis buvo sąjungininkas su Žygimantas (0.84); Petrašu Montgirdaitis surengė žygį į Ašmena (0.74)"
+  semantiniai_rysiai: "Petrašu Montgirdaitis surengė žygį į Ašmena (0.74)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "436404-437940; hash=3aa0ec0c924649780a0a8a2fc26c76528679c9a750698704c0c43deee41afb17; match=ocr_normalized_gapped"
   sprendimo_priezastis: "auto"
@@ -170,5 +170,4 @@ media_all_json: |-
     - t-87561
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Žygimantas]]
 - Petrašu Montgirdaitis surengė žygį į [[objektai/vietos/Ašmena]]

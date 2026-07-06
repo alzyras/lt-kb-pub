@@ -45,7 +45,6 @@ Nenurodyta
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Tautvilas buvo priešas Treniota (0.94)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "185337-185948; hash=0e40ad46352ecdbab0062c7aeb8a880147121a8890ba3e924eb7601f034f96c4; match=exact"
   sprendimo_priezastis: "auto"

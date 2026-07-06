@@ -61,7 +61,6 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
 - t-002
   global_id: t-48789
   teiginys: "Liubartas turėjo savo dalį Volinijoje ir galėjo reikšti pretenzijas į kitas Haličo-Vladimiro žemes."
-  semantiniai_rysiai: "Liubartas buvo sūnus Gediminas (0.90); Liubartas valdė Volinija (0.72)"
   temporaliniai_duomenys: "įvykio data: 1340 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, gramatiškas ir paremtas citata."
@@ -133,7 +132,6 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
 - t-004
   global_id: t-48793
   teiginys: "Liubartas, padedamas brolių, apgynė Voliniją Lietuvos Didžiajai Kunigaikštijai."
-  semantiniai_rysiai: "Liubartas gynė Volinija (0.95)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "743334-743634; hash=6a04cf457784c2484645d30b0584a31f8220b077ea7870fdada088fa9432b0d8; match=exact"
   sprendimo_priezastis: "auto"
@@ -350,5 +348,4 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     - t-48788
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/grupes/Gediminaičiai]], [[objektai/asmenys/Liubartas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Gynė Voliniją: [[objektai/asmenys/Liubartas]]
+- Buvo valdoma: [[objektai/grupes/Gediminaičiai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

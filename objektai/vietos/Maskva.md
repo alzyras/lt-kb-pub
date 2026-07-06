@@ -1095,7 +1095,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - t-114
   global_id: t-177765
   teiginys: "Kunigaikštis Mykolas tremtyje Maskvoje mirė nunuodytas kažkokiame vienuolyne."
-  semantiniai_rysiai: "Mykolas mirė Maskva (0.86)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "461829-462297; hash=a1b537b1e9bc537f0abfa07c3df49e1e95c5c096a9af56a5df93ebbf33364890; match=whitespace_regex"
   sprendimo_priezastis: "auto"
@@ -6636,16 +6635,16 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-194934
 
 ## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Dimitrijus]], [[objektai/asmenys/Dmitrijus Ivanovičius]], [[objektai/asmenys/Jonas Kalita]], [[objektai/asmenys/Vasilijus]], [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
+- Turėjo valdovą: [[objektai/asmenys/Dimitrijus]], [[objektai/asmenys/Dmitrijus Ivanovičius]], [[objektai/asmenys/Jonas Kalita]], [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
 - Buvo valdoma: [[objektai/asmenys/Vosylius]], [[objektai/asmenys/Vosylius II]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo kelionės vieta: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Andrius Mackevičius]], [[objektai/asmenys/Arkidjakonas Povilas]], [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]], [[objektai/asmenys/Fotijus]], [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]], [[objektai/asmenys/Jonas Gornostajus]], [[objektai/asmenys/Juozas Urbšys]], [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Maskvos pasiuntiniai]], [[objektai/asmenys/Motiejus Kločka]], [[objektai/asmenys/Petras Białas]], [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Stanislovas Goštautas]], [[objektai/asmenys/Stanislovas Jendžejevskis]], [[objektai/asmenys/Tomas Naruševičius]], [[objektai/asmenys/Vasilijus]], [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Gimimo vieta: [[objektai/asmenys/Gerasimas]]
-- Mirties vieta: [[objektai/asmenys/Mykolas]], [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]]
+- Mirties vieta: [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]]
 - Puolė Maskvą: [[objektai/asmenys/Stanislovas Kiška]], [[objektai/asmenys/Stanislovas Pacas]]
 - Apgulė Maskvą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Užėmė Maskvą: [[objektai/grupes/Lenkai]]
 - Gynė Maskvą: [[objektai/grupes/Livonijos valstybė]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Augustas]], [[objektai/asmenys/Juozas Urbšys]], [[objektai/asmenys/Vasilijus]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Juozas Urbšys]], [[objektai/asmenys/Vasilijus]]
 - Buvo žygio kryptis: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Prekiavo su: [[objektai/vietos/Lietuva]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Vilnius]]
 - Gyvenamoji vieta: [[objektai/grupes/Baltai]], [[objektai/asmenys/Ciprijonas]], [[objektai/asmenys/Josifas Stalinas]], [[objektai/grupes/Maskvos Helsinkio grupė]]

@@ -216,8 +216,3 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63884
-
-## Ryšiai
-- Dukterys: [[objektai/asmenys/Jadvyga Jogailienė]]
-- Liudvikas keliavo į [[objektai/vietos/Kaukazas]]
-- Liudvikas buvo palaidotas [[objektai/vietos/Kulmenzė]]

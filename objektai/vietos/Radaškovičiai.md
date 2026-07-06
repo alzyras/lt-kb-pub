@@ -39,7 +39,6 @@ media_all_json: |-
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Žygimantas keliavo į Radaškovičiai (0.86)"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   saltinio_vieta: "898098-898708; hash=162233a8ced6135d4a26f01b2e75b66aec45e7e7c00651562823a2391fedf0e7; match=exact"
   sprendimo_priezastis: "auto"
@@ -106,6 +105,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189047
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Žygimantas]]

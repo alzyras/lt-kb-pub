@@ -43,7 +43,6 @@ Karaliui, turinčiam tokias dide­ les karinės amunicijos atsargas, nesunku buv
 - t-001
   global_id: t-87670
   teiginys: "1557 m. žygis į Livoniją prieš magistrą Firstenbergą baigėsi jo nuolankumu Žygimantui Augustui ir valdžios Livonijoje pripažinimu."
-  semantiniai_rysiai: "Augustas valdė Livonija (0.82)"
   temporaliniai_duomenys: "mūšio data: 1557 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalintas nutrūkęs kontekstas ir suformuotas pilnas faktinis teiginys."

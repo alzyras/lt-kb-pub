@@ -62,7 +62,7 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
 - t-005
   global_id: t-67414
   teiginys: "1398 m. Jadvygos laišku Vytautui reikalauta mokėti metinį činšą už Lietuvos ir Rusijos žemes, laikytas jos kraičiu."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) valdė teritoriją Lietuva (0.88); Jogaila (kunigaikštis, XIV–XV a.) valdė teritoriją Rusija (0.88); Jogaila (kunigaikštis, XIV–XV a.) vedė Jadvyga (0.86); Lietuva priklausė Jadvyga (0.70); Rusija priklausė Jadvyga (0.70)"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) valdė teritoriją Lietuva (0.88); Jogaila (kunigaikštis, XIV–XV a.) valdė teritoriją Rusija (0.88)"
   temporaliniai_duomenys: "įvykio data: 1398 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Kontekstinis pradžios žodis ir išnašų triukšmas pašalinti, sakinys sukonkretintas."
@@ -100,7 +100,7 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
 - t-003
   global_id: t-67416
   teiginys: "Jadvyga laišku priminė Vytautui, kad Lietuvos ir Rusijos žemės, kurias Jogaila valdė prieš ją vesdamas, buvusios užrašytos jai kraičiu, todėl reikalavo iš Vytauto metinio činšo."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) valdė teritoriją Lietuva (0.88); Jogaila (kunigaikštis, XIV–XV a.) valdė teritoriją Rusija (0.88); Jogaila (kunigaikštis, XIV–XV a.) vedė Jadvyga (0.86); Lietuva priklausė Jadvyga (0.70); Rusija priklausė Jadvyga (0.70)"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) valdė teritoriją Lietuva (0.88); Jogaila (kunigaikštis, XIV–XV a.) valdė teritoriją Rusija (0.88)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "404901-405393; hash=75aa0eed5a6274d663995b3c179977290ed0cb69924babd9bd293ef319df6f64; match=exact"
   sprendimo_priezastis: "auto"

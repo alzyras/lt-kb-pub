@@ -788,7 +788,7 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
 - Buvo kelionės vieta: [[objektai/asmenys/Henrikas Cutsvertas]], [[objektai/asmenys/Konradas Štangė]]
 - Mirties vieta: [[objektai/asmenys/Heinmanas, vardu Kindas]]
 - Buvo pastatyta: [[objektai/grupes/Lietuviai]]
-- Puolė Junigedą: [[objektai/asmenys/Bertoldas]], [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]], [[objektai/asmenys/Karolis]], [[objektai/asmenys/Karolis (didysis magistras)]], [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]], [[objektai/asmenys/Verneris (Ragainės komtūras)]]
+- Puolė Junigedą: [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]], [[objektai/asmenys/Karolis (didysis magistras)]], [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]], [[objektai/asmenys/Verneris (Ragainės komtūras)]]
 - Gynė Junigedą: [[objektai/asmenys/Karolis (didysis magistras)]], [[objektai/grupes/Lietuviai]]
 - Buvo žygio kryptis: [[objektai/asmenys/Bertoldas Briuhavenas]]
 - Turėjo priklausinį: [[objektai/vietos/Veliuona]]

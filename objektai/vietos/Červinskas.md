@@ -172,4 +172,3 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Vengrai]]
-- Puolė Červinską: [[objektai/asmenys/Treniota]]

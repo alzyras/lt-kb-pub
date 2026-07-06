@@ -140,7 +140,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - t-019
   global_id: t-89238
   teiginys: "Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių."
-  semantiniai_rysiai: "Konradas puolė Sūduva (0.90); Konradas puolė Kimenava (0.88)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "510260-510970; hash=943201c6f266e43ff08f621345ef51d434b359dac1201b8f8025909799aee934; match=exact"
   sprendimo_priezastis: "auto"
@@ -193,7 +192,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - t-012
   global_id: t-89241
   teiginys: "Prie Vinso miško brolių kariuomenę pasivijo 3000 rinktinių sūduvių vyrų, bet broliai juos užpuolė ir privertė trauktis."
-  semantiniai_rysiai: "Konradas puolė Sūduva (0.85); Konradas puolė Kimenava (0.84)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "510260-510970; hash=943201c6f266e43ff08f621345ef51d434b359dac1201b8f8025909799aee934; match=exact"
   sprendimo_priezastis: "auto"
@@ -211,7 +209,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - t-006
   global_id: t-89242
   teiginys: "Skomantas su sūduviais įsiveržė į Kulmo žemę, padalijo kariuomenę ir niokojo kelią į Torunę bei Kulmo miestą."
-  semantiniai_rysiai: "Skomantas puolė Kulmas (0.90); Sūduviai puolė Kulmas (0.88); Sūduviai puolė Torunė (0.76)"
+  semantiniai_rysiai: "Sūduviai puolė Kulmas (0.88); Sūduviai puolė Torunė (0.76)"
   temporaliniai_duomenys: "įvykio data: 1263 m.; įvykio data: 1264 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie sūduvių karinį įsiveržimą, o pradinis teiginys turi OCR triukšmo."
@@ -379,7 +377,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - t-010
   global_id: t-89251
   teiginys: "Spalio 21 d. Skomantas su 4000 sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę keršyti už savųjų žūtį."
-  semantiniai_rysiai: "Skomantas puolė Kulmas (0.91); Sūduviai puolė Kulmas (0.88); Lietuviai puolė Kulmas (0.86)"
+  semantiniai_rysiai: "Sūduviai puolė Kulmas (0.88); Lietuviai puolė Kulmas (0.86)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "506635-507435; hash=fa8a230f07ebbbf0fe68e98d79af85d4656e427d38e349451dbc140e6d0d48e7; match=exact"
   sprendimo_priezastis: "auto"

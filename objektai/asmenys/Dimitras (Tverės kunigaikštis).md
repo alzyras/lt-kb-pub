@@ -33,7 +33,6 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 - t-001
   global_id: t-97315
   teiginys: "Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus."
-  semantiniai_rysiai: "Marija buvo duktė Gediminas (0.96); Marija buvo žmona Dimitras (Tverės kunigaikštis) (0.95)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "670195-670616; hash=a5ebac49f45c1653f614a51a2e3247c566468aee99d02e513d0c4d85d48b0cac; match=exact"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 - t-001
   global_id: t-97315
   teiginys: "Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus."
-  semantiniai_rysiai: "Marija buvo duktė Gediminas (0.96); Marija buvo žmona Dimitras (Tverės kunigaikštis) (0.95)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "670195-670616; hash=a5ebac49f45c1653f614a51a2e3247c566468aee99d02e513d0c4d85d48b0cac; match=exact"
   sprendimo_priezastis: "auto"
@@ -104,7 +102,3 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
   pagrindzia:
     - t-97314
     - t-97315
-
-## Ryšiai
-- Žmonos: [[objektai/asmenys/Marija]]
-- Sutuoktiniai: [[objektai/asmenys/Marija]]

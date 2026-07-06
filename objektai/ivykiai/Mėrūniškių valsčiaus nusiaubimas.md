@@ -49,7 +49,6 @@ Nenurodyta
   global_id: t-62402
   teiginys: "Magistras Konradas su raitija įsiveržė į Sūduvos Mėrūniškių valsčių ir nukovė 18 žymių šio valsčiaus viešpačių."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Konradas puolė Sūduva (0.88)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "514148-514656; hash=ecf3dfabea8c58a5228d9ca66fe68ff72a5c557789257367cd6da354a0e6cfb0; match=exact"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,6 @@ Nenurodyta
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Konradas puolė Sūduva (0.86)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "514148-514656; hash=ecf3dfabea8c58a5228d9ca66fe68ff72a5c557789257367cd6da354a0e6cfb0; match=exact"
   sprendimo_priezastis: "auto"
