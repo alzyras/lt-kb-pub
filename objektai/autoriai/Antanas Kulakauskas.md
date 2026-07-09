@@ -6,6 +6,10 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+aliases:
+  - 'objektai/autoriai/Kulakauskas A'
+variantai:
+  - 'Kulakauskas A'
 sukurta: ''
 atnaujinta: ''
 tags:

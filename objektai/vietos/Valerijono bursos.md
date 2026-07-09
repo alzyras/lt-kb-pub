@@ -60,8 +60,8 @@ media_all_json: |-
 - susijęs iš Valerijono Bursos pastatymo ir aprūpinimo raštas (1579 m.): Valerijono Bursos raštas buvo surašytas steigėjo ranka, patvirtintas jo antspaudu ir perduotas saugoti rektoriui.
 - susijęs iš Valerijono Bursos pastatymo ir aprūpinimo raštas (1579 m.): Valerijono Bursos raštu kolegijos mokiniams, dėl sunkios padėties negalėjusiems baigti studijų, skirta amžina ir neatšaukiama dovana.
 - susijęs iš Valerijono Bursos pastatymo ir aprūpinimo raštas (1579 m.): Valerijono Bursos pastatymo ir aprūpinimo raštas datuojamas 1579 m. ir pradėtas Vilniaus vyskupo Valerijono vardu.
-- susijęs iš Valerijono Bursa (sujungti pirminiai pavadinimai Valerijono bursos; Valerijono Bursa): Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.
 - susijęs iš Valerijono Bursa: Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.
+- susijęs iš Valerijono bursa: Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.
 - susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192171|jurisdikcija]]: Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173314|Žygimantas Senasis]]: 1543 m. Žygimantas Senasis leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes.
 - susijęs iš Žygimanto privilegija mėsinėms Vilniaus mieste (1543 m.): Žygimanto privilegija leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes, kurių mokesčiai turėjo būti mokami bažnyčios muzikantams.

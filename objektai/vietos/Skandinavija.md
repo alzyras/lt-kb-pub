@@ -88,8 +88,6 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 - susijęs iš Heimskringla: Heimskringla pirmą kartą iš rankraščio išspausdinta 1697 m. Stokholme islandų, švedų ir lotynų kalbomis.
 - susijęs iš Lietuvos ir Sovietų Rusijos taikos sutartis (1920 m.): 1926 m. rugsėjo 28 d. Lietuvos ir SSRS nepuolimo sutartyje SSRS patvirtino, kad išlieka visos 1920 m. taikos sutarties sąlygos.
 - susijęs iš Sarmatų Europos aprašymas: A. Gvagninio „Sarmatų Europos aprašymas“ aprašo Rytų Europos žemes, tautų genealogijas ir žymių žmonių biografijas.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.
-- susijęs iš Baltijos jūra: Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.
 - susijęs iš Gudijos plotai: IX a. pirmoje pusėje per Gudijos plotus į Lietuvą atėjo dalis žodžių.
 - susijęs iš Kijevo Rusia: Lietuva iki XII a. pabaigos buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.
 - susijęs iš Kijevo Rusia: Iki XII a. pabaigos Lietuva buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.

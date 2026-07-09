@@ -8,6 +8,10 @@ datos:
   - '1951 m.'
 date_start: '1858'
 date_end: '1951'
+aliases:
+  - 'objektai/autoriai/Vincas Kudirka'
+variantai:
+  - 'Vincas Kudirka'
 sukurta: ''
 atnaujinta: ''
 tags:

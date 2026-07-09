@@ -433,10 +433,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - susijęs iš Pirmasis Dusburgiečio kronikos leidimas (1679 m.): Pirmąjį Dusburgiečio kronikos leidimą K. Hartknochas parengė Karaliaučiuje 1679 m.
 - susijęs iš Regesta Lithuaniae: Regesta Lithuaniae Nr. 393 siejamas su 1262 m. Mindaugo organizuotu žygiu, kuriam vadovavo Treniota.
 - susijęs iš Seniausieji Prūsijos analai: Seniausieji Prūsijos analai pirmajame raidos etape iš esmės apėmė 1230–1293 m. įvykius.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.
-- susijęs iš Baltijos jūra: XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.
 - susijęs iš Berlynas: Berlyno karališkosios bibliotekos kodekse buvo nevisiškai pilnas Dusburgiečio kronikos nuorašas.
-- susijęs iš Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas): Torunės seime dėl ginčų su Gdansku nebuvo nustatytos rinkliavos, tačiau Batoras vėliau įsakė tuojau pat rinkti muitus.
 - susijęs iš Eimsutis: Skomantas pasuko link Eimsučio pilies ir po veržlaus antpuolio ją užėmė, nukaudamas 40 jos sargybinių.
 - susijęs iš Eimsutis: Eimsučio pilis šaltinyje minima kaip castrum Hemsot, o jos vieta siejama su dabartine Pšečna netoli Kulmenzės.
 - susijęs iš Elbingas: Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.
@@ -447,9 +444,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - susijęs iš Kulmo žemė: Druzigeriui Torunėje paskelbus klaidingą žinią apie kariuomenės žūtį, Kulmo žemėje ir Lenkijoje kilo didelis krikščionių raudojimas.
 - susijęs iš Lisske: Privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.
 - susijęs iš Lubava: Sūduviai įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą.
-- susijęs iš Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas): Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai.
-- susijęs iš Malburgas: Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių.
-- susijęs iš Malburgas: Malburgą, dar vadintą Marienburgu, kryžiuočiai pastatė 1281 metais.
 - susijęs iš Ragainė: Ordino pilis iš pradžių vadinta Landishute / Landeshute, o vėliau įsigalėjo baltiškasis Ragainės vardas.
 - susijęs iš Ragainė: Skalviai prie Ragainės ant kalno turėjo pilį, kurią siaubė didelė rutėnų kariuomenė.
 - susijęs iš Santyras: Petras Dusburgietis Santyro pilį apibūdino kaip pastatytą kenkti tikėjimui ir tikintiesiems.
@@ -465,9 +459,10 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - susijęs iš [[objektai/daiktai/Dybovo šventyklos aptvaras.md#claim-t-189720|Dybovo šventyklos aptvaras]]: Narbutas Dybovo šventyklą prie Torunės aprašė kaip senovės prūsų šventą ąžuolą su dideliu ąžuolu viduryje ir stipriu aptvaru.
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino laivo užgrobimas Bugo upėje.md#claim-t-62393|Martyno iš Golino laivo užgrobimas Bugo upėje]]: Martynas iš Golino prie Bugo upės užpuolė prekių laivą, išžudė upeivius ir atplukdė laivą į Torunę.
 - susijęs iš [[objektai/ivykiai/Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas.md#claim-t-59429|Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas]]: Sūduviai įsiveržė į Lubavos žemę, sugriovė Lubavos pilį ir miestą, sudegino Torunės ligoninę ir nesėkmingai puolė Kulmą.
+- susijęs iš Malburgas: Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių.
+- susijęs iš Malburgas: Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai.
+- susijęs iš Malburgas: Malburgą, dar vadintą Marienburgu, kryžiuočiai pastatė 1281 metais.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89242|Sūduviai]]: Skomantas su sūduviais įsiveržė į Kulmo žemę, padalijo kariuomenę ir niokojo kelią į Torunę bei Kulmo miestą.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.
-- susijęs iš Baltijos jūra: XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.
 ## Reikšmingi paminėjimai
 
 - c-001

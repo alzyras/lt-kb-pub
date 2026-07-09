@@ -10,6 +10,10 @@ datos:
   - '1252 m.'
 date_start: '1227'
 date_end: '1252'
+aliases:
+  - 'objektai/saltiniai/Ipatijaus metraštis'
+variantai:
+  - 'Ipatijaus metraštis'
 sukurta: ''
 atnaujinta: ''
 amziai:

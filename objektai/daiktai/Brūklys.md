@@ -3,6 +3,10 @@ tipas: daiktas
 pavadinimas: 'Brūklys'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+aliases:
+  - 'objektai/daiktai/Brūkliai'
+variantai:
+  - 'Brūkliai'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'

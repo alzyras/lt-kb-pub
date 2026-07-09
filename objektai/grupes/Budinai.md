@@ -348,7 +348,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
 - susijęs iš [[objektai/paprociai/Kasmet minimos Dioniso (Bacho) šventės ir bakchanalijos budinų tvirtovėse.md#claim-t-193036|Kasmet minimos Dioniso (Bacho) šventės ir bakchanalijos budinų tvirtovėse]]: Narbutas, remdamasis Herodotu, rašo, kad budinų tvirtovėse kasmet minėtos Dioniso, arba Bacho, šventės ir vykdavo bakchanalijos.
 - susijęs iš [[objektai/posakiai/Visiškai tikra yra tai, jog Lietuva tuo pačiu kaip ir dabar vardu jau buvo žinoma romėnams.md#claim-t-192123|Visiškai tikra yra tai, jog Lietuva tuo pačiu kaip ir dabar vardu jau buvo žinoma romėnams]]: Narbutas cituoja Tadą Volianskį, teigusį, kad Lietuva tuo pačiu vardu romėnams buvo žinoma jau senovėje.
 - susijęs iš Philippi Miitendorfii rankraštis apie 1605 m. rugsėjo 27 d. mūšį: Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuriame nurodyti 85 riteriai iš Angeširų apskrities.
-- susijęs iš Baltijos jūra: Narbutas perteikia Tunmano nuomonę, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, tuojau užėmė Sembą ir gintaro kasyklas.
 - susijęs iš Bogončavas: Pasak Baturlino, budinai buvo užėmę šiandienių Voluikos ir Bogončavo miestų apylinkes Dono ir Doneco tarpupyje.
 - susijęs iš Donas ir Donecas: Narbutas rašo, kad budinai susijungė su gelonais, gyvenusiais tarp Dono ir Doneco, o jų tėvynėje buvusi šventoji Ross upė.
 - susijęs iš Kaspija: Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meotidės, tarp budinų ir prie Kaspijos.

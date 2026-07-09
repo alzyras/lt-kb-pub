@@ -8,6 +8,10 @@ datos:
   - '1902 m.'
 date_start: '1835'
 date_end: '1902'
+aliases:
+  - 'objektai/autoriai/Antanas Baranauskas'
+variantai:
+  - 'Antanas Baranauskas'
 sukurta: ''
 atnaujinta: ''
 tags:

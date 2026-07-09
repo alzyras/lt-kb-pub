@@ -7,6 +7,10 @@ datos:
   - '1336 m.'
 date_start: '1336'
 date_end: ''
+aliases:
+  - 'objektai/posakiai/bemeilijo žūti ugny, negu pasiduoti vokiečiams'
+variantai:
+  - 'bemeilijo žūti ugny, negu pasiduoti vokiečiams'
 sukurta: ''
 atnaujinta: ''
 tags:

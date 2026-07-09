@@ -58,7 +58,6 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
   pagrindžia:
     - c-82259
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172812|Vilniaus magistratas]]: 1667 m. balandžio 4 d. Vilniaus magistratas stojo į teismą su Šv. Jono bažnyčia dėl ankstesnių potvarkių.
-- susijęs iš Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia): Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.
 - susijęs iš Šv. Jono bažnyčia Vilniuje: Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.
 - susijęs iš [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai.md#claim-t-86511|arkipresbiteris nuolatinis vikaras adjutoriai]]: Nuo įkūrimo Šv. Jono bažnyčia buvo pavesta klebonams, turėjusiems arkipresbiterių titulus ir kelis pagalbininkus kunigus.
 ## Reikšmingi paminėjimai

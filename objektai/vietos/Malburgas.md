@@ -11,15 +11,21 @@ datos:
   - '1404 m.'
 date_start: '1235'
 date_end: '1404'
+variantai:
+  - 'Malburgas'
+  - 'Malburgas Marienburgas'
+aliases:
+  - 'Malburgas'
+  - 'Malburgas Marienburgas'
+amziai:
+  - 'XIII'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ordinas
   - popiežius
   - vieta
-amziai:
-  - 'XIII'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,99 +47,123 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 
 ## Teiginiai
 
-<a id="claim-t-84093"></a>
-- t-003
-  global_id: t-84093
+<a id="claim-t-195096"></a>
+- t-007
+  global_id: t-195096
+  teiginys: "1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai."
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata patikimai pagrindžia laiško vietą, datą ir adresatus."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Marienburgas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lietuva"
+  temporaliniai_duomenys: "įvykio data: 1576 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata patikimai pagrindžia laiško vietą, datą ir adresatus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "640746-641874; hash=e9c85d52b37dd94387fa3d10640ba9b81018672a485b5069447c3b25cdcae25a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177481
+
+<a id="claim-t-195097"></a>
+- t-004
+  global_id: t-195097
+  teiginys: "Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Salos"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "333170-333504; hash=2e94d5196b9bb3ef12f921b91623ecffa75aba3c5634473ebd33069b1233add8; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177478
+
+<a id="claim-t-195098"></a>
+- t-001
+  global_id: t-195098
   teiginys: "Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių."
-  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Malburgas (0.93)"
+  teiginio_tipas: "faktas"
+  susije_objektai: "llm_object: Malburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija"
+  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Malburgas"
   temporaliniai_duomenys: "pastatymo data: 1281 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "35138-35671; hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=exact"
+  saltinio_vieta: "35138-35671; hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=whitespace_regex"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Malburgas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Malburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Malburgas buvo pastatytas kryžiuočių."
   pagrindžia:
-    - c-80310
+    - c-177482
 
-<a id="claim-t-84094"></a>
-- t-004
-  global_id: t-84094
-  teiginys: "Malburgą, dar vadintą Marienburgu, kryžiuočiai pastatė 1281 metais."
-  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Malburgas (0.93)"
+<a id="claim-t-195099"></a>
+- t-006
+  global_id: t-195099
+  teiginys: "Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai."
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Pašalintas kitų miestų sąrašas ir paliktas teiginys apie objektą."
+  susije_objektai: "llm_object: Malburgas; mentioned_place: Malburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija"
+  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Malburgas"
+  temporaliniai_duomenys: "pastatymo data: 1281 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas kitų miestų sąrašas ir paliktas teiginys apie objektą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "35138-35671; hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=exact"
+  saltinio_vieta: "35138-35671; hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=whitespace_regex"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Malburgas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Malburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo kryžiuočius kaip Malburgo statytojus."
   pagrindžia:
-    - c-80310
+    - c-177482
 
-<a id="claim-t-184309"></a>
-- t-005
-  global_id: t-184309
+<a id="claim-t-195100"></a>
+- t-003
+  global_id: t-195100
   teiginys: "1388-1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII pasiuntė į Malburgą kelias bules, drausdami Vokiečių Ordinui pulti lietuvius neofitus."
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Bonifacas IX siuntė į Malburgas (0.86); Inocentas VII siuntė į Malburgas (0.86)"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  susije_objektai: "llm_object: Malburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Inocentas VII|Inocentas VII]]"
+  semantiniai_rysiai: "[[objektai/asmenys/Bonifacas IX|Bonifacas IX]] siuntė į Malburgas; [[objektai/asmenys/Inocentas VII|Inocentas VII]] siuntė į Malburgas"
   temporaliniai_duomenys: "įvykio data: 1388-1404; įvykio data: 1404 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "269162-269439; hash=6b9379aaa819837d7ad4ec50d9291864c28e7b1bad6204cbf15cf6f7641d72b3; match=exact"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Malburgas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bonifacas IX: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Malburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Bonifacas IX įvardytas tarp popiežių, kurie siuntė bules į Malburgą."
   pagrindžia:
-    - c-167682
+    - c-177479
 
-<a id="claim-t-184310"></a>
-- t-006
-  global_id: t-184310
-  teiginys: "Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę."
+<a id="claim-t-195101"></a>
+- t-005
+  global_id: t-195101
+  teiginys: "Didysis magistras slapta iš Marienburgo išplaukė Vysla laivais, o paskui per jūros įlanką įplaukė į Nemuną."
   teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "333170-333504; hash=2e94d5196b9bb3ef12f921b91623ecffa75aba3c5634473ebd33069b1233add8; match=exact"
+  sudarymo_pagrindimas: "Teiginys yra faktinis, gramatiškas ir paremtas citata."
+  susije_objektai: "mentioned_place: Marienburgas; mentioned_place: Nemunas; mentioned_place: Vysla; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "299918-300267; hash=611d3c5c4bb0c3e1df721f2b1114f4781edfed5252814bca1521a7fad4c15bf4; match=exact"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Malburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Malburgas\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-167683
+    - c-177480
+
+<a id="claim-t-195102"></a>
+- t-002
+  global_id: t-195102
+  teiginys: "Malburgą, dar vadintą Marienburgu, kryžiuočiai pastatė 1281 metais."
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys paremtas citata, bet reikia pašalinti OCR triukšmą ir perteklinį miestų sąrašą."
+  susije_objektai: "llm_object: Malburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija"
+  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Malburgas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "35138-35671; hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177482
 - susijęs iš [[objektai/asmenys/Bonifacas IX.md#claim-t-184254|Bonifacas IX]]: 1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII bulėmis draudė Vokiečių ordinui pulti lietuvius kaip neofitus.
 - susijęs iš [[objektai/asmenys/Bonifacas IX.md#claim-t-35040|Bonifacas IX]]: Bonifacas IX 1388–1404 m. kartu su kitais popiežiais siuntė į Malburgą bules, draudusias Vokiečių ordinui pulti lietuvius neofitus.
 - susijęs iš Torunė: Torunę 1235 m. pastatė kryžiuočiai.
 - susijęs iš [[objektai/asmenys/Bonifacas IX.md#claim-t-35040|Bonifacas IX]]: Bonifacas IX 1388–1404 m. kartu su kitais popiežiais siuntė į Malburgą bules, draudusias Vokiečių ordinui pulti lietuvius neofitus.
-- susijęs iš Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas): Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai.
 - susijęs iš [[objektai/zodynas/diplomatija.md#claim-t-36776|diplomatija]]: Vytautą domino diplomatija, krašto administracija, Malburgo finansai ir karo sumanymai.
 - susijęs iš [[objektai/asmenys/Bonifacas IX.md#claim-t-184254|Bonifacas IX]]: 1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII bulėmis draudė Vokiečių ordinui pulti lietuvius kaip neofitus.
 - susijęs iš [[objektai/asmenys/Danuta.md#claim-t-35045|Danuta]]: Danuta buvo Vytauto sesuo, nutekėjusi į Mozūriją, iš kurios katalikų svečiai lankydavosi Kęstučio dvare Trakuose.
 - susijęs iš [[objektai/asmenys/Vygandas von Baldersheimas.md#claim-t-35339|Vygandas von Baldersheimas]]: Ragainės komtūras Vygandas von Baldersheimas buvo Vytauto krikštatėvis, todėl Vytautas apsikrikštijo Vygando vardu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178957|Kryžiuočių ordinas]]: Teutonų ordinas XIII a. pavergė prūsus, slopino lietuvių pagonybę ir Baltijos pakrantėse daugino miestus bei pilis.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.
-- susijęs iš Baltijos jūra: XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.
 - susijęs iš Karaliaučius: 1255 m. Karaliaučius iškilo padedant Čekijos karaliui Otokarui.
 - susijęs iš Karaliaučius: Karaliaučius iškilo 1255 metais, padedant Čekijos karaliui Otokarui.
 - susijęs iš Klaipėda: Makras sienų raporte į Žemaitijos ribas įskaitė ne tik Veliuoną, bet ir Klaipėdą.
@@ -144,8 +174,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - susijęs iš [[objektai/zodynas/Vakarų Bažnyčios schizma.md#claim-t-70055|Vakarų Bažnyčios schizma]]: Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vokiečių ordino dėl puolimų prieš lietuvius.
 - susijęs iš [[objektai/zodynas/Vakarų Bažnyčios schizma.md#claim-t-70056|Vakarų Bažnyčios schizma]]: Vakarų Bažnyčios schizma trukdė Romos popiežiams veiksmingai spausti Ordiną.
 - susijęs iš [[objektai/zodynas/neofitas.md#claim-t-179583|neofitas]]: 1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII draudė Vokiečių ordinui pulti lietuvius kaip neofitus.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.
-- susijęs iš Baltijos jūra: XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -169,7 +197,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   pagrindžia:
     - t-001
     - t-002
-
 - c-002
   santrauka: '1388-1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII pasiuntė į Malburgą kelias bules, drausdami Vokiečių Ordinui pulti lietuvius neofitus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -186,7 +213,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
 - c-003
   santrauka: 'Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -205,10 +231,172 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+- c-004
+  santrauka: 'Didysis magistras slapta iš Marienburgo išplaukė Vysla laivais, o paskui per jūros įlanką įplaukė į Nemuną.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Lindenblatt Jahrbücher, p. 9 4 .
+    52
+    Tas žygis buvo paskubomis ir slap­
+    ta suruoštas, ir todėl didysis magist­
+    ras tuokart mažai teturėjo svetimša­
+    lių, juk nesigarsino po visą Europą,
+    o slapčia iš Marienburgo išplaukė
+    Vysla laivais, paskui jūros įlanka
+    įplaukė į Nemuną. Mūsų istorikai
+    bendrais bruožais ir ne taip išsamiai
+    apie šitai pasakoja.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+- c-005
+  santrauka: '1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Karalius ŽYGIMANTAS AUGUSTAS
+
+    ## Puslapis 344
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    VII
+    DVIEJŲ KARALIAUS STEPONO BATORO LAIŠKŲ,
+    RAŠYTŲ RADVILOMS, TURINYS:
+    APIE MUITUS IR MOKESČIUS
+    VILNIAUS PIRKLIAMS IR MIESTIEČIAMS
+    Autentiškų karaliaus Stepono laiškų, rašytų Radviloms,
+    rinkinyje, saugomame Radvilų archyve, Kardinalijoje, yra
+    du laiškai, atskleidžiantys, kad vis dėlto karalius, nenoriai
+    ir tai tik atkakliai prašomas Lietuvos senatorių ir protestuo­
+    jant Vilniaus pirkliams, laikinai juos atleido nuo naujai nu­
+    statyto muito mokesčio.
+    Viename tų laiškų, rašytame iš Marienburgo 1576 metų
+    rugsėjo 23 dieną Vilniaus vyskupui ir Vilniaus vaivadai, Lie­
+    tuvos Didžiosios Kunigaikštystės kancleriui Radvilai, kara­
+    lius pareiškia jokio muito nenustatysiąs kitaip - tik su Sena­
+    to tarybos, prie jo esančios ir žinančios skubiausiai
+    tvarkytinus Respublikos reikalus, sutikimu. Tačiau sutinkąs
+    atidėti šio muito rinkimą iki būsimo seimo, įsakęs Lietuvos
+    iždininkui įrašyti tik į sąrašus tai, kas priklausys nuo pre­
+    kių, kad vėliau, po seimo sprendimo, būtų žinoma, ko gali­
+    ma reikalauti iš pirklių, o ko reikėtų atsisakyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-007
 
 ## Citatos
 
-- id: c-80310
+- id: c-177478
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Prie šio teisėtų
+    įpėdinių veto pridėjo savo žodį ir Žemaičių bajorai, pasisaky­
+    dami neužleisią niekam savo krašto.
+    Pasireiškus tokiems abiejų pusių skirtumams, Kauno salos
+    suvažiavimas nutrūko. Ordino pasiuntinys grįžo į Malburgą
+    aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o
+    Makras dar labiau palinko į Vytauto pusę.
+  citata_rodoma: "Prie šio teisėtų\nįpėdinių veto pridėjo savo žodį ir Žemaičių bajorai, pasisaky­\ndami neužleisią niekam savo krašto.\nPasireiškus tokiems abiejų pusių skirtumams, Kauno salos\nsuvažiavimas nutrūko. Ordino pasiuntinys grįžo į Malburgą\naiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o\nMakras dar labiau palinko į Vytauto pusę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195097
+
+- id: c-177479
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Ordinu, kuris nustojo teisės rengti prieš
+    Lietuvą karo žygius, prisidengiant katalikų tikėjimo skelbimu.
+    Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam
+    laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules,
+    drausdami Vok. Ordinui pulti lietuvius, kaipo neofitus.
+  citata_rodoma: "Ordinu, kuris nustojo teisės rengti prieš\nLietuvą karo žygius, prisidengiant katalikų tikėjimo skelbimu.\nPopiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam\nlaikotarpy (1388—1404) pasiuntė į Malburgą kelias bules,\ndrausdami Vok. Ordinui pulti lietuvius, kaipo neofitus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195100
+
+- id: c-177480
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Lindenblatt Jahrbücher, p. 9 4 .
+    52
+    Tas žygis buvo paskubomis ir slap­
+    ta suruoštas, ir todėl didysis magist­
+    ras tuokart mažai teturėjo svetimša­
+    lių, juk nesigarsino po visą Europą,
+    o slapčia iš Marienburgo išplaukė
+    Vysla laivais, paskui jūros įlanka
+    įplaukė į Nemuną. Mūsų istorikai
+    bendrais bruožais ir ne taip išsamiai
+    apie šitai pasakoja.
+  citata_rodoma: "Lindenblatt Jahrbücher, p. 9 4 .\n52\nTas žygis buvo paskubomis ir slap­\nta suruoštas, ir todėl didysis magist­\nras tuokart mažai teturėjo svetimša­\nlių, juk nesigarsino po visą Europą, \no slapčia iš Marienburgo išplaukė \nVysla laivais, paskui jūros įlanka \nįplaukė į Nemuną. Mūsų istorikai \nbendrais bruožais ir ne taip išsamiai \napie šitai pasakoja."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195101
+
+- id: c-177481
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Karalius ŽYGIMANTAS AUGUSTAS
+
+    ## Puslapis 344
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    VII
+    DVIEJŲ KARALIAUS STEPONO BATORO LAIŠKŲ,
+    RAŠYTŲ RADVILOMS, TURINYS:
+    APIE MUITUS IR MOKESČIUS
+    VILNIAUS PIRKLIAMS IR MIESTIEČIAMS
+    Autentiškų karaliaus Stepono laiškų, rašytų Radviloms,
+    rinkinyje, saugomame Radvilų archyve, Kardinalijoje, yra
+    du laiškai, atskleidžiantys, kad vis dėlto karalius, nenoriai
+    ir tai tik atkakliai prašomas Lietuvos senatorių ir protestuo­
+    jant Vilniaus pirkliams, laikinai juos atleido nuo naujai nu­
+    statyto muito mokesčio.
+    Viename tų laiškų, rašytame iš Marienburgo 1576 metų
+    rugsėjo 23 dieną Vilniaus vyskupui ir Vilniaus vaivadai, Lie­
+    tuvos Didžiosios Kunigaikštystės kancleriui Radvilai, kara­
+    lius pareiškia jokio muito nenustatysiąs kitaip - tik su Sena­
+    to tarybos, prie jo esančios ir žinančios skubiausiai
+    tvarkytinus Respublikos reikalus, sutikimu. Tačiau sutinkąs
+    atidėti šio muito rinkimą iki būsimo seimo, įsakęs Lietuvos
+    iždininkui įrašyti tik į sąrašus tai, kas priklausys nuo pre­
+    kių, kad vėliau, po seimo sprendimo, būtų žinoma, ko gali­
+    ma reikalauti iš pirklių, o ko reikėtų atsisakyti.
+  citata_rodoma: "Karalius ŽYGIMANTAS AUGUSTAS\n\n## Puslapis 344\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nVII\nDVIEJŲ KARALIAUS STEPONO BATORO LAIŠKŲ,  \nRAŠYTŲ RADVILOMS, TURINYS:\nAPIE MUITUS IR MOKESČIUS  \nVILNIAUS PIRKLIAMS IR MIESTIEČIAMS\nAutentiškų karaliaus Stepono laiškų, rašytų Radviloms, \nrinkinyje, saugomame Radvilų archyve, Kardinalijoje, yra \ndu laiškai, atskleidžiantys, kad vis dėlto karalius, nenoriai \nir tai tik atkakliai prašomas Lietuvos senatorių ir protestuo­\njant Vilniaus pirkliams, laikinai juos atleido nuo naujai nu­\nstatyto muito mokesčio.\nViename tų laiškų, rašytame iš Marienburgo 1576 metų \nrugsėjo 23 dieną Vilniaus vyskupui ir Vilniaus vaivadai, Lie­\ntuvos Didžiosios Kunigaikštystės kancleriui Radvilai, kara­\nlius pareiškia jokio muito nenustatysiąs kitaip - tik su Sena­\nto tarybos, prie jo esančios ir žinančios skubiausiai \ntvarkytinus Respublikos reikalus, sutikimu. Tačiau sutinkąs \natidėti šio muito rinkimą iki būsimo seimo, įsakęs Lietuvos \niždininkui įrašyti tik į sąrašus tai, kas priklausys nuo pre­\nkių, kad vėliau, po seimo sprendimo, būtų žinoma, ko gali­\nma reikalauti iš pirklių, o ko reikėtų atsisakyti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195096
+
+- id: c-177482
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
@@ -223,52 +411,14 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik
     amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­
     kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
-  citata_rodoma: "1255 me­\ntais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­\nkami; Torunę -1235 metais, Malburgas [Marienburgas] -1281\nmetais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti\nbemaž visi Varmės miestai.\nTuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik\namžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­\nkų karalių - Boleslovas Didysis, pramintas Narsiuoju."
+  citata_rodoma: "Teutonų \nordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­\ngonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­\ntais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­\nkami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 \nmetais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti \nbemaž visi Varmės miestai.\nTuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik \namžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­\nkų karalių - Boleslovas Didysis, pramintas Narsiuoju."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84093
-    - t-84094
-
-- id: c-167682
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Ordinu, kuris nustojo teisės rengti prieš
-    Lietuvą karo žygius, prisidengiant katalikų tikėjimo skelbimu.
-    Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam
-    laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules,
-    drausdami Vok. Ordinui pulti lietuvius, kaipo neofitus.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184309
-
-- id: c-167683
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Prie šio teisėtų
-    įpėdinių veto pridėjo savo žodį ir Žemaičių bajorai, pasisaky­
-    dami neužleisią niekam savo krašto.
-    Pasireiškus tokiems abiejų pusių skirtumams, Kauno salos
-    suvažiavimas nutrūko. Ordino pasiuntinys grįžo į Malburgą
-    aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o
-    Makras dar labiau palinko į Vytauto pusę.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184310
+    - t-195098
+    - t-195102
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Teutonai]]

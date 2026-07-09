@@ -8,6 +8,10 @@ datos:
   - '1348 m.'
 date_start: '1348'
 date_end: ''
+aliases:
+  - 'objektai/ivykiai/Strėvos mūšis'
+variantai:
+  - 'Strėvos mūšis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -34,7 +38,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1348 m. ordinas surengė didelį žygį į Lietuvą, o grįžtančiai jo kariuomenei prie Strėvos upės kelią pastojo [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)|Algirdas]] su [[Kęstutis|Kęstučiu]]. Ordinas vėliau išgarsino šį susidūrimą kaip nepaprastai didelę pergalę, tačiau šaltinis pabrėžia, kad toks laimėjimo vaizdas buvo išpūstas.
+1348 m. ordinas surengė didelį žygį į Lietuvą, o grįžtančiai jo kariuomenei prie Strėvos upės kelią pastojo [[objektai/asmenys/Algirdas|Algirdas]] su [[Kęstutis|Kęstučiu]]. Ordinas vėliau išgarsino šį susidūrimą kaip nepaprastai didelę pergalę, tačiau šaltinis pabrėžia, kad toks laimėjimo vaizdas buvo išpūstas.
 
 ## Laikotarpis ir datos
 
@@ -44,13 +48,13 @@ media_all_json: |-
 
 ## Dalyviai ir vaidmenys
 
-- [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)|Algirdas]] ir [[Kęstutis]]: lietuvių kariuomenės vadai
+- [[objektai/asmenys/Algirdas|Algirdas]] ir [[Kęstutis]]: lietuvių kariuomenės vadai
 - ordinas: surengė žygį į Lietuvą
 - kryžiuočiai: traukdamiesi susikovė prie Strėvos upės
 
 ## Eiga
 
-Atsilygindamas už ankstesnius puolimus, ordinas surengė didelį žygį į Lietuvą, niokojo kraštą ir pasiekė Žiežmarius. Grįžtančiai kariuomenei prie Strėvos upės kelią pastojo [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)|Algirdas]] su [[Kęstutis|Kęstučiu]].
+Atsilygindamas už ankstesnius puolimus, ordinas surengė didelį žygį į Lietuvą, niokojo kraštą ir pasiekė Žiežmarius. Grįžtančiai kariuomenei prie Strėvos upės kelią pastojo [[objektai/asmenys/Algirdas|Algirdas]] su [[Kęstutis|Kęstučiu]].
 
 ## Rezultatas
 

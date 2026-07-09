@@ -650,7 +650,6 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš [[objektai/posakiai/Esąs tik vienas būdas suteikti valstybei saugią ramybę.md#claim-t-185469|Esąs tik vienas būdas suteikti valstybei saugią ramybę]]: Didikai ir bajorai teigė, kad Lietuvos Didžiajai Kunigaikštystei ramybę suteiktų valdovas, asmeniškai saugantis jos vientisumą.
 - susijęs iš [[objektai/posakiai/Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos ... nes jie yra mano tėvų palikimas.md#claim-t-59157|Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos ... nes jie yra mano tėvų palikimas]]: 1413 m. Salyno derybose Vytautas pareiškė, kad Prūsai buvę jo tėvų žemė ir kad jis reikalausiąs jų iki Osos.
 - susijęs iš [[objektai/posakiai/Respublika laikosi netvarka.md#claim-t-10834|Respublika laikosi netvarka]]: Formuluotė šiame pasakojime pateikiama kaip senasis bajoriškos netvarkos pateisinimo posakis.
-- susijęs iš [[objektai/posakiai/senesnė ir garbingesnė, negu lenkų.md#claim-t-186887|senesnė ir garbingesnė, negu lenkų]]: Bychovco kronika Lietuvos bajorų kilmę ir garbę vaizduoja kaip viršesnę už lenkų.
 - susijęs iš [[objektai/posakiai/šuns kfauju.md#claim-t-186885|šuns kfauju]]: Bychovco kronikoje Žygimanto Kęstutaičio tariamas siekis iškelti mužikus, vadinamus „šuns krauju“, vaizduojamas kaip viena baisiausių jo nedorybių.
 - susijęs iš [[objektai/posakiai/„Przenigdy“ „Niekados“.md#claim-t-20867|„Przenigdy“ „Niekados“]]: Dr. T. Čarkovskio brošiūra „Przenigdy“ („Niekados“) pablogino lenkų ir lietuvių santykius.
 - susijęs iš [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“.md#claim-t-183503|„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]: Gegužės 3-iosios konstitucijos formuluotė „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.
@@ -788,7 +787,6 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš Vidurinė Lietuva: 1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota Vidurinė Lietuva.
 - susijęs iš Vidurio Europa: Civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai.
 - susijęs iš Vidurio Europa: Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams, vadinamiems Vidurio Europa.
-- susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis.
 - susijęs iš Vilniaus kraštas: 1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.
 - susijęs iš Vilnius: Vilnius tapo Žygimanto ir Švitrigailos grupuočių kovos taikiniu.
 - susijęs iš Vilnius: Vilniuje pakrikštyti pagonys gyventojai, užgesinta amžinoji ugnis ir pradėta statyti Šv. Stanislovo katedra.

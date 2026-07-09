@@ -3,6 +3,10 @@ tipas: autorius
 pavadinimas: 'Vytautas Bulvičius'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+aliases:
+  - 'objektai/asmenys/Vytautas Bulvičius'
+variantai:
+  - 'Vytautas Bulvičius'
 sukurta: ''
 atnaujinta: ''
 tags:

@@ -7,6 +7,10 @@ datos:
   - '1938 m.'
 date_start: '1938'
 date_end: ''
+aliases:
+  - 'objektai/saltiniai/Klaipėdos krašto statutas'
+variantai:
+  - 'Klaipėdos krašto statutas'
 sukurta: ''
 atnaujinta: ''
 tags:

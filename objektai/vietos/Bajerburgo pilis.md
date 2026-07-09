@@ -8,6 +8,15 @@ datos:
   - '1337 m.'
 date_start: '1200'
 date_end: '1337'
+aliases:
+  - 'Bajerburgo pilis'
+  - 'Bajerburgas Bajerburgo pilis'
+variantai:
+  - 'Bajerburgo pilis'
+  - 'Bajerburgas Bajerburgo pilis'
+amziai:
+  - 'XII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,9 +24,6 @@ tags:
   - miestas
   - valdovas
   - vieta
-amziai:
-  - 'XII'
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,27 +45,37 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
 
 ## Teiginiai
 
-<a id="claim-t-86292"></a>
+<a id="claim-t-195053"></a>
 - t-001
-  global_id: t-86292
+  global_id: t-195053
   teiginys: "Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos."
-  semantiniai_rysiai: "Gediminas kariavo prieš Kryžiuočių ordinas (0.90); Gediminas mirė Bajerburgo pilis (0.90)"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Sakinys perrašytas be nutrūkusio konteksto ir OCR triukšmo."
+  susije_objektai: "llm_object: Bajerburgo pilis; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bajerburgas; mentioned_place: Veliuona; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga"
+  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] mirė Bajerburgo pilis"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "76950-78076; hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=exact"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Formuluotė „mūšyje su kryžiuočiais“ tiesiogiai rodo karinę priešpriešą."
   pagrindžia:
-    - c-82271
+    - c-177437
+    - c-177438
+    - c-177436
+
+<a id="claim-t-195054"></a>
+- t-003
+  global_id: t-195054
+  teiginys: "Bajerburgas vėliau vadintas Raudone, nes pilies sienos buvo sumūrytos iš raudonų plytų."
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata pagrindžia pavadinimo aiškinimą, bet pradinę formuluotę verta sutvarkyti."
+  susije_objektai: "mentioned_place: Bajerburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Veliuona"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "76950-78076; hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177437
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178977|Kryžiuočių ordinas]]: Bajerburgo pilis prie Nemuno apie 1337 m. pastatyta Ordino pavedimu ir padedant Bavarijos kunigaikščiui Henrikui.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178977|Kryžiuočių ordinas]]: Bajerburgo pilis prie Nemuno apie 1337 m. pastatyta Ordino pavedimu ir padedant Bavarijos kunigaikščiui Henrikui.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -95,10 +111,87 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Bajerburgas vėliau vadintas Raudone, nes pilies sienos buvo sumūrytos iš raudonų plytų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dabar Veliuona priklauso dvari­
+    ninkui Mykolui Zaleskiui.
+    Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­
+    burgo pilis, pastatydinta Ordinui pavedus ir padedant Ba­
+    varijos kunigaikščiui Henrikui apie 1337 metus, gavusi var­
+    dą, nuo jo paeinantį; pastarasis kunigaikštis draugėj su
+    kryžiuočiais dalyvavo daugelyje žygių į Lietuvą. Dabar Ba-
+    jerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo
+    žemaitiško žodžio „raudonas", mat jos sienos sumūrytos iš
+    raudonų plytų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+- c-003
+  santrauka: 'Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pilies kieme kadaise buvo gilus šulinys, gau­
+    siai vandens tiekiantis, - dabar visai užkastas, o po centri­
+    niu bokštu buvo rūsys, stačiai smengantis gilyn, matmenimis
+    į aukštį ir į plotį prilygstantis tam bokštui viršum jo. Į tą rūsį
+    landa buvo tokia, kad tik po vieną žmogų tegalėjo įeiti, vei­
+    kiausiai tai buvo pilies kalėjimas. Pasak Prūsijos metrašti­
+    ninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi
+    priešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai
+    102
+
+    ## Puslapis 119
+
+    I  KNYGA
+    vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs
+    jam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337
+    metų birželio 15 d., sustojo ties Bajerburgu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
 
 ## Citatos
 
-- id: c-82271
+- id: c-177436
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pilies kieme kadaise buvo gilus šulinys, gau­
+    siai vandens tiekiantis, - dabar visai užkastas, o po centri­
+    niu bokštu buvo rūsys, stačiai smengantis gilyn, matmenimis
+    į aukštį ir į plotį prilygstantis tam bokštui viršum jo. Į tą rūsį
+    landa buvo tokia, kad tik po vieną žmogų tegalėjo įeiti, vei­
+    kiausiai tai buvo pilies kalėjimas. Pasak Prūsijos metrašti­
+    ninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi
+    priešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai
+    102
+
+    ## Puslapis 119
+
+    I  KNYGA
+    vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs
+    jam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337
+    metų birželio 15 d., sustojo ties Bajerburgu.
+  citata_rodoma: "Pilies kieme kadaise buvo gilus šulinys, gau­\nsiai vandens tiekiantis, - dabar visai užkastas, o po centri­\nniu bokštu buvo rūsys, stačiai smengantis gilyn, matmenimis \nį aukštį ir į plotį prilygstantis tam bokštui viršum jo. Į tą rūsį \nlanda buvo tokia, kad tik po vieną žmogų tegalėjo įeiti, vei­\nkiausiai tai buvo pilies kalėjimas. Pasak Prūsijos metrašti­\nninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi \npriešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai\n102\n\n## Puslapis 119\n\nI  KNYGA\nvienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs \njam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337 \nmetų birželio 15 d., sustojo ties Bajerburgu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195053
+
+- id: c-177437
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
@@ -127,13 +220,36 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
     bet ten dar prieš aštuonerius metus
     Bremeno pirkliai jau buvo pastaty­
     dinę keletą namų.
-  citata_rodoma: "O vis dėlto Vilniuje, galingos valstybės sostinėje, \nGedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­\ntės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­\nčionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­\ngiję feodalinio valdymo principai.\nPo Gedimino, nužudyto 1337 metais prie Bajerburgo pi­\nlies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­\nnutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su \nvaldovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,\n13\nRygos miestas buvo įkurtas 1200 \nmetais, ant kalno, vadinto Righe, \nDvinos pakrantėje, vyskupo Alber­\nto fon Apeldemo, pasiųsto skleisti \nkrikščioniškąjį tikėjimą Livonijoje, \nbet ten dar prieš aštuonerius metus \nBremeno pirkliai jau buvo pastaty­\ndinę keletą namų."
+  citata_rodoma: "Betgi toje epochoje, kai naujos civilizacijos \nspinduliai Lietuvos žemėje buvo tik pradėję blykčioti, kai, \nnepaisant Lietuvos valdovų išmintingų siekių, karo reikalai \nir užgrobimai labiau už įstatymų leidimą ar krašto valdy­\nmą visiems rūpėjo, dar skendint barbariškų laikų tamsoj ar­\ngi galima laiduoti už bet kokių įstatymų pastovumą ir pati­\nkimumą? O vis dėlto Vilniuje, galingos valstybės sostinėje, \nGedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­\ntės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­\nčionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­\ngiję feodalinio valdymo principai.\nPo Gedimino, nužudyto 1337 metais prie Bajerburgo pi­\nlies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­\nnutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su \nvaldovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,\n13\nRygos miestas buvo įkurtas 1200 \nmetais, ant kalno, vadinto Righe, \nDvinos pakrantėje, vyskupo Alber­\nto fon Apeldemo, pasiųsto skleisti \nkrikščioniškąjį tikėjimą Livonijoje, \nbet ten dar prieš aštuonerius metus \nBremeno pirkliai jau buvo pastaty­\ndinę keletą namų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86292
+    - t-195053
+
+- id: c-177438
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Dabar Veliuona priklauso dvari­
+    ninkui Mykolui Zaleskiui.
+    Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­
+    burgo pilis, pastatydinta Ordinui pavedus ir padedant Ba­
+    varijos kunigaikščiui Henrikui apie 1337 metus, gavusi var­
+    dą, nuo jo paeinantį; pastarasis kunigaikštis draugėj su
+    kryžiuočiais dalyvavo daugelyje žygių į Lietuvą. Dabar Ba-
+    jerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo
+    žemaitiško žodžio „raudonas", mat jos sienos sumūrytos iš
+    raudonų plytų.
+  citata_rodoma: "Dabar Veliuona priklauso dvari­\nninkui Mykolui Zaleskiui.\nUž mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­\nburgo pilis, pastatydinta Ordinui pavedus ir padedant Ba­\nvarijos kunigaikščiui Henrikui apie 1337 metus, gavusi var­\ndą, nuo jo paeinantį; pastarasis kunigaikštis draugėj su \nkryžiuočiais dalyvavo daugelyje žygių į Lietuvą. Dabar Ba- \njerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo \nžemaitiško žodžio „raudonas\", mat jos sienos sumūrytos iš \nraudonų plytų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195053
 
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

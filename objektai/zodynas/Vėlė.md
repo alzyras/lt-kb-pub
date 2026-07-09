@@ -76,7 +76,6 @@ Vartojamos formos: `vėlės`.
 - susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.
 - susijęs iš Pragaras: Narbutas Pragarą aiškina kaip lietuvišką peklos pavadinimą, siejamą su kankinimu ugnimi ir lietuvių kančių vaizdiniais.
 - susijęs iš Unzatrapio žemė: Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.
 - susijęs iš Vilnius: Laiško kopijoje pranešama, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.
 - susijęs iš [[objektai/zodynas/Kehms kernas.md#claim-t-189301|Kehms kernas]]: Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms, o žemaitiškai - kernu.
 - susijęs iš [[objektai/zodynas/Pragaras pekla.md#claim-t-189319|Pragaras pekla]]: Narbutas iš padavimų spėjo, kad lietuviai įsivaizdavo rojų ir peklą, o žodį „Pragaras“ siejo su kankinimu ugnimi.

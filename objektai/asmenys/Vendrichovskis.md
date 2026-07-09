@@ -56,7 +56,6 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
   ryšio_paaiskinimas: "Tekstas sieja Vendrichovskio ilgalaikę viešą veiklą su Vilniaus miesto centru."
   pagrindžia:
     - c-83860
-- susijęs iš Žuvų turgus Vilniuje (sujungti pirminiai pavadinimai Žuvų turgavietė; Žuvų turgus Vilniuje): Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.
 - susijęs iš Žuvų turgus Vilniuje: Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.
 - susijęs iš [[objektai/daiktai/Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios.md#claim-t-87092|Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios]]: Reformatų didieji maldos namai buvo išmūryti ties Šv. Mykolo bažnyčia Vilniuje.
 - susijęs iš Lukiškės: Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 m. tapo reformos šalininkų prieglobsčiu ir mokykla.

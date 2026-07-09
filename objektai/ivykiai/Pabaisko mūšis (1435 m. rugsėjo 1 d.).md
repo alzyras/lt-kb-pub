@@ -9,6 +9,10 @@ datos:
   - '1440 m.'
 date_start: '1435'
 date_end: '1440'
+aliases:
+  - 'objektai/ivykiai/Ukmergės mūšis'
+variantai:
+  - 'Ukmergės mūšis'
 sukurta: ''
 atnaujinta: ''
 tags:

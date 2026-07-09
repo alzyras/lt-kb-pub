@@ -9,6 +9,10 @@ datos:
   - '1411 m.'
 date_start: '1410'
 date_end: '1411'
+aliases:
+  - 'objektai/posakiai/iki gyvos Vytauto ir Jogailos galvos'
+variantai:
+  - 'iki gyvos Vytauto ir Jogailos galvos'
 sukurta: ''
 atnaujinta: ''
 tags:

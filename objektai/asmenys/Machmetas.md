@@ -108,7 +108,6 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-71639|Krymo totoriai]]: 1427 m. pabaigoje Vytauto remiamas Machmetas pavaldė Pavolgio, Juodmarių pakraščio ir Krymo totorius.
 - susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-71641|Krymo totoriai]]: 1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo tarp Pavolgio, Juodmarių pakraščio ir Krymo totorių.
 - susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78380|Lietuvos totoriai]]: Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką.
-- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10285|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš flango.
 - susijęs iš Juodmarių pakraštys: Vytautas savo valdymo pabaigoje valdė Juodmarių pakraščio totorius.
 - susijęs iš Kipčakas: 1424 m. Vytauto padedamas Didysis Machmetas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 metų.
 - susijęs iš Krymas: 1427 m. Vytauto palaikomas Machmetas paėmė savo valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.

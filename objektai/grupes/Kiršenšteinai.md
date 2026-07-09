@@ -54,7 +54,6 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Kiršenšteinų giminė kelis šimtmečius valdė Raudonės pilį."
   pagrindžia:
     - c-82778
-- susijęs iš Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė): Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
 - susijęs iš Bajerburgas Raudonė: Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
 ## Reikšmingi paminėjimai
 

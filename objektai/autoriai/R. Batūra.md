@@ -7,6 +7,10 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+aliases:
+  - 'objektai/autoriai/Romas Batūra'
+variantai:
+  - 'Romas Batūra'
 sukurta: ''
 atnaujinta: ''
 tags:

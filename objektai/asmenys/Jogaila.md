@@ -14,6 +14,10 @@ datos:
   - '1430 m.'
 date_start: '1380'
 date_end: '1430'
+aliases:
+  - 'objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)'
+variantai:
+  - 'Jogaila (Lenkijos karalius, 1382 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -1825,7 +1829,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš [[objektai/posakiai/turi sekti kataliką, ar katalikę.md#claim-t-184363|turi sekti kataliką, ar katalikę]]: Jogailos įsakyme mišriose santuokose su rusais buvo reikalaujama sekti kataliką ar katalikę ir priimti Romos krikštą.
 - susijęs iš [[objektai/posakiai/vardan tos Lietuvos.md#claim-t-36023|vardan tos Lietuvos]]: Posakis „vardan tos Lietuvos“ siejamas su patriotizmu, praeities meile ir jėgomis kovoje.
 - susijęs iš [[objektai/posakiai/visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas.md#claim-t-185473|visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas]]: Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino posakiu, kad visuotinę žmonių nuomonę remia slaptas aukščiausiojo sprendimas.
-- susijęs iš [[objektai/posakiai/„jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.“.md#claim-t-36031|„jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.“]]: Vytautas, išgirdęs giriant iškalbingą kunigaikštį, tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis kunigaikštis.
 - susijęs iš [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“.md#claim-t-20902|„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]: Jogailos pastatyta katedra pašvęsta šv. Stanislovui, „kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“.
 - susijęs iš [[objektai/posakiai/„prišlieti“.md#claim-t-45869|„prišlieti“]]: Sutartyje Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos.
 - susijęs iš [[objektai/posakiai/„prišlieti“.md#claim-t-45870|„prišlieti“]]: Krėvos sutartyje Jogaila pažadėjo įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos.
@@ -1848,8 +1851,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš Aukokalnis: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
 - susijęs iš Ašmena: Ašmenoje buvo sukviečiami vietiniai ir apylinkių žmonės, mokomi tikėjimo tiesų ir krikštijami.
 - susijęs iš Ašmena: Prieš vyskupijos įkūrimą Jogaila rytų Lietuvoje aplankė Ašmeną, kur vietiniai žmonės buvo mokomi tikėjimo tiesų ir krikštijami.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
-- susijęs iš Baltijos jūra: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš Belskas: Belskas buvo tarp krikščioniškų Trakų kunigaikštijos sričių, kurių abu magistrai pasižadėjo nepulti.
 - susijęs iš Betygala: Vytautas Žemaitijoje pastatė bažnyčią Betygaloje.
 - susijęs iš Betygala: Aukokalnis buvo ties dabartine Betygala, o nuo jo pradėtas apaštalavimo darbas Žemaitijoje.
@@ -2004,7 +2005,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš Vakarų Bugas: Vakarų Bugas naudojamas kaip Horodlės vietos orientyras.
 - susijęs iš Vakarų Bugas: Horodlė šaltinio pastaboje lokalizuojama Volynėje, dabartinėje Lenkijoje, prie Vakarų Bugo, į pietus nuo Bresto.
 - susijęs iš Veliuona: Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos ir galįs siekti Prūsijos.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu.
 - susijęs iš Vilniaus Šv. Stanislovo katedra: Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu.
 - susijęs iš Vilnius: 1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos ginčo.
 - susijęs iš Vilnius: Jogaila 1387 m. pradžioje atvyko į Vilnių, pakeliui paėmęs Lietuvos kunigaikščių paklusnumo raštus.

@@ -10,6 +10,10 @@ datos:
   - '1932 m.'
 date_start: '1385'
 date_end: '1932'
+aliases:
+  - 'objektai/saltiniai/AUPL'
+variantai:
+  - 'AUPL'
 sukurta: ''
 atnaujinta: ''
 tags:

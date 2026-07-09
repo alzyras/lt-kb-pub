@@ -59,7 +59,6 @@ Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko, paskui Vilniaus v
   ryšio_paaiskinimas: "Frazė „kilęs iš Vilniaus“ rodo asmens kilmę iš Vilniaus, nors nėra pažodinė gimimo vietos formuluotė."
   pagrindžia:
     - c-83703
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus vyskupas Jonas Lasavičius Vilniaus katedroje įrengė Vyskupų koplyčią.
 - susijęs iš Vilniaus Šv. Stanislovo katedra: Jonas Lasavičius Vilniaus katedroje įrengė Vyskupų koplyčią.
 ## Reikšmingi paminėjimai
 

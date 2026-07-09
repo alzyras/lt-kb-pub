@@ -7,6 +7,10 @@ datos:
   - '1934 m.'
 date_start: '1934'
 date_end: ''
+aliases:
+  - 'objektai/zodynas/modus vivendi'
+variantai:
+  - 'modus vivendi'
 sukurta: ''
 atnaujinta: ''
 tags:

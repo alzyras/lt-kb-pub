@@ -4,6 +4,10 @@ pavadinimas: 'Balnas'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+aliases:
+  - 'objektai/daiktai/Balnai'
+variantai:
+  - 'Balnai'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -67,9 +71,9 @@ Nenurodyta
   pagrindžia:
     - c-10239
 - susijęs iš [[objektai/daiktai/Aukso balnai.md#claim-t-186845|Aukso balnai]]: Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo žirgų su aukso balnais tarp kitų brangių dovanų.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186542|Klecko mūšis (mūšis, XVI a.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį etmonas Stanislovas Petravičius Kiška sunkiai susirgo ir nebegalėjo laikytis balne.
 - susijęs iš [[objektai/zodynas/Trakai Troki.md#claim-t-189141|Trakai Troki]]: Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų terminu, reiškusiu prie balno tvirtinamus diržus žvėrienai.
 - susijęs iš [[objektai/zodynas/Utroczyc.md#claim-t-189338|Utroczyc]]: Narbutas Trakų pavadinimą aiškino slavų medžioklės terminu „utroczyc“, reiškiančiu prie balno tvirtinamus diržus žvėrienai pririšti.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195011|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį etmonas Stanislovas Petravičius Kiška sunkiai susirgo ir nebegalėjo laikytis balne.
 - susijęs iš [[objektai/daiktai/Brangūs aksomai.md#claim-t-186844|Brangūs aksomai]]: Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo brangių aksomų tarp kitų vertingų dovanų.
 - susijęs iš [[objektai/daiktai/Perlais siuvinėti drabužiai.md#claim-t-186843|Perlais siuvinėti drabužiai]]: Lietuvos metraštis pasakoja, kad Vytautas Vasilijui Dimitrijevičiui padovanojo perlais siuvinėtų drabužių ir kitų brangių dovanų.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-186580|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vasilijus Dimitrijevičius pavasariop atvyko į Smolenską pas Vytautą ir pagerbė jį brangiomis dovanomis.

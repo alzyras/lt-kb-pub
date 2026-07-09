@@ -7,6 +7,10 @@ datos:
   - '1817 m.'
 date_start: '1817'
 date_end: ''
+aliases:
+  - 'objektai/daiktai/Taurės'
+variantai:
+  - 'Taurės'
 sukurta: ''
 atnaujinta: ''
 tags:

@@ -47,11 +47,11 @@ Po Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio vidu
   pagrindžia:
     - c-169545
 - susijęs iš [[objektai/asmenys/Burnaš Girėjus.md#claim-t-186189|Burnaš Girėjus]]: Burnaš Girėjus su Biti Girėjumi rugpjūčio viduryje užpuolė Slucką po Simono Olelkaičio mirties.
-- susijęs iš [[objektai/asmenys/Mengli Girėjus.md#claim-t-185936|Mengli Girėjus]]: Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug žalos.
 - susijęs iš [[objektai/asmenys/Simonas Olelkaitis.md#claim-t-186078|Simonas Olelkaitis]]: Slucko kunigaikštis Simonas Olelkaitis mirė prieš Biti Girėjaus ir Burnaš Girėjaus puolimą prieš Slucką.
 - susijęs iš [[objektai/ivykiai/Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką.md#claim-t-185695|Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką]]: Mengli Girėjaus kariuomenė, vadovaujama jo sūnaus, nusiaubė Lietuvą ir padarė daug žalos.
 - susijęs iš [[objektai/ivykiai/Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką.md#claim-t-185696|Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką]]: Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.
 - susijęs iš Sluckas: Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.
+- susijęs iš [[objektai/asmenys/Mengli Girėjus.md#claim-t-195005|Mengli Girėjus]]: Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug žalos.
 ## Reikšmingi paminėjimai
 
 - c-001

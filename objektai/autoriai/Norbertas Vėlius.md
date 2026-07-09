@@ -9,6 +9,10 @@ datos:
   - '1998 m.'
 date_start: '1992'
 date_end: '1998'
+aliases:
+  - 'objektai/autoriai/Vėlius N'
+variantai:
+  - 'Vėlius N'
 sukurta: ''
 atnaujinta: ''
 tags:

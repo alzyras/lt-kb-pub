@@ -228,17 +228,12 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš Rudinas: Sargybinis rado sužeistą Martyną kovos vietoje ir nuvežė jį į Rudino pilį.
 - susijęs iš Tikocinas: Tikocine pas Zaleskį buvę bažnytiniai reikmenys turėjo būti perduoti Vilniaus Šv. Onos bažnyčiai.
 - susijęs iš Vidugiriai: 1920 m. rugsėjo 22 d. leitenantas Jonas Kuklieris buvo žuvęs mūšyje netoli Vidugirio kaimo.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus katedros bažnyčioje ties šventovės viduriu buvo Šventojo Kryžiaus altorius.
 - susijęs iš Vilniaus katedros bažnyčia ir Šventojo Kryžiaus altorius: Šventojo Kryžiaus altorius buvo Vilniaus katedros bažnyčioje ties šventovės viduriu.
 - susijęs iš Vokietija: 1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis.
 - susijęs iš Šv. Dvasios dominikonų vienuolynas Vilniuje: Šv. Dvasios vienuolyno vyresnysis ir broliai buvo įpareigoti prieglaudoje laikyti Mišias, klausyti išpažinčių ir dalyti komuniją.
 - susijęs iš Šv. Dvasios prieglauda Vilniuje: Šv. Dvasios prieglaudos statybos, aprūpinimo ir vargšų priežiūros administravimas patikėtas Vilniaus vyskupui ir kapitulai.
 - susijęs iš Šv. Jono akademijos spaustuvė: Akademijos kolegija vėlesniais laikais 1631 m. įgytą mūrinį namą ir sklypą pavertė spaustuve.
 - susijęs iš Šv. Jono akademijos spaustuvė: Akademijos kolegija 1631 m. įgijo sklypą ir mūrinį namą, kurį vėliau pavertė spaustuve.
-- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Naujoji Šv. Onos bažnyčia Vilniaus pilyje buvo nurodyta kaip palaidojimo vieta mirties Lietuvos Kunigaikštystėje atveju.
-- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
-- susijęs iš Šv. Onos bažnyčia Vilniuje: Naujoji Šv. Onos bažnyčia Vilniaus pilyje buvo nurodyta kaip palaidojimo vieta mirties Lietuvos Kunigaikštystėje atveju.
-- susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
 - susijęs iš [[objektai/zodynas/Aitvaras viršgulis.md#claim-t-189112|Aitvaras viršgulis]]: Narbutas cituoja F. Noelį, kad demonografai išgalvojo viršgulius Incubi ir apačgulius Succubi, kankinančius žmones per miegą.
 - susijęs iš [[objektai/zodynas/Mėnuo Lėlė Mėnulė.md#claim-t-189162|Mėnuo Lėlė Mėnulė]]: Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, nakties karalių ir laiko tarpsnių valdovą, antrą po Saulės.
 - susijęs iš [[objektai/zodynas/Raudotojos Werksme.md#claim-t-189136|Raudotojos Werksme]]: Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta, jog jos nuramina vėles.
@@ -253,6 +248,7 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/zodynas/klauzūra.md#claim-t-58853|klauzūra]]: Nusiaubus žemę buvo sudeginta 250 parapinių bažnyčių, taip pat vienuolynų, koplyčių ir griežtos klauzūros moterų vienuolynų.
 - susijęs iš [[objektai/zodynas/klebono titulas.md#claim-t-86594|klebono titulas]]: Šv. Dvasios vienuolyno vyresnysis ir broliai prisiėmė panaikintą prieglaudos klebono titulą.
 - susijęs iš [[objektai/zodynas/vaivada kaštelionas.md#claim-t-86623|vaivada kaštelionas]]: Po Horodlės unijos akto Lietuvoje pagal Lenkijos pavyzdį buvo įvestos vaivados ir kašteliono tarnybos, apibrėžus jų pareigas.
+- susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
 ## Reikšmingi paminėjimai
 
 - c-001

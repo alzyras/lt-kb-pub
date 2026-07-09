@@ -19,6 +19,10 @@ datos:
   - '1934 m.'
 date_start: '1236'
 date_end: '1934'
+aliases:
+  - 'objektai/vietos/Klaipeda'
+variantai:
+  - 'Klaipėda'
 sukurta: ''
 atnaujinta: ''
 tags:

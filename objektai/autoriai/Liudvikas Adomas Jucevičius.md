@@ -7,6 +7,10 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+aliases:
+  - 'objektai/autoriai/Jucevičius L. A'
+variantai:
+  - 'Jucevičius L. A'
 sukurta: ''
 atnaujinta: ''
 tags:

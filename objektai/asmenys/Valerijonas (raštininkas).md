@@ -84,7 +84,7 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55107|Vilniaus žydų kahalas]]: Vilniaus kahalas iki 1763 m. Valerijono konvikto gyventojams mokėjo 8 procentus, o nuo 1763 m. - 3 procentus.
 - susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-81751|Vilniaus žydų kahalas]]: 1631 m. Vilniaus kahalo žydams buvo perduota 5500 auksinų suma, nuo kurios kahalas iki 1763 m. mokėjo 8 procentus Valerijono konvikto gyventojams.
 - susijęs iš 1559 m. Žygimanto Augusto raštas dėl Valerijono priešinimosi Augsburgo tikėjimui: 1559 m. Žygimanto Augusto raštas paliudijo Vilniaus vyskupo Valerijono priešinimąsi Augsburgo tikėjimui.
-- susijęs iš Valerijono Bursa (sujungti pirminiai pavadinimai Valerijono bursos; Valerijono Bursa): 1579 m. Vilniaus vyskupas Protasevičius nustatė, kad Akademijai užrašyti namai būtų vadinami Valerijono bursomis.
+- susijęs iš Valerijono bursa: 1579 m. Vilniaus vyskupas Protasevičius nustatė, kad Akademijai užrašyti namai būtų vadinami Valerijono bursomis.
 - susijęs iš Valerijono bursos: 1579 m. Vilniaus vyskupas Protasevičius nustatė, kad Akademijai užrašyti namai būtų vadinami Valerijono bursomis.
 - susijęs iš Švarco mūras: 1756 m. Akademijos rektorius tėvas Juraha Švarco vardu vadintą kolegijos namą perleido Valerijono bursai.
 - susijęs iš [[objektai/zodynas/kahalas.md#claim-t-86530|kahalas]]: Vilniaus kahalas iki 1763 m. nuo 5500 auksinų sumos Valerijono konvikto gyventojams mokėjo 8 procentus.
@@ -119,7 +119,6 @@ media_all_json: |-
 - susijęs iš Stepono Batoro privilegija, kuria Alantos dvaras dovanojamas Gabrieliui Bekešui (1581 m. vasario 13 d.): 1581 m. vasario 13 d. Varšuvos seime Steponas Batoras privilegija dovanojo Alantos dvarą Gabrieliui Bekešui.
 - susijęs iš Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė: Balandžio 1 d. dekretais karalius vyskupo Protasevičiaus funduotą jėzuitų kolegiją pakėlė iki universiteto laipsnio.
 - susijęs iš Inovroclavas: Vienas iš trijų į Vilnių pakviestų lenkų tapytojų buvo Vaitiekus Chelminskis iš Inovroclavo.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): 1547 m. privilegijoje fabrikui skirtas sklypas apibūdintas kaip esantis už Vilijos upės prie Vilniaus miesto.
 - susijęs iš Vilija: 1547 m. Paleckio liejyklai skirtas sklypas buvo prie Vilniaus miesto, už Vilijos upės.
 - susijęs iš Vilnius: 1581 m. Vilniuje įvesdintas Lietuvos Tribunolas miestui suteikė daugiau orumo ir naudos.
 - susijęs iš Vilnius: 1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir gavo valdžią Lietuvoje.
@@ -128,6 +127,7 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/bursa.md#claim-t-86416|bursa]]: Valerijono bursos fundacijos dokumentas buvo datuotas 1579 m. Vilniuje, vyskupo dvare ir įprastuose rezidencijos namuose.
 - susijęs iš [[objektai/zodynas/kahalas.md#claim-t-86529|kahalas]]: Akademijos rektorius Juraha nuėmė viderkafto mokestį nuo Švarco namu vadinto mūro ir priskyrė jį kahale investuotoms sumoms.
 - susijęs iš [[objektai/zodynas/viderkaftas.md#claim-t-86624|viderkaftas]]: Tėvas Juraha nuo mūrinio namo nuėmė 140 auksinų metinį viderkafto mokestį už Uršulę ir Mauricijų.
+- susijęs iš Šv. Jono bažnyčia Vilniuje: 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -7,6 +7,10 @@ datos:
   - '1902 m.'
 date_start: '1902'
 date_end: ''
+aliases:
+  - 'objektai/asmenys/T. Čarkovskis'
+variantai:
+  - 'T. Čarkovskis'
 sukurta: ''
 atnaujinta: ''
 tags:

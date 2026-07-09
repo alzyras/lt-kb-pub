@@ -6,6 +6,10 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+aliases:
+  - 'objektai/autoriai/Dr. Jonas Basanavičius'
+variantai:
+  - 'Dr. Jonas Basanavičius'
 sukurta: ''
 atnaujinta: ''
 tags:

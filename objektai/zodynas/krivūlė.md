@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'krivūlė'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+aliases:
+  - 'objektai/zodynas/Krivūlė'
+variantai:
+  - 'krivūlė'
 sukurta: ''
 atnaujinta: ''
 tags:

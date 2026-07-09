@@ -8,6 +8,10 @@ datos:
   - '2004 m.'
 date_start: '1990'
 date_end: '2004'
+aliases:
+  - 'objektai/asmenys/Audronius Ažubalis'
+variantai:
+  - 'Audronius Ažubalis'
 sukurta: ''
 atnaujinta: ''
 tags:

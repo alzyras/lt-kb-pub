@@ -66,6 +66,8 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
 - susijęs iš [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės.md#claim-t-86481|lotyniškos teismo ir dokumentų formulės]]: LDK Vyriausiasis Tribunolas priėmė Pabaisko bažnyčios fundacijos dokumentą ir pavedė jį įrašyti į Tribunolo viešąsias knygas.
 - susijęs iš [[objektai/zodynas/Žemininkas Kurkas.md#claim-t-189144|Žemininkas Kurkas]]: Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų Kurku (Kurko, Kurchus).
 - susijęs iš [[objektai/paprociai/Lotynų kalbos vartojimas kaip diplomatinės kalbos.md#claim-t-192105|Lotynų kalbos vartojimas kaip diplomatinės kalbos]]: Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip diplomatinę kalbą.
+- susijęs iš Švč. Trejybės špitolė Vilniuje: 1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.
+- susijęs iš Švč. Trejybės špitolė Vilniuje: Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių.
 - susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192172|jurisdikcija]]: 1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių.
 ## Reikšmingi paminėjimai
 

@@ -78,7 +78,6 @@ Nenurodyta
 - susijęs iš Ptolomėjaus iš Lukos Analai: Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona kūnu.
 - susijęs iš Tibras: 1277 m. Romoje Tibras ištvino ir pakilo daugiau kaip keturias pėdas virš Švč. Marijos altoriaus rotondoje.
 - susijęs iš Vilniaus Perkūno šventykla: Pasak Narbuto perteikiamo Strijkovskio, prie Vilniaus Perkūno šventyklos gyvatės buvo laikomos atskiroje koplyčioje po Katedros didžiuoju altoriumi.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus katedros bažnyčioje ties šventovės viduriu buvo Šventojo Kryžiaus altorius.
 - susijęs iš Vilniaus katedra: Didžiojo valdovo palaikai buvo pervežti į Vilnių ir palaidoti Vilniaus katedros rūsyje po Šv. Mykolo Arkangelo altoriumi.
 - susijęs iš Vilniaus katedra: Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.
 - susijęs iš Vilniaus katedra: Pasak Narbuto perteikiamo Strijkovskio, Vilniaus katedroje po didžiuoju altoriumi buvo koplyčia, kur laikytos gyvatės.
@@ -154,4 +153,4 @@ Nenurodyta
     - t-59677
 
 ## Ryšiai
-- Altorius priklausė [[objektai/vietos/Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b]]
+- Altorius priklausė [[objektai/vietos/Vilniaus katedra]]

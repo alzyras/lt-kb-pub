@@ -82,7 +82,6 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
 - susijęs iš [[objektai/asmenys/Mikalojus Laurinavičius.md#claim-t-87786|Mikalojus Laurinavičius]]: Mikalojus Laurinavičius, Jachnos brolis, ilgai buvo burmistras.
 - susijęs iš [[objektai/grupes/Bernardinų ordinas.md#claim-t-181538|Bernardinų ordinas]]: 1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno.
 - susijęs iš [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija.md#claim-t-87263|Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]: 1469 m. karaliaus pavedimu į Vilnių pakviestiems bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis prie Vilnios.
-- susijęs iš Karališkasis malūnas Vilniuje (sujungti pirminiai pavadinimai Karališkasis malūnas; Karališkasis malūnas Vilniuje): Bernardinams Vilniuje buvo atiduotas slėnis su namais ir pieva palei Vilnią prie Karališkojo malūno.
 - susijęs iš Karališkasis malūnas: 1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno.
 - susijęs iš Vilnia: 1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.
 ## Reikšmingi paminėjimai

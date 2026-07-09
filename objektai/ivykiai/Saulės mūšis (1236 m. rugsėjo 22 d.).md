@@ -10,6 +10,12 @@ datos:
   - '1237 m.'
 date_start: '1236'
 date_end: '1237'
+aliases:
+  - 'objektai/ivykiai/Mūšis ties Šiauliais ir kalavijuočių susiliejimas su kryžiuočiais'
+  - 'objektai/ivykiai/Saulės-Šiaulių kautynės'
+variantai:
+  - 'Mūšis ties Šiauliais ir kalavijuočių susiliejimas su kryžiuočiais'
+  - 'Saulės-Šiaulių kautynės'
 sukurta: ''
 atnaujinta: ''
 tags:

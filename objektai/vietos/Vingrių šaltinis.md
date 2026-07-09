@@ -55,8 +55,6 @@ Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įt
   pagrindžia:
     - c-82294
 - susijęs iš [[objektai/posakiai/Vendimus abscedimus, et resignamus.md#claim-t-86875|Vendimus abscedimus, et resignamus]]: Formulė „Vendimus abscedimus, et resignamus“ pavartota 1536 m. dominikonų sutartyje, kuria miestui parduotas Vingrių šaltinis.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Totorių vartų pavadinimas siejamas su vieta, kur slėnyje į Viliją įtekėjo Vingrių šaltinis.
-- susijęs iš Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.
 - susijęs iš Vilija: Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.
 ## Reikšmingi paminėjimai
 

@@ -4,6 +4,10 @@ pavadinimas: 'Mengli Girėjus'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+variantai:
+  - 'Mengli-Girėjus'
+aliases:
+  - 'Mengli-Girėjus'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -27,101 +31,79 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
 
 ## Teiginiai
 
-<a id="claim-t-185936"></a>
-- t-001
-  global_id: t-185936
-  teiginys: "Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug žalos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1033069-1033323; hash=dea588a1097097e76105625cbdb3895a9c5f0ce774f21ac791c9d2b765151824; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Biti Girėjus: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mengli Girėjus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Biti Girėjus: mention_match, person, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mengli Girėjus\" parinktas kaip owner_note_path. Targetas \"Biti Girėjus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  pagrindžia:
-    - c-169297
-
-<a id="claim-t-185937"></a>
-- t-002
-  global_id: t-185937
-  teiginys: "Mūšio lauke krito trys Mengli Girėjaus sūnūs ir žentas, todėl garsas apie pergalę plačiai pasklido."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1101113-1101526; hash=872c97c0d3ee7c767f5e2461f795245e770975c8e8fce53b78a3168ca3b12b2c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mengli Girėjus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mengli Girėjus\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  pagrindžia:
-    - c-169298
-
-<a id="claim-t-185938"></a>
+<a id="claim-t-195002"></a>
 - t-003
-  global_id: t-185938
+  global_id: t-195002
   teiginys: "Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus."
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Ilgas fragmentas sutrumpintas iki palaikomo fakto apie Mengli Girėjaus veikimą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Maskva"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "1125844-1126417; hash=045d37284e33d922875560ccc636f2232a125b372c37d33235a42fb0b32c6720; match=exact"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mengli Girėjus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mengli Girėjus\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-169299
+    - c-177387
 
-<a id="claim-t-185939"></a>
-- t-004
-  global_id: t-185939
-  teiginys: "Mengli Girėjus ketino užpulti tą mūšio pusę, kuri pirmoji suklups."
+<a id="claim-t-195003"></a>
+- t-006
+  global_id: t-195003
+  teiginys: "Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas."
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1125981-1126844; hash=bd73b868ededf770fd9dc36befa0d8c7820c5da27cc7d22a2381b099e01606e0; match=exact"
+  saltinio_vieta: "305303-305501; hash=8c928bcb3a083c734996c6acb74fa99eba32e469896a2fa563a2a29704b52474; match=exact"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konstantinas (Karijotaitis): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mengli Girėjus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konstantinas (Karijotaitis): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mengli Girėjus\" parinktas kaip owner_note_path. Targetas \"Konstantinas (Karijotaitis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-169300
+    - c-177388
 
-<a id="claim-t-193397"></a>
-- t-005
-  global_id: t-193397
-  teiginys: "Mengli Girėjus ketino užpulti tuos, kurie pirmieji suklups mūšyje."
+<a id="claim-t-195004"></a>
+- t-002
+  global_id: t-195004
+  teiginys: "Mūšio lauke krito trys Mengli Girėjaus sūnūs ir žentas, todėl garsas apie pergalę plačiai pasklido."
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys aiškiai sieja Mengli Girėjaus artimųjų žūtį su pergalės garso pasklidimu."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1125981-1126844; hash=bd73b868ededf770fd9dc36befa0d8c7820c5da27cc7d22a2381b099e01606e0; match=exact"
+  saltinio_vieta: "1101113-1101526; hash=872c97c0d3ee7c767f5e2461f795245e770975c8e8fce53b78a3168ca3b12b2c; match=exact"
   sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-169300
-- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-186027|Šich Achmetas]]: Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą.
+    - c-177386
+
+<a id="claim-t-195005"></a>
+- t-001
+  global_id: t-195005
+  teiginys: "Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug žalos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Pašalintas boilerplate ir pataisyta gramatika."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Biti Girėjus|Biti Girėjus]]; mentioned_person: [[objektai/asmenys/Burnaš Girėjus|Burnaš Girėjus]]; mentioned_place: Lietuva; mentioned_place: Sluckas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1033069-1033323; hash=dea588a1097097e76105625cbdb3895a9c5f0ce774f21ac791c9d2b765151824; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177385
+
+<a id="claim-t-195006"></a>
+- t-007
+  global_id: t-195006
+  teiginys: "1 6 Mechmet (Machmud)-Girėjus — Krymo chano M engli-Girėjaus trečiasis sūnus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "654753-654906; hash=d26b9d95bfd39f81a0496f1b38ecaf89b240541496904128f353753ec1912d85; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177384
 - susijęs iš [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas.md#claim-t-185838|Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]: Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus.
 - susijęs iš Trakai: Valdovo valia Šich Achmetas turėjo būti vaišingai priimtas Trakuose.
+- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-195007|Šich Achmetas]]: Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -141,7 +123,6 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Mūšio lauke krito trys Mengli Girėjaus sūnūs ir žentas, todėl garsas apie pergalę plačiai pasklido.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -162,7 +143,6 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -186,44 +166,60 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
-- c-004
-  santrauka: 'Mengli Girėjus ketino užpulti tą mūšio pusę, kuri pirmoji suklups.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+- c-005
+  santrauka: 'Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Skitas Mengli Girėjus, pakviestas už
-    mokamą atlyginimą į šį karo žygį, įsikūrė su kariais
-    netoli karaliaus stovyklos, tačiau nepradėjo kovoti
-    prieš maskvėnus, nors Ostrogiškis atkakliai reikalavo,
-    kad įsibrautų į Maskvos kunigaikštystę, mat jis iš
-    Maskvos valdovo irgi buvo gavęs nemaža pinigų. Ne­
-    trūko barbarui sumanumo deramai pateisinti savo ne­
-    veiklumą, nors, tiesą sakant, jis ketino užpulti tuos,
-    kurie pirmieji suklups mūšyje. Konstantinui laimėjus
-    kovą, pradėjo atvirai remti karalių ir netrukus patrau­
-    kė į Maskvos kunigaikštystę, nusiaubdamas didelius
-    plotus ir išsivesdamas šimtą tūkstančių belaisvių. Ost­
-    rogiškis, sugrįžęs į Vilnių, iš visos širdies padėkojo
-    aukščiausiajam, pastatydamas didelį Nedalomosios tre-
-    jybės vienuolyną ir jį paskirdamas vienuoliams, kurie,
-    6 3 4
-    I
+    Pats žygis
 
-    ## Puslapis 633
-
-    laikydamiesi rusų apeigų, paklūsta Romos popiežiui.
+    į LDK gilumą prasidėjo gegužės pabaigoje.
+    Jam vadovavo jaunesnieji Mengli-Girėjaus
+    sūnūs Fatihas ir Burnašas. Ekspedicines
+    pajėgas sudarė maždaug 4000 totorių, tu-
+    rėję apie 10000 žirgų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-005
+    - t-006
+- c-006
+  santrauka: '1 6 Mechmet (Machmud)-Girėjus — Krymo chano M engli-Girėjaus trečiasis sūnus.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    1 6  Mechmet (Machmud)-Girėjus — Krymo chano M engli-Girėjaus
+    trečiasis sūnus.
+    S! Burnašas — penktasis, jaunesnysis Krymo chano Mengli-Girė­
+    jaus sūnus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-007
 
 ## Citatos
 
-- id: c-169297
+- id: c-177384
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    1 6  Mechmet (Machmud)-Girėjus — Krymo chano M engli-Girėjaus
+    trečiasis sūnus.
+    S! Burnašas — penktasis, jaunesnysis Krymo chano Mengli-Girė­
+    jaus sūnus.
+  citata_rodoma: "1 6  Mechmet (Machmud)-Girėjus — Krymo chano M engli-Girėjaus \ntrečiasis sūnus.\nS! Burnašas — penktasis, jaunesnysis Krymo chano Mengli-Girė­\njaus sūnus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195006
+
+- id: c-177385
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
@@ -234,14 +230,15 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
     los. Mirus Slucko kunigaikščiui Simonui Olelkaičiui,
     jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­
     jūčio viduryje užpuolė Slucką.
+  citata_rodoma: "Išklausė\ndangus varguolio maldų. Mengli Girėjaus kariai, veda­\nmi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža­\nlos. Mirus Slucko kunigaikščiui Simonui Olelkaičiui,\njaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­\njūčio viduryje užpuolė Slucką."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185936
+    - t-195005
 
-- id: c-169298
+- id: c-177386
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
@@ -255,14 +252,15 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
     sius skitus, kurie ilgai klaidžiojo po visokius pašalius
     beplėšikaudami, ilgainiui įvairiose vietose išgaudė ir
     išžudė lenkų kariai.
+  citata_rodoma: "Lie­\ntuviai ir lenkai atsiėmė šešiolika tūkstančių belaisvių,\njiems atiteko dešimt tūkstančių arklių bei didžiulis ir\nįvairus grobis. Garsas apie šią pergalę plačiai paskli­\ndo, be kita ko, ir dėl to, kad mūšio lauke krito trys\nMengli Girėjaus sūnūs bei žentas. Kovoje nedalyvavu­\nsius skitus, kurie ilgai klaidžiojo po visokius pašalius\nbeplėšikaudami, ilgainiui įvairiose vietose išgaudė ir\nišžudė lenkų kariai."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185937
+    - t-195004
 
-- id: c-169299
+- id: c-177387
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
@@ -279,44 +277,30 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
     trūko barbarui sumanumo deramai pateisinti savo ne­
     veiklumą, nors, tiesą sakant, jis ketino užpulti tuos,
     kurie pirmieji suklups mūšyje.
+  citata_rodoma: "Pra­\nsidėjus žiemai, užėjo blogi orai, ir nebeliko nieko kito,\nkaip nutraukti apgulą ir su visa kariuomene išžygiuoti\nį žiemos stovyklą. Skitas Mengli Girėjus, pakviestas už\nmokamą atlyginimą į šį karo žygį, įsikūrė su kariais\nnetoli karaliaus stovyklos, tačiau nepradėjo kovoti\nprieš maskvėnus, nors Ostrogiškis atkakliai reikalavo,\nkad įsibrautų į Maskvos kunigaikštystę, mat jis iš\nMaskvos valdovo irgi buvo gavęs nemaža pinigų. Ne­\ntrūko barbarui sumanumo deramai pateisinti savo ne­\nveiklumą, nors, tiesą sakant, jis ketino užpulti tuos,\nkurie pirmieji suklups mūšyje."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185938
+    - t-195002
 
-- id: c-169300
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+- id: c-177388
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Skitas Mengli Girėjus, pakviestas už
-    mokamą atlyginimą į šį karo žygį, įsikūrė su kariais
-    netoli karaliaus stovyklos, tačiau nepradėjo kovoti
-    prieš maskvėnus, nors Ostrogiškis atkakliai reikalavo,
-    kad įsibrautų į Maskvos kunigaikštystę, mat jis iš
-    Maskvos valdovo irgi buvo gavęs nemaža pinigų. Ne­
-    trūko barbarui sumanumo deramai pateisinti savo ne­
-    veiklumą, nors, tiesą sakant, jis ketino užpulti tuos,
-    kurie pirmieji suklups mūšyje. Konstantinui laimėjus
-    kovą, pradėjo atvirai remti karalių ir netrukus patrau­
-    kė į Maskvos kunigaikštystę, nusiaubdamas didelius
-    plotus ir išsivesdamas šimtą tūkstančių belaisvių. Ost­
-    rogiškis, sugrįžęs į Vilnių, iš visos širdies padėkojo
-    aukščiausiajam, pastatydamas didelį Nedalomosios tre-
-    jybės vienuolyną ir jį paskirdamas vienuoliams, kurie,
-    6 3 4
-    I
+    Pats žygis
 
-    ## Puslapis 633
-
-    laikydamiesi rusų apeigų, paklūsta Romos popiežiui.
-  citata_rodoma: "Skitas Mengli Girėjus, pakviestas už\nmokamą atlyginimą į šį karo žygį, įsikūrė su kariais\nnetoli karaliaus stovyklos, tačiau nepradėjo kovoti\nprieš maskvėnus, nors Ostrogiškis atkakliai reikalavo,\nkad įsibrautų į Maskvos kunigaikštystę, mat jis iš\nMaskvos valdovo irgi buvo gavęs nemaža pinigų. Ne­\ntrūko barbarui sumanumo deramai pateisinti savo ne­\nveiklumą, nors, tiesą sakant, jis ketino užpulti tuos,\nkurie pirmieji suklups mūšyje. Konstantinui laimėjus\nkovą, pradėjo atvirai remti karalių ir netrukus patrau­\nkė į Maskvos kunigaikštystę, nusiaubdamas didelius\nplotus ir išsivesdamas šimtą tūkstančių belaisvių. Ost­\nrogiškis, sugrįžęs į Vilnių, iš visos širdies padėkojo\naukščiausiajam, pastatydamas didelį Nedalomosios tre-\njybės vienuolyną ir jį paskirdamas vienuoliams, kurie,\n6 3 4\nI\n\n## Puslapis 633\n\nlaikydamiesi rusų apeigų, paklūsta Romos popiežiui."
+    į LDK gilumą prasidėjo gegužės pabaigoje.
+    Jam vadovavo jaunesnieji Mengli-Girėjaus
+    sūnūs Fatihas ir Burnašas. Ekspedicines
+    pajėgas sudarė maždaug 4000 totorių, tu-
+    rėję apie 10000 žirgų.
+  citata_rodoma: "Pats žygis\n\nį LDK gilumą prasidėjo gegužės pabaigoje.\nJam vadovavo jaunesnieji Mengli-Girėjaus\nsūnūs Fatihas ir Burnašas. Ekspedicines\npajėgas sudarė maždaug 4000 totorių, tu-\nrėję apie 10000 žirgų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185939
-    - t-193397
+    - t-195003

@@ -3,6 +3,10 @@ tipas: daiktas
 pavadinimas: 'Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas „Žaliukas“'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+aliases:
+  - 'objektai/daiktai/Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas'
+variantai:
+  - 'Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas'
 sukurta: ''
 atnaujinta: ''
 tags:

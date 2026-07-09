@@ -12,6 +12,10 @@ datos:
   - '1261 m.'
 date_start: '1219'
 date_end: '1261'
+aliases:
+  - 'objektai/ivykiai/Durbės mūšis'
+variantai:
+  - 'Durbės mūšis'
 sukurta: ''
 atnaujinta: ''
 tags:

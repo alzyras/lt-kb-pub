@@ -213,7 +213,6 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179688|Švitrigaila]]: Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai.
 - susijęs iš Podolė: Teodoras Narbutas Podoliją priskiria miškingoms stepėms, per kurias jo pasakojime iš Juodosios jūros link Baltijos keliavo atvykėliai.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179693|Švitrigaila]]: Pajutęs Vytauto susilpnėjimą, Švitrigaila pareiškė pretenzijas į Lietuvą.
-- susijęs iš Baltijos jūra: Narbutas pasakoja, kad atvykėliai iš Juodosios jūros per miškingas stepes, vadintas Rusija, Podolija ir Lietuva, prasiskverbė iki Baltijos jūros.
 ## Reikšmingi paminėjimai
 
 - c-001

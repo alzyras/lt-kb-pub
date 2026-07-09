@@ -142,7 +142,6 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-54266|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prisijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
 - susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-54267|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
 - susijęs iš [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos.md#claim-t-183693|Lietuvių kariavimo būdas ir pilių įgulos]]: Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas ir susiformavo nuolatinių karo tarnybininkų sluoksnis.
-- susijęs iš [[objektai/posakiai/„Tas pavyzdžio neturintis abejingumas bus amžina Lietuvos dėmė“.md#claim-t-193005|„Tas pavyzdžio neturintis abejingumas bus amžina Lietuvos dėmė“]]: Narbutas Lietuvos abejingumą savo praeičiai vadino „amžina Lietuvos dėme“ ir siejo jį su menku lietuvių istorijos darbų skaičiumi per 400 metų.
 - susijęs iš Akonas: Aprašęs Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir trumpą kryžiaus žygių istoriją.
 - susijęs iš Akonas: Akonas šiame leidime apibūdinamas kaip Jeruzalės karalystės sostinė, kurios žlugimą aprašė kronikininkas.
 - susijęs iš Busavna: 1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o Teodoras Narbutas šį kraštą apibūdino kaip labai nuniokotą.
@@ -161,6 +160,7 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Haličo kunigaikščiai.md#claim-t-55065|Haličo kunigaikščiai]]: 1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą.
 - susijęs iš [[objektai/grupes/Haličo kunigaikščiai.md#claim-t-55066|Haličo kunigaikščiai]]: Slonimas smarkiai pasipriešino 1272 m. Lietuvą puolusiems Haličo kunigaikščiams ir Nogajaus mongolams.
 - susijęs iš [[objektai/grupes/Haličo kunigaikščiai.md#claim-t-80832|Haličo kunigaikščiai]]: 1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą, o Slonimas jiems smarkiai pasipriešino.
+- susijęs iš [[objektai/posakiai/„Tas pavyzdžio neturintis abejingumas bus amžina Lietuvos dėmė“.md#claim-t-195049|„Tas pavyzdžio neturintis abejingumas bus amžina Lietuvos dėmė“]]: Narbutas Lietuvos abejingumą savo praeičiai vadino „amžina Lietuvos dėme“ ir siejo jį su menku lietuvių istorijos darbų skaičiumi per 400 metų.
 - susijęs iš [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos.md#claim-t-183693|Lietuvių kariavimo būdas ir pilių įgulos]]: Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas ir susiformavo nuolatinių karo tarnybininkų sluoksnis.
 ## Reikšmingi paminėjimai
 

@@ -172,7 +172,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš Puoriai: 7-asis pulkas turėjo pulti Širvintas ir užimti Alionių, Puorių, Ramaškonių ir Šešuolėlių dvaro liniją.
 - susijęs iš Ramaškonys: 7-asis pulkas turėjo pulti Širvintas ir užimti liniją: Alionys-Puoriai-Ramaškonys-Šešuolėlių dvaras.
 - susijęs iš SSRS: Viačeslavas Molotovas Juozui Urbšiui pareiškė, kad nepaisant Lietuvos atsakymo SSRS kariuomenė įžygiuos į Lietuvą.
-- susijęs iš Vilniaus Žemutinė Kreivoji pilis (sujungti pirminiai pavadinimai Žemutinė pilis Kreivoji pilis; Žemutinė pilis; Kreivoji pilis; Žemutinė Kre: Per svetimšalių puolimą Žemutinėje pilyje keliose vietose įsiplieskė ugnis ir apėmė medinius statinius.
+- susijęs iš Vilniaus Žemutinė pilis: Per svetimšalių puolimą Žemutinėje pilyje keliose vietose įsiplieskė ugnis ir apėmė medinius statinius.
 - susijęs iš Šešuolėliai: 7-asis pulkas turėjo pulti Širvintas ir užimti liniją iki Šešuolėlių dvaro.
 - susijęs iš Žemutinė pilis: Per puolimą Žemutinėje pilyje liepsna apėmė medinius statinius, aptvarus ir užkardas.
 - susijęs iš [[objektai/zodynas/Gaspadinė.md#claim-t-70005|gaspadinė]]: `Gaspadinė` šiame tekste reiškia vestuvių šeimininkę ar vaišių tvarkytoją.

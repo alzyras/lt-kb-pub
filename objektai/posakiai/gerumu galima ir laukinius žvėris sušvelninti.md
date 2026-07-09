@@ -8,11 +8,16 @@ datos:
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
-sukurta: ''
-atnaujinta: ''
+aliases:
+  - '„gerumu galima ir laukinius žvėris sušvelninti.“'
+  - 'objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“'
+variantai:
+  - '„gerumu galima ir laukinius žvėris sušvelninti.“'
 amziai:
   - 'XIV'
   - 'XXI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,83 +43,67 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
 
 ## Teiginiai
 
-<a id="claim-t-186389"></a>
+<a id="claim-t-195034"></a>
+- t-005
+  global_id: t-195034
+  teiginys: "Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu galima ir laukinius žvėris sušvelninti."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "642882-643474; hash=3f9839a04085de366fd83a7be07cfddc0be322fada9294f1d4de12e6454fef08; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177405
+
+<a id="claim-t-195035"></a>
+- t-004
+  global_id: t-195035
+  teiginys: "Vytautas, išgirdęs priekaištą dėl dosnaus žemių dalijimo totoriams Lietuvoje ir Rusijoje, atsakė, kad gerumu galima sušvelninti ir laukinius žvėris."
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_object: [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du|Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "642882-643474; hash=3f9839a04085de366fd83a7be07cfddc0be322fada9294f1d4de12e6454fef08; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177405
+
+<a id="claim-t-195036"></a>
+- t-002
+  global_id: t-195036
+  teiginys: "Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje."
+  teiginio_tipas: "faktas"
+  susije_objektai: "llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_object: [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du|Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Viena; llm_object: Lietuva; llm_object: Rusija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "642882-643474; hash=3f9839a04085de366fd83a7be07cfddc0be322fada9294f1d4de12e6454fef08; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177405
+
+<a id="claim-t-195037"></a>
 - t-003
-  global_id: t-186389
+  global_id: t-195037
+  teiginys: "Vytautas posakiu „gerumu galima ir laukinius žvėris sušvelninti“ aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusioje."
+  teiginio_tipas: "faktas"
+  susije_objektai: "llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du|Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Viena; llm_object: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "642882-643474; hash=3f9839a04085de366fd83a7be07cfddc0be322fada9294f1d4de12e6454fef08; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177405
+
+<a id="claim-t-195038"></a>
+- t-001
+  global_id: t-195038
   teiginys: "Vytautas posakiu apie gerumu sušvelninamus laukinius žvėris aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Totoriai (0.88); Totoriai gyveno Lietuva (0.65); Totoriai gyveno Rusija (0.60)"
+  susije_objektai: "llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_object: [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du|Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; llm_object: Lietuva; llm_object: Rusija"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "642781-643318; hash=6ade76500f44991b9f18d5f07f9f08a0b0751efe3585553ed72e639a769b506f; match=exact"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai minima Vytauto kova su totoriais."
   pagrindžia:
-    - c-169743
-
-<a id="claim-t-186390"></a>
-- t-001
-  global_id: t-186390
-  teiginys: "Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Totoriai (0.88); Totoriai gyveno Lietuva (0.65); Totoriai gyveno Rusija (0.60)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642882-643474; hash=3f9839a04085de366fd83a7be07cfddc0be322fada9294f1d4de12e6454fef08; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatoje aiškiai minima Vytauto kova su totoriais."
-  pagrindžia:
-    - c-169744
-
-<a id="claim-t-186391"></a>
-- t-004
-  global_id: t-186391
-  teiginys: "Vytautas posakiu „gerumu galima ir laukinius žvėris sušvelninti“ aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusioje."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Totoriai (0.88); Totoriai gyveno Lietuva (0.65)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642882-643474; hash=3f9839a04085de366fd83a7be07cfddc0be322fada9294f1d4de12e6454fef08; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai minima Vytauto kova su totoriais."
-  pagrindžia:
-    - c-169744
-
-<a id="claim-t-186392"></a>
-- t-002
-  global_id: t-186392
-  teiginys: "Vytautas, išgirdęs priekaištą dėl dosnaus žemių dalijimo totoriams Lietuvoje ir Rusijoje, atsakė, kad gerumu galima sušvelninti ir laukinius žvėris."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Totoriai gyveno Lietuva (0.65)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642882-643474; hash=3f9839a04085de366fd83a7be07cfddc0be322fada9294f1d4de12e6454fef08; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.65"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys apie žemių dalijimą totoriams Lietuvoje pagrindžia jų ryšį su gyvenimu ar įkurdinimu Lietuvoje."
-  pagrindžia:
-    - c-169744
+    - c-177406
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -134,7 +123,6 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -160,30 +148,7 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
 
 ## Citatos
 
-- id: c-169743
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
-    dažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro
-    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
-    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
-    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
-    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai. Kai
-    kartą jam kažkas priminė jo didelį duosnumą dalinant toto­
-    riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
-    galima ir laukinius žvėris sušvelninti.
-  citata_rodoma: "Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,\ndažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro\nsaviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,\nVytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,\ngausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės\napie mus, kad mus nugalėjo du priešai: šaltis ir totoriai. Kai\nkartą jam kažkas priminė jo didelį duosnumą dalinant toto­\nriams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu\ngalima ir laukinius žvėris sušvelninti."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186389
-
-- id: c-169744
+- id: c-177405
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
@@ -206,5 +171,28 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186390
-    - t-186392
+    - t-195036
+    - t-195035
+
+- id: c-177406
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
+    dažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro
+    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
+    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
+    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
+    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai. Kai
+    kartą jam kažkas priminė jo didelį duosnumą dalinant toto­
+    riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
+    galima ir laukinius žvėris sušvelninti.
+  citata_rodoma: "Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,\ndažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro\nsaviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,\nVytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,\ngausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės\napie mus, kad mus nugalėjo du priešai: šaltis ir totoriai. Kai\nkartą jam kažkas priminė jo didelį duosnumą dalinant toto­\nriams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu\ngalima ir laukinius žvėris sušvelninti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195038

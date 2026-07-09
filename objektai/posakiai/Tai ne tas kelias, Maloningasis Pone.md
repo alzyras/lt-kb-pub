@@ -3,6 +3,10 @@ tipas: posakis
 pavadinimas: 'Tai ne tas kelias, Maloningasis Pone'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+aliases:
+  - 'objektai/posakiai/Tai ne tas kelias, Maloningasis Pone...'
+variantai:
+  - 'Tai ne tas kelias, Maloningasis Pone...'
 sukurta: ''
 atnaujinta: ''
 tags:

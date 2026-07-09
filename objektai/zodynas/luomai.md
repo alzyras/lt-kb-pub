@@ -175,6 +175,7 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - susijęs iš [[objektai/zodynas/Rusios didysis kunigaikštis.md#claim-t-185410|Rusios didysis kunigaikštis]]: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
 - susijęs iš [[objektai/zodynas/archikamerarijus.md#claim-t-185398|archikamerarijus]]: Seimo pradžioje Jurgis Chodkevičius buvo paskirtas vyriausiuoju kunigaikščio miegamojo prižiūrėtoju, vadintu archikamerarijumi.
 - susijęs iš [[objektai/zodynas/graikų schizma.md#claim-t-185386|graikų schizma]]: Konstantinas, išpažindamas rusų tikėjimą, prisidėjo prie graikų schizmos ir išsižadėjo paklusnumo Romos popiežiui.
+- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-195008|Šich Achmetas]]: Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.
 ## Reikšmingi paminėjimai
 
 - c-001

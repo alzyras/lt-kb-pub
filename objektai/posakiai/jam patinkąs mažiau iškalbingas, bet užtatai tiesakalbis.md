@@ -3,6 +3,10 @@ tipas: posakis
 pavadinimas: 'jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+aliases:
+  - 'objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.'
+variantai:
+  - 'jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.'
 sukurta: ''
 atnaujinta: ''
 tags: []

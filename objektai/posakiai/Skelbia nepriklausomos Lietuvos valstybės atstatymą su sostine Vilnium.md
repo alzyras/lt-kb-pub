@@ -7,6 +7,10 @@ datos:
   - '1917 m.'
 date_start: '1917'
 date_end: ''
+aliases:
+  - 'objektai/posakiai/skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium'
+variantai:
+  - 'skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium'
 sukurta: ''
 atnaujinta: ''
 tags:

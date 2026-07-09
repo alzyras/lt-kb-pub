@@ -214,9 +214,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo Oną pasilikusią Lenkijoje."
   pagrindžia:
     - c-79102
-- susijęs iš [[objektai/asmenys/Kotryna Jogailaitė.md#claim-t-87401|Kotryna Jogailaitė]]: Karalaitė Ona turėjo dalį jai perduoto turto atiduoti Kotrynai Jogailaitei, Švedijos karalienei.
-- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Karalaitė Ona buvo prašoma prisidėti, kad Šv. Onos bažnyčia būtų užbaigta, o jos dvasininkai aprūpinti.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Karalaitė Ona buvo prašoma prisidėti, kad Šv. Onos bažnyčia būtų užbaigta, o jos dvasininkai aprūpinti.
+- susijęs iš [[objektai/asmenys/Kotryna Jogailaitė.md#claim-t-87401|Kotryna Jogailaitė]]: Karalaitė Ona turėjo dalį jai perduoto turto atiduoti Kotrynai Jogailaitei, Švedijos karalienei.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -7,6 +7,10 @@ datos:
   - '1914 m.'
 date_start: '1914'
 date_end: ''
+aliases:
+  - 'objektai/asmenys/Stasys Šilingas'
+variantai:
+  - 'Stasys Šilingas'
 sukurta: ''
 atnaujinta: ''
 tags:

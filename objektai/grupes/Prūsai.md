@@ -1524,7 +1524,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - susijęs iš [[objektai/paprociai/Prūsų pilkapių rengimas pagal mirusiojo luomą ir šeimos kapo naudojimas.md#claim-t-189861|Prūsų pilkapių rengimas pagal mirusiojo luomą ir šeimos kapo naudojimas]]: Narbutas spėjo, kad kai kurie prūsų pilkapiai naudoti kaip šeimos kapai, iš anksto numatant vietas vėliau mirsiantiems šeimos nariams.
 - susijęs iš [[objektai/posakiai/Geriau būtų nuo Wannas, senovės prūsų kalba — uodas.md#claim-t-192127|Geriau būtų nuo Wannas, senovės prūsų kalba — uodas]]: Teodoras Narbutas LTI PE pastaboje žodį Wannas aiškino kaip senovės prūsų kalbos žodį, reiškiantį uodą.
 - susijęs iš [[objektai/posakiai/O wakar wakaratij.md#claim-t-189555|O wakar wakaratij]]: Narbutas posakį „O wakar wakaratij“ pateikia kaip Rėzos rinkinio dainos pradžią Naujosios Prūsijos, arba Prūsų Lietuvos, tarme.
-- susijęs iš [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“.md#claim-t-186378|„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]: Posakis „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ siejamas su pirmosiomis lietuvių kovomis prie Nemuno su Prūsų ordinu.
 - susijęs iš A. Kotzebue, Preussens ältere Geschichte: A. Kotzebue veikalas Narbuto pastaboje cituojamas prie žinios, kad netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo galima uždegti degų daiktą.
 - susijęs iš Barzdaitis J. Krikščionybės kritikos Lietuvoje pradininkai. Filosofija praeitis ir dabartis: Barzdaitis Vytenio epizodą aiškino kaip raginimą lietuviams ir pavergtiesiems prūsams laikytis senosios religijos ir kovoti prieš Ordiną.
 - susijęs iš Boleno traktatas apie senovės prūsų kalbą: Narbuto išnašoje Boleno traktatas apie senovės prūsų kalbą nurodytas per Voigto „Geschichte Preussens“ pirmą tomą.
@@ -1930,10 +1929,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - susijęs iš Vyskupo Kristijono kronika: Narbutas spėja, kad prūsų tautinės vėliavos runų užrašas galėjo būti senovinis dingusios vyskupo Kristijono kronikos užrašo vertimas.
 - susijęs iš Aismares: Broliai ir ginklanešiai perplaukė Aismares, ieškodami vietos piliai prie Varmės žemės kranto.
 - susijęs iš Baiga: Pasakojime apie antrąjį prūsų sukilimą Baiga minima tarp pilių ir miestų, atsidūrusių įvykių centre.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.
-- susijęs iš Baltijos jūra: XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.
-- susijęs iš Baltijos jūra: Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš Bartenšteinas: Bartos žemėje Vokiečių ordino broliai pastatė Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš Bartenšteinas: Bartos žemėje Vokiečių ordino broliai pastatė Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš Bartenšteinas: Pasak Dusburgiečio, per antrąjį prūsų sukilimą Bartenšteinas buvo vienas iš pilių ir miestų karų pasakojimo centrų.
@@ -1942,7 +1937,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - susijęs iš Brunsbergas: Pasak Dusburgiečio, kai kurių teigimu Varmėje ilgainiui buvo pastatytos Brunsbergo ir Heilsbergo pilys.
 - susijęs iš Bysleida: Narbutas Romovės miestą vaizduoja kaip buvusį Prūsijoje, Prūsos ir Bysleidos upių santakoje.
 - susijęs iš Chełmža: Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango, kol Chełmžos miestiečiai išėjo pjauti javų.
-- susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš Dobrynė: Prūsai Dobrynės ordiną galėjo pulti 1224–1225 m.
 - susijęs iš Dobrynė: Prūsai kelis kartus su gausiomis ginkluotomis pajėgomis puolė Dobrynės pilį.
 - susijęs iš Drujos apylinkė: 1811 metais Drujos apylinkėse, nusausinto ežero dugne, rastos trys žalvarinės statulėlės ant trikampės žalvarinės lentos.
@@ -1980,9 +1974,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - susijęs iš Livonija: Narbutas svarstė, kodėl Henrikas Latvis, rašęs apie Livoniją, neminėjo krivio, jeigu šis valdė tą šalį.
 - susijęs iš Lochštetė: Analų duomenimis, Lochštetės pilis pastatyta 1270 m., nors Petro Dusburgiečio kronikoje jos statyba aprašyta nedatuojant.
 - susijęs iš Lochštetė: Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą.
-- susijęs iš Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas): Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai.
-- susijęs iš Malburgas: Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių.
-- susijęs iš Malburgas: Malburgą, dar vadintą Marienburgu, kryžiuočiai pastatė 1281 metais.
 - susijęs iš Marienverderis: Antrosios atskalūnybės metais prūsai prie Marienverderio surengė pasalą, užėmė miestą, jį sudegino ir pasitraukė su grobiu.
 - susijęs iš Marienverderis: Prūsai antrą kartą sugriovė atstatytą Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba nužudė.
 - susijęs iš Mozūrai: Kryžeiviams išvykus, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus.

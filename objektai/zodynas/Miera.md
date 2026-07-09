@@ -44,6 +44,7 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
   sprendimo_priezastis: "auto"
   pagrindžia:
     - c-09710
+- susijęs iš Karališkasis malūnas Vilniuje: 1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.
 - susijęs iš [[objektai/asmenys/Antanas Buračas.md#claim-t-183523|Antanas Buračas]]: Antanas Buračas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę.
 - susijęs iš [[objektai/asmenys/Antanas Buračas.md#claim-t-18810|Antanas Buračas]]: Antanas Buračas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
 - susijęs iš [[objektai/asmenys/Eduardas Vilkas.md#claim-t-183529|Eduardas Vilkas]]: Eduardas Vilkas su kitais ekonomistais viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė rinkos laisvę.
@@ -56,6 +57,8 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - susijęs iš [[objektai/zodynas/suverenitetas suverenumas.md#claim-t-183471|suverenitetas suverenumas]]: Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.
 - susijęs iš [[objektai/zodynas/suverenumas suverenitetas.md#claim-t-183473|suverenumas suverenitetas]]: Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.
 - susijęs iš [[objektai/zodynas/suverenumas suverenitetas.md#claim-t-70348|suverenumas suverenitetas]]: Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.
+- susijęs iš Karališkasis malūnas Vilniuje: 1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.
+- susijęs iš Vilniaus tiltas per Viliją: Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.
 ## Reikšmingi paminėjimai
 
 - c-001

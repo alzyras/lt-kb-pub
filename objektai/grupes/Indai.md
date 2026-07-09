@@ -152,6 +152,7 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - susijęs iš Himalajų kalnai: Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kultas kilo iš prie jų gyvenusios tautos.
 - susijęs iš Indija: Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų, daugelio mokslų bei religinių vaizdinių kilmės vieta.
 - susijęs iš [[objektai/paprociai/Upių šventinimas Rosės vardu.md#claim-t-192091|Upių šventinimas Rosės vardu]]: Narbutas upių šventinimą Rosės vardu aiškina kaip vieną iš lietuvių tautos religinių skolinių iš indų budistų.
+- susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
 - susijęs iš [[objektai/asmenys/Georgi.md#claim-t-190152|Georgi]]: Narbutas perteikia Georgi nuomonę, kad japonų dievai Kami visiškai tapatūs egiptiečių Kamefiams, o šie atitinką slavų Tryzną.
 - susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190940|Odoakras]]: Teodoro Narbuto teigimu, Odoakras buvo krikščionis, o jo herulams buvo skelbiamas Kristaus mokslas.
 - susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191154|Teodorikas Didysis]]: Narbutas rašo, kad Teodorikas ir visi gotai buvo krikščionys, kaip ir Odoakras bei jo herulai.

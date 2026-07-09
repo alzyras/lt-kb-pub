@@ -44,6 +44,9 @@ Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gauna
   vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176023
+- susijęs iš Karališkasis malūnas Vilniuje: Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas.
+- susijęs iš Karališkasis malūnas Vilniuje: Antraštė: Molendinum Vilnense [Vil niaus malūnas].
+- susijęs iš Vilniaus pilys: 1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.
 ## Reikšmingi paminėjimai
 
 - c-001

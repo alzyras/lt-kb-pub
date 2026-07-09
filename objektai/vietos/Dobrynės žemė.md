@@ -8,6 +8,14 @@ datos:
   - '1324 m.'
 date_start: '1323'
 date_end: '1324'
+aliases:
+  - 'Dobrynės žemė'
+  - 'Dobrynės žemė kunigaikštystė'
+variantai:
+  - 'Dobrynės žemė'
+  - 'Dobrynės žemė kunigaikštystė'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,8 +23,6 @@ tags:
   - ginklas
   - miestas
   - vieta
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,26 +44,33 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
 
 ## Teiginiai
 
-<a id="claim-t-86177"></a>
+<a id="claim-t-195084"></a>
+- t-003
+  global_id: t-195084
+  teiginys: "Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos."
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata pagrindžia faktą apie kunigaikštystės nuniokojimą."
+  susije_objektai: "mentioned_place: Dobrynė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Mazovija; mentioned_place: Viena"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "163610-164079; hash=3afd6eeee7835892b2881c5b025303e30b722ca972b2e0f3615f544349940839; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177467
+
+<a id="claim-t-195085"></a>
 - t-001
-  global_id: t-86177
+  global_id: t-195085
   teiginys: "1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus."
-  semantiniai_rysiai: "Gediminas puolė Dobrynė (0.72)"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Pašalintas puslapio triukšmas; citata palaiko glaustą faktą apie Dobrynės žemę."
+  susije_objektai: "mentioned_place: Dobrynė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius; llm_object: Dobrynė"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   saltinio_vieta: "216748-217925; hash=86da6ef375bc6ea2c80e19d1aa4332e0e6b866a7ae17b29f7d30a400306feb85; match=exact"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Dobrynė: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Dobrynė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Dobrynė yra platesnio Dobrynės žemės pavadinimo dalis, todėl ryšys su konkrečiu Dobrynės įrašu mažiau tikslus."
   pagrindžia:
-    - c-82156
+    - c-177468
 - susijęs iš Slaptojo archyvo dokumentai apie Dobrynės žemės nusiaubimą: Slaptojo archyvo dokumente nurodyta, kad per antpuolį kentėjo Dobrynės žemė ir kaimyninės Kulmo žemės.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -93,10 +106,54 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-003
+  santrauka: 'Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tokios
+    didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-
+    gavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis
+    kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su
+    trisdešimt šešiais kariais nužudė8.
+    Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­
+    nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­
+    gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­
+    linkės1 1 . Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad
+    Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
 
 ## Citatos
 
-- id: c-82156
+- id: c-177467
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tokios
+    didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-
+    gavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis
+    kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su
+    trisdešimt šešiais kariais nužudė8.
+    Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­
+    nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­
+    gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­
+    linkės1 1 . Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad
+    Šv.
+  citata_rodoma: "Tokios \ndidelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi- \ngavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis \nkaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su \ntrisdešimt šešiais kariais nužudė8.\nPer vieną tokių antpuolių baisiausiai nukentėjo Dobry­\nnės kunigaikštystė, kurią maždaug tuo metu valdė kuni­\ngaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­\nlinkės1 1 . Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad \nŠv."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195084
+
+- id: c-177468
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
@@ -125,10 +182,10 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
     antiquis, verum et ex novis experimentis lamentosis novissime in
     terra Dobrynen et confinibus Culmensibus patet et patuit prohdo-
     lor evidenter!
-  citata_rodoma: "Tačiau Gediminas, jei galiu taip \nsakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik \n1323 ir 1324 metais su plėšikaujančia ir viską naikinančia\n97\n\n## Puslapis 114\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nginkluota kariauna įsiveržia į Mazoviją ir Dobrynės žemę, \nnepaprastai žiauriai siaubia gyventojus, kaip apie tai rašo \nne tik Dusburgas, p. 339 ir 350, bei Kojelavičius, p. 270, bet \nbyloja ir dokumentai, vienas kurių, 1323 metų (slaptame ar­\nchyve Spinta XI, Nr. 18), be kita ko, apie Gediminą liudija: \nquod nichil aliud quam vestrarum nostrarumque terrarum sub­\nversionem sua dolosa calliditate pretendit, non solum ex multis \nantiquis, verum et ex novis experimentis lamentosis novissime in \nterra Dobrynen et confinibus Culmensibus patet et patuit prohdo- \nlor evidenter!"
+  citata_rodoma: "Trečias ir itin svarbus laiškų netikrumo įrodymas yra \nužuomina juose apie Mazoviją, kaip apie kraštą, per kurį \nkviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­\nnančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal. Taigi \ntą Mazovijos kunigaikštį reikėtų laikyti buvus Lietuvos val­\ndovo sąjungininku, sutartinai veikiančiu sprendžiant sve­\ntimšalių atvykimo reikalus. Tačiau Gediminas, jei galiu taip \nsakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik \n1323 ir 1324 metais su plėšikaujančia ir viską naikinančia\n97\n\n## Puslapis 114\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nginkluota kariauna įsiveržia į Mazoviją ir Dobrynės žemę, \nnepaprastai žiauriai siaubia gyventojus, kaip apie tai rašo \nne tik Dusburgas, p. 339 ir 350, bei Kojelavičius, p. 270, bet \nbyloja ir dokumentai, vienas kurių, 1323 metų (slaptame ar­\nchyve Spinta XI, Nr. 18), be kita ko, apie Gediminą liudija: \nquod nichil aliud quam vestrarum nostrarumque terrarum sub­\nversionem sua dolosa calliditate pretendit, non solum ex multis \nantiquis, verum et ex novis experimentis lamentosis novissime in \nterra Dobrynen et confinibus Culmensibus patet et patuit prohdo- \nlor evidenter!"
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86177
+    - t-195085

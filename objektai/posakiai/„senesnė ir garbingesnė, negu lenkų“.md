@@ -3,6 +3,11 @@ tipas: posakis
 pavadinimas: '„senesnė ir garbingesnė, negu lenkų“'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+aliases:
+  - 'senesnė ir garbingesnė, negu lenkų'
+  - 'objektai/posakiai/senesnė ir garbingesnė, negu lenkų'
+variantai:
+  - 'senesnė ir garbingesnė, negu lenkų'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -26,9 +31,22 @@ Ta pati prob lematika vystoma ir Bychovco kronikos originaliuo siuose pasakojimu
 
 ## Teiginiai
 
-<a id="claim-t-194061"></a>
+<a id="claim-t-195047"></a>
+- t-002
+  global_id: t-195047
+  teiginys: "Bychovco kronika Lietuvos bajorų kilmę ir garbę vaizduoja kaip viršesnę už lenkų."
+  teiginio_tipas: "saltinio_teiginys"
+  sudarymo_pagrindimas: "Teiginys yra gramatiškas, glaustas ir išlaiko kronikai būtiną atribuciją."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "37919-38366; hash=3963f1c9feb46135638876b6840efec08dde9a97abc413ad57518b2f4633691a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177410
+
+<a id="claim-t-195048"></a>
 - t-001
-  global_id: t-194061
+  global_id: t-195048
   teiginys: "Ta pati prob lematika vystoma ir Bychovco kronikos originaliuo siuose pasakojimuose iš LDK ir Lenkijos tarpusaviu santykių istorijos XV a."
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -37,9 +55,8 @@ Ta pati prob lematika vystoma ir Bychovco kronikos originaliuo siuose pasakojimu
   saltinio_vieta: "37919-38366; hash=3963f1c9feb46135638876b6840efec08dde9a97abc413ad57518b2f4633691a; match=whitespace_regex"
   sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-176674
+    - c-177410
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Ta pati prob lematika vystoma ir Bychovco kronikos originaliuo siuose pasakojimuose iš LDK ir Lenkijos tarpusaviu santykių istorijos XV a.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -64,7 +81,7 @@ Ta pati prob lematika vystoma ir Bychovco kronikos originaliuo siuose pasakojimu
 
 ## Citatos
 
-- id: c-176674
+- id: c-177410
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
@@ -79,9 +96,10 @@ Ta pati prob lematika vystoma ir Bychovco kronikos originaliuo siuose pasakojimu
     rai paveldėję iš savo protėvių — Romos, „bajorų",
     o lenkai senovėje buvę prasti žmonės, savo herbus
     pirkę iš čekų.
+  citata_rodoma: "Ta pati prob­\nlematika vystoma ir Bychovco kronikos originaliuo­\nsiuose pasakojimuose iš LDK ir Lenkijos tarpusaviu \nsantykių istorijos XV a. Šiuo požiūriu ypač ryškus Vy­\ntauto karūnacijos bylos aprašymas. Lietuvos bajorų kil­\nmė,—  pabrėžiama Bychovco kronikoje,—„senesnė ir \ngarbingesnė, negu lenkų\". Savo herbus lietuvių bajo­\nrai paveldėję iš savo protėvių — Romos, „bajorų\", \no lenkai senovėje buvę prasti žmonės, savo herbus \npirkę iš čekų."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194061
+    - t-195048

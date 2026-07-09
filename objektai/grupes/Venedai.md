@@ -241,7 +241,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - susijęs iš Peutingerio žemėlapis: Narbutas rašo, kad Peutingerio žemėlapis prie Juodosios jūros buvusią antų gentį vadina venedais.
 - susijęs iš Tacitas, Germania: Narbuto perteikimu, Tacito „Germania“ 46 skyriuje venedai nepriskiriami nei sarmatams, nei germanams, o jų vakarinė riba siejama su Vysla.
 - susijęs iš Wawrzyniec Surowiecki, Slavų kilmės tyrinėjimas: Narbutas rašo, kad Wawrzyniecas Surowieckis venedų kraštuose lokalizavo senųjų slavų gyvenamąsias vietas.
-- susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės.
 - susijęs iš Konstanco ežeras: Narbutas nurodo, kad Pomponijus Mela Konstanco ežerą vadino Venedų ežeru.
 - susijęs iš Roksolanija: Narbutas pasakojo, kad keliautojai perėjo slavų Roksolanijos valstybę ir per venedų bei alanų žemes pateko į Livoniją.
 - susijęs iš Venedija: Teodoras Narbutas Venediją aiškino kaip lygumų ir klampių pelkynų kraštą, nuo kurio slavai esą vadinti venedų tauta.
@@ -250,6 +249,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192164|Venedija ir venedų vardo formos]]: Teodoro Narbuto aiškinimu, lygumų ir klampių pelkynų kraštas galėjo vadintis Venedija, o nuo jo slavai vadinti venedų tauta.
 - susijęs iš [[objektai/zodynas/Venedija venedų vardo formos.md#claim-t-192924|Venedija venedų vardo formos]]: Teodoro Narbuto aiškinimu, lygumų ir klampių pelkynų kraštas galėjo vadintis Venedija, o nuo jo slavai vadinti venedų tauta.
 - susijęs iš [[objektai/paprociai/Lotynų kalbos vartojimas kaip diplomatinės kalbos.md#claim-t-192105|Lotynų kalbos vartojimas kaip diplomatinės kalbos]]: Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip diplomatinę kalbą.
+- susijęs iš Daugava: Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės.
 - susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192163|Venedija ir venedų vardo formos]]: Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand.
 - susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192164|Venedija ir venedų vardo formos]]: Teodoro Narbuto aiškinimu, lygumų ir klampių pelkynų kraštas galėjo vadintis Venedija, o nuo jo slavai vadinti venedų tauta.
 - susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59860|Fridrichas II]]: Popiežius Honorijus III ir imperatorius Fridrichas II slaptų nesutarimų sprendimą patikėjo broliui Hermanui.
@@ -282,7 +282,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - susijęs iš [[objektai/posakiai/Kurcho, optimo maximo.md#claim-t-192112|Kurcho, optimo maximo]]: Teodoras Narbutas užrašą „optimo maximo“ lygino su romėniška formule IOVI OPTIMO MAXIMO ir Jaruvito skydo užrašu.
 - susijęs iš Conrad Malte-Brun, Tableau de Pologne: Narbutas Malte-Brunui priskiria pastabą, kad Styrės upė išsaugojo stūmių, jo taisomų į Stirnii, gyvenamųjų vietų pavadinimą.
 - susijęs iš St. Peterburgo kodeksas: St. Peterburgo kodekse Narbutas nurodė skaitęs formą „Galindam“.
-- susijęs iš Baltijos jūra: Narbutas perteikia Tunmano nuomonę, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, tuojau užėmė Sembą ir gintaro kasyklas.
 - susijęs iš Elbingo pilis (pilis): Į Elbingo pilį buvo pasiųsta imperatoriaus Fridricho II magistrui perduota didelė šventojo kryžiaus dalis.
 - susijęs iš Livonija: Narbutas pasakoja legendą, kad iš Bitinijos išsiųsti keliautojai per Tartariją, Roksolaniją, venedų ir alanų žemes pateko į Livoniją.
 - susijęs iš Styrės upė: Narbutas, sekdamas Malte-Brunu, Styrės upę laikė stūmių gyvenamųjų vietų pavadinimo išsaugojimu.

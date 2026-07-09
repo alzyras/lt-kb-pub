@@ -70,7 +70,6 @@ media_all_json: |-
   ryšio_paaiskinimas: "Kilmininko forma rodo, kad rūmai siejami su Manvydu kaip savininku ar valdovu."
   pagrindžia:
     - c-82066
-- susijęs iš Vilnelė: Pilies kalno pietų pusėje tarp kalno ir Vilnelės stovėjo didžiuliai Manvydo rūmai.
 ## Reikšmingi paminėjimai
 
 - c-001

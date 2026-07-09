@@ -8,11 +8,16 @@ datos:
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
-sukurta: ''
-atnaujinta: ''
+aliases:
+  - '„Tikslas pateisino priemones.“'
+  - 'objektai/posakiai/„Tikslas pateisino priemones.“'
+variantai:
+  - '„Tikslas pateisino priemones.“'
 amziai:
   - 'XIV'
   - 'XXI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,11 +43,12 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
 
 ## Teiginiai
 
-<a id="claim-t-186418"></a>
+<a id="claim-t-195050"></a>
 - t-001
-  global_id: t-186418
+  global_id: t-195050
   teiginys: "Kovodamas dėl savo teisių Vytautas rinkosi ne visai teisėtas priemones, nes tikslas pateisino priemones."
   teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "645108-645281; hash=152788ce13b01b1d15a38dc76195b3a7ad71be100bdecd20ee250add0078df31; match=ocr_normalized"
   sprendimo_priezastis: "auto"
@@ -54,21 +60,33 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
   ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=35"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tikslas pateisino priemones.\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-169757
-    - c-169758
+    - c-177412
+    - c-177413
 
-<a id="claim-t-186419"></a>
+<a id="claim-t-195051"></a>
+- t-003
+  global_id: t-195051
+  teiginys: "Tikslas pateisino prie mones."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "645108-645281; hash=152788ce13b01b1d15a38dc76195b3a7ad71be100bdecd20ee250add0078df31; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177412
+
+<a id="claim-t-195052"></a>
 - t-002
-  global_id: t-186419
+  global_id: t-195052
   teiginys: "Posakis „Tikslas pateisino priemones“ taikytas Vytauto kovai dėl savo teisių ne visai teisėtu būdu."
   teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "645108-645281; hash=152788ce13b01b1d15a38dc76195b3a7ad71be100bdecd20ee250add0078df31; match=ocr_normalized"
   sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-169757
+    - c-177412
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -83,7 +101,6 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -100,7 +117,7 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
 
 ## Citatos
 
-- id: c-169757
+- id: c-177412
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
@@ -116,9 +133,9 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186418
+    - t-195050
 
-- id: c-169758
+- id: c-177413
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
@@ -133,4 +150,4 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186418
+    - t-195050

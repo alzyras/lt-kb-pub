@@ -3,6 +3,10 @@ tipas: asmuo
 pavadinimas: 'Imperatorius Vaclovas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+aliases:
+  - 'objektai/asmenys/imperatorius Vaclovas'
+variantai:
+  - 'imperatorius Vaclovas'
 sukurta: ''
 atnaujinta: ''
 tags:

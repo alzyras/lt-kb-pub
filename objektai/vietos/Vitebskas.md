@@ -32,19 +32,19 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
-media_total_count: '2'
-media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/0/04/WIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg'
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AWIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg'
+media_total_count: '1'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/e/e0/Witebsk_maps.png'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AWitebsk_maps.png'
 media_primary_directness: 'direct'
 media_primary_relation_type: 'map_of'
 media_primary_json: |-
-  {"mediaId":"m-3bfaccea84102f1033361e8a","title":"WIG Mapa Operacyjna Polski - 29 Witebsk 1931.jpg","caption":"Operational map of Poland and neighbouring countries, region Witebsk. Scale of 1:300000.","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1931","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/WIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+  {"mediaId":"m-fdb1db41edd98f35635bf7fc","title":"Witebsk maps.png","caption":"Vitebsk maps","creator":"Smat","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2014-03-28 08:58:42","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWitebsk_maps.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Witebsk_maps.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-3bfaccea84102f1033361e8a","title":"WIG Mapa Operacyjna Polski - 29 Witebsk 1931.jpg","caption":"Operational map of Poland and neighbouring countries, region Witebsk. Scale of 1:300000.","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1931","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/WIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-fdb1db41edd98f35635bf7fc","title":"Witebsk maps.png","caption":"Vitebsk maps","creator":"Smat","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2014-03-28 08:58:42","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWitebsk_maps.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Witebsk_maps.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-fdb1db41edd98f35635bf7fc","title":"Witebsk maps.png","caption":"Vitebsk maps","creator":"Smat","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2014-03-28 08:58:42","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWitebsk_maps.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Witebsk_maps.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-3bfaccea84102f1033361e8a","title":"WIG Mapa Operacyjna Polski - 29 Witebsk 1931.jpg","caption":"Operational map of Poland and neighbouring countries, region Witebsk. Scale of 1:300000.","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1931","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/WIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-fdb1db41edd98f35635bf7fc","title":"Witebsk maps.png","caption":"Vitebsk maps","creator":"Smat","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2014-03-28 08:58:42","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWitebsk_maps.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Witebsk_maps.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-fdb1db41edd98f35635bf7fc","title":"Witebsk maps.png","caption":"Vitebsk maps","creator":"Smat","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2014-03-28 08:58:42","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWitebsk_maps.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Witebsk_maps.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}]
 ---
 # Vitebskas
 
@@ -1095,6 +1095,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 - susijęs iš Strėva: Strėvos kautynės, kuriose dalyvavo būriai iš Vladimiro, Lietuvos Brastos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
 - susijęs iš Terespolis: Michałas Balińskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko.
 - susijęs iš Vilnius: 1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
+- susijęs iš Daugava: Švitrigaila įsakė sugautą Alšėnų kunigaikštį Vitebske nuo aukšto skardžio įmesti į Dviną.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176276|Algirdas (Lietuvos valdovas)]]: Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176310|Algirdas (Lietuvos valdovas)]]: Labiau linkstama manyti, kad Algirdas prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54945|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir prisidėjo prie 1380 m. rugsėjo 8 d. pergalės Kulikovo lauke.
@@ -1183,7 +1184,6 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 - susijęs iš Bobruiskas: Bobruiske atsirado jėzuitų kolegija, įkurta Triznos fundacijos pagrindu.
 - susijęs iš Brasta: Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu.
 - susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
-- susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Švitrigaila įsakė sugautą Alšėnų kunigaikštį Vitebske nuo aukšto skardžio įmesti į Dviną.
 - susijęs iš Druckas: Lietuvos metraštyje Vytautas vaizduojamas kaip su Skirgaila ir didele kariuomene žygiuojantis prieš Švitrigailą į Vitebską ir pirmiausia atvykstantis prie Drucko pilies.
 - susijęs iš Druckas: 1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes.
 - susijęs iš Druja: Iš versmės Paplaujoje ištekantis upelis vadinosi Druja.
@@ -1226,7 +1226,6 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 - susijęs iš Vakarų Ukraina: Mindaugo, Vytenio ir Gedimino laikais prie Lietuvos prijungtos rusėnų žemės apėmė dalį dabartinės Vakarų Ukrainos.
 - susijęs iš Varniai: Jėzuitai Varniuose turėjo įsikūrę mažesnę mokyklą.
 - susijęs iš Vilnelė: Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
-- susijęs iš Vilnelė: Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
 - susijęs iš Vilnius: 1382 m. birželio 12 d. į Vilnių atvykusiam Jogailai Hanulis įteikė pilies raktus.
 - susijęs iš Vilnius: 1382 m. birželio 12 d. Vilniuje miesčionys užėmė pilį ir išmušė Kęstučio sargybas.
 - susijęs iš Vilnius: 1382 m. birželio 12 d. Vilniaus miesčionys užėmė pilį ir išmušė Kęstučio sargybas.
@@ -1243,6 +1242,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 - susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81607|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Vitebską ir paėmė Švitrigailą į nelaisvę.
 - susijęs iš Kriava: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
 - susijęs iš [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė).md#claim-t-30356|Marija (Vitebsko sosto įpėdinė)]]: Marija buvo vienintelė Vitebsko kunigaikščio sosto įpėdinė, o ją vedęs Algirdas po uošvio mirties paveldėjo Vitebską.
+- susijęs iš Daugava: Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.
 - susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72605|Pijarų ordinas]]: Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169687|Lietuvos Didžioji Kunigaikštija]]: Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186648|Parčevo seimas (seimas, XV a.)]]: Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.

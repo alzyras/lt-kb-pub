@@ -136,8 +136,6 @@ Nenurodyta
 - susijęs iš Lietuva: Narbutas rašė, kad Lietuvoje pilkapiai randami labai retai, dažnai giliai po žeme ir dažniausiai atsitiktinai kasant.
 - susijęs iš Lvovas: Lvovo arkivyskupui ir Vilniaus vyskupui laišku buvo patikėta įsteigti Žemaičių vyskupystę.
 - susijęs iš Tikocinas: Tikocine pas Zaleskį buvę bažnytiniai reikmenys turėjo būti perduoti Vilniaus Šv. Onos bažnyčiai.
-- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
-- susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
 - susijęs iš [[objektai/zodynas/akcijos.md#claim-t-70076|akcijos]]: Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armijos dalinius, ukrainiečių, latvių policijos batalionus.
 - susijęs iš [[objektai/zodynas/atskalūnybė atskalūnai.md#claim-t-58807|atskalūnybė atskalūnai]]: Kai prūsai buvo įtariami atskalūnybe, Notangos ir Varmės fogtas Volradas vakarieniavo su kilmingaisiais Lencenbergo pilyje.
 - susijęs iš [[objektai/zodynas/budeliai.md#claim-t-185381|budeliai]]: Vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir kad Jogailos siųsti budeliai jau atvyko į Krėvą.
@@ -145,6 +143,7 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70229|maldininkai / maldininko įžadai]]: Brolis Gerlachas Rudasis pranešė, kad Livonijoje kovoje žuvo magistras Folkvinas, daug brolių, maldininkų ir kitų žmonių.
 - susijęs iš [[objektai/zodynas/netikėliai.md#claim-t-70246|netikėliai]]: Pirmieji Ordino broliai vaizduojami kaip pasirengę ginti tikėjimą kare su netikėliais.
 - susijęs iš [[objektai/zodynas/netikėliai.md#claim-t-70247|netikėliai]]: Dusburgietis Ordino brolius vaizduoja kaip pasirengusius ginti tikėjimą kare su `netikėliais`.
+- susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -189,4 +188,4 @@ Nenurodyta
     - t-71558
 
 ## Ryšiai
-- Drabužiai priklausė [[objektai/vietos/Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)]]
+- Drabužiai priklausė [[objektai/vietos/Šv. Onos bažnyčia Vilniuje]]

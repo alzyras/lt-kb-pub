@@ -491,8 +491,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - susijęs iš Huldasaga: Narbutas, remdamasis Huldasaga, rašo, kad Huldos dukterys Tergerda ir Irpa statė šventyklą Odino garbei.
 - susijęs iš Jogailos autentiški dokumentai iki krikšto Karaliaučiaus archyve: Iki krikšto rašytuose Jogailos autentiškuose dokumentuose Karaliaučiaus archyve Vilnius vadintas Vylne ir Velne.
 - susijęs iš Torfėjaus Historia Norvegica: Narbuto perteikimu, Torfėjus Frotono III valdymą siejo su III krikščioniškosios eros amžiumi.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.
-- susijęs iš Baltijos jūra: Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.
 - susijęs iš Biarmija: Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, palaikiusią santykius su Naugardo slavais.
 - susijęs iš Danija: Narbutas pasakoja, kad Frotono III sūnus Fridleifas, auklėtas Rusioje, padedamas rusnėnų karaliuko susigrąžino Danijos sostą.
 - susijęs iš Danija: Skandinavų padavimuose Starkateras vaizduojamas kaip auklėtas Danijos karaliaus Haroldo rūmuose kartu su karalaičiu Vikaru.

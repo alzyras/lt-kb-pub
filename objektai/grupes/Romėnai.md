@@ -401,7 +401,6 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - susijęs iš Tacitas, Germania: Narbuto perteikimu, Tacitas jazigus laikė karinga gentimi su rinktine raitąja kariuomene, o ne ramiais žemdirbiais.
 - susijęs iš Amelandas: Pasak Narbuto, Fosas Austraviją, arba Glesariją, tapatino su fryzų sala Amelandu.
 - susijęs iš Austravija: Narbutas rašo, kad Fosas Austraviją, arba Glesariją, tapatino su fryzų Amelando sala, nors pats tokį aiškinimą vadino nepatikimu.
-- susijęs iš Baltijos jūra: Narbutas pasakoja, kad atvykėliai iš Juodosios jūros per miškingas stepes, vadintas Rusija, Podolija ir Lietuva, prasiskverbė iki Baltijos jūros.
 - susijęs iš Elbė: Narbutas nurodo, kad gamtos tyrinėtojas, vadovaudamas romėnų kariuomenei, pats lankėsi prie Elbės.
 - susijęs iš Indija: Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų, daugelio mokslų bei religinių vaizdinių kilmės vieta.
 - susijęs iš Italija: Palemono legenda teigė, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir ten sukūrė valstybę.

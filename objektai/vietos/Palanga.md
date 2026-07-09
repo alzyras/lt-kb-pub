@@ -233,7 +233,6 @@ media_all_json: |-
 - susijęs iš [[objektai/paprociai/Karinės gynybos tvarka deginant namus ir slepiant šeimą giriose.md#claim-t-07776|Karinės gynybos tvarka deginant namus ir slepiant šeimą giriose]]: Sudeginus namus, priešams po degėsius ieškant lietuvių, Kęstutis puolė iš Palangos girių, o Algirdas užėjo iš Žaliosios girios.
 - susijęs iš [[objektai/paprociai/Vaidilučių saugoma Praurimės aukuro ugnis ir skaistybės įžadas.md#claim-t-189943|Vaidilučių saugoma Praurimės aukuro ugnis ir skaistybės įžadas]]: Narbutas, remdamasis Strijkovskiu, Birutę vaizduoja kaip vaidilutę, saugojusią šventą Praurimės aukuro ugnį netoli Palangos.
 - susijęs iš Lietuvos metraštis (Bychovco kronika): Bychovco kronikoje užfiksuotas pasakojimas apie Palangos mergelę Birutę, kuri žmonių buvo garbinama kaip dievaitė.
-- susijęs iš Baltijos jūra: Livonijos kariai pasuko prie Baltijos jūros, tikėdamiesi ties Palanga rasti retesnių medžių ir lygesnį kelią.
 - susijęs iš Birutės kalnas: Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta net įsigalint krikščionybei.
 - susijęs iš Birutės kalnas: Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta net įsigalint krikščionybei.
 - susijęs iš Palangos kalnas: Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru.

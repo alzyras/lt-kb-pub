@@ -42,7 +42,7 @@ Tai pilis, minima tarp ankstyvųjų Vytauto mūro statybų.
 
 - tipas: pilis
 - regionas:
-- susiję žmonės: [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)|Vytautas]]
+- susiję žmonės: [[objektai/asmenys/Vytautas|Vytautas]]
 - susiję įvykiai:
 - susijusios grupės:
 

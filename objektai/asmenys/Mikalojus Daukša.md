@@ -6,6 +6,10 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+aliases:
+  - 'objektai/autoriai/Mikalojus Daukša'
+variantai:
+  - 'Mikalojus Daukša'
 sukurta: ''
 atnaujinta: ''
 tags:

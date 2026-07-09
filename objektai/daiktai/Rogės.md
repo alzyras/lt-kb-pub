@@ -4,6 +4,10 @@ pavadinimas: 'Rogės'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+aliases:
+  - 'objektai/daiktai/Rogelės'
+variantai:
+  - 'Rogelės'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'

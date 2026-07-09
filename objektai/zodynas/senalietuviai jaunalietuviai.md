@@ -7,6 +7,10 @@ datos:
   - '1920 m.'
 date_start: '1920'
 date_end: ''
+aliases:
+  - 'objektai/zodynas/litvinai'
+variantai:
+  - 'litvinai'
 sukurta: ''
 atnaujinta: ''
 tags:

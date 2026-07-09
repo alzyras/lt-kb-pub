@@ -8,6 +8,10 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+aliases:
+  - 'objektai/autoriai/Vysk. Motiejus Valančius'
+variantai:
+  - 'Vysk. Motiejus Valančius'
 sukurta: ''
 atnaujinta: ''
 tags:

@@ -246,7 +246,6 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - susijęs iš Historiarum liber VII adversus paganos: Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos pakraščių tautas ir aisčius.
 - susijęs iš View of the state of Europe etc: Hallamas veikale „View of the state of Europe etc“ miestų kūrimosi prielaidas siejo su kiekvienos šalies vietinėmis sąlygomis.
 - susijęs iš Walsinghamo kronika: Walsinghamo kronika 1390 m. Vilniaus užėmimo garbę priskyrė Derbio grafui ir nurodė apie 4 000 užmuštų bei sužeistų lietuvių.
-- susijęs iš Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė): Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
 - susijęs iš Bajerburgas Raudonė: Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
 - susijęs iš Krautuvių Pilis: Gaisras staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.
 - susijęs iš Poznanė: Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau tapo Poznanės vyskupu.

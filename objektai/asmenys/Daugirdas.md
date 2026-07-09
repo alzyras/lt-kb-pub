@@ -71,6 +71,7 @@ Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vil
 - susijęs iš [[objektai/autoriai/Albertas Daugirdas.md#claim-t-40589|Albertas Daugirdas]]: Albertas Daugirdas gimė 1971 m. ir baigė Vilniaus pedagoginio universiteto Istorijos fakultetą.
 - susijęs iš [[objektai/autoriai/Albertas Daugirdas.md#claim-t-40590|Albertas Daugirdas]]: Albertas Daugirdas buvo AT gynybos dalyvis ir tyrė 1944–1953 m. rezistencinių kovų bei 1991 m. pasipriešinimo genezę.
 - susijęs iš [[objektai/autoriai/Algimantas Daugirdas.md#claim-t-39848|Algimantas Daugirdas]]: Algimantas Daugirdas gimė 1949 m., o 1972 m. baigė KTU, tuometinį Kauno politechnikos institutą.
+- susijęs iš Vilniaus pilys: 1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.
 - susijęs iš [[objektai/asmenys/Leliušas.md#claim-t-186060|Leliušas]]: Daugirdas apkaltino Leliušą leidus nužudyti valdovą jam pavaldžioje pilyje.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87559|Mykolas (Žygimanto sūnus)]]: 1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114102|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: 1440 m. balandį sąmokslininkai Trakų pilyje nužudė Žygimantą Kęstutaitį, o jo sūnų Mykolą ištrėmė.
@@ -81,11 +82,10 @@ Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vil
 - susijęs iš [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje.md#claim-t-87214|Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]: Žygimanto palaikai buvo atvežti iš Trakų į Vilnių ir, atlikus įprastas apeigas, palaidoti Vilniaus katedros didžiųjų kunigaikščių kape.
 - susijęs iš Trakai: Trakuose sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.
 - susijęs iš Trakai: Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): 1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.
-- susijęs iš Vilniaus pilys: 1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.
 - susijęs iš Vilnius: 1560 m. Vilniuje vykusiame LDK Ponų Tarybos seime karalius leido bajorams rinkti delegatus.
 - susijęs iš Vilnius: Daugirdas užėmė Vilniaus Aukštutinę ir Žemutinę pilis kunigaikščiui Švitrigailai.
 - susijęs iš Žemutinis Naugardas: Vasilijus Žemutinio Naugardo kunigaikštystėje įsirengė vadavietę ir asmeniškai prižiūrėjo žygį prieš Kazanės skitus.
+- susijęs iš Vilniaus pilys: Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -190,3 +190,4 @@ Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vil
 
 ## Ryšiai
 - Daugirdas keliavo į [[objektai/vietos/Vilnius]]
+- Daugirdas užėmė [[objektai/vietos/Vilniaus pilys]]

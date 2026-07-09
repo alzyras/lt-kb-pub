@@ -8,6 +8,10 @@ datos:
   - '1917 m.'
 date_start: '1917'
 date_end: ''
+aliases:
+  - 'objektai/vietos/Balostekė'
+variantai:
+  - 'Balostekė'
 sukurta: ''
 atnaujinta: ''
 tags:

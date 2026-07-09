@@ -365,6 +365,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 - susijęs iš [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija.md#claim-t-101570|bajorų tauta politinė tauta lietuvių nacija]]: Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.
 - susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82051|feodalizmas]]: Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką.
 - susijęs iš [[objektai/zodynas/leno teisė.md#claim-t-77812|leno teisė]]: XVI a. LDK nuosavybės santykiuose susiformavo leno teisė.
+- susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams.
+- susijęs iš Šv. Onos bažnyčia Vilniuje: Balińskis nurodė, kad jo prielaidos dėl Šv. Onos bažnyčios atsiradimo pateiktos 268 puslapyje.
 ## Reikšmingi paminėjimai
 
 - c-001

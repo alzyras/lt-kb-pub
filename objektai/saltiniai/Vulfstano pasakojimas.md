@@ -8,6 +8,10 @@ datos:
   - '890 m.'
 date_start: '890'
 date_end: ''
+aliases:
+  - 'objektai/saltiniai/Wulfstano pasakojimai'
+variantai:
+  - 'Wulfstano pasakojimai'
 sukurta: ''
 atnaujinta: ''
 tags:

@@ -8,6 +8,12 @@ datos:
   - '1530 m.'
 date_start: '1514'
 date_end: '1530'
+aliases:
+  - 'objektai/ivykiai/Oršos mūšis (1514 m. rugsėjo 8 d.)'
+  - 'objektai/ivykiai/Oršos mūšis'
+variantai:
+  - 'Oršos mūšis (1514 m. rugsėjo 8 d.)'
+  - 'Oršos mūšis'
 sukurta: ''
 atnaujinta: ''
 tags:

@@ -47,6 +47,7 @@ Volkovysko apskrityje per mylią nuo grafo Tiškevičiaus Svisločės buvo Radov
   vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175671
+- susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
 ## Reikšmingi paminėjimai
 
 - c-001

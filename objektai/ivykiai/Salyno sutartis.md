@@ -11,6 +11,12 @@ datos:
   - '1398 m.'
 date_start: '1392'
 date_end: '1398'
+aliases:
+  - 'objektai/ivykiai/Salyno suvažiavimas ir jo reikšmė'
+  - 'objektai/ivykiai/Salyno taika'
+variantai:
+  - 'Salyno suvažiavimas ir jo reikšmė'
+  - 'Salyno taika'
 sukurta: ''
 atnaujinta: ''
 tags:

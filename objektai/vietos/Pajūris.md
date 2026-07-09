@@ -89,7 +89,6 @@ Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėj
 - susijęs iš [[objektai/ivykiai/Herulų 267 m. puolimas prieš Romos valdas ir taika su Malabatu.md#claim-t-191030|Herulų 267 m. puolimas prieš Romos valdas ir taika su Malabatu]]: Narbuto pasakojimu, Malabatas po nesėkmės puldinėjo Graikiją, išgriovė Čižiką, pasiekė Atėnus ir privertė imperiją pirkti taiką.
 - susijęs iš [[objektai/paprociai/Gardaičiui aukojamos žuvys ir audros aukų daina.md#claim-t-189831|Gardaičiui aukojamos žuvys ir audros aukų daina]]: Narbuto pasakojime pajūrio žemaičių daina apverkė jūreivius, pagrobtus paaukoti audrai kaip juodus gyvulius, aukojamus audrų dievui.
 - susijęs iš 1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje: 1246 m. sutartyje Liubeko kolonistams numatyta pusė Ordino trečdalio Sambijoje ir 2500 mansų Varmijoje.
-- susijęs iš Baltijos jūra: Narbutas kimbrų pasitraukimą iš Baltijos jūros pakrančių aiškino stichine nelaime Šiaurės Europoje po maždaug penkių jų gyvenimo ten amžių.
 - susijęs iš Jūros upė: Narbutas Pajūrio kaimą, kurio fetišu vadino Dievaitį, tikriausiai lokalizavo Raseinių apskrityje prie Jūros upės.
 - susijęs iš Raseinių apskritis: Narbutas Pajūrio kaimo fetišą Dievaitį siejo su neapibrėžta vieta Raseinių apskrityje, tikriausiai prie Jūros upės.
 - susijęs iš Rietavas: Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reikšmę lietuvišku žodžiu „senovinis“.

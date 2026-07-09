@@ -8,6 +8,10 @@ datos:
   - '1978 m.'
 date_start: '1972'
 date_end: '1978'
+aliases:
+  - 'objektai/asmenys/Sigitas Tamkevičius'
+variantai:
+  - 'Sigitas Tamkevičius'
 sukurta: ''
 atnaujinta: ''
 tags:

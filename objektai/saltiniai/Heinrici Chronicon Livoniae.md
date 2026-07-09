@@ -11,6 +11,10 @@ datos:
   - '1955 m.'
 date_start: '1225'
 date_end: '1955'
+aliases:
+  - 'objektai/saltiniai/Henriko Latvio kronika'
+variantai:
+  - 'Henriko Latvio kronika'
 sukurta: ''
 atnaujinta: ''
 amziai:

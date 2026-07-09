@@ -50,7 +50,6 @@ Zundas šiame gabale įtrauktas į vietovardžių rodyklę.
   pagrindžia:
     - c-175684
 - susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192958|Masiliečiai]]: Teodoro Narbuto teigimu, masiliečiai prekes gabeno keliu, kuriuo jos patekdavo į Tartesą arba prie Galijos krantų.
-- susijęs iš Baltijos jūra: Narbutas kimbrų pasitraukimą iš Baltijos jūros pakrančių aiškino stichine nelaime Šiaurės Europoje po maždaug penkių jų gyvenimo ten amžių.
 ## Reikšmingi paminėjimai
 
 - c-001

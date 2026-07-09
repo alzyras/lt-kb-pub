@@ -10,6 +10,10 @@ datos:
   - '1882 m.'
 date_start: '1376'
 date_end: '1882'
+aliases:
+  - 'objektai/saltiniai/Codex ep. Vitoldi'
+variantai:
+  - 'Codex ep. Vitoldi'
 sukurta: ''
 atnaujinta: ''
 tags: []

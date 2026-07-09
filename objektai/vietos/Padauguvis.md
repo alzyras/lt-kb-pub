@@ -10,6 +10,10 @@ datos:
   - '2026 m.'
 date_start: '1180'
 date_end: '2026'
+aliases:
+  - 'objektai/vietos/Padaugavys'
+variantai:
+  - 'Padaugavys'
 sukurta: ''
 atnaujinta: ''
 amziai:

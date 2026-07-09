@@ -8,6 +8,10 @@ datos:
   - '1864 m.'
 date_start: '1863'
 date_end: '1864'
+aliases:
+  - 'objektai/ivykiai/Biržų (Medeikių) mūšis'
+variantai:
+  - 'Biržų (Medeikių) mūšis'
 sukurta: ''
 atnaujinta: ''
 tags:

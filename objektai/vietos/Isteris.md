@@ -4,6 +4,10 @@ pavadinimas: 'Isteris'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+aliases:
+  - 'objektai/vietos/Dunojus'
+variantai:
+  - 'Dunojus'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'

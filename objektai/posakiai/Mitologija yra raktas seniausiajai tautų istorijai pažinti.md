@@ -3,6 +3,10 @@ tipas: posakis
 pavadinimas: 'Mitologija yra raktas seniausiajai tautų istorijai pažinti'
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+aliases:
+  - 'objektai/posakiai/mitologija yra raktas seniausiajai tautų istorijai pažinti'
+variantai:
+  - '„mitologija yra raktas seniausiajai tautų istorijai pažinti“'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'

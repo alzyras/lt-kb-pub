@@ -93,7 +93,6 @@ Nenurodyta
 - susijęs iš Krokuva: 1399 m. pavasarį Krokuvoje praleidęs Vytautas vykdė plačius pasiruošimus.
 - susijęs iš Liaudanskų mūrinis namas: 1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai knygoms gausinti užrašė pajamas iš Liaudanskų mūrinio namo Turgaus gatvėje.
 - susijęs iš Ragainė: Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve.
-- susijęs iš Žuvų turgus Vilniuje (sujungti pirminiai pavadinimai Žuvų turgavietė; Žuvų turgus Vilniuje): 1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai užrašė lėšas iš namų ir sklypų, tarp jų Liaudanskų mūrinio namo Žuvų turgavietės gale.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -17,6 +17,10 @@ datos:
   - '2026 m.'
 date_start: '1316'
 date_end: '2026'
+aliases:
+  - 'objektai/grupes/Gedimino dinastija'
+variantai:
+  - 'Gedimino dinastija'
 sukurta: ''
 atnaujinta: ''
 tags:

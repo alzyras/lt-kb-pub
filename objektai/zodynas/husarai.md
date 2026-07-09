@@ -119,7 +119,6 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
 - susijęs iš [[objektai/asmenys/B. Zenavičius.md#claim-t-40058|B. Zenavičius]]: B. Zenavičiaus LDK husarai iš dešinės atakavo puolančius turkus.
 - susijęs iš [[objektai/asmenys/T. Lackis.md#claim-t-40457|T. Lackis]]: T. Lackio husarai pasitiko švedų gvardijos kavaleriją ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65309|Kazokai]]: Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus.
-- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10282|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje T. Lackio husarai nubloškė švedų gvardijos kavaleriją, o švedų pajėgos pabėgo iš mūšio lauko.
 - susijęs iš [[objektai/paprociai/Husarų lydėjimas į seimo rinkimus.md#claim-t-67083|Husarų lydėjimas į seimo rinkimus (seimas)]]: Husarai buvo bajorai, kuriuos karalius ir etmonai pagerbdavo suteikdami draugo vardą.
 - susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71798|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarų „draugų“ tarnai nestodavo į rikiuotę, užsiimdavo ūkine veikla ir saugodavo stovyklą.
 - susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71801|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.

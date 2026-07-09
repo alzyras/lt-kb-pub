@@ -3,6 +3,10 @@ tipas: posakis
 pavadinimas: 'Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+aliases:
+  - 'objektai/posakiai/vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais'
+variantai:
+  - 'vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais'
 sukurta: ''
 atnaujinta: ''
 tags:

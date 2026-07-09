@@ -55,7 +55,6 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
 - susijęs iš [[objektai/grupes/Katalikų bažnyčia katalikai.md#claim-t-65303|Katalikų bažnyčia katalikai]]: Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais tapo katalikiškojo peizažo bruožu ir žymėjo rytinę katalikybės ribą.
 - susijęs iš Aukštutinė pilis: Aukštutinę pilį saugojo aukšti mūrai ir bokštai.
 - susijęs iš Marienburgas: Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą puolamos pilies sienų aukštį.
-- susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Aukštutinę pilį saugojo aukšti mūrai ir bokštai, o apačioje driekėsi Žemutinė pilis, vadinta Kreivąja.
 - susijęs iš Vilnius: Švitrigailos bandymas per rusų vienuolius padegti Vilniaus pilies bokštus nepavyko, todėl jis su didžiuoju magistru nutraukė apgultį.
 - susijęs iš Vilnius: Ankstyvasis Vilnius, anot šaltinio, labiau priminė kelis sujungtus didelius kaimus negu mūro sienų ir bokštų saugomą miestą.
 - susijęs iš [[objektai/asmenys/Jonas Kristupas Glaubicas.md#claim-t-23204|Jonas Kristupas Glaubicas]]: J. K. Glaubico 1737–1767 m. kūrybos laikotarpis įvardijamas kaip vienas ryškiausių senosios Lietuvos civilizacijos reiškinių.
@@ -84,15 +83,15 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
 - susijęs iš Jurbarkas: Aprašomu metu apgriuvusios sienos ir bokštų plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.
 - susijęs iš Karaliaučius: Po 1466 m. Torno taikos Ordino sostinė buvo perkelta į Karaliaučių, ir jis liko sostine įsikūrus Prūsų kunigaikštijai.
 - susijęs iš Karaliaučius: Iš pagrindinės ordino žygių bazės Karaliaučiaus kelias iki uždaro lietuvių sodybų ploto buvo gana tolimas.
-- susijęs iš Neris: Per mūšius prie Vilniaus plačiai išsiliejusi Neris ir vandens pilni grioviai trukdė galutinai laimėti.
 - susijęs iš Pskovas: 1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.
-- susijęs iš Vilniaus Žemutinė Kreivoji pilis (sujungti pirminiai pavadinimai Žemutinė pilis Kreivoji pilis; Žemutinė pilis; Kreivoji pilis; Žemutinė Kre: Žemutinė pilis, vadinta Kreivąja, driekėsi apačioje, joje buvo kunigaikščių menės.
+- susijęs iš Vilniaus Žemutinė pilis: Žemutinė pilis, vadinta Kreivąja, driekėsi apačioje, joje buvo kunigaikščių menės.
 - susijęs iš Vilnius: Prie Vilniaus pilies prieglobsčio ieškojo žmonės, tikėjęsi apsisaugoti nuo kryžiuočių.
 - susijęs iš Įsrutis: 1336 m. nadruvių plote buvo pastatyta didelė keturių bokštų Įsruties pilis.
 - susijęs iš Žemutinė pilis: Žemutinė pilis driekėsi apačioje, buvo vadinta Kreivąja, o joje buvo kunigaikščių menės.
 - susijęs iš [[objektai/zodynas/gotika plytų gotika.md#claim-t-22152|gotika plytų gotika]]: XIV a. pabaigoje Lietuvoje pradėjusi rastis gotika Europoje jau turėjo pusantro šimto metų tradiciją ir buvo pasiekusi brandųjį etapą.
 - susijęs iš [[objektai/zodynas/gotika.md#claim-t-22154|gotika]]: XIV a. pabaigoje Lietuvoje pradėjusi rastis gotika Europoje jau turėjo pusantro šimto metų tradiciją ir buvo pasiekusi brandųjį etapą.
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86444|žiogriai statinių tvoros palisadai]]: Žemutinės pilies pastatai buvo daugiausia mediniai, apjuosti aukštais bokštais ir palisadais.
+- susijęs iš Vilniaus Aukštutinė pilis: Kalno, ant kurio stovėjo Aukštutinė pilis, griūtis užslinko ant Manvydo rūmo ir pridarė daug nuostolių.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -3,6 +3,10 @@ tipas: posakis
 pavadinimas: 'Piktuoju iš manęs dar niekas nieko nelaimėjo'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+aliases:
+  - 'objektai/posakiai/piktuoju iš manęs dar niekas nieko nelaimėjo'
+variantai:
+  - 'piktuoju iš manęs dar niekas nieko nelaimėjo'
 sukurta: ''
 atnaujinta: ''
 tags:

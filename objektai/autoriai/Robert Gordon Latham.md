@@ -7,6 +7,10 @@ datos:
   - '1990 m.'
 date_start: '1990'
 date_end: ''
+aliases:
+  - 'objektai/asmenys/Robert Gordon Latham'
+variantai:
+  - 'Robert Gordon Latham'
 sukurta: ''
 atnaujinta: ''
 tags:

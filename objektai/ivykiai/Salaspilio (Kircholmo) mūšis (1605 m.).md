@@ -9,12 +9,19 @@ datos:
   - '1620 m.'
 date_start: '1605'
 date_end: '1620'
+variantai:
+  - 'Salaspilio (Kirchholmo) mūšis'
+  - 'Salaspilio (Kirkcholmo) mūšis'
+aliases:
+  - 'Salaspilio (Kirchholmo) mūšis'
+  - 'objektai/ivykiai/Salaspilio (Kirchholmo) mūšis'
+  - 'objektai/ivykiai/Salaspilio (Kirkcholmo) mūšis'
+amziai:
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
-amziai:
-  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,7 +64,8 @@ Nenurodyta
   global_id: t-10278
   teiginys: "Salaspilio mūšyje švedų kavalerijai netvarkingai traukiantis suiro pėstininkų rikiuotė, o centre žuvo švedų generolas A. Liuneburgietis."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Švedai dalyvavo mūšyje Salaspilio (Kircholmo) mūšis (1605 m.) (0.86); A. Liuneburgietis dalyvavo mūšyje Salaspilio (Kircholmo) mūšis (1605 m.) (0.82)"
+  susije_objektai: "llm_object: [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/A. Liuneburgietis|A. Liuneburgietis]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]"
+  semantiniai_rysiai: "[[objektai/grupes/Švedai|Švedai]] dalyvavo mūšyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]; [[objektai/asmenys/A. Liuneburgietis|A. Liuneburgietis]] dalyvavo mūšyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]; Švedai dalyvavo mūšyje Salaspilio (Kircholmo) mūšis (1605 m.) (0.86); A. Liuneburgietis dalyvavo mūšyje Salaspilio (Kircholmo) mūšis (1605 m.) (0.82)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "434385-434628; hash=f61e6eaffda5f5fc2a252e80fe99760457164639c7c5678e998f74df693cd855; match=exact"
   sprendimo_priezastis: "auto"
@@ -76,6 +84,7 @@ Nenurodyta
   global_id: t-10279
   teiginys: "Salaspilio mūšyje Karolis Chodkevičius pasinaudojo laikina ramybe, pasakė kalbą ir padrąsino savo karius."
   teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "435932-436178; hash=66f3ae0b5db3b6c75e0fdd64b246c2232e97ad54a58afd3dd1fe3fbc3e0586ce; match=exact"
   sprendimo_priezastis: "auto"
@@ -94,16 +103,11 @@ Nenurodyta
   global_id: t-10280
   teiginys: "Salaspilio mūšyje žuvo Andrius Lennartssonas, o šaltinyje teigiama, kad nuo T. Dambravos kirčio žuvo Fridrichas Liuneburgietis."
   teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata vieną žūtį pateikia kaip teiginį, todėl reikia tiksliau išreikšti šaltinio atsargumą."
+  susije_objektai: "mentioned_place: Dambrava; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "439303-439638; hash=0f2d7b8bac4dbd215ac6c868d83d0cc39e2c6e9bddd0712329abc3aaf1259209; match=exact"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dambrava: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Salaspilio (Kircholmo) mūšis (1605 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Dambrava: mention_match, place, gap=79"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salaspilio (Kircholmo) mūšis (1605 m.)\" parinktas kaip owner_note_path. Targetas \"Dambrava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43118
 
@@ -112,6 +116,7 @@ Nenurodyta
   global_id: t-10281
   teiginys: "Salaspilio mūšyje J. K. Chodkevičius įsakė pulti pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą."
   teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Dambrava; llm_object: [[objektai/grupes/Švedai|Švedai]]"
   semantiniai_rysiai: "Vaina puolė Švedai (0.74)"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "434042-434383; hash=b5635196965a598004051b0908764e67c44a4c4bf9fe143f40fe5c5940540d95; match=exact"
@@ -131,128 +136,112 @@ Nenurodyta
   global_id: t-10282
   teiginys: "Salaspilio mūšyje T. Lackio husarai nubloškė švedų gvardijos kavaleriją, o švedų pajėgos pabėgo iš mūšio lauko."
   teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Perrašyta pašalinant sąrašo fragmentų formą ir susiejant faktą su mūšiu."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "437308-437464; hash=0331595582ed7c431aa9bd3ebc1dbadd4b5a0c0588b5b2392d6b04ed37f6551f; match=exact"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> husarai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Salaspilio (Kircholmo) mūšis (1605 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "husarai: mention_match, thing, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salaspilio (Kircholmo) mūšis (1605 m.)\" parinktas kaip owner_note_path. Targetas \"husarai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-43117
 
-<a id="claim-t-10284"></a>
-- t-007
-  global_id: t-10284
+<a id="claim-t-10283"></a>
+- t-006
+  global_id: t-10283
   teiginys: "Salaspilio mūšyje abi kariuomenės iki vidudienio stovėjo nepajudėjusios."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Lietuviai dalyvavo mūšyje Salaspilio (Kircholmo) mūšis (1605 m.) (0.78); Švedai dalyvavo mūšyje Salaspilio (Kircholmo) mūšis (1605 m.) (0.78)"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; llm_object: [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]"
+  semantiniai_rysiai: "[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]; [[objektai/grupes/Švedai|Švedai]] dalyvavo mūšyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]"
   temporaliniai_duomenys: "įvykio data: 1605 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "435465-435931; hash=9c7f5a85b4fb89804ad1ec4e0370cf7a738a3cf9af0be40cfc6fa89c594ecb25; match=ocr_normalized_gapped"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Salaspilio (Kircholmo) mūšis (1605 m.): 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Salaspilio (Kircholmo) mūšis (1605 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Kontekste kita kariuomenė yra švedai, todėl jų dalyvavimas mūšyje tiesiogiai paremtas epizodu."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-43116
 
-<a id="claim-t-10285"></a>
-- t-008
-  global_id: t-10285
+<a id="claim-t-10284"></a>
+- t-007
+  global_id: t-10284
   teiginys: "Salaspilio mūšyje T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš flango."
   teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Dambrava; mentioned_place: Dauguva; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_place: Lietuva; mentioned_place: Viena"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "438740-439302; hash=ffed5ed13a508bebdd0fcd1e9349c5e7a7e1432fa581a74b7440b29655219e25; match=exact"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dambrava: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Salaspilio (Kircholmo) mūšis (1605 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Dambrava: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salaspilio (Kircholmo) mūšis (1605 m.)\" parinktas kaip owner_note_path. Targetas \"Dambrava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11905
 
-<a id="claim-t-186373"></a>
-- t-011
-  global_id: t-186373
-  teiginys: "Salaspilio, arba Kirchholmo, mūšis buvo viena iš LDK karinių pergalių, kuriose lietuviai kovojo petys į petį su rusėnais."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Lietuviai buvo sąjungininkas su Rusėnai (0.90)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "144055-144509; hash=9edbec2475046d55b67a468a7343424f93328fdc9c0d51429100e0a2e29ff6d3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Rusėnai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rusėnai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Frazė „petys į petį“ tiesiogiai rodo bendrą karinį veikimą su rusėnais."
-  pagrindžia:
-    - c-169735
-
-<a id="claim-t-186374"></a>
-- t-010
-  global_id: t-186374
+<a id="claim-t-195019"></a>
+- t-009
+  global_id: t-195019
   teiginys: "1605 m. prie Kirchholmo netoli Rygos Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų."
   teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Švedai (0.92); Lietuvos kariuomenė dalyvavo mūšyje Salaspilio (Kircholmo) mūšis (1605 m.) (0.86)"
+  sudarymo_pagrindimas: "Inicialai išskleisti į pilną asmenvardį, o teiginys išlaiko citatos faktus."
+  susije_objektai: "llm_object: [[objektai/grupes/Švedai|Švedai]]; llm_object: [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Ryga"
+  semantiniai_rysiai: "[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]"
   temporaliniai_duomenys: "įvykio data: 1605 m.; įvykio data: 1620 m.; įvykio data: apie 1620 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Inicialai išskleisti į pilną asmenvardį, o teiginys išlaiko citatos faktus."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   saltinio_vieta: "158938-159155; hash=a0cea0f2fd6975fa4012d9751a7e2a47f4913bdd02818a7f232d6781c894f88e; match=whitespace_regex"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Švedai: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Lietuvos kariuomenės pergalė prieš švedus tiesiogiai nurodo karinę priešpriešą."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-169736
+    - c-177399
 
-<a id="claim-t-186375"></a>
-- t-009
-  global_id: t-186375
+<a id="claim-t-195020"></a>
+- t-012
+  global_id: t-195020
+  teiginys: "Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "144055-144509; hash=9edbec2475046d55b67a468a7343424f93328fdc9c0d51429100e0a2e29ff6d3; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
+  pagrindžia:
+    - c-177396
+
+<a id="claim-t-195021"></a>
+- t-008
+  global_id: t-195021
+  teiginys: "Salaspilio, arba Kirchholmo, mūšis buvo viena iš LDK karinių pergalių, kuriose lietuviai kovojo petys į petį su rusėnais."
+  teiginio_tipas: "faktas"
+  susije_objektai: "llm_object: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva; mentioned_place: Viena"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "144055-144509; hash=9edbec2475046d55b67a468a7343424f93328fdc9c0d51429100e0a2e29ff6d3; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177396
+
+<a id="claim-t-195022"></a>
+- t-010
+  global_id: t-195022
   teiginys: "Salaspilio mūšyje lietuviai nedideliais išpuoliais mėgino išprovokuoti švedus pulti pirmuosius, bet abi kariuomenės išstovėjo iki vidudienio."
   teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys ir atitinka citatą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]"
   temporaliniai_duomenys: "įvykio data: 1605 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir atitinka citatą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "435465-435931; hash=9c7f5a85b4fb89804ad1ec4e0370cf7a738a3cf9af0be40cfc6fa89c594ecb25; match=ocr_normalized_gapped"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Salaspilio (Kircholmo) mūšis (1605 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salaspilio (Kircholmo) mūšis (1605 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-43116
 
-<a id="claim-t-193741"></a>
-- t-012
-  global_id: t-193741
+<a id="claim-t-195023"></a>
+- t-011
+  global_id: t-195023
   teiginys: "Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje."
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -260,10 +249,21 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   saltinio_vieta: "439639-439826; hash=3f05e15b8fd49953e7f550a244e28e312b338cd906463a8888557bbee7732c48; match=exact"
   sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-176406
+    - c-177397
+
+<a id="claim-t-195024"></a>
+- t-013
+  global_id: t-195024
+  teiginys: "1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "158642-158937; hash=8061e79942c9f426b92c85e45b0c1730c5d7d3b7794ac4b83ea73e7cb7d4aa4a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177398
 - susijęs iš [[objektai/asmenys/Laurencijus Bojeris.md#claim-t-39773|Laurencijus Bojeris]]: Laurencijus Bojeris 1606 m. poemoje „Karolomachija“ aprašė lietuvių pergalę Salaspilio, arba Kircholmo, mūšyje.
 - susijęs iš Karolomachija: 1992 m. Vilniuje išleistoje L. Bojerio „Karolomachijoje“ aptariamas Salaspilio mūšis.
 - susijęs iš Salaspilio mūšis (Pieterio Snayerso (1592-1667) paveikslo paroda): „Salaspilio mūšis“ yra Pieterio Snayerso paveikslo parodos informacinis leidinys, išleistas Vilniuje 2010 m.
@@ -287,7 +287,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -310,7 +309,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -328,7 +326,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -353,7 +350,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -377,7 +373,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
-
 - c-006
   santrauka: 'Salaspilio mūšyje T. Lackio husarai nubloškė švedų gvardijos kavaleriją, o švedų pajėgos pabėgo iš mūšio lauko.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -394,7 +389,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-
 - c-007
   santrauka: 'Salaspilio mūšyje žuvo Andrius Lennartssonas, o šaltinyje teigiama, kad nuo T. Dambravos kirčio žuvo Fridrichas Liuneburgietis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -415,7 +409,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -433,7 +426,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-
 - c-009
   santrauka: '1605 m. prie Kirchholmo netoli Rygos Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -449,7 +441,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
-
 - c-010
   santrauka: 'Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -466,6 +457,22 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+- c-011
+  santrauka: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kova dėl Livonijos daugiausia buvo suin-
+    teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
+    uostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
+    Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
+    Rygą ir užvaldė Baltijos pakrantes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-013
 
 ## Citatos
 
@@ -559,7 +566,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10285
+    - t-10284
 
 - id: c-43116
   sudarytojas: "Karolis Zikaras"
@@ -585,7 +592,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186375
+    - t-195022
 
 - id: c-43117
   sudarytojas: "Karolis Zikaras"
@@ -627,7 +634,7 @@ Nenurodyta
   pagrindzia:
     - t-10280
 
-- id: c-169735
+- id: c-177396
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
@@ -645,9 +652,45 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186373
+    - t-195021
 
-- id: c-169736
+- id: c-177397
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Besitraukiantys švedų pėstininkai bandė
+    slėptis Salaspilio (Kircholmo) bažnyčioje.
+    Tačiau jų pasipriešinimas buvo palaužtas.
+    Eiliniai kariai buvo išžudyti, o karininkai
+    paimti į nelaisvę.
+  citata_rodoma: "Besitraukiantys švedų pėstininkai bandė\nslėptis Salaspilio (Kircholmo) bažnyčioje.\nTačiau jų pasipriešinimas buvo palaužtas.\nEiliniai kariai buvo išžudyti, o karininkai\npaimti į nelaisvę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195023
+
+- id: c-177398
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kova dėl Livonijos daugiausia buvo suin-
+    teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
+    uostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
+    Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
+    Rygą ir užvaldė Baltijos pakrantes.
+  citata_rodoma: "Kova dėl Livonijos daugiausia buvo suin-\nteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko \nuostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus \nSalaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė \nRygą ir užvaldė Baltijos pakrantes."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195024
+
+- id: c-177399
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
@@ -662,24 +705,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186374
-
-- id: c-176406
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
-  citata_originali: |
-    Besitraukiantys švedų pėstininkai bandė
-    slėptis Salaspilio (Kircholmo) bažnyčioje.
-    Tačiau jų pasipriešinimas buvo palaužtas.
-    Eiliniai kariai buvo išžudyti, o karininkai
-    paimti į nelaisvę.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193741
+    - t-195019
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/asmenys/A. Liuneburgietis]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Švedai]]

@@ -78,7 +78,6 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
 - susijęs iš [[objektai/daiktai/Aleksandro lektika.md#claim-t-54484|Aleksandro lektika]]: Galutinai paliegęs Aleksandras lektikoje buvo nugabentas į Vilnių, jį lydint Elenai, Vilniaus vyskupui Vaitiekui Taborui, Jonui Zabžezinskiui ir Jonui Laskiui.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54960|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių.
 - susijęs iš [[objektai/asmenys/Kiška.md#claim-t-87755|Kiška]]: Krymo totoriams priartėjus prie Lydos, Aleksandras pavedė kariuomenei vadovauti etmonui Kiškai ir kunigaikščiui Glinskiui.
-- susijęs iš Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): Totoriai ties Kłecku įsirengė stovyklą ir nemažą būrį pasiuntė į Naugarduką.
 - susijęs iš Naugardukas: Totoriai iš stovyklos ties Kłecku pasiuntė nemažą būrį į Naugarduką.
 ## Reikšmingi paminėjimai
 

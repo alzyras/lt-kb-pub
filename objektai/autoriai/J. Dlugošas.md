@@ -11,6 +11,10 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+aliases:
+  - 'objektai/autoriai/Joannis Dlugosii'
+variantai:
+  - 'Joannis Dlugosii'
 sukurta: ''
 atnaujinta: ''
 tags:

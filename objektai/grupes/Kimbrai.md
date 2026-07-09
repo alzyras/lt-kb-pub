@@ -122,7 +122,6 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
 - susijęs iš [[objektai/asmenys/Targitas.md#claim-t-191328|Targitas]]: Narbutas svarsto, kad nauja karalių dinastija, kilusi iš Targito, valdė gentis, pradėjusias garsėti skitų vardu.
 - susijęs iš Hartknoch, Alt und neues Preussen oder Preussische Historien: Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais, buvo įsitikinęs didelio Prūsijos potvynio tikrumu.
 - susijęs iš M. Strijkovskio kronika: Teodoras Narbutas rašo, kad Strijkovskis savo kronikoje rėmėsi istoriniais šaltiniais, kuriais patvirtino aptariamą pasakojimą.
-- susijęs iš Baltijos jūra: Narbutas kimbrų pasitraukimą iš Baltijos jūros pakrančių aiškino stichine nelaime Šiaurės Europoje po maždaug penkių jų gyvenimo ten amžių.
 - susijęs iš Ilyrija: Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakrančių į Ilyriją, kur jie prie Nortbėjos kariavo su romėnais.
 - susijęs iš Karaliaučius: Narbutas rašo, kad Strijkovskis, būdamas Karaliaučiuje, tikriausiai turėjo po ranka prūsų kronikininko Jokimo Rozencveigo veikalus.
 ## Reikšmingi paminėjimai

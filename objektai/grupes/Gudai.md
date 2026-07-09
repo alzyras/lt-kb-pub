@@ -43,6 +43,7 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
   vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176031
+- susijęs iš Daugava: Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.
 ## Reikšmingi paminėjimai
 
 - c-001

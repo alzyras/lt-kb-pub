@@ -834,7 +834,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 - susijęs iš Stenderio „Lettische Grammatik“: Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateikiančius klaidingas išvadas ir nutolstančius nuo tiesos.
 - susijęs iš Stenderio „Lettische Grammatik“: Narbutas rašo, kad Stenderis latvių Dyžą arba Dyszą laikė deive, savo ypatybėmis atitikusia Pergrubę.
 - susijęs iš Stenderio „Lettische Grammatik“: Narbutas rašo, kad Stenderio laikais Latvijoje dar buvo girdėti apie žynius, traukiančius lengvatikius iš apylinkių.
-- susijęs iš Daugava: Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.
 - susijęs iš Latvija: Lemiamų kovų su bolševikais metu Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai.
 - susijęs iš Latvija: SSRS unifikacinė politika, autorių vertinimu, nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai juos pasivyti.
 - susijęs iš Magus: Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais.
@@ -1004,6 +1003,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 - susijęs iš [[objektai/zodynas/upė.md#claim-t-192579|upė]]: Teodoras Narbutas rašo, kad Leela-Uppe šiandien nežinoma, bet galėjo būti kuri nors į Engūrės ežerą įtekanti upė.
 - susijęs iš [[objektai/paprociai/Tikrojo lietuvio lėtas kalbėjimas ir latvio greitakalbė.md#claim-t-192094|Tikrojo lietuvio lėtas kalbėjimas ir latvio greitakalbė]]: Narbutas „tikrąjį lietuvį“ apibūdina kaip kalbantį lėtai, su pauzėmis ir atidžiai paisantį balsių ilgumo.
 - susijęs iš [[objektai/posakiai/Isz-Tawas arba Isz-Tabas.md#claim-t-192124|Isz-Tawas arba Isz-Tabas]]: Teodoras Narbutas posakį Isz-Tawas arba Isz-Tabas aiškino kaip kilmę iš tėvo ir iš jo kildino ištavanų bei stavanų pavadinimus.
+- susijęs iš Daugava: Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.
 - susijęs iš Magus: Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais.
 - susijęs iš [[objektai/zodynas/Juhra.md#claim-t-192223|Juhra]]: Narbutas žodį „Juhra“ pateikia kaip lietuvių-prūsų dialekto formą, reiškiančią „jūra“, ir sieja ją su latvių kalba.
 - susijęs iš [[objektai/zodynas/dialektai.md#claim-t-192144|dialektai]]: Narbutas trijų dialektų palyginimą naudoja lietuvių genties vietai tautos lopšio atžvilgiu aiškinti.

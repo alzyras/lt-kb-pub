@@ -12,6 +12,10 @@ datos:
   - '1763 m.'
 date_start: '1398'
 date_end: '1763'
+aliases:
+  - 'objektai/zodynas/činšininkas'
+variantai:
+  - 'činšininkas'
 sukurta: ''
 atnaujinta: ''
 tags:

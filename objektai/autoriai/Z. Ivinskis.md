@@ -9,6 +9,10 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+aliases:
+  - 'objektai/autoriai/Ivinskis, Z'
+variantai:
+  - 'Ivinskis, Z'
 sukurta: ''
 atnaujinta: ''
 tags:

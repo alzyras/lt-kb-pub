@@ -56,8 +56,6 @@ Vorksla apibūdinta kaip upė, tekanti pro Poltavą ir iš kairės pusės įteka
   vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170637
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186587|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis pasakoja, kad Vorsklos mūšis prie Vorkslos upės įvyko antradienį, rugpjūčio dvyliktą dieną.
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186589|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis teigia, kad Po beveik visą dieną trukusios Vorsklos mūšio kovos totoriai sumušė Vytautą ir visą jo kariuomenę.
 - susijęs iš Roslavlis: Vytautas davė Roslavlio miestą kunigaikščiui Jurgiui Svetoslavovičiui.
 ## Reikšmingi paminėjimai
 

@@ -146,7 +146,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179181|Lenkai]]: Didžioji lenkų vėliava Žalgirio mūšyje pateko į kryžiuočių tarpą, bet lenkai ją atgavo įtraukus antrąją liniją.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184330|Lenkai]]: Vyriausioji Lenkijos vėliava pateko į priešų rankas.
 - susijęs iš [[objektai/grupes/Lietuviai Lietuvos kariuomenė.md#claim-t-86782|Lietuviai Lietuvos kariuomenė]]: Lietuviai narsiai atrėmė Ordino riterių puolimą su šv. Jurgio vėliava ir privertė juos grįžti prie likusių karių.
-- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10285|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš flango.
 - susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71802|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.
 - susijęs iš Karaliaučius: Narbutas perduoda jam sakytą žinią, kad Karaliaučiuje buvusi Kęstučio vėliava su šuoliuojančiu juodu žirgu ir juodu gaidžiu.
 - susijęs iš Medvėgalis: Grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius po Ordino brolių vėliava.

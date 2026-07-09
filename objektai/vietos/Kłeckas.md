@@ -57,9 +57,6 @@ Be to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­ čių funda
   pagrindžia:
     - c-82280
 - susijęs iš [[objektai/paprociai/Totorių plėšiamieji žygiai kaip įprastas karo veikimo būdas.md#claim-t-87285|Totorių plėšiamieji žygiai kaip įprastas karo veikimo būdas]]: Totorių būrys, pasiųstas iš stovyklos prie Kłecko į Naugarduką, pagal savo paprotį plėšė apylinkes ir priartėjo prie Lydos.
-- susijęs iš Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): Totoriai ties Kłecku įsirengė stovyklą ir nemažą būrį pasiuntė į Naugarduką.
-- susijęs iš Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti.
-- susijęs iš Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): 1506 metų rugpjūtį ties Kłecku Lietuvos pajėgos pasiekė lemiamą pergalę prieš Krymo ordos karius.
 - susijęs iš [[objektai/asmenys/Jonas Laskis.md#claim-t-87725|Jonas Laskis]]: Karalystės kancleris Jonas Laskis lydėjo į Vilnių lektikoje gabenamą paliegusį karalių Aleksandrą.
 - susijęs iš [[objektai/asmenys/Jonas Zabžezinskis.md#claim-t-87419|Jonas Zabžezinskis]]: Jonas Zabžezinskis lydėjo paliegusį karalių Aleksandrą, kai šis ponų patarimu buvo nugabentas į Vilnių.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186351|Mikalojus Radvila]]: Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdytojos bažnyčią pergalei prie Klecko atminti.

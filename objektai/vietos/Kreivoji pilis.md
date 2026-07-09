@@ -46,6 +46,7 @@ Didelė medinė Kreivoji pilis minima kryžiuočių kronikoje, 1390 m. Vilniaus 
   vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176659
+- susijęs iš Vilniaus Aukštutinė pilis: Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -14,6 +14,10 @@ datos:
   - '2026 m.'
 date_start: '1247'
 date_end: '2026'
+aliases:
+  - 'objektai/saltiniai/Livonijos Eiliuotinė kronika'
+variantai:
+  - 'Livonijos Eiliuotinė kronika'
 sukurta: ''
 atnaujinta: ''
 amziai:
