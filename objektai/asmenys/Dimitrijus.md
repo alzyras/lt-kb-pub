@@ -175,6 +175,7 @@ Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir 
 - id: c-169466
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mask­
     vos kunigaikštis Dimitrijus Šemiaka sumušė tuo metu
@@ -200,6 +201,7 @@ Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir 
 - id: c-169467
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Dimitrijus sumokėsiąs ka­
     reiviams algą, o vadui — karo išlaidas. Abiejų tautų
@@ -227,6 +229,7 @@ Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir 
 - id: c-176530
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Bevaldant Mantvilai, iškilo chanas Batu2 ; ir užpuo­
     lė jis Rusų žemę, ir visą Rusų žemę užkariavo3 , ir daug

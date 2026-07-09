@@ -189,6 +189,7 @@ Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokieč
 - id: c-82435
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Betgi toje epochoje, kai naujos civilizacijos
     spinduliai Lietuvos žemėje buvo tik pradėję blykčioti, kai,
@@ -224,6 +225,7 @@ Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokieč
 - id: c-82436
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje
     ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­
@@ -255,6 +257,7 @@ Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokieč
 - id: c-82437
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Gediminas, supamas tokių įvairių kaimyninio val­
     dymo elementų, savo valstybėje turėdamas net dvi skirtin­

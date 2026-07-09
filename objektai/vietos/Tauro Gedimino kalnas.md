@@ -104,6 +104,7 @@ Aukštutinė pilis ant Tauro kalno. • — 201 Gedimino (vert.
 - id: c-82086
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šio reikalo paliudijimui
     ir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­

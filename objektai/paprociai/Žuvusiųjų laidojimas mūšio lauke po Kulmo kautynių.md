@@ -96,6 +96,7 @@ Nenurodyta
 - id: c-63501
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     41. Apie vieną stebuklą
 

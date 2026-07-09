@@ -74,6 +74,7 @@ Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 2
 - id: c-40428
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Užvirė jami bermontininkai
     ypač atkaklios kautynės,

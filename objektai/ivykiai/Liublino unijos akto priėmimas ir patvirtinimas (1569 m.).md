@@ -164,6 +164,7 @@ Nenurodyta
 - id: c-43083
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Šios aplinkybės pastūmėjo LDK gana
     nepalankiomis sąlygomis 1569 m. sudaryti
@@ -187,6 +188,7 @@ Nenurodyta
 - id: c-43084
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Sudarius Liublino uniją, aplinkybės kurį
     laiką neleido imtis rimtų karo veiksmų.

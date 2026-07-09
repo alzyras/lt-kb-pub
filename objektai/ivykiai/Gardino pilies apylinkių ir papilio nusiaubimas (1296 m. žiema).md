@@ -139,6 +139,7 @@ Nenurodyta
 - id: c-63579
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Gardino pilies apylinkių bei jos papilio nusiaubimą
 

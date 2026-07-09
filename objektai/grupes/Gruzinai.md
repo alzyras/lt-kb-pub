@@ -80,6 +80,7 @@ Dusburgietis teigia, kad apie tai, kaip totoriai nukovė 10 tūkstančių sarac�
 - id: c-63315
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių
 

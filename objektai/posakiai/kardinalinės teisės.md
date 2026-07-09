@@ -103,6 +103,7 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
 - id: c-67260
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tačiau visi anarchijos
     pradmenys pasiliko. Buvo patvirtintos 1768 m. vad. kardi-
@@ -123,6 +124,7 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
 - id: c-67261
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Jose buvo pakeistas tik vienas kitatikius (disi-
     dentus) lietęs punktas: jų teisės buvo suvaržytos, ir į seimą galėjo

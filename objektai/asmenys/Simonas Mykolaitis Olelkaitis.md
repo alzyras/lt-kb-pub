@@ -72,6 +72,7 @@ Slucko kunigaikštis Simonas M ykolaitis Olelkaitis (Olelkovič) — Algirdo sū
 - id: c-176737
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     330
 

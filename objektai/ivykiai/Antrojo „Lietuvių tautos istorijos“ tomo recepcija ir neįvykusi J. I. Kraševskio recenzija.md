@@ -105,6 +105,7 @@ Nenurodyta
 - id: c-174915
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Juolab kad apie tai buvo pareiškęs ir pats J. I. Kra­
     ševskis. 1837—1838 metais „Tygodnik Petersburski“ bu­

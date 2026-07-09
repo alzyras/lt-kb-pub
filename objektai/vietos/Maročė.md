@@ -79,6 +79,7 @@ Narbutas pasakoja, kad į vakarus keliavusi tauta, laikydamasi kairiojo Pripetė
 - id: c-175613
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš čia, tęsdami kelionę į
     vakarus, atėjo į kairįjį krantą Pripetės, senovėje laikytos

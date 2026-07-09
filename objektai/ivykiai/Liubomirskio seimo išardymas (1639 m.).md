@@ -77,6 +77,7 @@ Nenurodyta
 - id: c-66906
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Seimas turėdavo tęstis ne ilgiau, kaip 6 savaites. Pasibaigus
     tam laikui, posėdžiauti buvo galima tik visiems atstovams sutikus.

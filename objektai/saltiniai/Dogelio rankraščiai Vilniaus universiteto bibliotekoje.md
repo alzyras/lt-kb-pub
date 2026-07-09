@@ -155,6 +155,7 @@ media_all_json: |-
 - id: c-84228
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Duota Gardine
     artimiausią penktadienį prieš Sekmines, tūkstantis penki
@@ -184,6 +185,7 @@ media_all_json: |-
 - id: c-84229
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kad trukdo skųstis karaliui.
     Už visa tai karalius baudžia šimto kapų grašių bauda.

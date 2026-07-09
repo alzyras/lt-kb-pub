@@ -208,6 +208,7 @@ media_all_json: |-
 - id: c-42898
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Apie KGB-MGB provokaciją pasakoja Prisikėlimo apygardos par-
     tizanė Aleksandra Atgailainytė. Ji buvo suimta, po bevaisių tar-
@@ -227,6 +228,7 @@ media_all_json: |-
 - id: c-42899
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1949 m. rugpjūčio 13 d. Radviliškio r.
     Užpelkių miške sunaikintas Prisikėlimo
@@ -251,6 +253,7 @@ media_all_json: |-
 - id: c-44834
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Jungtinė Kęstučio apygarda (ku-
     riai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir
@@ -274,6 +277,7 @@ media_all_json: |-
 - id: c-44835
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Po rinktinės vado suėmimo J. Paliūnui
     pavyko pakrikusius partizanus suorganizuoti į Savano-

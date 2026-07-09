@@ -171,6 +171,7 @@ Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkai
 - id: c-169437
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kas be ko, jie visi neišpasakytai trokštą, kad
     karalius asmeniškai juos valdytų, tačiau jie to nesitiki,
@@ -200,6 +201,7 @@ Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkai
 - id: c-169438
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Nė vienas nesiūlė atidėti šio
     reikalo bendram su lenkais seimui, o kad dėl to nebūtų
@@ -222,6 +224,7 @@ Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkai
 - id: c-169439
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mengli Girėjaus kariai, veda­
     mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža­

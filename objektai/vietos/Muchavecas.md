@@ -95,6 +95,7 @@ Inžinerijos pulkininkui Jokūbui Jasinskui vadovaujant pradėtas statyti antras
 - id: c-45227
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Liepos 20 d. S. Zabielai atvykus į Lietuvos
     Brastą, iškart imta įtvirtinti miestą. Inži-

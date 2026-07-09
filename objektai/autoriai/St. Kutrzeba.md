@@ -78,6 +78,7 @@ media_all_json: |-
 - id: c-94033
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     : _Dzieje Wielkiego Księstwa Litewskiego za Ja­
     giellonów,_ I, 1930, 11-51 p. — Kutrzeba, St. : _Unja Litwy z Polską,_

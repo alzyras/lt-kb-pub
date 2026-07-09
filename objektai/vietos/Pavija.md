@@ -117,6 +117,7 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
 - id: c-175619
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sis
     naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
@@ -135,6 +136,7 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
 - id: c-175620
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat ir rugių vadas Frederikas
     paliko gotus ir su saviškiais pasitraukė pas herulus. Teo­

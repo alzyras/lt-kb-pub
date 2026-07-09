@@ -64,6 +64,7 @@ Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos i
 - id: c-177226
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     24 Šiaurės tautos senovėje turėjo išminčių, kurių užsiėmimas bu­
     vo stebėti dangaus kūnų judėjimą. Islandų saga, pavadinta Liosvet-

@@ -82,6 +82,7 @@ media_all_json: |-
 - id: c-30888
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^124) I SKYRIUS: LIETUVOS PROISTORĖ
     —-Zajączkowski, St. : _O nazwach ludu Jadźwiugów,_ Zapiski Towarzyst­

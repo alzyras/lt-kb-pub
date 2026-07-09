@@ -185,6 +185,7 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
 - id: c-97135
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Ne kažką galėjo padaryti ir tie. Nors retkar-
     čiais jie ir primindavo parlamente lietuvių reikalus, tačiau tas
@@ -206,6 +207,7 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
 - id: c-97138
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Pirmoji
     tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės"
@@ -224,6 +226,7 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
 - id: c-97139
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tilžėje įkurta „Birutės"
     draugija. Tuo tarpu, kai vokiečių Literatų Draugija turėjo tikslą

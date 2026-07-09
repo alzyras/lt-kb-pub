@@ -181,6 +181,7 @@ Nenurodyta
 - id: c-63674
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     173 Dusburgietis tvirtina, kad Ordinas įsikūrė Prūsijoje apie 1226 m. Ši data, buvusi
     Hohenlohės reliacijos originale, įėjo  į Ordino tradiciją. Tai turėjo įvykti tarp 1226 m.
@@ -196,6 +197,7 @@ Nenurodyta
 - id: c-63675
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kad
     šis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti,
@@ -218,6 +220,7 @@ Nenurodyta
 - id: c-63676
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
     pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia

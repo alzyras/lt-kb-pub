@@ -111,6 +111,7 @@ Bumblauskas A.
 - id: c-22124
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Vilnius, 1998.
     Bumblauskas A. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius,
@@ -126,6 +127,7 @@ Bumblauskas A.
 - id: c-42402
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     P. 62, „ANONIMO LAIŠKAS“, Bumblauskas A. Senosios Lietuvos istorija 1009-1795,
     Vilnius, 2005, p. 151 (Jučas M. Žalgirio mūšis, Vilnius, 1999, p. 230).

@@ -72,6 +72,7 @@ Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų K
 - id: c-172032
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Žemininkas (Ziemienikas)
     Kitoniškai Kurkas (Kurko, Kurchus). Hartknochas labai ar­

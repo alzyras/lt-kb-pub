@@ -218,6 +218,7 @@ media_all_json: |-
 - id: c-170937
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     2 Jucevičius L. Raštai. -  V., 1959. -  P. 370.
   citata_rodoma: "2 Jucevičius L. Raštai. -  V., 1959. -  P. 370."
@@ -231,6 +232,7 @@ media_all_json: |-
 - id: c-171331
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
     na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
@@ -247,6 +249,7 @@ media_all_json: |-
 - id: c-171332
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O taip atsitiktų, jeigu aš pateikčiau il­
     gą legendą apie gegužės pavirtimą, kurio aprašymu ekskunigas
@@ -263,6 +266,7 @@ media_all_json: |-
 - id: c-173637
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     O taip atsitiktų, jeigu aš pateikčiau ilgą legendą
     apie gegužės pavirtimą, kurio aprašymu ekskunigas Adomas Ju­
@@ -278,6 +282,7 @@ media_all_json: |-
 - id: c-173638
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį
     LTI leidimą (PEĮ. L. 114). Visa ši medžiaga T. Narbuto buvo pa­

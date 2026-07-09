@@ -83,6 +83,7 @@ Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo pozicij
 - id: c-23829
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo
     poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-

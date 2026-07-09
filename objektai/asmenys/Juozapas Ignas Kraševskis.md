@@ -158,6 +158,7 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
 - id: c-83411
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Nepaisant gana kritiško požiūrio į
     istorijos šaltinius, M. Balinskio Vilniaus istorija neprilygo J. I. Kra­
@@ -177,6 +178,7 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
 - id: c-83412
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Prasidėjo Vilniaus miesto istorijos mokslinės istoriog­
     rafijos pradžia.
@@ -197,6 +199,7 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
 - id: c-83413
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     M. Balinskis buvo kruopštus, pedantiškas istorikas,
     kitaip nei Teodoras Narbutas, be atitinkamos faktografinės ba­

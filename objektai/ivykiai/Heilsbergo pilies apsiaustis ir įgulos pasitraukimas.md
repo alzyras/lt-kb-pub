@@ -126,6 +126,7 @@ Nenurodyta
 - id: c-63602
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     94 (89). Apie tai, kaip buvo palikta Heilsbergo pilis
 
@@ -143,6 +144,7 @@ Nenurodyta
 - id: c-63604
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Neilgai trukus prūsai su trimis kariuomenėmis ir trimis apgulos pabūklais [machinis]
     bei kitokiais įtaisais apsupo Varmės vyskupo pilį Heilsbergą. Apsiaustieji iš bado suvalgė

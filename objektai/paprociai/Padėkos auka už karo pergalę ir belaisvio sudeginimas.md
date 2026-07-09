@@ -124,6 +124,7 @@ Nenurodyta
 - id: c-172680
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nėra priežasties abejoti, kad se­
     novės laikais tai buvo bendras lietuvių protėvių paprotys, ta­
@@ -144,6 +145,7 @@ Nenurodyta
 - id: c-172681
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Užsodinę riterį ant žirgo, apvesdavo tris kartus aplink
     aukojamąjį aukurą; tada, įvedę tarp keturių stulpų, įkastų į

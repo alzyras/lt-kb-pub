@@ -115,6 +115,7 @@ Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mum
 - id: c-83675
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Prašome jų didenybių rnūsų
     seserų, kad nesiteiktų mūsų bloguoju minėti, kad perspėjo-

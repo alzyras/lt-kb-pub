@@ -62,6 +62,7 @@ Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karam
 - id: c-177293
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tad jei laimin­
     gas atsitiktinumas leido užklydusiems su gotais į Rytus

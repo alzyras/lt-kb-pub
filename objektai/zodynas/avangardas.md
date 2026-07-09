@@ -78,6 +78,7 @@ media_all_json: |-
 - id: c-170491
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Maskvėnai, sugrįžę iš mūšio, visus belaisvius
     didikus išsiuntė į Maskvą, pas didįjį kunigaikštį.

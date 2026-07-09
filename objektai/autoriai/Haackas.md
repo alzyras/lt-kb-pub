@@ -61,6 +61,7 @@ Haacko 1730 m. žodynas. Įkurtos Halės seminarijos reikalams docentas Haackas 
 - id: c-65288
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Fr. Haacko 1730 m.
     žodynas.

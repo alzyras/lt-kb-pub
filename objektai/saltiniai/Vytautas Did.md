@@ -69,6 +69,7 @@ media_all_json: |-
 - id: c-33745
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Barbašev, A. : Vitovt i jego politika do grjuuvaldskoj bitvy 1410,
     Petersburg 1885. — Derby Henrikas, LE, t. 4, 453-454 p. — Halecki,

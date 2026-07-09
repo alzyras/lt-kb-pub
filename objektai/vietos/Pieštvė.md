@@ -245,6 +245,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
 - id: c-59032
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto
     kyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio
@@ -259,6 +260,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
 - id: c-59033
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     271 (264). Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
 
@@ -279,6 +281,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
 - id: c-59034
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     254 (247). Apie Junigedos ir Pieštvės pilių papilių sudeginimą
 
@@ -303,6 +306,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
 - id: c-168445
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pagerbdami
     didelę šventę,, kitą dieną kryžiuočiai praleido ramiai,

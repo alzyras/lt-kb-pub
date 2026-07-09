@@ -82,6 +82,7 @@ Nenurodyta
 - id: c-172847
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Toje
     vietoje būna įkaltas stulpelis ir ant jo padėtas pinigas. Raite­

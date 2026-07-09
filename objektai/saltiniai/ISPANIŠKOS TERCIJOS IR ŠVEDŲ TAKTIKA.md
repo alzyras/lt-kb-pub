@@ -64,6 +64,7 @@ media_all_json: |-
 - id: c-44995
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     P. 117, „ISPANIŠKOS TERCIJOS IR ŠVEDŲ TAKTIKA“, Andžej Geglis, dail. Andžej Geglis.
     P. 123, „LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A.“

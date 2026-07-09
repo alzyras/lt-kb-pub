@@ -72,6 +72,7 @@ Netoli Lukoinių dvaro Kauno apskrityje buvo atkastas stiklinis tuščiaviduris 
 - id: c-171907
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Didesnę dalį jis atidavė
     Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*.

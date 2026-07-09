@@ -100,6 +100,7 @@ Nenurodyta
 - id: c-33401
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Daugiau
     yra žinoma apie Karolio IV-jo Lietuvon išsiųstą delegaciją, ku­

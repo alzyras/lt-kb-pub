@@ -77,6 +77,7 @@ Birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė rusus, tačiau didel
 - id: c-45450
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Pirmasis didelis mūšis įvyko bir-
     želio 11 d. prie Miro. Čia Lietuvos

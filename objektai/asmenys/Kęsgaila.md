@@ -162,6 +162,7 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Motiejus, kuris Vytauto
     buvo kviestas vyriausiu krikšto vykdytoju. Jam į pagalbą bu­
@@ -179,6 +180,7 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
 - id: c-176570
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir jų dar nebuvo
     suvažiavusių, nes kai kurie buvo tolimuose Didžiosios
@@ -205,6 +207,7 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
 - id: c-176571
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tas Kantauto giminaitis suprato, kad negalima sto­
     ti prieš taip didį valdovą, ir žemaičiai nusileido, sutikę

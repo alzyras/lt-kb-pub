@@ -132,6 +132,7 @@ Nenurodyta
 - id: c-171000
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dar būdavo tokia
     auka, kai smilkydavo už mirusius bičiulius; ja kartais baigda­
@@ -157,6 +158,7 @@ Nenurodyta
 - id: c-177020
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ant žemės būda­
     vo nuliejama dalis gėrimų ir viralų, po stalu numesdavo mė­

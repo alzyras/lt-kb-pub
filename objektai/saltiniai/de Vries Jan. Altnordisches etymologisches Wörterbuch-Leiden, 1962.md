@@ -68,6 +68,7 @@ Dusburgietis teigia, kad de Vries Jan.
 - id: c-61697
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     de Vries Jan. Altnordisches etymologisches Wörterbuch-Leiden, 1962.
       Wróblewski R. Problem jaćwieski w polityce Bolesława Wstydliwego w latach 1248—

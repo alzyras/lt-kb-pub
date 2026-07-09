@@ -132,6 +132,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
 - id: c-10079
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Tam nutikus Padaugavy, nuo vakarų vėl lenkai, norėdami Išlos įtaką užgulti, geidė Parusius nuveikti ir pačią Rusnę užimti. To dėjęsi, atvejų atvejais antpuldinėjo parusėnus, vieną atvejį taip toli buvo įsigrūdę į Žemaičių pajūrius, jog Rusnę pačią išteriojo^1412 ir jos garsią žinyčią išvertė. Parusėnai atkaliai, atmonydami tą lenkams, ėmė terioti jų pačių kraštą ir taip tenai juos įgrobė^1413 , jog lenkai, nesivildami parusėnų benuveikti nei benudrausti^1414 patys savo galia,
         patelkė sau iš Teutonijos karės brostvininkus^1415 vokiečius, kryžeiviais vadinamus, kurie, susinėrę su
@@ -150,6 +151,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
 - id: c-10080
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     lietuviai, kalnėnai ir žemaičiai, žuvo dieną ir naktį, nenorėdami jiems vergauti ir jų gyvuliais būti taip, kaip jau
         vergavo jų broliai kraugeriams vokiečiams Parusy, Žemgaliuose, arba Kurše, ir Padaugavy, kruviną
@@ -166,6 +168,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
 - id: c-10081
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Nuo ko gal manyti, jog, visiems žemlionims traukiant į karę, didi kariauna turėjo būti, ką
         ir senovės raštai rodo, nesgi patys parusėnai, kariaudami metuose 1250 su vokiečių meldžionimis,

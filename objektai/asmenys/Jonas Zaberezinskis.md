@@ -82,6 +82,7 @@ Karalius atėmė iš Jono Zaberezinskio Trakų vaivadiją, kai paaiškėjo, kad 
 - id: c-169477
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Nieko nežinoda­
     mi apie karaliaus sumanymus, į seimą kaip paprastai

@@ -80,6 +80,7 @@ Paszkiewicz : Polityka miska Kazimierza Wielkiego, Warszawa 1925, 189 p. (^11) Z
 - id: c-33691
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Kaip taisyklė — pagonys vyrai buvo žu­
     domi, o moterys su vaikais išvedami nelaisvėn. Nors paties ordino

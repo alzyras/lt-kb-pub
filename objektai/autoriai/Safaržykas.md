@@ -172,6 +172,7 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
 - id: c-174437
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Galbūt todėl, kad ir bu-
     dinai-skitai buvo kilę iš savo tautos žemdirbių kastos
@@ -197,6 +198,7 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
 - id: c-174438
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pirmiesiems priklausė jazigai, susimai­
     šę su nukariautais slavais, o antriesiems — aukštesnioji
@@ -217,6 +219,7 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
 - id: c-174439
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Vadi­
     nasi, čia gyventa jau iki IV amžiaus.

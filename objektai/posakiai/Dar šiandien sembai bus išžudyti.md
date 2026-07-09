@@ -123,6 +123,7 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
 - id: c-59716
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip iš anksto buvo išpranašauta ši pergalė
 
@@ -142,6 +143,7 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
 - id: c-167411
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų
     ginklanešius. Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje

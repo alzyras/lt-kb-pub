@@ -176,6 +176,7 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
 - id: c-159299
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pasakojimą apie didžiojo magistro Hermano iš Zalcos išprašytą teisę skelbti kryžiaus
 
@@ -212,6 +213,7 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
 - id: c-159300
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Iš kronikos faktologinės medžiagos matyti, kad nuo 1289 m. veikale randasi daugiau
     detalių, tikslesnių datų, todėl kartais tvirtinama (M. Perlbachas), jog nuo tada Dusburgietis
@@ -227,6 +229,7 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
 - id: c-159302
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Petras iš Dusburgo akcentuoja, kad Prūsijoje kariaujama prieš „tikybos ir bažnyčios
     priešus“ (II, 7), todėl kryžiaus žygių dalyviai eina į karą prieš prūsus ir lietuvius keršyti

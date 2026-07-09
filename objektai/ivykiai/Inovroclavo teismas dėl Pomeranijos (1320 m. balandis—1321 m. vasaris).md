@@ -99,6 +99,7 @@ Nenurodyta
 - id: c-60278
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vladislovo Lokietkos suvienyta Lenkija bandė diplomatijos priemonėmis  atgauti
     kryžiuočių užgrobtą Pomeraniją. 1320 m. balandžio—1321 m. vasario mėn. Inovroclave

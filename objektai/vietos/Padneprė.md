@@ -141,6 +141,7 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
 - id: c-175617
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Galima tik daryti gana tikėtiną prielaidą, kuri remia­
     si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
@@ -163,6 +164,7 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
 - id: c-175618
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     100
     Geografija. Viena dešiniojoje Dnepro pakrantėje gy­

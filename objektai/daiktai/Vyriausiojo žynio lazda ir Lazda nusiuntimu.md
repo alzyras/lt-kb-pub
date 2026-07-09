@@ -120,6 +120,7 @@ Nenurodyta
 - id: c-172550
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kai tik kas numirdavęs, to
     šešėlis praslinkdavęs pro vyriausiojo žynio namą, jeigu nesiti­
@@ -137,6 +138,7 @@ Nenurodyta
 - id: c-172551
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Reikia manyti, kad senovės lietuvių pasiuntinys, siunčia­
     mas kokio asmens ar bendruomenės, nešdavosi lazdą su tam

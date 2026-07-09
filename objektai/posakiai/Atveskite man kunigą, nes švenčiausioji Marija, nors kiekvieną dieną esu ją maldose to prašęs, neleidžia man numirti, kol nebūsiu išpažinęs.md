@@ -84,6 +84,7 @@ Dusburgietis teigia, kad apie vieną švenčiausiosios mergelės stebuklą 1302 
 - id: c-59714
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie vieną švenčiausiosios mergelės stebuklą
 

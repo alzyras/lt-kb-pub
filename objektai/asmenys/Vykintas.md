@@ -72,6 +72,7 @@ Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mū
 - id: c-176705
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     *  Vykintas — XIII a. pirmosios pusės žemaičių kunigaikštis,
     spėjamas lietuvių vadas I236.IX.22 Saulės (Šiaulių) mūšyje.

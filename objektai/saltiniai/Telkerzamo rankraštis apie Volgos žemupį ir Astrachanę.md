@@ -85,6 +85,7 @@ Narbutas rašo, kad 1811 m. rankose laikė vokišką Telkerzamo rankraštį apie
 - id: c-174699
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kitaip buvo vadinama Rhoas7, tariama
     Rhos, Ross, Russ, taip pat ir kalbant apie Volgos pava­

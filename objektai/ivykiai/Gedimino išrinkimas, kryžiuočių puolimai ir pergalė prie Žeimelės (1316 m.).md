@@ -304,6 +304,7 @@ Nenurodyta
 - id: c-168849
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     To­
     dėl ir manau, kad dingstį šitokiems svetimšalių post­
@@ -348,6 +349,7 @@ Nenurodyta
 - id: c-168850
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mat jis gal dėl to, kad uoliai
     tvarkė valstybės vidaus reikalus, negalėjo atremti iš­
@@ -379,6 +381,7 @@ Nenurodyta
 - id: c-168851
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vis
     dėlto nei pilies sienos, nei gynėjai neatlaikė stiprių ant­
@@ -406,6 +409,7 @@ Nenurodyta
 - id: c-168852
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Iš tolo, iš pasalų kamavo priešą, bet at­
     sargiai, kad dėl kokio neatsargaus žingsnio nereikėtų
@@ -424,6 +428,7 @@ Nenurodyta
 - id: c-168853
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Dėjosi skatinąs žemaičių
     narsumą, žadėdamas dovanų bei laisvių, tačiau sakėsi

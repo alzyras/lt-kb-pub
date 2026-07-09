@@ -312,6 +312,7 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 - id: c-60633
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     318 (311). Apie šio laivo sudeginimą 1313 metais
 
@@ -334,6 +335,7 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 - id: c-60634
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Todėl jie turėjo nutraukti
     apgulą. Neilgai trukus vadas Surminas paliko šią  pilį prisiekęs dievų galybe niekad
@@ -354,6 +356,7 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 - id: c-60635
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
     išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias
@@ -377,6 +380,7 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 - id: c-167516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Kolainių pilies užpuolimą
 
@@ -396,6 +400,7 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 - id: c-168198
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Smarkiausia ir sunkiausia kova vyko prie to di­
     džiojo laivo, kurio įgulą sudarė geriausi šauliai, tačiau

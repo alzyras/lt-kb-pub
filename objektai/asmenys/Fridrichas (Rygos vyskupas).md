@@ -79,6 +79,7 @@ Rygos vyskupas Fridrichas bandė sutaikyti Livonijos ordiną ir Lietuvą, pasite
 - id: c-169565
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kai šitaip klostėsi reikalai
     Prūsijos pasienyje, Livonija,

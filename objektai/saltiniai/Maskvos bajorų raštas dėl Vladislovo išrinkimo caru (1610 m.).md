@@ -78,6 +78,7 @@ Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą, kuriuo (1610 m
 - id: c-02478
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     žinoji taika. Ja caras atsisakė nuo visų jau Divilino paliaubų
     sutartimi perleistų žemių, atsisakė nuo pretenzijų į Livoniją ir

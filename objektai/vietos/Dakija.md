@@ -128,6 +128,7 @@ Boleslovas, bijodamas rimtesnių veiksmų prieš jį, pasitraukė iš Lucko į D
 - id: c-168645
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Priėmęs luomų priesaiką, kuria
     šie pažadėjo ištikimybę ir paklusnumą, niekais pavertė
@@ -152,6 +153,7 @@ Boleslovas, bijodamas rimtesnių veiksmų prieš jį, pasitraukė iš Lucko į D
 - id: c-175398
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tai
     buvo būtent tas laikas, nuo kurio susivienijusias lietuvių

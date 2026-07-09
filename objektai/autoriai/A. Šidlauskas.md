@@ -134,6 +134,7 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
 - id: c-30442
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Apie bibliotekas Lietuvoje XIX a.
     pradžioje rašė M. Lukšienė (BBK, t. 5, 1966, 109-136 p.), ji
@@ -154,6 +155,7 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
 - id: c-91657
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /
     Parengė J. Jurginis ir A. Šidlauskas.—V., 1983.

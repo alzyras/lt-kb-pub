@@ -122,6 +122,7 @@ Narbutas rašo, kad Tatiščevas Giurgevo ieškojo kairiajame Dnepro krante, bet
 - id: c-174357
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be to, tvirto­
     vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
@@ -143,6 +144,7 @@ Narbutas rašo, kad Tatiščevas Giurgevo ieškojo kairiajame Dnepro krante, bet
 - id: c-174358
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip manyti
     galima pagal jų krašto padėtį“. Jei jo prielaida teisinga,

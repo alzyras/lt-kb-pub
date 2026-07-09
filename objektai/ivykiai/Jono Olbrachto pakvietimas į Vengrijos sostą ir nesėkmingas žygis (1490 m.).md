@@ -146,6 +146,7 @@ Nenurodyta
 - id: c-168936
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pa­
     sak metraščių, tada krito dešimt tūkstančių laukinių.
@@ -177,6 +178,7 @@ Nenurodyta
 - id: c-168937
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Jonas nepritarė jų troškimui, nes gerai žinojo,
     kad seime buvo ginčų ir skirtingų nuomonių, mat dau­

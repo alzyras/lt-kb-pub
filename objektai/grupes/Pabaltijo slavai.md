@@ -206,6 +206,7 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
 - id: c-172346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O
     tai yra toks pat užrašas kaip ir ant kai kurių romėniškų medalių;
@@ -223,6 +224,7 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
 - id: c-172347
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Antspaudą pri­
     dėjo Smilginis (Szmilgin) 1475 metais. Kaip pastebėjo ponas
@@ -239,6 +241,7 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
 - id: c-175229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     92
     92 /Ten pat/
@@ -265,6 +268,7 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
 - id: c-176974
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pabaltijo slavai taip pat garbino Kurką. Ponas Tadas Vo-
     lianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­

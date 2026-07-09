@@ -68,6 +68,7 @@ media_all_json: |-
 - id: c-33857
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Kai Dniepro baseine
     prasidėjo variagų (normanų) laikotarpis, —atvykus iš Skandinavijos

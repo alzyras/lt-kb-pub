@@ -69,6 +69,7 @@ Liucijus Apulėjus savo „Auksiniame asile“ paliko mums šiokį tokį tų sen
 - id: c-177231
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Reikėjo numirti dėl aistrų, liau­
     dies prietarų ir blogų papročių, perimtų iš sugedusios pasau­

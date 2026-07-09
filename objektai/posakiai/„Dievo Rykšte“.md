@@ -70,6 +70,7 @@ Lietuvos metraštis teigia, kad aPIE ATILĄ IR JO 2IAURUMĄ <40t-siais' viešpat
 - id: c-176667
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     RIM ANTAS JA SA S
 

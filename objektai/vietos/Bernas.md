@@ -124,6 +124,7 @@ media_all_json: |-
 - id: c-46449
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Taip pat Šveicarijoje susidarė komitetas tvarkyti popiežiaus
     paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietu-

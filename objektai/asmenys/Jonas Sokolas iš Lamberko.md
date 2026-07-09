@@ -62,6 +62,7 @@ Sokolas Čekas — tai Jonas Soko'as iš Lamberko (m. I410.IX).
 - id: c-176749
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     * Sokolas Čekas — tai Jonas Soko'as iš Lamberko (m. I410.IX).
     Jis nebuvo vyriausiuoju Lenkijos kariuomenės vadu („didžiuoju

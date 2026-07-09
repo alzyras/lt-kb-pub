@@ -98,6 +98,7 @@ Nenurodyta
 - id: c-169930
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1457.11.28 Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goš-
     laulul (Русская историческая библиотека, т. 27, 1970. p. 34).

@@ -112,6 +112,7 @@ Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet
 - id: c-83625
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tik po dvejų metų kapitula, patyrusi, kad
     jau po visą sostinę pasklido kitatikystė, ėmė raginti vysku­

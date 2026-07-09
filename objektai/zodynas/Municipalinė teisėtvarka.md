@@ -166,6 +166,7 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
 - id: c-55790
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Poznanė dar anksčiau už Krokuvą - 1253 metais,
     Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
@@ -188,6 +189,7 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
 - id: c-55791
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­
     mės valdų savininkams metus klajoklišką gyvenimo būdą,
@@ -211,6 +213,7 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
 - id: c-55792
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kitaip klostėsi Ispanijoje,
     kur po maurų išvarymo Kastilijos bajorija į naujai pastatytus

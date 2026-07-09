@@ -64,6 +64,7 @@ Ostermejeris pavadinimą aiškino kildindamas jį iš „Cwalgiti“, reiškian�
 - id: c-173077
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Jų pavadinimas kilęs iš žodžioSwalgajt, kuris senovės prū­
     sų kalba reiškė tuoktis. Anot kitų, tas pavadinimas kilęs išCwal-

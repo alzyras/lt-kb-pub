@@ -74,6 +74,7 @@ media_all_json: |-
 - id: c-29704
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Nuo 1953 iki 1967 m. Bonnoje Baltų Tyrimo Institutas išleido 13 tt.
     « Commentationes Balticae » (CB)^171.

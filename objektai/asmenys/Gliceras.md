@@ -117,6 +117,7 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
 - id: c-174153
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Imperatoriaus
     sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
@@ -137,6 +138,7 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
 - id: c-174832
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau, nepaisant viso to,
     Odoakras gavo tai, ko geidė, nors italai nelabai buvo

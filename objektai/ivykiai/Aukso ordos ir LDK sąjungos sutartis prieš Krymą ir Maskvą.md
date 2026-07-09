@@ -129,6 +129,7 @@ Nenurodyta
 - id: c-169977
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     “  M ichailas Chaleckis —  Lietuvos didžiojo kunigaikščio A lek­
     sandro dvarionis-diplomatas iš Gomelio krašto rusų bajorų, j Aukso

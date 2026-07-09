@@ -73,6 +73,7 @@ Vilniaus karo apygardos Karo veiksmų juos miegančius gegužės 10 naktį apsup
 - id: c-44588
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Oficialiai pa-
     teikiami Rusijos kariuomenės nuos-

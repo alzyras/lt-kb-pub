@@ -127,6 +127,7 @@ Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtoj
 - id: c-174270
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     68
 
@@ -150,6 +151,7 @@ Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtoj
 - id: c-174271
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Paris, 1697.
     Turimas omenyje Džiovani Ramusio (1482—

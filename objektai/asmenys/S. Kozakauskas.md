@@ -114,6 +114,7 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
 - id: c-44500
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     sintus dalgius ir durtuvus. Batalionų vadais
 
@@ -135,6 +136,7 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
 - id: c-44501
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Oficialiai pa-
     teikiami Rusijos kariuomenės nuos-

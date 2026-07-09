@@ -72,6 +72,7 @@ Narbutas Girystį (Giristį), Bogušo minimą miško dievaitį, sieja su kaimie�
 - id: c-172111
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Girystis (Giristis)
     Miško dievaitis, Šilinis, miškų baidyklė. Šis vardas paimtas

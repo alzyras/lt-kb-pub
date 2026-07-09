@@ -224,6 +224,7 @@ Nenurodyta
 - id: c-173898
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tai vyko jau tuo metu, kai, IV amžiaus pradžioje
     iki valiai prisiklajoję gotai, apsikrovę grobiu ir karų iš­
@@ -246,6 +247,7 @@ Nenurodyta
 - id: c-173899
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Skiriai, dar turėję čia savo kėslų, sudarė sąjungą
     su sukilėliais ir išvien su jais puolė gotus. Bet Siaurės
@@ -263,6 +265,7 @@ Nenurodyta
 - id: c-173900
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ir vėl
     laimės žvaigždė lydėjo gotus, kurie niekais pavertė vi­
@@ -282,6 +285,7 @@ Nenurodyta
 - id: c-173901
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šis kraustymasis
     kartu su kitomis dėl šių politinių įvykių persekiojamomis

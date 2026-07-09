@@ -139,6 +139,7 @@ Nenurodyta
 - id: c-66847
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     223 Manoma, kad kryžiuočiai įsikūrė Starogrude (buv. Althausen). Čia, senajame
     piliakalnyje, buvęs  pastatytas penkiakampis—pagal  piliakalnio formą — konvento
@@ -154,6 +155,7 @@ Nenurodyta
 - id: c-66848
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie maldininkus ir Kulmo pilies bei miesto įkūrimą
 

@@ -157,6 +157,7 @@ Nenurodyta
 - id: c-11857
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     | „Betgi magistrą Otto su 52 ordino broliais ir
     | 600 krikščionių Viko krašte (in Maritima)
@@ -172,6 +173,7 @@ Nenurodyta
 - id: c-66804
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     ir Lealio vyskupų pajėgos. Lietuviams žy-
     giuojant iš Saremos salos, abi kariuomenės
@@ -187,6 +189,7 @@ Nenurodyta
 - id: c-66805
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kovoje buvo nukautas Livonijos ma-
     gistras Ottonas Luterbergas, taip pat

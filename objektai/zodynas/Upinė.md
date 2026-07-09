@@ -158,6 +158,7 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
 - id: c-172072
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Upinė (Uppinė )
     Upių, šaltinių, apskritai tekančio vandens deivė. Upė -Rze-
@@ -173,6 +174,7 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
 - id: c-172073
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kairiajame Nemuno krante,
     tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
@@ -197,6 +199,7 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
 - id: c-172074
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Senė, vadinama Upine, tomis apei­
     gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­

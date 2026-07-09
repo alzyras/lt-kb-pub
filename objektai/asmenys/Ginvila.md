@@ -96,6 +96,7 @@ Sa vo įpėdiniais paliko du savo sūnus: vieną Skirmantą, o kitą Ginvilą. R
 - id: c-176711
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir jis buvo Polocko bei Naugarduko didžiuoju ku­
     nigaikščiu, kunigaikščiavo ilgus metus ir pasimirė. Sa­
@@ -112,6 +113,7 @@ Sa vo įpėdiniais paliko du savo sūnus: vieną Skirmantą, o kitą Ginvilą. R
 - id: c-176712
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     7  Kituose patikimuose šaltiniuose Naugarduko kunigaikštis Skir­
     m antas nepaliudytas.

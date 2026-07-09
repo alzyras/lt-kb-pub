@@ -80,6 +80,7 @@ Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo a
 - id: c-02302
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Paskutiniais gyvenimo metais visai
     nebebuvo girdėt Zigmanto. Užsieny jau daug kas manė, kad

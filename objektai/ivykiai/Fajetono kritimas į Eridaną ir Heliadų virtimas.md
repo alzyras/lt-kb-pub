@@ -87,6 +87,7 @@ Nenurodyta
 - id: c-173941
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­
     delis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­

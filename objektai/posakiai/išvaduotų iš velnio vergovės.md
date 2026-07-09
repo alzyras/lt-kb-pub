@@ -90,6 +90,7 @@ Dusburgietis teigia, kad neilgai trukus, kai komtūras, sutvarkęs visus savo re
 - id: c-167414
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Todėl vienas lietuvis, vardu Nodamas, prityręs
     karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė

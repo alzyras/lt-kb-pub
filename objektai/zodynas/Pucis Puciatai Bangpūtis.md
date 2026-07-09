@@ -119,6 +119,7 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
 - id: c-172131
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     176
 
@@ -147,6 +148,7 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
 - id: c-177087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pucis (Putys?, Pučiąs, Pucis)
     Malonaus vėjelio dievaitis. Jo giminės vadinosi Puciatais

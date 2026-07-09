@@ -77,6 +77,7 @@ Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicin
 - id: c-44837
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     deputatų pastangomis. Medicininę pagalbą
     ir reikalingas priemones teikė miesto medi-

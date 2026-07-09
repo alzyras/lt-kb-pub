@@ -75,6 +75,7 @@ Narbutas ties Prienais, kur Nemunas daro pusračio vingį, pastebėjo piliakaln�
 - id: c-171900
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Už Tilžės, žemiau Vingio (Winge) dvaro, prie
     Sancinės, kur Nemunas išsišakoja į dvi atšakas -  Giliją ir Rus­

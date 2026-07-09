@@ -160,6 +160,7 @@ Giurgevo tvirtovės vieta, Narbuto teigimu, rusų istorikams buvo nesutariamas k
 - id: c-175591
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Panagrinėkime, kaip buvo sakoma senovėje. Ne­
     storas teigia, kad poloviečiai atėjo prie G i urge v o tvirto­
@@ -176,6 +177,7 @@ Giurgevo tvirtovės vieta, Narbuto teigimu, rusų istorikams buvo nesutariamas k
 - id: c-175592
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be to, tvirto­
     vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
@@ -197,6 +199,7 @@ Giurgevo tvirtovės vieta, Narbuto teigimu, rusų istorikams buvo nesutariamas k
 - id: c-175593
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Būtent
     prie šio žemupio, netoli žiočių, turėjo būti kažkokiais pil­

@@ -103,6 +103,7 @@ Data: 1817 m.
 - id: c-170765
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Masonų organizacijose kampainis simboli­
     zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­

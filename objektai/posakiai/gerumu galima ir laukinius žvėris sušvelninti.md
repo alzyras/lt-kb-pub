@@ -164,6 +164,7 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
     dažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro
@@ -186,6 +187,7 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Kai ant Dniepro
     saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,

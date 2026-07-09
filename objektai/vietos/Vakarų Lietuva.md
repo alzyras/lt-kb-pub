@@ -132,6 +132,7 @@ Tačiau jie ## Puslapis 235 LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA 1949
 - id: c-45389
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lietuvos partizanų vadų
     suvažiavimas. Minaičių kaimas
@@ -170,6 +171,7 @@ Tačiau jie ## Puslapis 235 LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA 1949
 - id: c-176436
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kęstučio apygardos vadu, 1951 m. Vakarų Lietuvos (Jūros) srities
     vadu. Silpstant ginkluotam pasipriešinimui 1952 m. įkūrė „Vyčių sąjungą,

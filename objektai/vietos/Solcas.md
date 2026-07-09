@@ -68,6 +68,7 @@ Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio
 - id: c-82217
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Brastoje nuo 17 paskolintų liet. grašių palūkanos už dvi
     savaites - 16 liet. grašių.

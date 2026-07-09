@@ -308,6 +308,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
 - id: c-169313
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kodėl jis nepaisąs rusų siekimų? Kodėl nekrei­
     piąs dėmesio į privilegijas Vaišvilko, teisėto lietuvių
@@ -326,6 +327,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
 - id: c-169315
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vis dėlto niekada negalima buvo jo priversti užmiršti
     viso ankstyvesnio gyvenimo: paprastai ant purpurinio
@@ -348,6 +350,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
 - id: c-169316
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Naujausioje literatūroje plinta Vaišelga. A. Kojelavičiaus te­
     ksto vertime paliekamas tradicinis Vaišvilkas. Greta šio vardo A. Ko­
@@ -364,6 +367,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
 - id: c-176183
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šitokia kal­
     ba sukrėtė žemaičių ir jotvingių sielas ir noromis ne­
@@ -391,6 +395,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
 - id: c-176626
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Turėjo jis sūnų Vaišvilką ir dukterį. Dukterį išleido
     už Danieliaus sūnaus Švarno3  į Cholmą \  O Vaišvil­
@@ -409,6 +414,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
 - id: c-176627
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Kartais per
     dieną nugalabydavo po tris ir po keturis, o jeigu kurią
@@ -427,6 +433,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
 - id: c-176628
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Pasikrikštijo
     Naugarduke ir tapo krikščionimi.

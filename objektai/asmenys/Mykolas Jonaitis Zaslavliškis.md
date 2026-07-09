@@ -72,6 +72,7 @@ media_all_json: |-
 - id: c-176754
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     *' M stislavlio kunigaikštis Michailas — tai Zaslavlio (prie Mins­
     ko) kunigaikštis M ykolas Jonaitis Zaslavliškis, Jaunučio palikuo­

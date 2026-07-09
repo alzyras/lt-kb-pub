@@ -73,6 +73,7 @@ Narbutas pasakoja, kad Dagas liko gyvas po kautynių, kuriose žuvo kiti rusų v
 - id: c-174145
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pasakoji­
     mui apie šį neabejotinai seną įvykį būdingi istoriškumo

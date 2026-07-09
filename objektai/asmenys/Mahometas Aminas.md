@@ -79,6 +79,7 @@ Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis L
 - id: c-44449
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Mengli-Girėjus, gavęs žinią apie toto-
     riams fatališkai pasibaigusį mūšį, tuojau pat

@@ -74,6 +74,7 @@ Vytautas tai darė ne iš simpatijos pačiam husitizmui, bet iš pykčio ant cie
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet
     po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­

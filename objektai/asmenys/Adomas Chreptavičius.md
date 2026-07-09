@@ -71,6 +71,7 @@ Grafas Ado­ mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bi
 - id: c-83585
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vilniaus praeities žinovas Mikalojus Malinovskis padėjo
     istorikui pasinaudoti Radvilų Nesvyžiaus archyvu. Grafas Ado­

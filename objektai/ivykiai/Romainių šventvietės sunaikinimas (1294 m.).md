@@ -162,6 +162,7 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
 - id: c-78376
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     8
     Lietuvos istorijoje yra žinomos šven­

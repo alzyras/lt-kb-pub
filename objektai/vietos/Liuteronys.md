@@ -67,6 +67,7 @@ Taip ir Mikniškių žemė, nuo­ mojama Vepriuose, Liuteronių kaime...........
 - id: c-82186
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Taip ir Mikniškių žemė, nuo­
     mojama Vepriuose, Liuteronių kaime..........................Pa­

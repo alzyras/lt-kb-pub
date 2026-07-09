@@ -104,6 +104,7 @@ Juraha taip pat prie kole­ gijos pastarąją priskyrė, o kolegijos namą, vadi
 - id: c-83509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Akademijos Rektorius t. Paulius Bochenas, neturė­
     damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­

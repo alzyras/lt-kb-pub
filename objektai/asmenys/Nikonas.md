@@ -76,6 +76,7 @@ Narbutas Nikono pataisytą Bibliją ir liturgiją sieja su rusų sentikių atsir
 - id: c-173007
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nuo
     amžių sektantus vadina raskolnikais, tai yra atskalūnais. Pas

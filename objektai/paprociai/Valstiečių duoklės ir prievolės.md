@@ -172,6 +172,7 @@ Nenurodyta
 - id: c-05435
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tiesa, tas įstatymas reiškė didelę reformą ir žymią pažangą
     žemės ūkio srityje. Juk ir pati žemė buvo išrūšiuota. Valstiečio
@@ -191,6 +192,7 @@ Nenurodyta
 - id: c-91653
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     XV amžiaus pradžioje, t. y. Vytauto
     laikais, daugumas valstiečių Lietuvoje dar buvo laisvieji
@@ -211,6 +213,7 @@ Nenurodyta
 - id: c-91655
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kai
     kur buvo auginama šimtai arklių; pavyzdžiui, netoli Kauno

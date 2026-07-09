@@ -87,6 +87,7 @@ Nenurodyta
 - id: c-172568
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­
     vių, kurios priklausė ugnies šventovėms piratėjoms. Apie to­

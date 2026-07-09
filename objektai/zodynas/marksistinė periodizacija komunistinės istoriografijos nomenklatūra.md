@@ -150,6 +150,7 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
 - id: c-28448
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Pritaikydami ir Lietuvos istorijos laukui komunistinės istorio­
     grafijos nomenklatūrą, tarybiniai istorikai čia tematė du ryškius
@@ -169,6 +170,7 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
 - id: c-28449
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Šitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo
     marksistinėje teorijoje ir Lietuvos istorijos skirstymo atveju norėjo
@@ -185,6 +187,7 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
 - id: c-28450
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pa­
     gal ją, I-sis Lietuvos TSR istorijos tomas apima feodalizmo epochą

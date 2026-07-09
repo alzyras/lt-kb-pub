@@ -140,6 +140,7 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
 - id: c-33900
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Net Švitrigaila, kuris iš Maskvos Vosyliaus buvo gavęs eilę žemių^59 ,
     grįžo atgal. Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys
@@ -160,6 +161,7 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
 - id: c-168351
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Abie­
     jų šalių pasiuntiniams ginči-

@@ -77,6 +77,7 @@ Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai b
 - id: c-174443
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pasvarsčius nepernelyg didelį Plinijaus geografinių
     aprašymų tikslumą, šiuose trijuose pavadinimuose gali­

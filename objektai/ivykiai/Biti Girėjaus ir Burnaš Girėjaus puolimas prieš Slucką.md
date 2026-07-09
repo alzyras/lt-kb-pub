@@ -129,6 +129,7 @@ Nenurodyta
 - id: c-169056
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Išklausė
     dangus varguolio maldų. Mengli Girėjaus kariai, veda­
@@ -146,6 +147,7 @@ Nenurodyta
 - id: c-169057
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mirus Slucko kunigaikščiui Simonui Olelkaičiui,
     jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­

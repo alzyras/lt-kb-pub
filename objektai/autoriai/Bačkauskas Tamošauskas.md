@@ -68,6 +68,7 @@ Netrukus pradėjo eiti „Vienybė Lietuvininkų" ir vargonininko Bačkausko Tam
 - id: c-01255
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Šią kurį laiką (1884—5 m.) redagavo į Ameriką
     atvykęs dr. J. Šliūpas. Tačiau, nesutikdamas su lenkams pa-

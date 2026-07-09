@@ -75,6 +75,7 @@ Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė persekioja
 - id: c-172327
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nuo
     amžių sektantus vadina raskolnikais, tai yra atskalūnais. Pas

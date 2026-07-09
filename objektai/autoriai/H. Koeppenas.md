@@ -76,6 +76,7 @@ Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių praneš
 - id: c-65285
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Mūsų kaimynams Vokiečiams aišku labiausiai rūpėjo
     vokiečių ordino karo žygiai į Lietuvą ir nuo XVI a. Prūsų Kuni­

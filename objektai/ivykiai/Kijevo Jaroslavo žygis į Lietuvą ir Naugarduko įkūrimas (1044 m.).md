@@ -138,6 +138,7 @@ Nenurodyta
 - id: c-31333
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1044 m. Jaroslavas vėl ėjęs « na Litvu » ir pavasarį įkūręs
     Naugarduką. Lietuvos vardas vėl minimas po 87 metų, kai esą
@@ -153,6 +154,7 @@ Nenurodyta
 - id: c-33403
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Artimiausieji rytų kaimynai dregovičiai (Beržūnės
     baseine) ir krivičiai (Dniepro ir Dauguvos aukštupiuose), nors

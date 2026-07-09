@@ -77,6 +77,7 @@ Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu
 - id: c-174542
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Galbūt ir
     lietuvių kalba jie vadinosi skiriais, nes esama panašiai

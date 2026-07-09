@@ -94,6 +94,7 @@ Narbutas nurodo, kad Šrioko „Kirchen Geschichte“ pateikti dalykai pažodži
 - id: c-173389
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šie dalykai yra tik Šrioko veikale (Kirchen Geschichte. -
     B. XXX. -  S. 497). Visi jie pažodžiui paimti iš Enėjaus Silvijaus.
@@ -107,6 +108,7 @@ Narbutas nurodo, kad Šrioko „Kirchen Geschichte“ pateikti dalykai pažodži
 - id: c-173390
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Minimo veikalo pavadinimas visai nežinomas, nes
     trūksta pradžios (Mokslininkai mato tokį praneši­

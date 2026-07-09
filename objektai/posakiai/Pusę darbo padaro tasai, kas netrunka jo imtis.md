@@ -81,6 +81,7 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
 - id: c-59790
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Aptarę karui reikalingus ginklus, turime grįžti prie savo tiesioginio uždavinio (1226).
     Kadangi minėtieji Teutonų namų ordino broliai, tai yra brolis Konradas bei jo bičiulis,

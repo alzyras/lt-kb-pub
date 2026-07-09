@@ -69,6 +69,7 @@ prie arsenalo (pasak kitų šaltinių - nuo Gedimino pilies kalno) driokstelėjo
 - id: c-43445
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Naktį iš balandžio 22 į 23 d. (Šv. Velykų
     naktį) o val. 30 min. prie arsenalo (pasak

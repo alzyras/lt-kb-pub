@@ -308,6 +308,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - id: c-31095
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Menkai gyvenamoje
     Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
@@ -323,6 +324,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - id: c-155906
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Istorinė tradicija (jai atstovauja
     M. Strijkovskis) teigia, kad Algirdas, su-
@@ -348,6 +350,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - id: c-155908
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tai buvo
     pirmas Rytų Europoje toks didelis įsiverži-
@@ -375,6 +378,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - id: c-155909
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Neišlaikę spaudimo totoriai bėgo“ žuvo
     daug murzy ir ulonų.
@@ -409,6 +413,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - id: c-155910
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Mūšio padariniai
 

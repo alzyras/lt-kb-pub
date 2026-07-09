@@ -65,6 +65,7 @@ Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis ai
 - id: c-168844
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kai šventasis pa­
     mokslininkas iš sakyklos aiškino, kokia tvarka buvo

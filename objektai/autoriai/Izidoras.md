@@ -75,6 +75,7 @@ Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygu
 - id: c-173312
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Se­
     novės Rytų legendos skelbia, kad Abraomas pasodinęs kipari­

@@ -85,6 +85,7 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
 - id: c-43818
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Ambasadorių
     konferencija netrukus turėjo priimti

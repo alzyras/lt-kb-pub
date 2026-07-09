@@ -66,6 +66,7 @@ Dusburgietis teigia, kad pakliuvo į nelaisvę ir brolis Oteris, tačiau neilgai
 - id: c-61030
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Broliai neteko trijų Notangos vyrų, kritusių kovoje, ir dviejų,
     kuriuos paėmė į nelaisvę. Pakliuvo  į nelaisvę ir brolis Oteris, tačiau neilgai trukus jam

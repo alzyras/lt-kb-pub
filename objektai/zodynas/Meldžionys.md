@@ -93,6 +93,7 @@ Vartojamos formos: `meldžionis`.
 - id: c-09610
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     meldžionis, paeina nuo melsti, kaipogi visiems yra žinoma, jog šiokie tokie pergalviai^850 ir
         piktadėjai^851 tvino iš Teutonijos į Žemaičius, Parusius ir Žemgalius, arba Kuršą, dievą maldauti už

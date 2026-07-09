@@ -82,6 +82,7 @@ Lenkai teigė, kad vienui viena veiksminga priemonė ginčui dėl Podolės baigt
 - id: c-168833
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Nors karalius nenorėjo savo au­
     toritetu paremti nei vienos, nei kitos šalies, širdimi pa­

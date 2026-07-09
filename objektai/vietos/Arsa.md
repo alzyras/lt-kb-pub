@@ -144,6 +144,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 - id: c-59059
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Arsos upelis ir čia nežinomas, tik spėjamas, kaip ir
     prie mūsų minėtų Tamoviškių. Pastarųjų pirminė forma Cammow bei išlikę vietovardžiai
@@ -159,6 +160,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 - id: c-59060
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Senuose žemėlapiuose
     (Sch-K) pažymėtas nedidelis kair. Vangrapės intakas Kampsvykių apylinkėse galėtų būti,
@@ -174,6 +176,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 - id: c-59061
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     178 (173). Apie Kampsvykių pilies užkariavimą
 

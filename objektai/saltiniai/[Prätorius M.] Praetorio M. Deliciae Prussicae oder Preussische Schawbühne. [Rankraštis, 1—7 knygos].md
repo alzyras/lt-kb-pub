@@ -65,6 +65,7 @@ Dusburgietis teigia, kad [Prätorius M.] Praetorio M.
 - id: c-61891
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     [Prätorius  M.]  Praetorio M.  Deliciae  Prussicae  oder  Preussische Schawbühne.
     [Rankraštis, 1—7 knygos].—WU Mokslo muziejaus fondai, Nr. 1365.

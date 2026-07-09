@@ -109,6 +109,7 @@ Nenurodyta
 - id: c-169945
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Čia, veikiausiai, turima galvoje, kad Jogaila ra  Vytautu 1425—
     1428 m. perkėlė tos vyskupijos vyskupo būstinę iš Volynės Vladi­

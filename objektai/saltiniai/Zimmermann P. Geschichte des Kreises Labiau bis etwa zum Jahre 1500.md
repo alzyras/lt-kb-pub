@@ -69,6 +69,7 @@ Dusburgietis teigia, kad zimmermann P.
 - id: c-62016
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
     1925.

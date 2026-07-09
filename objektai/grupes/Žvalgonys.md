@@ -69,6 +69,7 @@ Narbutas Žvalgonis apibūdino kaip žynius, atlikdavusius vedybų apeigas, pran
 - id: c-172431
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Žvalgonys (Swalgones)
     Tai buvo žyniai, atliekantys vedybų apeigas, arba tekančių

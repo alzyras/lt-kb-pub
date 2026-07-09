@@ -85,6 +85,7 @@ Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laida
 - id: c-169534
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Po to, kai visas Se-
     verskas vėl kaip kadaise atsi-

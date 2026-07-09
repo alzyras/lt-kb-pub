@@ -106,6 +106,7 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
 - id: c-172378
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tačiau tiesa visuomet išliko atmintyje. Senovės isto­
     rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai,
@@ -124,6 +125,7 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
 - id: c-176966
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šiuos pavadinimus, ypač Jeou, verta paaiškinti. Iš mitolo­
     gų žinome, kad seniesiems daugdievystės išpažinėjams Jeu ir

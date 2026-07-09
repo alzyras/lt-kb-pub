@@ -90,6 +90,7 @@ Nenurodyta
 - id: c-40918
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Prasidėjus perversmui Maskvoje, suaktyvėjo sovietų kariškių vei-
     kimas Lietuvoje. Iš parengiamųjų veiksmų tapo aišku, kad rengia-

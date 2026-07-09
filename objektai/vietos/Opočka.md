@@ -161,6 +161,7 @@ media_all_json: |-
 - id: c-170326
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1426 m. rugpiūčio mėn. Vytautas
     puolė Pskovo miestus Opočkų (V1II.1) Ir Voronačų (VIII.5Į, bet jų
@@ -177,6 +178,7 @@ media_all_json: |-
 - id: c-170327
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­
     karus nuo Opočkos (RTFR. Veiikije Lukų sr.).

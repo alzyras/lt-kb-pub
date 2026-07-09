@@ -74,6 +74,7 @@ Fedoras Ivanovičius Jaroslavičius LDK buvo susigiminiavęs su Goštautais, Ole
 - id: c-170709
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
     puchovo kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi­

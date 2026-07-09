@@ -143,6 +143,7 @@ Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. paba
 - id: c-44323
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Europa apie XIV a. pabaigą
 
@@ -166,6 +167,7 @@ Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. paba
 - id: c-44324
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Edigėjus ir padrą-
     sino chaną, derybos iš

@@ -80,6 +80,7 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
 - id: c-33255
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     mezleva, roitinik, sviren, veldomy ir daug kitų), bet ir šnekamajai
     gudų kalbai. Artimiausieji rytų kaimynai dregovičiai (Beržūnės

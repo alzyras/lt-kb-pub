@@ -71,6 +71,7 @@ media_all_json: |-
 - id: c-33767
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — Goyski, W. : _Wzajemne stosunki Polski, Litwy i Zakonu w latach
     1399-1404,_ Przewodnik nauk. i liter., t. 34, 1906. — Ivinskis, Z. : _Kovos

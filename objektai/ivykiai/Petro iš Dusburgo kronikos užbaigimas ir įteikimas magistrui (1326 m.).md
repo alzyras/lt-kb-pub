@@ -139,6 +139,7 @@ Nenurodyta
 - id: c-63056
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Epocha, kurioje rašė Petras iš Dusburgo
 
@@ -157,6 +158,7 @@ Nenurodyta
 - id: c-63057
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Siekdamas pagrįsti kryžiuočių
     užkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti

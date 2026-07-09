@@ -93,6 +93,7 @@ Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir
 - id: c-175683
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Naujausių ir tiksliau­
     sių šios graikų istoriko geografijos paaiškinimų pateikė

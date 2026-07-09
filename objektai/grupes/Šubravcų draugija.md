@@ -317,6 +317,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - id: c-55460
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Legaliai veikė įvai­
     rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­
@@ -343,6 +344,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - id: c-55461
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šubravcų draugijos kodekse suformuluotos narių elgesio
     ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­
@@ -364,6 +366,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - id: c-55462
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Draugijos narių leidžiamas
     humoristinis laikraštis Wiadomości brukowe (Grindinio žinios),
@@ -383,6 +386,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - id: c-171253
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     „Wizerunki i Roz­
     trząsania Naukowe“ puslapiuose anonimiškumas buvo įpras­
@@ -402,6 +406,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - id: c-175279
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i
     Roztrząsania Naukowe“ puslapiuose anonimiškumas buvo

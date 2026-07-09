@@ -68,6 +68,7 @@ Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumo
 - id: c-177229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tie trys medžiai suaugę į vieną medį, kuris
     buvęs panaudotas Saliamono šventyklos statybai. Izidoras, gy­

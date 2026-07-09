@@ -160,6 +160,7 @@ Nenurodyta
 - id: c-172710
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     185
 
@@ -181,6 +182,7 @@ Nenurodyta
 - id: c-172711
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­
     jai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir
@@ -199,6 +201,7 @@ Nenurodyta
 - id: c-177024
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vėliau, pertvarkant mitologiją, Mėnesio garbinimo dalis
     perėjo deivei Laimai, kurią šiuo požiūriu dievino vadindami

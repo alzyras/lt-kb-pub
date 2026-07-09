@@ -73,6 +73,7 @@ Narbutas rašė, kad senieji liaudies padavimai raganas paprastai kildino iš Li
 - id: c-171906
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kuo daugiau tikėta jų buvimu, tuo labiau
     artėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų

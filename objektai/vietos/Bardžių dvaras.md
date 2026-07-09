@@ -75,6 +75,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių, aptiko mil
 - id: c-171869
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Neseniai buvo aptiktas kadaise milžiniškas ir labai senas
     jau benudžiūstantis ąžuolas; kadangi jis išliko, todėl teisingai

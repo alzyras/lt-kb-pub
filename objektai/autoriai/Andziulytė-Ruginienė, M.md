@@ -80,6 +80,7 @@ Andziulytė-Ruginienė, M.
 - id: c-29205
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Andziulytė-Ruginienė, M. : _Žemaičių christianizacijos pradžia,_
     atsp. iš Athenaeum, VII, Kaunas 1937. — BeGeDO, t. 2. — Bełch,

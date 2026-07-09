@@ -127,6 +127,7 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
 - id: c-175103
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Štai,
     pavyzdžiui, Nemuno slenksčiuose matome daugybę akme­
@@ -157,6 +158,7 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
 - id: c-175104
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Štai ir visas spėjimas apie Žemės revoliucijos priežas­
     tis. Tol, kol formavosi, t. y. tvirtėjo, pirmosios formacijos

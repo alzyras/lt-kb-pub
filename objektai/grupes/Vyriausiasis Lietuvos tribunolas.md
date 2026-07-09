@@ -159,6 +159,7 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
 - id: c-104633
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     238
 
@@ -210,6 +211,7 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
 - id: c-104634
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Be to, ji reika-
     lavo, kad didysis kunigaikštis atsisakytų ir nuo apeliacinių

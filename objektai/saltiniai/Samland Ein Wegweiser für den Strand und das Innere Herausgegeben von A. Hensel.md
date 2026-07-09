@@ -70,6 +70,7 @@ Dusburgietis teigia, kad samland: Ein Wegweiser für den Strand und das Innere/ 
 - id: c-61914
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Samland: Ein Wegweiser für den Strand und das Innere/ Herausgegeben von A.
     Hensel.—Königsberg, 1911.

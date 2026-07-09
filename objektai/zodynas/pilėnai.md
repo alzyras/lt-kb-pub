@@ -197,6 +197,7 @@ Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžud
 - id: c-176167
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Smarkios liū-
     I š v y k u s
@@ -228,6 +229,7 @@ Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžud
 - id: c-176168
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Iš tos išdavystės išėjo visai kas kita, nei vy­
     lėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat,
@@ -259,6 +261,7 @@ Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžud
 - id: c-176940
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie vieną brolių karo laivą
 
@@ -277,6 +280,7 @@ Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžud
 - id: c-176941
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     321 (314). Dar apie tą patį
 

@@ -95,6 +95,7 @@ Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius, kuriame stovė
 - id: c-83738
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pirmą kartą jį Dusburgas mini prie 1304 metų
     (356 lape), pasakodamas, kaip brolis Eberhardas de Virnem-

@@ -86,6 +86,7 @@ media_all_json: |-
 - id: c-45043
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą
     Aldoną Oną su Lokietkos sūnumi, Lenkijos sosto įpėdiniu Kazi-

@@ -58,6 +58,7 @@ Be to, įdėta prof. Brenderio, prof. PutinoMykolaičio, Dr. Putino - Mykolaiči
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     27. V. Putino - Mykolaičio, VALDOVAS... Istorinė 6 veiksmų drama.
   statusas: verified

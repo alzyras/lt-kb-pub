@@ -139,6 +139,7 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
 - id: c-174166
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pasakysime tik tiek, kad pečenegus, po
     hunų ir avarų įsikūrusius krašte, esančiame Dunojaus ir
@@ -159,6 +160,7 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
 - id: c-174167
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     294
     Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad

@@ -169,6 +169,7 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
 - id: c-78630
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­
     pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­

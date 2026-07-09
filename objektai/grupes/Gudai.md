@@ -68,6 +68,7 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
 - id: c-176031
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuo būdu jis norėjo ten sudaryti
     tvirtesnę atsparą prieš Voluinės kunigaikštystę, su kuria Trai-

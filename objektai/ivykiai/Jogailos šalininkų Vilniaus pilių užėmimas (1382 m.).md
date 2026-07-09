@@ -168,6 +168,7 @@ Nenurodyta
 - id: c-82891
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kai visa tai vyko, Jogaila, seniai laukęs tinkamo meto at­
     gauti savo paveldą ir atkeršyti už Vaidilos mirtį, sutelkė ne­
@@ -213,6 +214,7 @@ Nenurodyta
 - id: c-82892
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Re­
     gis, iš jo kilusi Hanulu giminė, kurių

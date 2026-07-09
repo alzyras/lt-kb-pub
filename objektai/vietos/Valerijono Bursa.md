@@ -87,6 +87,7 @@ Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvena
 - id: c-82136
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tikimės, kad didžiai gerbiamas tė­
     vas Rektorius iš meilės brolijai ir geranoriškumo mums mie­

@@ -119,6 +119,7 @@ Nenurodyta
 - id: c-177210
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Štai ir
     naujas kačių muzikos kilmės išaiškinimas!
@@ -141,6 +142,7 @@ Nenurodyta
 - id: c-177211
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kiekviena ragana turėjo savo medį, kurį globojo stengda­
     masi padalyti viską, kad jis būtų sveikas ir augtų. Žmonėms,

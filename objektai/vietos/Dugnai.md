@@ -67,6 +67,7 @@ Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise u
 - id: c-171881
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nebent pripažintume,
     jog ta išimtis glūdi pačioje lietuvių mitologijoje, pagal kurią

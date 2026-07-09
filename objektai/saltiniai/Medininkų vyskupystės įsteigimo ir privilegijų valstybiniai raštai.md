@@ -82,6 +82,7 @@ Vis dėlto šį reikalą teko atidėti, nes dėl kry žiuočių, kaip rašo kai 
 - id: c-176212
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     S k ita i n io k o ja  R usią
     Tuo metu sugrįžo iš baž­

@@ -146,6 +146,7 @@ Nenurodyta
 - id: c-02001
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuo metu pirmiausia
     kraštą naikino tarpuvaldžio kovos, vėliau — Radomo konfedera-
@@ -172,6 +173,7 @@ Nenurodyta
 - id: c-02002
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Pagaliau jis vėl buvo suardytas per vidaus karus,
     konfederacijas ir rusų kariuomenės nuolatinį lankymąsi Stanis-

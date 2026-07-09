@@ -68,6 +68,7 @@ Tuo metu 3-iasis pulko batalionas užėmė Bekupės-Juozapavo ruožą.
 - id: c-176439
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lenkai
     buvo priversti palikti Šiupienių dvarą.

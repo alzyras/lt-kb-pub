@@ -74,6 +74,7 @@ J. I. Kraševskis vertino Narbuto darbą kaip tokį neautentišką, kad vėlesni
 - id: c-172472
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Jau pirmose rašinio eilutėse „Lietuvių mitologija“ buvo api­
     būdinta kaip „kruopšti kompiliacija“, kurios autorius dėl per­

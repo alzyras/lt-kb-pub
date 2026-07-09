@@ -148,6 +148,7 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
 - id: c-61183
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...;
     Endzelīns  J. Senprūšu valoda; Būga K. Rinktiniai raštai,  t. 1, 3; Mikalauskaitė E.
@@ -168,6 +169,7 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
 - id: c-61184
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nesselmann G. H. F. Thesaurus linguae prussicae.— Berlin, 1873.
   statusas: verified
@@ -180,6 +182,7 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
 - id: c-61185
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nesselmann G. H. F. Die Sprache der alten Preussen an ihren Überresten.—Berlin,
     1845.

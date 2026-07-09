@@ -63,6 +63,7 @@ KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas
 - id: c-176716
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     APIE TAI. KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ
     ŽMONĄ

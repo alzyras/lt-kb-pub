@@ -68,6 +68,7 @@ Dusburgietis teigia, kad kodėl šitaip yra, nežinau, težino vienas dievas, ku
 - id: c-59792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Štai koks nuostabus
     dalykas! Kol skalviai buvo netikėliai, jie turėjo žuvies, o dabar laiko varles, kai yra

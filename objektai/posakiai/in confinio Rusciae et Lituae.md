@@ -77,6 +77,7 @@ Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo Annales Quedlinbur
 - id: c-33485
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Ne mažesnis yra klausimas, ar jau Karolio Didžiojo žvalgas,
     kaip kartais yra teigiama, yra užrašęs lietuvių vardą, nes lieka

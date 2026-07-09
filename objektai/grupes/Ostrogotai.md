@@ -73,6 +73,7 @@ Teodoro Narbuto apibūdinimu, ostrogotus tuo metu valdė Teodorikas, gudrus, god
 - id: c-175729
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šitaip nugalėdamas priešus ir siekdamas
     tikros gerovės savo valdiniams, jis nenugalėjo atkakliau­

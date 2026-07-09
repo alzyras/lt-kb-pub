@@ -117,6 +117,7 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
 - id: c-172478
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šventosiose upėse ir ežeruose niekam nederėjo gaudyti žu­
     vies, nebent per didelį badmetį, priešų apgultį arba staiga iški­
@@ -139,6 +140,7 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
 - id: c-172479
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Todėl seno­
     vės tyrėjui didelė parama yra vandenų vardų pažinimas ir jų

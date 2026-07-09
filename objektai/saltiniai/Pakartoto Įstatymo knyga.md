@@ -108,6 +108,7 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
 - id: c-61628
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     12. Apie Višogrudo pilies sugriovimą
 
@@ -126,6 +127,7 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
 - id: c-61629
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Stiprindamas jų kilnias širdis, jis guodė juos šiais
     viešpaties žodžiais, kuriais šis bylojo  į Izraelio tautą (Ist 20. 1): „Jei išeisi  į karą prieš

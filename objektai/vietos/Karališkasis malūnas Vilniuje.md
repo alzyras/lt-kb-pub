@@ -179,6 +179,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 - id: c-55849
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Iš Lietuvos Metrikos. Knyga, apimanti
     Metrikos archyvo sąrašą. Raidė S.
@@ -195,6 +196,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 - id: c-79774
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     40), matyti,
     266

@@ -85,6 +85,7 @@ media_all_json: |-
 - id: c-41434
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1255 m. Ordinui į pagalbą atvyko Prše-
     myslas Otokaras II, Čekijos karalius, val-

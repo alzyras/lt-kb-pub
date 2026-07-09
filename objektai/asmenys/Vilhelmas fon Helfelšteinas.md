@@ -80,6 +80,7 @@ media_all_json: |-
 - id: c-42303
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1402 m. viduryje kryžiuočiai, vedami didžiojo komtūro Vilhelmo fon Helfelšteino, plaukdami Nemunu, Nerimi,
     patraukė į Vilnių. Savo pasirengimu žygis buvo vienas iš didžiausių. Nepavykus paimti Vilniaus pilių, kryžiuočiai, pakeliui naikindami viską, patraukė į Medinin-

@@ -96,6 +96,7 @@ Nenurodyta
 - id: c-172502
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Bene geriausiai ją apibūdina 1829 metais „Dziennik Wars-
     zawski“ išspausdintas Dionizo Poškos straipsnis „Keletas įžan­

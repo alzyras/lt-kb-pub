@@ -79,6 +79,7 @@ Nenurodyta
 - id: c-10238
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Lygia dalia motriškosios pirkinių negeidė ir už visų didžiausią gėdą būt sau turėjusios svečios drobės nuometą sau ant galvos vyturti ar sermėga apsivilkti, nesgi jų staklės, skietai, mastuvai^580 , lankčiai, vytuvai buvo jų vyrų dirbti.
   citata_rodoma: "Lygia dalia motriškosios pirkinių negeidė ir už visų didžiausią gėdą būt sau turėjusios svečios drobės nuometą sau ant galvos vyturti ar sermėga apsivilkti, nesgi jų staklės, skietai, mastuvai^580 , lankčiai, vytuvai buvo jų vyrų dirbti."

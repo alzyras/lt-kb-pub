@@ -96,6 +96,7 @@ Nenurodyta
 - id: c-169195
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vėliau, padalijęs kariuomenę dviem žygio voromis, Si­
     monui Lengveniui, Mstislavlio kunigaikščiui, įsakė su

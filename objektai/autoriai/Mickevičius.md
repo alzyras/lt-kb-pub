@@ -99,6 +99,7 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
 - id: c-06614
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Buvo ištremtas ir patsai filaretų vadas Tomas
     Zanas. Taip pat buvo ištremtas į Rusiją ir Ad. Mickevičius,

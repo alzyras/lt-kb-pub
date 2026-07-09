@@ -73,6 +73,7 @@ Dusburgietis teigia, kad matusas J.
 - id: c-61794
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Matusas J. Senovės prūsų žemės nukariavimas.— K., 1940.
   statusas: verified

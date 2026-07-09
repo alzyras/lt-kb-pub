@@ -378,6 +378,7 @@ media_all_json: |-
 - id: c-168589
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kiti parėmė šį siūlymą
     iš baimės, kad atidėliojant yal-
@@ -404,6 +405,7 @@ media_all_json: |-
 - id: c-168590
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Negi galima buvo tikėtis santarvės ir vienybės,
     kai į vieną vietą susirinks tie, kurie jautėsi neseniai
@@ -432,6 +434,7 @@ media_all_json: |-
 - id: c-168591
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Rodos, žiaurus patarimas, bet iš tiesų būtinas,
     580
@@ -467,6 +470,7 @@ media_all_json: |-
 - id: c-168592
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Karalius, supratęs, kad jo sumanymai visiems žinomi,
     sutiko parodyti malonę, patariamas to paties kancle­
@@ -496,6 +500,7 @@ media_all_json: |-
 - id: c-168593
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vis dėlto šių sumanymų nepa­
     vyko įgyvendinti, nes karalius skubiai išsiuntė į Lie­
@@ -526,6 +531,7 @@ media_all_json: |-
 - id: c-168594
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tol luomai nenurimo, kol negavo iš karaliaus valstybės
     antspaudais patvirtinto rašto, kuriuo šis savo bei sa-

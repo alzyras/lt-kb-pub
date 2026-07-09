@@ -92,6 +92,7 @@ media_all_json: |-
 - id: c-176908
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Įdedame čia trumpą žinutę apie tą
     Snorro ir jo darbus. Snorro S t u r-

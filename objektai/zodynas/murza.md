@@ -131,6 +131,7 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
 - id: c-40571
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     LDK karininkas,
     diplomatas, Lietuvos istorikas Motiejus
@@ -165,6 +166,7 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
 - id: c-167106
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Apie jį kai kurių
     detalių, galbūt remdamasis istorine tra-

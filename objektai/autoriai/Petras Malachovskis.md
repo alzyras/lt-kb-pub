@@ -129,6 +129,7 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
 - id: c-174497
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
     Lietuvoje šeimos herbai egzistavo70.
@@ -150,6 +151,7 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
 - id: c-174498
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį
     LTI leidimą (PEĮ. L. 273). T. Narbutas turėjo omenyje Černigovo

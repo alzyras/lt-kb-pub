@@ -77,6 +77,7 @@ media_all_json: |-
 - id: c-33001
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — Szymański, W. : _Kontakty handlowe Wielkopolski
     w IX-XI w._ Poznań 1958. — Śląski, K. : _Stosunki Prusów z innymi

@@ -71,6 +71,7 @@ Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Li
 - id: c-23681
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,
     o ne prieš Gabrielio Žano Petisnė (Gabriel Jean Petisne) administraciją.

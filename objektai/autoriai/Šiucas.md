@@ -70,6 +70,7 @@ Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdama
 - id: c-173207
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už
     Baublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­

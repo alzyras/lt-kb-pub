@@ -118,6 +118,7 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - id: c-169368
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Todėl, kuo greičiausiai sutelkęs Rusioje
     stiprią kariuomenę, jis patraukė į Lietuvą, manydamas,
@@ -149,6 +150,7 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - id: c-169369
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Sutelkęs jėgas, Lauras bemat patraukė į priešą:
     kol dar degė krūtinėse pirmykštis ryžtas, jis, nuspren­

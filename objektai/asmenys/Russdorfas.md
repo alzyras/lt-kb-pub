@@ -77,6 +77,7 @@ Taip pat neužmiršo jo papra­ šyt, kad popiežius uždraustų Vytauto karūna
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Išvykstančiam iš Krokuvos popiežiaus pasiuntiniui Jogai­
     la pareiškė, kad žygiui prieš čekus reikia dviejų sąlygų: taikos

@@ -120,6 +120,7 @@ Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog polovie
 - id: c-174581
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Mūsų mokslininkas, lietuvių istorijos tyri­
     nėtojas Ksaveras Bogušas priskiria lietuvių genties tau­
@@ -141,6 +142,7 @@ Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog polovie
 - id: c-174582
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Mechovita taip kalba apie
     čigonus, žmones, kuriuos kai kada priskirdavo prie jot­

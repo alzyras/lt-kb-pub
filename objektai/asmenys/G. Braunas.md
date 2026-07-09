@@ -126,6 +126,7 @@ Komentare aiškinama, kad Narbutas turėjo omenyje G. Brauno 1541-1622 m. didži
 - id: c-173034
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     P. 456* -  Tekstas, kuriuo autorius papildė paragrafą, reng­
     damas antrąjį leidimą (PEĮ. -  L. 310). T. Narbutas
@@ -142,6 +143,7 @@ Komentare aiškinama, kad Narbutas turėjo omenyje G. Brauno 1541-1622 m. didži
 - id: c-173741
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tekstas, kuriuo autorius papildė paragrafą, rengdamas spaudai ant­
     rąjį leidimą (PEĮ. L, 310). T. Narbutas turi omenyje geografo ir

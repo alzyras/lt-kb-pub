@@ -91,6 +91,7 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
 - id: c-57641
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Petro Dusburgiečio kronika
 

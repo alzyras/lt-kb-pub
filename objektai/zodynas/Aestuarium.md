@@ -108,6 +108,7 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
 - id: c-175088
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Plinijus bus pridūręs1. Priekaištaujama, kad, norint su­
     skaičiuoti 6000 stadijų, reikia imti visą jūros ilgį. Aes­

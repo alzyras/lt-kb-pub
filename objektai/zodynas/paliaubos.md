@@ -314,6 +314,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - id: c-44201
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tačiau lenkų puolimas taip pat sustoja.
     Spalio 6 d. prasideda paliaubos.
@@ -333,6 +334,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - id: c-44202
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliaubas.
     Kpt. Ignatavičius nurodė, kad Lietuvos kariuomenė irgi gavo tokią pat telefonogramą. [...]
@@ -348,6 +350,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - id: c-69319
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Ordinas nesiskubino į Žemaičius, bet pirmučiausia puolė
     Lenkiją (1409 m.). Iš Lenkijos jo kariuomenė buvo išvyta, ir ne-
@@ -363,6 +366,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - id: c-69320
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tada ne metas buvo pyktis su Lenkija dėl
     tuščio karaliaus titulo, tad Vytautas atmetė Zigmanto pasiūly-
@@ -382,6 +386,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - id: c-167993
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     P rie U sviatų ir
     D auguvos b ei Ū los san tak o je p astatę įtvirtinim us, jie
@@ -404,6 +409,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - id: c-175904
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     **Želigovskio smurtas.** Jau derybų metu lenkų karo jėgos,
     nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų

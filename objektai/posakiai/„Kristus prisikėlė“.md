@@ -73,6 +73,7 @@ Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „K
 - id: c-44974
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lenkai patyrė didelį spaudimą tiek
     centre, tiek dešinėje, neatlaikiusi spau-

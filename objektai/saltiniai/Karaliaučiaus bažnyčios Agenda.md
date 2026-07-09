@@ -82,6 +82,7 @@ Narbutas nurodo, kad Karaliaučiaus bažnyčios Agenda liudija Prūsijos lietuvi
 - id: c-173423
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
     čerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­

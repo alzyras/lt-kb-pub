@@ -139,6 +139,7 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
 - id: c-05708
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Archeolo­
     giniai duomens parodo apie 650 m. prasidedančią didelę švedų
@@ -156,6 +157,7 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
 - id: c-31938
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Pagal vidurinių amžių kronikininkų
     didelių skaičių « ligą », yra perdėti skaičiai kuršių kovotojų Seeburgo

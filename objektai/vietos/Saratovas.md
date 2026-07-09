@@ -77,6 +77,7 @@ Narbutas, remdamasis Lasickiu, Guboją ir Tvertiką vadina Saratovo miesto feti�
 - id: c-171951
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     207
 

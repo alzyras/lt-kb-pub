@@ -898,6 +898,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - id: c-159335
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuo tarpu Algirdas su didele
     kariuomene įsiveržė į Livoniją; nusiaubęs Žiemgalą, buvo ap-
@@ -918,6 +919,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - id: c-176107
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Susitarė dėl ketverių
     metų paliaubų, o per tą lai-

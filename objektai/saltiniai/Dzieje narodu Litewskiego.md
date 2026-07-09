@@ -74,6 +74,7 @@ T. Narbutto „Dzieje narodu Litewskiego“ 9 tomas buvo išleistas Vilniuje 184
 - id: c-173372
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     7 Narbutt T. Dzieje narodu Litewskiego. -  Wilno, 1841. -  T. 9. -
     S. 492.

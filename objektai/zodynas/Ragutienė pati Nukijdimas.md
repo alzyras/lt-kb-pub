@@ -74,6 +74,7 @@ Narbutas Ragutienę patį (Ragutenapati) apibūdina kaip aludarystę globojanči
 - id: c-172210
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ragutienė pati (Ragutenapati)
     Deivė, globojanti tik aludarystę, o pagal savo vardą -  Ra­

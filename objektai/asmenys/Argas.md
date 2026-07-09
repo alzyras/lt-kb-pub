@@ -77,6 +77,7 @@ Narbutas pasakoja, kad Prikso sūnus Argas pirmasis susiruošė kelionei Juodąj
 - id: c-174250
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Prikso sūnus Argas pirmasis susiruošė į ke­
     lionę minėta jūra, kurią tuomet vadino Pontos-Axenos,

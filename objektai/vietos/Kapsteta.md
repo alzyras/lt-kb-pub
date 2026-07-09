@@ -106,6 +106,7 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
 - id: c-59194
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kur buvo Kapstetos  pilis, nėra aišku. Mūsų manymu, vertas dėmesio vietovardis
     Kappershagen (Sch-K) deš. Alnos žemupio krante  į pietus nuo Vėluvos. Galbūt tai
@@ -120,6 +121,7 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
 - id: c-59195
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     su sembų kariuomene, vedamas Tirsko, netikėtai įsibrovė į Vonsdorfo žemę332; pristatę
     prie sienų kopėčias bei padarę visa kita, kas reikalinga pilims pulti, užkariavo Kapstetos

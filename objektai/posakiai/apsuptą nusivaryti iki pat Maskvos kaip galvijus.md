@@ -76,6 +76,7 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
 - id: c-43206
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado
     Čeliadnino žodžius, kuriuos jis pasakė sužinoję apie tai, kad Lietuvos kariuo-

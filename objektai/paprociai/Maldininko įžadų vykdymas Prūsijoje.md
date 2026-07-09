@@ -137,6 +137,7 @@ Nenurodyta
 - id: c-63443
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     54 (53) Apie vieną stebuklą
 
@@ -157,6 +158,7 @@ Nenurodyta
 - id: c-167377
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dėkodami už
     šią pergalę dievui ir džiūgaudami, broliai su dideliu grobiu sugrįžo namo.

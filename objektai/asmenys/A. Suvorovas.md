@@ -70,6 +70,7 @@ Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.
 - id: c-21532
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos
     eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai opo-

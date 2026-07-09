@@ -84,6 +84,7 @@ Nenurodyta
 - id: c-176460
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės
     gynybos) buvo naudojama muškietų kulkų kartečė. Minkšto švino

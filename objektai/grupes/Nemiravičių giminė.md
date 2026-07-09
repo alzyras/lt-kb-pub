@@ -78,6 +78,7 @@ Pasak metraščio, po Vytauto atsakymo dėl taikos ponas Andrius buvo pramintas 
 - id: c-170723
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ponas Andrius
     visgi tarė didžiajam kunigaikščiui Vytautui: „Tokia

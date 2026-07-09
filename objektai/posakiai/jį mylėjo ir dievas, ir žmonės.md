@@ -109,6 +109,7 @@ Dusburgietis teigia, kad jis garsėjo kaip itin švelnus žmogus, visiems rodės
 - id: c-59741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie brolį Konradą, Prūsijos magistrą 1302—1306 metais
 

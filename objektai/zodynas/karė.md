@@ -62,6 +62,7 @@ media_all_json: |-
 - id: c-176454
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     P. 144, „KARĖ“ Andžej Geglis, dail. Andžej Geglis.
   statusas: verified

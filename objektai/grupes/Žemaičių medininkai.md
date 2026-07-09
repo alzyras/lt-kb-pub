@@ -74,6 +74,7 @@ media_all_json: |-
 - id: c-10132
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Vienok Žemaičių
         medininkai ir tose kruvinose dienose niekaip nenorėjo būtinai nuo pajūrio atstoti ir paskuoją savo

@@ -114,6 +114,7 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
 - id: c-61640
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie penktąją atskalūnybę ir apie bausmę už ją
 
@@ -134,6 +135,7 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
 - id: c-61641
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tacitas P. K. Rinktiniai raštai.—V., 1972.
   statusas: verified

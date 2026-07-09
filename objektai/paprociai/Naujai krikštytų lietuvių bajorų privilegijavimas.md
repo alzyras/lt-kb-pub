@@ -134,6 +134,7 @@ Nenurodyta
 - id: c-28830
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bet Lietuvos krikščioninimas glaudžiai buvo susie­
     tas ryšiais ir aktais bei privilegijomis naujai krikštytiems lietuvių
@@ -153,6 +154,7 @@ Nenurodyta
 - id: c-167718
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Nors nuo senelio Gedimino vis intensyviau buvo vedamos
     derybos dėl krikšto, tačiau tik Vytauto laikais tebuvo rastas tai­

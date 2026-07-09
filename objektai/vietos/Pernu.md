@@ -127,6 +127,7 @@ Sofijos palyda per jūrą pasiekė Pernu.
 - id: c-170330
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didysis kunigaikštis Vytautas, paėmęs Kreivąją pi­
     lį ir nuniokojęs kraštą, sugrįžo pas vokiečius.
@@ -151,6 +152,7 @@ Sofijos palyda per jūrą pasiekė Pernu.
 - id: c-170579
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tais pačiais metais, Vytautui būnant Vokiečių že­
     mėje, į Marienburgą atvyko pasiuntiniai iš Maskvos,

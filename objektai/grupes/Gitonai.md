@@ -133,6 +133,7 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
 - id: c-175740
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Siek tiek labiau venedų reika­
     lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­
@@ -153,6 +154,7 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
 - id: c-175741
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Toliau jis
     jau kalba apskritai apie visą Sarmatiją: „Sarmatijoje gy­

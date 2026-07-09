@@ -65,6 +65,7 @@ Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taik
 - id: c-97134
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Reformai atlikti buvo sudarytos apskrityse valstiečių ko-
     misijos, apskritys padalintos į apylinkes, kurių priešaky bu-

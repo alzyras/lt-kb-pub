@@ -83,6 +83,7 @@ Narbutas rašo, kad Vilkijos seniūnui Zabielai uždraudus kerus ant Upinės kau
 - id: c-173104
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kai Vilkijos seniūnas Zabiela uždraudė tuos
     kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,

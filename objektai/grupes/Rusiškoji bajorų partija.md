@@ -73,6 +73,7 @@ Jam padėjo jo uošvis, Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų p
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Atėjus žiniai apie Vytauto smūgį prie Vorsklos, Sviatoslavo sū­
     nus Jurgis sumanė užvaldyti Smolenską. Jam padėjo jo uošvis,

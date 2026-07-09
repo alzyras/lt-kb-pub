@@ -253,6 +253,7 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
 - id: c-168606
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Lietuvių kariaunos, pakviestos iš sodybų, nesutik-
     damos pasipriešinimo, niokojo Liublino kraštą, nes
@@ -278,6 +279,7 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
 - id: c-168607
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mat Goštautas buvo la-
     Š v e n to
@@ -310,6 +312,7 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
 - id: c-168608
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Todėl neilgai jis
     dangstė veidą atšiaurumo kauke: netrukus, pažadėjęs
@@ -350,6 +353,7 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
 - id: c-168609
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Praėjus kelioms
     dienoms, pasidavė Suražas, vėliau po staigaus antpuolio

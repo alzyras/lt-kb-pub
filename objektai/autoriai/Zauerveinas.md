@@ -87,6 +87,7 @@ Kitas didelis lietuvių kalbos garbintojas buvo net ne lietuvis, o tikras vokiet
 - id: c-55085
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Visi jie buvo vien informacinio pobūdžio, ir tautiškosios
     sąmonės ugdymu nesirūpino. Tik vienas Šernas savo „Lie-

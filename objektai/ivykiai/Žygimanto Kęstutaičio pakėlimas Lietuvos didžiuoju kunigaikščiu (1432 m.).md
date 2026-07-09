@@ -156,6 +156,7 @@ Nenurodyta
 - id: c-169047
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     ## Puslapis 441
 
@@ -201,6 +202,7 @@ Nenurodyta
 - id: c-169048
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vis dėlto lėmė ne jo, o blaiviau galvojan­
     čių žmonių nuomonė. Valstybės ištarme buvo įsakyta

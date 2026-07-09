@@ -73,6 +73,7 @@ Burgundai Narbuto pasakojime minimi tarp gausių naujų atvykėlių, įsimaišiu
 - id: c-175748
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     330
     Lietuvių genčių likimai po Odoakro mirties. Po Odo­

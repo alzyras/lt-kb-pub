@@ -91,6 +91,7 @@ Nenurodyta
 - id: c-01815
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Šita konferencija tegvildeno propagandos organizacijos
     klausimus ir protestavo prieš vokiečių okupacijos žiaurumus

@@ -229,6 +229,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - id: c-00089
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
     tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų lai-
@@ -249,6 +250,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - id: c-00132
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tačiau karo administracija griežtai pareiš-
     kė, kad negalėsią būti jokios kalbos apie bet kokį tolesnį po-
@@ -271,6 +273,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - id: c-00133
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Ba-
     naitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P.
@@ -290,6 +293,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     15. P. Klimo, LIETUVIŲ KALBOS SINTAKSĖ. Septintasis leidimas.
     1928 m. Kaina Lt. 1,50.

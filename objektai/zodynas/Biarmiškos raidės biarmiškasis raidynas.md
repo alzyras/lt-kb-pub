@@ -69,6 +69,7 @@ Narbutas rašo, kad mažo sidabrinio pinigėlio įdubusioje pusėje užrašas bi
 - id: c-172242
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     248
 

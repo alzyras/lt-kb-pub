@@ -250,6 +250,7 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
 - id: c-170364
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir pagal tą Trakų vaivados patarimą karalius
     davė etmono vietą kunigaikščiui Konstantinui2 5 .
@@ -274,6 +275,7 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
 - id: c-170365
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Hermano perkulabo kronika (O. Gorka, Kroni­
     ka czasow Stefana W ielkiego Moldawskiego, Krakow. 1931, p. 110)
@@ -296,6 +298,7 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
 - id: c-170366
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O karalius Olbrachtas, pasiekęs Sučiavą ir prastovėjęs
     prie jos kelias dienasM , suprato, kad miestui nieko

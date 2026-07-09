@@ -140,6 +140,7 @@ Nenurodyta
 - id: c-28822
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­
     sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą,
@@ -161,6 +162,7 @@ Nenurodyta
 - id: c-167717
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tik Maskvos didžiajam Kunigaikščiui Jonui III, Sofijos Vytau­
     taitės anūkui (1462-1505), jau nebebuvo baisi eižėjanti Aukso Orda.

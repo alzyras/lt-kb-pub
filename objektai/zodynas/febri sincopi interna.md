@@ -86,6 +86,7 @@ Kadangi Viešpats Dievas vakar, prieš pirmą valandą nakties, paėmė mums iš
 - id: c-82558
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pareiškiame Jūsų Malonybei apie mus visus ištikusį ben­
     drą sielvartą, Viešpačiui leidus mūsų Respubliką palikti naš­

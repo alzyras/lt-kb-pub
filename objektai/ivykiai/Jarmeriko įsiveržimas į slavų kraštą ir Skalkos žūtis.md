@@ -85,6 +85,7 @@ Nenurodyta
 - id: c-173946
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tuomet ir danų karalius Helgė kariavo su sla­
     vais, kurie buvo užėmę nemažai salų. Pakviestas į pagal­

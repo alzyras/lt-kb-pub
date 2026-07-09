@@ -83,6 +83,7 @@ Nenurodyta
 - id: c-01864
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Be minėtų sumetimų, Jogailą
     vertė artintis su kryžiuočiais dar reikalas paramos prieš pavojų

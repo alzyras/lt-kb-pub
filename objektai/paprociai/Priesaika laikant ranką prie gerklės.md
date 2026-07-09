@@ -88,6 +88,7 @@ Nenurodyta
 - id: c-172816
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Senovės prūsų papročiu prisiekian­
     tysis laikydavo dešinę ranką prie savo gerklės. Kaip liudija

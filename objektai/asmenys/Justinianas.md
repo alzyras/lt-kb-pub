@@ -173,6 +173,7 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
 - id: c-169482
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tačiau didelė herulų da­
     lis persikėlė iš Italijos į Grai-
@@ -194,6 +195,7 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
 - id: c-173781
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Žinios apie šį bendrinį pa­
     vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­
@@ -216,6 +218,7 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
 - id: c-173782
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taigi 535 metais, kai samdyta
     svetimšalių kariuomenė Afrikoje sukėlė maištą, ją sudarė

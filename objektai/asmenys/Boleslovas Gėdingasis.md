@@ -132,6 +132,7 @@ media_all_json: |-
 - id: c-174080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be to, 1253 metų kryžiuočių kampanijos tikslas bu­
     vo pirmiausia nusiaubti Bartą ir Galindą. Tai lėmė, kad
@@ -158,6 +159,7 @@ media_all_json: |-
 - id: c-174081
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ziemovitas
     valdė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­

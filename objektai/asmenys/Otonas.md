@@ -125,6 +125,7 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
 - id: c-61032
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     3. Apie brolį Otoną, antrą magistrą
 
@@ -146,6 +147,7 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
 - id: c-168173
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vis dėl­
     to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­

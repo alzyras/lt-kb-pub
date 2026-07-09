@@ -156,6 +156,7 @@ Nenurodyta
 - id: c-83027
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     A
     za srebro i za robotu i za mied' i za wsi
@@ -190,6 +191,7 @@ Nenurodyta
 - id: c-83028
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tik kai Aleksandrą kelerius metus nuolat ka­
     mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­

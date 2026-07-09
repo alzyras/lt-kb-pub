@@ -94,6 +94,7 @@ Nenurodyta
 - id: c-44892
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Buvo sunai-
     kintos 1-oji baterija, 5-oji bei 2-oji haubicų

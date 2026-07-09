@@ -295,6 +295,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - id: c-13009
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Ištrauka iš žymiausio Kalavijuočių ideologo Henriko Latvio „Livonijos kronikos“
     apie lietuvių būdą kovoje, mūšyje su kalavijuočiais prie Dauguvos, Livonijoje 1207 m.
@@ -309,6 +310,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - id: c-13010
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti
 

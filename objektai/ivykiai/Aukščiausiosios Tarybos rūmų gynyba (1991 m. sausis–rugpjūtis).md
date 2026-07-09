@@ -500,6 +500,7 @@ Nenurodyta
 - id: c-11823
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Pirmomis sausio įvykių dienomis tik
     mažesnioji gynėjų dalis turėjo aiškesnę uz-
@@ -526,6 +527,7 @@ Nenurodyta
 - id: c-11826
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Galų gale 1991 m. sausio 13-osios naktį užpuolė ginklu. Įvardijome
     tai kaip karinę agresiją ir karo stovį, kurį mums primetė svetima
@@ -543,6 +545,7 @@ Nenurodyta
 - id: c-11827
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     „Nepuolam, bet nesitraukiam“ gynybinė nuostata pasiekė savo
     kulminaciją. Užpuolikų aukomis krito 14 laisvės gynėjų, netoli
@@ -559,6 +562,7 @@ Nenurodyta
 - id: c-43029
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Trečiasis gynybinių įrengimų etapas pra-
     sidėjo jau po sausio 13-osios. Nuo stichinio
@@ -585,6 +589,7 @@ Nenurodyta
 - id: c-43030
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     k k < de Artėjant 1991 m. rugpjūčio Maskvos pučo įvykiams, Lietuvos kariai jau turėjo pirmąsias uniformas, AT gynėjai
     met niekas nesiskundė dėl nepriteklių, bet gavo daugiau kovinių ginklų, AT gynyba buvo geriau organizuota. Tačiau jų vis tiek labai trūko, todėl buvo nau-
@@ -602,6 +607,7 @@ Nenurodyta
 - id: c-155995
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Inžineriniai įtvirtinimai buvo įrenginė-
     jami trimis etapais. Pirmiausia, dar sausio
@@ -626,6 +632,7 @@ Nenurodyta
 - id: c-155996
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     13-osios vakare įvyko AT posėdis, kuriame V. Landsbergis pasakė atsis-
     veikinimo kalbą, kad būsiąs rūmuose (nors daug kas sakė, kad reikia kurti Vyriausybę
@@ -659,6 +666,7 @@ Nenurodyta
 - id: c-155997
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     puolančiųjų. Karinės
     inžinerijos prasme rūmų
@@ -679,6 +687,7 @@ Nenurodyta
 - id: c-155998
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lietuvos pasiryži-
     mas ir kovos metodai tapo pavyzdžiu bei

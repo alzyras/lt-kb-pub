@@ -72,6 +72,7 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
 - id: c-174158
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Antras keliautojas, kurio pavardė
     Hamilkaras, su antru žygio būriu išvyko į šiaurę. Jis ap­

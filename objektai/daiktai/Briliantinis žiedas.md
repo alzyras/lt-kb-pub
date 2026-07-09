@@ -180,6 +180,7 @@ Nenurodyta
 - id: c-170993
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     A. H. Kirkoras, A. Renjė bandė jį užtarti pe­
     riodikoje, pagirdami už iškelto ir realizuoto sumanymo di­
@@ -198,6 +199,7 @@ Nenurodyta
 - id: c-174930
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Va­
     dinasi, sumanymas siekia daug ankstesnius laikus nei „Lietu­
@@ -216,6 +218,7 @@ Nenurodyta
 - id: c-174931
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Vadinasi, su­
     manymas siekia daug ankstesnius laikus nei „Lietuvių mi­

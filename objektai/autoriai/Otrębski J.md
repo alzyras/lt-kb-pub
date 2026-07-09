@@ -58,6 +58,7 @@ Dusburgietis teigia, kad otrembskis etnonimą prūsas siejo su sanskrito púrusa
 - id: c-61399
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     J. Otrembskis etnonimą prūsas siejo su sanskrito púrusah ‘žmogus, vyras’ (Otrębski
     J. Uber die Herkunft..., p. 76—78).

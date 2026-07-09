@@ -96,6 +96,7 @@ Pajautos stabas buvo pastatytas ties Žaslių ežeru. Žaslių ežeras kronikoje
 - id: c-170404
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didžiajam Lietuvos ir Žemaičių kunigaikščiui Ku-
     kovaičiui būnant didžiuoju Naugarduko kunigaikščiu 2 I,

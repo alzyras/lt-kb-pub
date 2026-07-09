@@ -126,6 +126,7 @@ Nenurodyta
 - id: c-171001
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     15. Apžado auka. Kartais žygiuojant į svetimą žemę gro­
     bio, būrio vadas duodavo apžadą, kad gražiausią grobį paau­
@@ -149,6 +150,7 @@ Nenurodyta
 - id: c-171002
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tokiu atveju, jeigu į rankas patekdavo itin graži
     mergaitė, -  o tokio grobio buvo labai vaikomasi, -  kurios gro­

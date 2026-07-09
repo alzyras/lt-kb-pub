@@ -66,6 +66,7 @@ A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių išvi
 - id: c-176776
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių
     išvijimų ii  LDK teritorijos rašo pats Kazimieras Ì449.VIII.1 (Dani-

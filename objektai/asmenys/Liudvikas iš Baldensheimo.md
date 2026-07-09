@@ -80,6 +80,7 @@ Dusburgietis teigia, kad apie brolį Liudviką, septintą Prūsijos žemės magi
 - id: c-61010
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     124 (119). Apie brolį Liudviką, septintą Prūsijos žemės magistrą
 

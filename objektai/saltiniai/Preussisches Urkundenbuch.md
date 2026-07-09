@@ -124,6 +124,7 @@ PUB = Preussisches Urkundenbuch, t.
 - id: c-67397
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     162 Kulmo (dab. Chelmnas, Chelmno, LLR) pilies ir kt. Šios žemės pilių sunaikinimą
     patvirtina 1222 (ar 1223) m. Konrado privilegija vyskupui Kristijonui (PUB, 1, 1, Nr.
@@ -138,6 +139,7 @@ PUB = Preussisches Urkundenbuch, t.
 - id: c-67398
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Realizuojant popiežiaus
     planus, 1215 m. 2-oje pusėje ar 1216 m. pradžioje Kristijonas paskelbtas pirmuoju

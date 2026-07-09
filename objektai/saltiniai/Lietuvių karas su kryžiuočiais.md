@@ -102,6 +102,7 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
 - id: c-67338
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     573  D.— per David castellanum de Gartha, Jer.— des burcgrêven von Garten —
     SRP, 1, p. 603; Dovydas Gardiniškis, Lietuvos didžiojo kunigaikščio vietininkas, Gardino
@@ -117,6 +118,7 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
 - id: c-67339
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     11 Kalbant apie IX—XIII a. prūsus  ir vakarinius lietuvius tarp Vyslos  ir Nemuno,
     kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR

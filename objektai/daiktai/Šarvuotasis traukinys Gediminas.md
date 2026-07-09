@@ -245,6 +245,7 @@ Nenurodyta
 - id: c-42593
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Todėl
     praėjus bolševikų
@@ -272,6 +273,7 @@ Nenurodyta
 - id: c-42594
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Šarvuotam traukiniui vadovavo
     plk. Itn. Jonas Kraucevičius.
@@ -285,6 +287,7 @@ Nenurodyta
 - id: c-42596
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Spalio 10 d. traukinys sugrįžo į Kauną, kur greitai buvo įrengti nauji kulkosvaidžių va-
     gonai, suremontuoti ir patobulinti mūšiuose dalyvavę traukinio vagonai. Lapkričio 21 d.
@@ -300,6 +303,7 @@ Nenurodyta
 - id: c-75902
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Traukinys savo patrankomis ir kul-
     kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus. Rugsėjo 24 d. „Gediminas“
@@ -317,6 +321,7 @@ Nenurodyta
 - id: c-75903
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Rugsėjo 22 d. „Gediminas“ susirėmė su
     lenkų artilerija už Punsko, prie Smalėnų miestelio. Traukinys savo patrankomis ir kul-

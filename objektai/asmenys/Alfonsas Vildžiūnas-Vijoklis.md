@@ -92,6 +92,7 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
 - id: c-44272
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Prieš kautynes
 

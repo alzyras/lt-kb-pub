@@ -73,6 +73,7 @@ Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes i
 - id: c-174356
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Plinijus surinkęs liudijimų,
     kad gintaras vaidinęs svarbų vaidmenį senovės moterų

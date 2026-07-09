@@ -164,6 +164,7 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
 - id: c-174121
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     235
     Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
@@ -186,6 +187,7 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
 - id: c-174122
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pirkliavę Danijoje rusai
     guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
@@ -205,6 +207,7 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
 - id: c-174123
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Žinodamas, kad slibinas žvilgsniu
     užkerėdavo ginklą, jis liepė savo kalaviją apsiūti plona

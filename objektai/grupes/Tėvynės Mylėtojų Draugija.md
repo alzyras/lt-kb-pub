@@ -104,6 +104,7 @@ Bet ypatingai pagyvėjo lietuviškoji spauda, kai 1896 m. buvo įsteigta Tėvyn�
 - id: c-01745
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Ypatingai apleistas
     knygų leidimo reikalas. Tėvynės Mylėtojų Draugija tebėra,
@@ -121,6 +122,7 @@ Bet ypatingai pagyvėjo lietuviškoji spauda, kai 1896 m. buvo įsteigta Tėvyn�
 - id: c-01746
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Bet ypatingai pagyvėjo lietuviškoji spauda, kai 1896 m.
     buvo įsteigta Tėvynės Mylėtojų Draugystė, tu-

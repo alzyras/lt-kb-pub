@@ -117,6 +117,7 @@ Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei proti
 - id: c-59327
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šitai sužinojusi, pirmoji moteriškė ilgai
     negalėjo dovanoti antrajai moteriškei. Tas tarnas, gimęs Halėje, buvo toks padorus bei
@@ -137,6 +138,7 @@ Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei proti
 - id: c-168320
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Karalius bei karalienė, iškilmingai Vilniuje per mišias
     padėkoję viešpačiui dievui už pergalę, pasiuntė Ro­

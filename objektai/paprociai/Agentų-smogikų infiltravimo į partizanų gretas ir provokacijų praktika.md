@@ -199,6 +199,7 @@ Nenurodyta
 - id: c-12363
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galu-
     tinai sunaikinant ginkluotą rezistenciją Lietuvoje. Agentų smo-
@@ -224,6 +225,7 @@ Nenurodyta
 - id: c-12364
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     KGB kontržvalgybos sąvokų žodyne pateikiamas agentų-smogikų apibrėžimas.
     „Agentas-smogikas - valstybės saugumo organų agentas, kovinėmis priemonėmis vyk-
@@ -252,6 +254,7 @@ Nenurodyta
 - id: c-12365
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Šimonių girios operacija gerai atspindi
     apie 1948 m. susidariusią tendenciją. So-

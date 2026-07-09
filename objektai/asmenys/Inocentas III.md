@@ -82,6 +82,7 @@ Dusburgietis teigia, kad apie Livonijos žemės atvertimą į tikėjimą 1204 vi
 - id: c-60964
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Livonijos žemės atvertimą į tikėjimą
 

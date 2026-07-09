@@ -103,6 +103,7 @@ Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa sisvečiuoti pa
 - id: c-176723
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didysis
     kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku
@@ -125,6 +126,7 @@ Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa sisvečiuoti pa
 - id: c-176724
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir jis sutiko važiuoti
     su jais ir be lenkų ponų sutikimo nusileido iš Sando-

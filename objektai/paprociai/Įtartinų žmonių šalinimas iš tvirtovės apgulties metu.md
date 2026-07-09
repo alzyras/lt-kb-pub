@@ -173,6 +173,7 @@ Nenurodyta
 - id: c-83218
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Ši Karigailos žūtis buvo dauge-
     —  •  —
@@ -202,6 +203,7 @@ Nenurodyta
 - id: c-83219
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     35
     Stryjkowski loco cit., plačiai

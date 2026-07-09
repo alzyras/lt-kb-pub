@@ -113,6 +113,7 @@ Narbutas Konstantiną VII Purpurinį vadina istoriku ir juo remiasi aiškindamas
 - id: c-174234
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pažiūrėkime į šio pavadinimo ištakas, rem­
     damiesi savo žiniomis. Anot anuometinio istoriko Kons­
@@ -130,6 +131,7 @@ Narbutas Konstantiną VII Purpurinį vadina istoriku ir juo remiasi aiškindamas
 - id: c-174235
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     100
     Geografija. Viena dešiniojoje Dnepro pakrantėje gy­

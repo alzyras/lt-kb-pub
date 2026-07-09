@@ -138,6 +138,7 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
 - id: c-170312
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     (Mezecko) valsčius, buvęs Zizdros upės baseine, buvo prijungtas
     prie LDK. matyt, 1407—1408 m.
@@ -157,6 +158,7 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
 - id: c-170313
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     jai Kunigaikštystei buvo pripažinti tik Chlepenis ir dalinai Meš-
     čovskas, bet taip pat daug miestų ir valsčių, kurie BK neišvardyti.

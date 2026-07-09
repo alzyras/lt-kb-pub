@@ -87,6 +87,7 @@ Nenurodyta
 - id: c-169263
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šitaip ne­
     įprastai pasikeitus likimui, kai šiaurės gentys niokojo

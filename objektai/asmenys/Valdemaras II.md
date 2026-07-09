@@ -83,6 +83,7 @@ Dusburgietis teigia, kad 160—161), kai Danijos karaliaus Valdemaro II valdžia
 - id: c-61089
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tuo
     metu Lietuvos vedamos kovos mastą rodo ir kiti 1219 m. įvykiai: jos kariuomenė puolė

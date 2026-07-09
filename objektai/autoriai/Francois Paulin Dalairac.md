@@ -72,6 +72,7 @@ Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją su
 - id: c-165071
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     „Karūnos, kaip ir Lietuvos, kariuomenė yra padalyta į dvi dalis: vieną sudaro vien ka-
     valerija ir šalies vyrai, išskirstyti į laisvas ir ordonanso vėliavas, panašias į Prancūzijos

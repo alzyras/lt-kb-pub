@@ -165,6 +165,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
 - id: c-60858
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tu sodinai jo daigus,  ir jis
     iškerojo žemėje, tu vėliau  jį persodinai ir išvijai stabmeldžius [gentes] iš Prūsijos bei
@@ -187,6 +188,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
 - id: c-171398
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šios kryp­
     ties jų rūpestingumas virsdavo net religiniu pamaldumu. Se­
@@ -203,6 +205,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
 - id: c-171399
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tie trys medžiai suaugę į vieną medį, kuris
     buvęs panaudotas Saliamono šventyklos statybai. Izidoras, gy­

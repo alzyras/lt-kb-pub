@@ -149,6 +149,7 @@ Nenurodyta
 - id: c-172559
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     (Vietos ar srities burtininko krivio valdžios
     ženklas, arba dvasininko lazda, liaudies kalba
@@ -174,6 +175,7 @@ Nenurodyta
 - id: c-172560
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vulgari sermo­
     ne Buthas nuncupatus talem habuit formam: Ba­

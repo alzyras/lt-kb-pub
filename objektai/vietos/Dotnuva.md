@@ -101,6 +101,7 @@ Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Do
 - id: c-24110
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuvoje ėjo 150 periodinių leidinių
     lietuvių, rusų kalbomis bendru 930 000 egz. tiražu. 1938 m. šalyje vei-

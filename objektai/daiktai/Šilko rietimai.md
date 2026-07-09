@@ -108,6 +108,7 @@ Nenurodyta
 - id: c-170053
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     —  Pagal J . Dlugošą 10 tūks­
     tančių buvo vienkartinė kontribucija, kurią iš pusės sudėjo D. Nau­

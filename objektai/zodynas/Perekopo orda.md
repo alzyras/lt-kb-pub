@@ -74,6 +74,7 @@ Dar senovėje gynybos tikslais ši są smauka siauriausioje vietoje perkasta gri
 - id: c-176662
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     27 Perckopas — slaviškas pavadinimas sąsmaukos, jungiančios
     Krymo pusiasalį su žemynu. Dar senovėje gynybos tikslais ši są­

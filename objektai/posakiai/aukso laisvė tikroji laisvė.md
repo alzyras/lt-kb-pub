@@ -130,6 +130,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 - id: c-02321
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
     turėdavo iširti. O visa ta santvarka vis dėlto būdavo vadinama tik-
@@ -147,6 +148,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 - id: c-02322
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Suprasdami visas savo krašto visuomenės santvar-
     kos blogybes, jie ėmė ieškoti išeities. Vieni bandė siūlyti aptvarkyti
@@ -164,6 +166,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 - id: c-02323
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tik dėl Maskvos nusilpimo tepavyko atgauti didelius žemių
     plotus.

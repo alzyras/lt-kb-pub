@@ -117,6 +117,7 @@ Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui. Narbutas kriti
 - id: c-173256
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
     herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse. Mū­
@@ -136,6 +137,7 @@ Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui. Narbutas kriti
 - id: c-173257
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apskritai, įsiskaičius į senuosius lenkų herbų pavadinimus,
     ne viename jų randame lietuvių kalbai būdingų elementų. Pa­

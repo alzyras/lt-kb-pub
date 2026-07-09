@@ -75,6 +75,7 @@ Pasak Narbuto, Bouslaviškių kaimiečiai kvadratinį kapą lietuviškai vadino 
 - id: c-171870
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Mano kaimo, vadinamo Bouslaviškėmis (Bouslawiszki), že­
     mėje yra kvadratinis kapas, 20 pėdų ilgio, be aiškaus sampilo,

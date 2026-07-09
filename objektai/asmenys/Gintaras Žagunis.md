@@ -79,6 +79,7 @@ media_all_json: |-
 - id: c-176467
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Siekdama tarptau-
     tinio pripažinimo atsikūrusi Lietuvos valstybė

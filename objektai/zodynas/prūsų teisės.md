@@ -87,6 +87,7 @@ prūsų teisės: tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos
 - id: c-71116
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tačiau kai kuriems ir naujai
     kuriamuose dvaruose buvo duodamos „prūsų" teisės, todėl ir

@@ -79,6 +79,7 @@ Aprašydamas prie Rodūnės stūksantį pylimą, Narbutas pereina į asmeninę r
 - id: c-175009
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ukrainoje, Kijevo gubernijoje, yra labai senas pa­
     našus piliakalnis*, Jos yra atokiau nuo miestelių, tarp

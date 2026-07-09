@@ -95,6 +95,7 @@ Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
 - id: c-154979
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir
     užsienio reikalų ministras Antanas Valionis pasirašo stojimo į

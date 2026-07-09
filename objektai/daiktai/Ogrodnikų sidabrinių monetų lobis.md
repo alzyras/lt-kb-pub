@@ -137,6 +137,7 @@ Nenurodyta
 - id: c-172576
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     1826 metais Lydos apskrityje, netoli Ogrodnikų kaimo, Šal­
     čios upės pakrantės skardyje, kaimietis rado senų sidabrinių
@@ -159,6 +160,7 @@ Nenurodyta
 - id: c-177017
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     250
 

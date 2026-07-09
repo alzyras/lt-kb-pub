@@ -165,6 +165,7 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 - id: c-164809
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tačiau
     jis labai pasikeitė po žmonos Barboros mirties: nuolat jos liūdėjo,
@@ -183,6 +184,7 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 - id: c-166295
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     **Antrasis karas su Maskva** Lietuvai buvo daug nelaiminges-
     nis. Glinskio rūpesčiu, šį kartą Maskvai pasisekė gauti daug
@@ -200,6 +202,7 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 - id: c-175855
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Karas tuo būdu lai-
     kinai pasibaigė. Visi laukė anksti pasenusio Zigmanto Au-

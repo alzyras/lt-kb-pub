@@ -4271,6 +4271,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Vytautas Didysis, ėmęs valdyti Lietuvą, taip pat pasidarė
     didelis žemvaldys, paveldėdamas didž. kunigaikščiui priklau­
@@ -4290,6 +4291,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-32467
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Ordino maršalo vadovaujama kariuomenė, pasidalinusi į tris
     grupes, (1377.II.) teriojo Aukštaičius. Wigando žodžiais, maršalas
@@ -4305,6 +4307,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-32468
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį^16 ,
     Skirgailai pasisekė įgulą įtikinti pasiduoti (VII.20). Visas savo
@@ -4320,6 +4323,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-32471
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bet ir Trakai greit buvo
     prarasti. Vytauto ir kryžiuočių įgula ten turėjo pasiduoti Jogailai
@@ -4334,6 +4338,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-32475
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Su nepasitikėjimu priimtas Marienburge (1412.XII.), vykdamas
     per Ragainę ir Kauną, Makra Kalėdoms jau buvo pas Vytautą
@@ -4349,6 +4354,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Atvykęs su tuo būriu prie Trakų, Kęstutis ten jau
     rado savo sūnų Vytautą, kuris buvo atsivedęs kariuomenės bū­
@@ -4365,6 +4371,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164183
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Surinkęs Žemaičiuose gausų būrį kovotojų (yra minimi 3.000),
     Kęstutaitis kartu su magistru Zollneriu traukė per Lietuvą prie
@@ -4383,6 +4390,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164185
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Garbingosios
     Mergelės Marijos gimimo dieną
@@ -4419,6 +4427,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164186
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Nuo 1397 pamečiui
     šis atliko į totorius tris žygius. Atrodo, pritariant Jogailai, kuris
@@ -4438,6 +4447,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164187
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Iš tikrųjų
     tai daryti jį vertė krašto nesutarimai ir Lietuvos bajorų ne­
@@ -4462,6 +4472,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164188
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Toliau planavo pulti Trakų -
     Vilniaus kryptimi.
@@ -4485,6 +4496,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Galingesni vasalai grasino suvaržyti didžiojo ku­
     nigaikščio valdžią, tad Jogailai kilo mintis visus tiesio­
@@ -4514,6 +4526,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164190
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     48
 
@@ -4553,6 +4566,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164191
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^244) II skyrius: valstybės iškilimas
     gaikštijos gyventojams, kai religinis priklausomumas politikoje
@@ -4575,6 +4589,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164193
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Supažindiname šiuo dabartiniu mūsų raštu, kam
     apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje
@@ -4619,6 +4634,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164195
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Visas savo
     bombardas palikę Jogailai, kryžiuočiai «linksmi ir sveiki grįžo
@@ -4639,6 +4655,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164196
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Todėl čia greit išaugo didelis miestas, kurs tapo amžinąja
     Lietuvos sostine. Netoli Vilniaus, sunkiai prieinamame Galvės
@@ -4657,6 +4674,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164197
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     —  • —
     215
@@ -4695,6 +4713,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164198
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     |
     | Kovo mėnesį vieną dieną pradėta organizuoti rinktinė iš Kauno ir Aukštosios Panemunės |
@@ -4712,6 +4731,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164199
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Sąmokslininkai 1432 m. rugpjūčio
     31 d. naktį užpuolė Švitrigailą Ašmenos
@@ -4738,6 +4758,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164200
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     III KNYGA
     Iki tol (1492 m.) didžiųjų Lietuvos kunigaikščių Vilniui
@@ -4766,6 +4787,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164201
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Il KNYGA
     15. Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­
@@ -4795,6 +4817,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164203
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     **Ukmergės mūšis** (1435 **m.).** Švitrigaila daug kartų puolė
     Zigmantą ir kartą net pasiekė Vilnių ir Trakus, tačiau vis
@@ -4812,6 +4835,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164204
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
     tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
@@ -4835,6 +4859,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164206
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Siena nuo Livonijos iki Ne­
     vėžio šaltinių turėjo eiti tiesia linija, bet žemupyje ji buvo taip
@@ -4855,6 +4880,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164207
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tuo tarpu karalius, regėdamas didįjį kunigaikštį kasdien
     silpstantį ir būdamas tikras, kad šis jau galutinai atsisakė
@@ -4877,6 +4903,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Gediminas
     trumpam buvo ją padaręs savo sos­
@@ -4914,6 +4941,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164209
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Net pirkliai negalėjo jaustis saugūs dėl
     jo nežaboto gobšumo, ir Vilnius ėmė vis labiau smukti. Į
@@ -4941,6 +4969,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164210
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Be to, dar nerimą kėlė Gedimino valia ra­
     dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
@@ -4963,6 +4992,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164212
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Trakų pilis, reikia many­
     ti, taip pat yra buvusi sena, galbūt
@@ -4994,6 +5024,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164214
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
@@ -5020,6 +5051,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164215
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pra­
     ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­
@@ -5042,6 +5074,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164217
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tos nepaliaujamos kovos yra labiausiai rišamos su Kęstučio
     vardu. Žemaičiams jis nuolatos gelbėjo jų iš kartos į kartą einan­
@@ -5062,6 +5095,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Tikė­
     jimo bendrumas palenkė jų simpatijas Kęstučiui ir jie davė jam
@@ -5079,6 +5113,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164222
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Suvažiavusių į karūnaciją svečių akivaiz-
     doje iškilmingai priimdamas Jogailą su palydovais, jis nuvargo
@@ -5095,6 +5130,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164223
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Trakuose jo sušauktas seimas, turėjęs parengti pasku­
     tinį smūgį Rusios ir Lietuvos bajorijai, paspartino tą kruviną
@@ -5115,6 +5151,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164224
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Jono pilį)^21. Berods, to žygio metu paim­
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
@@ -5130,6 +5167,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164227
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tad
     i
@@ -5157,6 +5195,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Baigdami šį darbą norėtume dar išspręsti vieną klausimą,
     būtent, kas atsitiko su tuo Lietuvos valstybės valdymo dualiz­
@@ -5179,6 +5218,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164229
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bet visai
     kitaip buvo galvojama Lenkijoje.
@@ -5197,6 +5237,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Kada 1379 metais liepos mėn. pabaigoje Kęstutis su Ordino
     maršalu vyko Kaunan pasikeisti patekusiais nelaisvėn karei­
@@ -5218,6 +5259,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164232
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Lietuvių kalboje
     iki šiol girdime žmonių vartojamą
@@ -5243,6 +5285,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Tuo pačiu bus aptarta ir tų santykių forma,
     kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
@@ -5264,6 +5307,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164238
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     223
 
@@ -5289,6 +5333,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164239
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pats Vytautas užtat
     Trakuose būna; jam tai didelį kelia nerimą ir, bijodamas
@@ -5308,6 +5353,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164243
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tad 1505 metais, kai tie barbarai buvo mažumėlę
     aprimę, karalius savo sprendimu atleido Vilniaus gyvento­
@@ -5330,6 +5376,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164245
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     ## Puslapis 210
 
@@ -5359,6 +5406,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164246
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lietuvos metraščio liudijimu, „Lietuva
     pasodino didįjį kunigaikštį Žygimantą
@@ -5380,6 +5428,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164247
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Su­
     gautas ir Vilniuje pasodintas į kalėjimą Šach Achmedas pri­
@@ -5398,6 +5447,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164249
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     **Kazimiero konkurentų likimas.** Mykolas, nusilenkęs Kazimie-
     rui, žadėjo būti jam paklusnus; jis tik prašė, kad jam būtų palikti
@@ -5415,6 +5465,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164251
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau
     atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­
@@ -5467,6 +5518,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164252
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     Nors yra toks mūsų kronikininko pasakojimas apie Vil­
@@ -5489,6 +5541,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164255
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kivirčai tarp brolių da­
     vė pradžią slaptoms, bet sumaniai parengtoms sutartims
@@ -5512,6 +5565,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     5 d. Ost­
     rovoje (Gard.) įvyko taika. Jogaila dovanojo Vytautui ir jo
@@ -5530,6 +5584,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164257
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Ultra
     1000 hominum in occissione ceciderunt
@@ -5555,6 +5610,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164259
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     To­
     kia Lietuvos padėtis negalėjo trukti ilgai; diduomenė, įbau­
@@ -5578,6 +5634,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164260
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Žemaičiams jis nuolatos gelbėjo jų iš kartos į kartą einan­
     čiuose karuose, dėl kurių visa vakarinė Lietuva buvo tapusi kasmet
@@ -5600,6 +5657,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164261
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tais pa-
     čiais metais Rusija pasiuntė savo gausią kariuomenę į Lietuvą. Nors
@@ -5619,6 +5677,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164262
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
     tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
@@ -5634,6 +5693,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-164265
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Prie liudytojų, tuo metu su mumis buvusių:
     su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba
@@ -5680,6 +5740,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-167769
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Atrodo, pritariant Jogailai, kuris
     iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397)
@@ -5700,6 +5761,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-168520
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kadangi neseniai per pasiuntinius buvo pra­
     šęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei
@@ -5720,6 +5782,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-168521
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Sėkmingai atgavus Poleksi-
     ją, kur kas didesni rūpesčiai paragino skubėti į tėvy­
@@ -5744,6 +5807,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-168522
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kaip brolį palaikė jį ir Jogaila. Vos šitai pajutę, žy­
     miausieji Lietuvos didikai paliko karalių bei valstybės
@@ -5764,6 +5828,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-168523
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Nieko nežinoda­
     mi apie karaliaus sumanymus, į seimą kaip paprastai
@@ -5791,6 +5856,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-168524
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Dėl karaliaus ligos seimas buvo pa­
     leistas, kadangi vargu ar ką galima buvo benuveikti.
@@ -5816,6 +5882,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-170602
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Vyriausias—Jogaila Vladislovas1 8 ;
     antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
@@ -5836,6 +5903,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-170603
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Jį pasodino Smolenske di­
     džiuoju kunigaikščiu1 6 , kadangi kunigaikščio Jurgio
@@ -5855,6 +5923,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-170604
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     . 2 0
 
@@ -5884,6 +5953,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-170605
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     180
 
@@ -5905,6 +5975,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-176320
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuva tuo metu jau
     turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
@@ -5924,6 +5995,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - id: c-176321
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis:
     net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an-

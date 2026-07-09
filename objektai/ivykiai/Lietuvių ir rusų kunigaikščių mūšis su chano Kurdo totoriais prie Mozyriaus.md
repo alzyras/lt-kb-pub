@@ -181,6 +181,7 @@ Nenurodyta
 - id: c-169927
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     *  Kijevo kunigaikštis Svetoslavas kituose šaltiniuose nepallu-
     dytas
@@ -201,6 +202,7 @@ Nenurodyta
 - id: c-169928
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tuo vardu, matyt, buvo
     vadinamas kuris nors Pripetės žemupio Intakas.

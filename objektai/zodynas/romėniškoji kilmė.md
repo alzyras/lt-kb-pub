@@ -70,6 +70,7 @@ Tai romėniškajai kilmei paremti ir buvo sudaryta ištisa teorija.
 - id: c-72117
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tai romėniškajai kilmei paremti ir buvo sudaryta ištisa
     teorija. Esą, istorijoje žinomas romėnų karvedys Publijas Li-

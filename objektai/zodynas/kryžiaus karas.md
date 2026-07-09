@@ -229,6 +229,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - id: c-05568
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tiesa, neį­
     žengiamos lietuvių miškų zonos prie stepių pripratusiems totorių
@@ -247,6 +248,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - id: c-05569
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Čekijos karalių^145 ir Brandenburgo markgrafą ragino į kryžiaus žygį
     prieš totorius. Paskutiniajam popiežius rašė, jog totoriai esą nute­
@@ -266,6 +268,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - id: c-05570
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Pasveikęs magistras ėmė organizuoti didelę jėgą prieš Žemaičius.
     Iš to laikotarpio yra užsilikusios popiežiaus Aleksandro IV, didelio
@@ -282,6 +285,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - id: c-05571
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Lietuvos valstybės istorija butų pasukusi visai kitu keliu, jeigu
     nebūtų buvęs nužudytas karūnuotas valdovas. Eidami Mindaugo
@@ -299,6 +303,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - id: c-167726
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Iš to laikotarpio yra užsilikusios popiežiaus Aleksandro IV, didelio
     ordino geradario, kelios bulės. Jomis įsakoma dar intensyviau skelbti

@@ -82,6 +82,7 @@ Pirmasis didelis mūšis įvyko birželio 11 d. prie Miro.
 - id: c-45220
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Pirmasis didelis mūšis įvyko bir-
     želio 11 d. prie Miro. Čia Lietuvos

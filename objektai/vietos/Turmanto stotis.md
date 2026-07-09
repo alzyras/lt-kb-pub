@@ -70,6 +70,7 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
 - id: c-72098
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Lietuvos Latvijos siena susidarė 487 klm.
     ilgumo. Ji visa, nuo Šventosios upės (pajūry) iki Lenkų oku-

@@ -80,6 +80,7 @@ Narbutas iš Rėzos „Dainų“ pateikė dainą Naujosios Prūsijos, arba Prūs
 - id: c-173371
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Būtina įdėti dar vieną dainą iš pono Rėzos dainų rinkinio
     Naujosios Prūsijos, arba Prūsų Lietuvos, tarme:

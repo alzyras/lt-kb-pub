@@ -79,6 +79,7 @@ media_all_json: |-
 - id: c-41713
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     P. 100-107, „Salaspilio mūšis“ fragmentai, dail. Pieteris Snayers, xvi a. pradžia. Salaspilio
     mūšis (Pieterio Snayerso (1592-1667) paveikslo paroda). (Parodos informacinis leidinys),

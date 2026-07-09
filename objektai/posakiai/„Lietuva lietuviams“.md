@@ -94,6 +94,7 @@ Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, pra
 - id: c-166892
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei pre-
     kybą, prasidėjus ekonomikos krizei, sustiprėjo konkurencija. Žydai tebe-

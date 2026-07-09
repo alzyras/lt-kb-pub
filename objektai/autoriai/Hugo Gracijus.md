@@ -73,6 +73,7 @@ Narbutas krivio kaip aukščiausiojo teisėjo apibūdinimą siejo su Hugo Gracij
 - id: c-173311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Aiškiai matyti, kad
     jam žodis quidam (vienas, kažkoks) pasirodė esąs nepa­

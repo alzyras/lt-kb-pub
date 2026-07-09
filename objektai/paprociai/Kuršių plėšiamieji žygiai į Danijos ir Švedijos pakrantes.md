@@ -108,6 +108,7 @@ Nenurodyta
 - id: c-75906
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Ankstyvųjų šaltinių ir archeologiniai duomenys leidžia teigti, kad
     kai kurių pietvakarių baltų genčių kariniai junginiai yra dalyvavę

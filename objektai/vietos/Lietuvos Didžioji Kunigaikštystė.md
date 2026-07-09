@@ -130,6 +130,7 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
 - id: c-176874
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tad ben­
     drai sekdami protėviais ir suprasdami, kad tai yra pamal­
@@ -173,6 +174,7 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
 - id: c-176875
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jeigu kredenso pritrūktų, prašo­
     me, kad tiems mūsų tarnams pagal kiekvieno nuopelnus iš

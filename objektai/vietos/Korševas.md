@@ -81,6 +81,7 @@ nežinomi didesni Lietuvos puolituose 1363 m. „Lietuva paėmė Korševą“ - 
 - id: c-45146
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Nuo Aukso ordos valdomis, pradžia. Toliau ry-
     1357 m. nežinomi didesni Lietuvos puoli- tuose 1363 m. „Lietuva paėmė Korševą“ -

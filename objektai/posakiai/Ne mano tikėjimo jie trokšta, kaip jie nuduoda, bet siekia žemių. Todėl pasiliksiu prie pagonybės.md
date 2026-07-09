@@ -69,6 +69,7 @@ ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių.
 - id: c-31444
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Pagal Jono von Winter­
     thur kroniką^11 , įdomiai papildančią Wartbergę, Lietuvos kunigaikš­

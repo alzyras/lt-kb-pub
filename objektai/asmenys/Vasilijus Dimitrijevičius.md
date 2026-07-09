@@ -110,6 +110,7 @@ media_all_json: |-
 - id: c-176701
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Štai kas nutiko po šito dangaus ženklo didžiajam
     kunigaikščiui Vytautui, draugiškai sugyvenusiam su
@@ -135,6 +136,7 @@ media_all_json: |-
 - id: c-176702
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     ## Puslapis 237
 

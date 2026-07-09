@@ -82,6 +82,7 @@ lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoj
 - id: c-41401
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lietuviai labai greitai įsisavindavo karybos naujoves. XIV a.
     lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai

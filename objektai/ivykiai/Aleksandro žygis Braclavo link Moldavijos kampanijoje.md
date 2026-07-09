@@ -108,6 +108,7 @@ Nenurodyta
 - id: c-169913
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Paskui abi šalys su visais
     savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­

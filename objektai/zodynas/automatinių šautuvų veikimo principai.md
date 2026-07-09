@@ -71,6 +71,7 @@ AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio 
 - id: c-40549
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką
     iš vamzdžio išstumiančių parako dujų grąžina spyną į galinę pa-

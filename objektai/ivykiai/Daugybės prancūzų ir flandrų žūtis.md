@@ -91,6 +91,7 @@ Nenurodyta
 - id: c-63556
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     94. Apie daugybės prancūzų ir flandrų žūtį
 

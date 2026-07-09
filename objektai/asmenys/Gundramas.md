@@ -136,6 +136,7 @@ Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 130
 - id: c-60930
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais
 

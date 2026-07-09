@@ -101,6 +101,7 @@ Nenurodyta
 - id: c-169950
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     '• Smolensko kunigaikščio sūnus Jurijus, patekęs ties Mstislav-
     llu į nelaisvę, buvo nugabentas į Krokuvą. Č ia 1386,V.20 jis pri­

@@ -76,6 +76,7 @@ GURSČIŲ KAUTYNĖS 1946 m. sausio 22 d. Ukmergės aps.
 - id: c-40274
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     GURSČIŲ KAUTYNĖS
     1946 m. sausio 22 d. Ukmergės aps. Želvos vis. Gursčių k. apylinkėse apie 50 Plieno būrio

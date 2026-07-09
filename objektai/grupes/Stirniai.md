@@ -76,6 +76,7 @@ Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuos
 - id: c-175760
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Nei pa­
     sakojimo tvarkos, nei aiškių pavadinimų, nei nuorodos į

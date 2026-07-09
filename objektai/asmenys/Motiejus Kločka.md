@@ -128,6 +128,7 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
 - id: c-169431
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Esą valachams visi keliai at­
     viri, Severinas plėšikaująs ir siaubiąs pasienį vienoje
@@ -158,6 +159,7 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
 - id: c-169432
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Jį priėmė iš tiesų gana draugiškai, ta­
     čiau neleido pabučiuoti kunigaikščiui rankos, kadangi

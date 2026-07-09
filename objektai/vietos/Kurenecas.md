@@ -108,6 +108,7 @@ media_all_json: |-
 - id: c-170307
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     ”  Kalbama apie naujus Švitrigailos veiksmus 1433 m. sausio
     pabaigoje — vasario pradžioje. Nepavykus 1432 m. rudens puoli­

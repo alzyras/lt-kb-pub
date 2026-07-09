@@ -600,6 +600,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - id: c-05710
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Už pagalbą bėdoje ir karališkos karūnos išrūpinimą Mindaugas
     turėjo ordinui atsilyginti. Karūnavimo metais jis užrašė Žemaičiuose
@@ -617,6 +618,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - id: c-05711
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Po 1348 m. iš vakarų į Pabaltijį atslinkęs didysis maras («juo­
     doji mirtis»), įprastai guldęs ketvirtadalį gyventojų, bent porai
@@ -635,6 +637,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - id: c-43321
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kazimieraicio * : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES
     ) Leipalingis Armoniskis e OVolozynas Š 2 = AS ie
@@ -653,6 +656,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - id: c-163409
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vaikių krašte buvo šventoji giria, ku­
     ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­
@@ -672,6 +676,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - id: c-163410
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^254) **n** skyrius: valstybės iškilimas
     kus Austrijos hercogui Albrechtui II su 62 riteriais ir 2000 paprastų
@@ -691,6 +696,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - id: c-163414
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Baigusi kruvinus darbus, ginkluota palyda kitą die­
     ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
@@ -709,6 +715,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - id: c-168282
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
     nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,
@@ -735,6 +742,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - id: c-168283
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Neatnešė ato­
     kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs
@@ -770,6 +778,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - id: c-171554
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
     tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o
@@ -785,6 +794,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - id: c-171555
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O Lietu­
     vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
@@ -805,6 +815,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - id: c-171556
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Taip atsirado Čekiškės (Czekiszki) pa­
     vadinimas; dabar taip vadinamas miestelis. Plaukdami tolyn,

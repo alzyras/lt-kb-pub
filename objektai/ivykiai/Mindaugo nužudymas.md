@@ -94,6 +94,7 @@ Nenurodyta
 - id: c-169878
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     APIE MINDAUGO NUŽUDYMĄ IR MINDAUGO ŠONŲ
     VAIŠVILKĄ

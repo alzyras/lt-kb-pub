@@ -124,6 +124,7 @@ media_all_json: |-
 - id: c-11207
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1659 m. rusai užėmė
     Slanimą, Lydą ir Gardiną. Lietuvos didžiojo etmono Povilo Sapiegos
@@ -143,6 +144,7 @@ media_all_json: |-
 - id: c-77403
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     ATR pripažino
     kairiakrantės Ukrainos susijungimą su Rusija. Rusija pasižadėjo

@@ -109,6 +109,7 @@ Narbutas, remdamasis Vergilijumi, pateikia spalvingą gelonų gyvenimo ir mitybo
 - id: c-174997
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tą sveiką gyvulinės kilmės
     produktą nuo masagetų ir tisagetų gyvavimo laikų vi­
@@ -130,6 +131,7 @@ Narbutas, remdamasis Vergilijumi, pateikia spalvingą gelonų gyvenimo ir mitybo
 - id: c-177301
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tokiame piene, sumaišius jį su dar šiltu ir
     šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl

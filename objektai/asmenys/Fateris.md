@@ -72,6 +72,7 @@ Fateris Dusburgiečio žinią apie krivį aiškino kaip nesusipratimą dėl rusi
 - id: c-173005
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tad nedera ir
     jų palikti be dėmesio.

@@ -155,6 +155,7 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Baigiant ir čia reikia pasakyti, kad unijos likimas glūdėjo
     ne tame juridiniame akte, bet tų valstybių abipusiame sugyveni­
@@ -176,6 +177,7 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     O tai parėjo nuo Lietuvos ir Lenkijos jėgų santykio: katra
     buvo galingesnė, ta ir buvo viešpats antrosios pusės, arba tik­
@@ -196,6 +198,7 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Su ta iš­
     vada nėra reikalo sutikti, nes ir po Liublino unijos Lietuva pasi­

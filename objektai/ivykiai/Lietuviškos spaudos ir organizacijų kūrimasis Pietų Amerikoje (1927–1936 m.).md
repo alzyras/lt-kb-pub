@@ -140,6 +140,7 @@ Nenurodyta
 - id: c-66862
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kartu su spauda ėmė plėtotis ir lietuvių organizacinis gy-
     venimas, kurį ilgą laiką trukdė tiktai įvairūs biznieriai ir komu-
@@ -159,6 +160,7 @@ Nenurodyta
 - id: c-66863
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Nors čia taip pat veikė ko-
     munistai ir iš Lietuvos pabėgę plečkaitininkai, vis dėlto čia
@@ -179,6 +181,7 @@ Nenurodyta
 - id: c-66866
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Mokyklose mokoma pagal Lietuvos mokyklų programą; vado-
     vėliai taip pat gaunami iš Lietuvos. Tuo būdu mokyklų klau-

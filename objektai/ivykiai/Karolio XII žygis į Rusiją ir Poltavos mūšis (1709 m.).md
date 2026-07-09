@@ -82,6 +82,7 @@ Nenurodyta
 - id: c-66800
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuo tarpu 1707 m. pradžioje
     grįžo iš Saksonijos Karolis XII, ir rusai pradėjo trauktis. Trauk-

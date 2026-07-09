@@ -210,6 +210,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
 - id: c-174068
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Aprašinėdamas
     prie Baltijos jūros esančius kraštus, kuriuos dėl senama­
@@ -230,6 +231,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
 - id: c-174069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     O kalbėdami apie
     Abalo salą, geriausi ¡senovės tyrinėtojai, ir tai labiausiai
@@ -258,6 +260,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
 - id: c-174071
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Antra ap­
     skritis buvo Kodinėnų valdos; tad įvairios aukštumos, nuo
@@ -275,6 +278,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
 - id: c-175376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Daugiausiai dėmesio vertas šios
     provincijos prekybinis miestas Trusas prie Drūsinės eže­

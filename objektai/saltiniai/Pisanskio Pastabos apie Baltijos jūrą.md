@@ -168,6 +168,7 @@ Narbutas, lygindamas su Pisanskio pastabomis apie Baltijos jūrą, kritikuoja Ke
 - id: c-174613
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
@@ -195,6 +196,7 @@ Narbutas, lygindamas su Pisanskio pastabomis apie Baltijos jūrą, kritikuoja Ke
 - id: c-174614
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tuos pastebėjimus kartojo ir vėlesni mokslininkai.
     Pisanskis savo pastabose apie Baltijos jūrą (p. 45) mini
@@ -218,6 +220,7 @@ Narbutas, lygindamas su Pisanskio pastabomis apie Baltijos jūrą, kritikuoja Ke
 - id: c-174615
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Vėliau Pisanskis rašo, jog vietovės,
     kurios, anot įtikėtinų žinių, buvo gana toli nuo jūros

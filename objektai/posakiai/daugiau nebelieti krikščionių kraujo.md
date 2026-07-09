@@ -88,6 +88,7 @@ Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau 
 - id: c-168837
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Iš dalies priešą sumušęs, iš dalies išvaikęs, Kiška, di­
     džiuodamasis savo žygiu ir gausiu grobiu, bet nenorė­

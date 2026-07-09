@@ -95,6 +95,7 @@ Nenurodyta
 - id: c-60343
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Po to brolis Ditrichas, palikęs pilies saugoti kuriuos ne kuriuos brolius
     ir ginklanešius, patraukė su kitais atgal ir nugabeno šias šventas relikvijas į Kulmą. Ten

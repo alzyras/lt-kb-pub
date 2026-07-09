@@ -120,6 +120,7 @@ media_all_json: |-
 - id: c-170387
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     ‘ 1428 m. žygio karo veiksmai buvo sustabdyti, liepos 28 d.
     naugardiečiams paprašius taikos.

@@ -195,6 +195,7 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
 - id: c-169350
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kaip sumanyta, taip ir padaryta: pavakaryje,
     apsivilkęs mergaitės drabužiais, Vytautas lyg niekur
@@ -240,6 +241,7 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
 - id: c-169351
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Ne­
     besitikėdamas gauti iš jų pagalbos, Vytautas nusigrie­
@@ -269,6 +271,7 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
 - id: c-169352
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Iš M a z o v ijo s  į Prū-
     Nors Urbonas IV, Romos po-

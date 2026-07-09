@@ -67,6 +67,7 @@ Dusburgietis teigia, kad nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod re
 - id: c-61827
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod redakcją H. Górnowicza i Z.
     Brockiego.—Wrocław—Warszawa—Kraków—Gdańsk, 1978.

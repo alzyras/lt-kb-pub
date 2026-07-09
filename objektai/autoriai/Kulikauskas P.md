@@ -67,6 +67,7 @@ Dusburgietis teigia, kad kapinynų, kai kurių piliakalnių tyrimas rodo, kad U�
 - id: c-61367
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kapinynų, kai kurių piliakalnių tyrimas
     rodo, kad Užnemunė, ypač jos šiaurė, nebuvo negyvenamas kraštas (Kulikauskas P.,

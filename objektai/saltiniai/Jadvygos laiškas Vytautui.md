@@ -141,6 +141,7 @@ Gana grėsmingai įsiliepsnojo pirmieji nesuta­ rimai tarp abiejų tautų (1398
 - id: c-84408
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau tas kelias Lietuvos sostinės patirtas sėkmes (1398 m.)
     temdė neramumai, grėsę ne tik iš kryžiuočių, bet ir per Vytau­

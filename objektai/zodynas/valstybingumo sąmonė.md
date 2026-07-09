@@ -111,6 +111,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - id: c-28468
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Savo istoriją Kojalavičius rašė Vazų dinastijos paskutiniais
     dešimtmečiais, kai Lietuvos bajorijos sluoksniuose jau ryškiau buvo
@@ -131,6 +132,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - id: c-28469
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­
     kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­

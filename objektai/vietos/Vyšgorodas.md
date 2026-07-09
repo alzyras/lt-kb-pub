@@ -84,6 +84,7 @@ Gedimino valdžią tuo metu pripažino ir Kijevo priemiesčiai Vyšgorodas įvyk
 - id: c-45444
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     vijo totorius ir Kijevą paėmė į savo valdžią.
     Gedimino valdžią tuo metu pripa-

@@ -81,6 +81,7 @@ Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
 - id: c-59346
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Panemunėje esama Rambyno (žr. paaiškinimą III, 183; ant Rambyno po akmeniu yra
     „velnio buveinė” — Remeika J., Ką kalneliai..., p. 19; mitologinis personažas su šaknim

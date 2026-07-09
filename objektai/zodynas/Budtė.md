@@ -128,6 +128,7 @@ Vardas vartojamas kaip deivės pavadinimas, bet šiame gabale pateikiamas su ai�
 - id: c-175035
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     61 *
     Naujieji slavų senienų tyrinėtojai, kurių priekyje sto­

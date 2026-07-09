@@ -111,6 +111,7 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
 - id: c-71092
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Bet ne visos vienuolės dirba
     mokyklose; didelė jų dalis dirba įvairiose prieglaudose ir ligo-
@@ -128,6 +129,7 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
 - id: c-71093
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kitas, pats svar-
     busis jos rūpestis yra mokyklų steigimas. Mat, lig šiol savų

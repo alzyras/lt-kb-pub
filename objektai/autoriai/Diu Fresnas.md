@@ -71,6 +71,7 @@ Narbutas remiasi Diu Fresnu aiškindamas, kad senovės vokiečių kalboje „Sal
 - id: c-173304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Sala senovės vokiečių kalba reiškia teis­
     mą, o Ober-Sala -  tą pat, ką ir aukščiausiasis teismas; taip tą

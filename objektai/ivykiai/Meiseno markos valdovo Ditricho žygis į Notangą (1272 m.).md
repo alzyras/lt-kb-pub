@@ -149,6 +149,7 @@ Nenurodyta
 - id: c-85339
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vis dėlto
     broliai Ditrichas ir Giunteris iš Regenšteino, tikri broliai, pasitelkę brolių bei ginklanešių,
@@ -170,6 +171,7 @@ Nenurodyta
 - id: c-85340
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas
 

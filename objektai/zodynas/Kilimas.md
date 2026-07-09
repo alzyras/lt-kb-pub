@@ -129,6 +129,7 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
 - id: c-09689
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Išeiginiu drabužiu motriškųjų buvo taip vadinamas kilimas^338 , nuo žodžio keliauti, kurį drabužį iš namų eidamos kur toli
         tesiėmė; vadino dar jį sage, arba sagše^339 , nuo žodžio segti, kurią dar tankiau vilnonę^340 vadino;
@@ -153,6 +154,7 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
 - id: c-09690
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     - status: unused
     - claim_role: supports_existing_claim

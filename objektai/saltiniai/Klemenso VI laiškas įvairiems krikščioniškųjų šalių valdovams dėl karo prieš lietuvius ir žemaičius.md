@@ -73,6 +73,7 @@ Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias mal
 - id: c-169658
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Traukiantiems į kovą prieš lietuvius ir žemaičius
     jis žadėjo tas dieviškas malones, kurių paprastai susi­

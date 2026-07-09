@@ -158,6 +158,7 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - id: c-64124
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dėl to, subūrę daugybę karių, antrosios
     atskalūnybės metais patraukė prie Marienverderio miesto  ir, tinkamoje vietoje įrengę
@@ -179,6 +180,7 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - id: c-64125
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
     miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
@@ -200,6 +202,7 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - id: c-64126
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Prūsai, po  senovei  nepasisotinę  krikščionių  kraujo,  vėl suskato  ruošti  ginklus
     tikintiesiems žudyti, kankinti ir kryžiuoti, kad ant jų galvų kristų visas teisiųjų kraujas,
@@ -221,6 +224,7 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - id: c-64127
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Iš šios pilies išėjo brolis Konradas Švabas iš
     Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi

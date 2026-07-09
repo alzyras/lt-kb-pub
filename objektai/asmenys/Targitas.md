@@ -121,6 +121,7 @@ Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir 
 - id: c-174209
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Si tauta buvo didelė ir galinga, ją
     valdė karaliai, ji turėjo savo įstatymų, mūrinių pilių ir
@@ -144,6 +145,7 @@ Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir 
 - id: c-174210
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     24
     Kimbrai ir skitai. Visiškai galėjo būti, kad kimbrai,

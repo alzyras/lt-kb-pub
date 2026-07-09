@@ -87,6 +87,7 @@ Nenurodyta
 - id: c-172501
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vilniaus gyventojai turėjo namų ir giminių Tra­
     kuose, o trakiečiai -  Vilniuje, bendrai švęsdavo ir minėdavo

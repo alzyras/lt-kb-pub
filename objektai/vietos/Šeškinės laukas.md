@@ -84,6 +84,7 @@ Skirgaila persikėlęs per Nerį apsistojo Šeškinės lauke.
 - id: c-170401
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didysis kunigaikštis Vytautas, būdamas pas magist­
     rą Vokietijoje3 0 , Marienburgo pilyje, sudarė sąjungą

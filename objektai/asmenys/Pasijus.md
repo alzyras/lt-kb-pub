@@ -77,6 +77,7 @@ Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėj
 - id: c-174335
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tai, kad tie asai, arba osetinai, priklauso tai
     pačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė

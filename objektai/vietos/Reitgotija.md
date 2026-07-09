@@ -79,6 +79,7 @@ Ksavero Bogušo veikaluose, Narbuto teigimu, esama įrodymų, kad herulai keliav
 - id: c-175665
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tad artimiausias ir saugiausias herulų kelias vingiavo į
     Šiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš

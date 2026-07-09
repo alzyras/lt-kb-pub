@@ -74,6 +74,7 @@ Dusburgietis teigia, kad ten žuvo nukautas brolis Konradas, vadinamas Tušenfel
 - id: c-61002
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Livonijos atstovų prieštaravimo originale rašoma: van
     des koninges wegene van Lettowen dat lant do Ousteyten und Sameyten, Plessekowe

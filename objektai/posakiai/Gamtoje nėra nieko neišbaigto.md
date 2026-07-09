@@ -67,6 +67,7 @@ Narbutas posakį „Gamtoje nėra nieko neišbaigto“ pateikia kaip senovės li
 - id: c-172448
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Gamtoje nėra nieko neišbaigto, išskyrus pačią pasaulio erdvę. Ir
     saulė, ir mėnuo, ir žvaigždės, ir žemė turi savo pabaigą, nes turė­

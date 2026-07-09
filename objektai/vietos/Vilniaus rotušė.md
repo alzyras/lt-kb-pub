@@ -86,6 +86,7 @@ Taip pat, kad miesto gyventojai savo reikmėms galėtų lengviau pasisamdyti pa�
 - id: c-82237
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Nepaprastas įvairaus maisto brangymetis 1547 me­
     tais Vilniuje kilo dėl čionai atvykstančių karaliaus dvariš­

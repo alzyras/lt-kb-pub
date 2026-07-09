@@ -255,6 +255,7 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - id: c-169344
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tegu iš
     svetimųjų nelaimių mokosi išminties tie, kurie savo
@@ -277,6 +278,7 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - id: c-169345
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kariams pasileidus bėgti, Teodoras, Vytauto
     smarkiai persekiojamas, vargais negalais paspruko į
@@ -294,6 +296,7 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - id: c-169346
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
     pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
@@ -321,6 +324,7 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - id: c-176617
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ketvirtas jų brolis, kunigaikštis Teodoras Karijo-
     taitis, Lietuvoje valdė Naugarduką. Kunigaikštis Teodo­
@@ -338,6 +342,7 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - id: c-176618
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1 8  Pašalintas iš Podolės, Teodoras Karijotaitis tikrai pabėgo
     j Vengrijų, gavo grafo titulų ir 1396— 1414 m. (iki mirties) valdė

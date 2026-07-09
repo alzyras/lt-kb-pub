@@ -127,6 +127,7 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
 - id: c-173188
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Prūsuose, neminint kitų, yra Šventainės (Szwentejne),
     upė, įtekanti į Peise (Pissa) ties Baičių (Bajcze) kaimu; seniau
@@ -148,6 +149,7 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
 - id: c-173189
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     LIEPA, Liepas. Pas senovės prūsus ji priklausė šventųjų
     medžių kategorijai. Henenbergeris tikina, kad dar jo laikais,

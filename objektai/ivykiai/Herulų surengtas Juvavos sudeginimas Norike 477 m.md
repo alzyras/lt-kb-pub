@@ -90,6 +90,7 @@ Nenurodyta
 - id: c-173944
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     321
     Nors šio valdovo valdžia buvo skirta vidinei tvarkai

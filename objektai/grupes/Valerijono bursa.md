@@ -104,6 +104,7 @@ media_all_json: |-
 - id: c-176892
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Be to, dar anksčiau minėtas Vilniaus vyskupas Protase-
     vičius tris mūrinius namus, vieną Bernardinų gatvėje, o du
@@ -125,6 +126,7 @@ media_all_json: |-
 - id: c-176893
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Valerijono bursai skiriamų metinių pajamų sąrašas
     Iš kahalo nuo 5 500 auksinų sumos komisijos sprendimo

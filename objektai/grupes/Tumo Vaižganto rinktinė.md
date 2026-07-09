@@ -81,6 +81,7 @@ Margio rinktinės žvalgybos sk. Likę Šarūno ir Kunigaikščio Margio rinktin
 - id: c-44860
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     praktiškai žuvo visa apygardos vadovybė.
     1950 m. lapkričio 25 d. srities vado įsakymu

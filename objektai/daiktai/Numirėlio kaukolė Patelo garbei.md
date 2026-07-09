@@ -86,6 +86,7 @@ Nenurodyta
 - id: c-172618
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Patelas (Patelo)
     Skraidančių oro dvasių dievas, savitas aukščiausiosios ka­

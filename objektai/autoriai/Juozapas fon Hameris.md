@@ -118,6 +118,7 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
 - id: c-174455
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,
     gyvenusią galų kaimynystėje, prie Dnestro.
@@ -134,6 +135,7 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
 - id: c-174456
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tekstas buvo parengtas remiantis T. Vo-
     lianskio tyrinėjimais (Tadeusza Wolanskiego

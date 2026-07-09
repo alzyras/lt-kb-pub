@@ -146,6 +146,7 @@ Nenurodyta
 - id: c-169895
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     APIE JOGAILOS IR VYTAUTO SUSITARIMĄ DEL SAVO
     ĮPĖDINIŲ, TAIP PAT APIE ŽEMAITIJOS IŠVADAVIMĄ IR

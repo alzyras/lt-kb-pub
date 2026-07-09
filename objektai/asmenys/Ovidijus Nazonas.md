@@ -171,6 +171,7 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
 - id: c-174050
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš tų senovės istorikų pateiktų žinių pa­
     aiškėja, ta tiesa, jog jotvingiai buvo sarmatą* kilmės
@@ -191,6 +192,7 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
 - id: c-174051
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tegu man bus leista atkreipti dėmesį dar į vieną aplinkybę.
     Žinoma,
@@ -213,6 +215,7 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
 - id: c-174052
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo

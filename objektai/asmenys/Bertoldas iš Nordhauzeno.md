@@ -77,6 +77,7 @@ Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santy
 - id: c-60883
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     192 (187). Apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių
                    apygardų nusiaubimą ir Klemento pilies sugriovimą

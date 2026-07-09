@@ -163,6 +163,7 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
 - id: c-43568
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Dalyvavo etmonas K. J. Sapiega, iždininkas
     B. P. Sapiega, etmono sūnūs - LDK didy-
@@ -190,6 +191,7 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
 - id: c-166434
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Višniaveckis jį nu-
     sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai-

@@ -311,6 +311,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-04159
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tie panašumai, kiek jie lietė vakarų kaimyną
     Lietuvą, labiausiai krito į akis. Abu rusų valdovai stengėsi savo
@@ -329,6 +330,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-04160
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Septynerių metų karo (1756-1763) pradžioje carės
     Elzbietos (1741-1761) generolai traukė į Prūsus su savo pulkais per
@@ -349,6 +351,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-64767
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuo metu Čartoriskiai pasiun-
     tė į Petrapilį savo sesers sūnų Stanislovą Augustą Po-
@@ -369,6 +372,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-64769
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Dabar tarp Prūsijos ir Rusijos jau ėjo derybos, ir
     Prūsija buvo įsitikinusi, kad po šito karo teks ir jai šis tas.
@@ -387,6 +391,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-64773
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Nuo Petro laikų su
     ja jau buvo skaitomasi, jos jau nebeaplenkė, sprendžiant
@@ -406,6 +411,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-177311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be to, 1253 metų kryžiuočių kampanijos tikslas bu­
     vo pirmiausia nusiaubti Bartą ir Galindą. Tai lėmė, kad
@@ -432,6 +438,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-177312
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Rusai laimėjo tik tiek, kad savo ginklais nubaidė
     jotvingius toli nuo savo sienų, daugybė jų susitelkė prie

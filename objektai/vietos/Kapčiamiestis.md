@@ -65,6 +65,7 @@ Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapč
 - id: c-77310
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Ir aple 14 val. 20 min. užima Kuodžius.
     my „Pilypavas ĮbinijųgF -Ovidūgiriai BE A ojo pėst. Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapčiamiestį.

@@ -167,6 +167,7 @@ Nenurodyta
 - id: c-172525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tą
     patį dalyką plačiai dėstė mokslininkai Van-Dalė (Van-Dale)lr
@@ -190,6 +191,7 @@ Nenurodyta
 - id: c-172527
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tačiau visų aukų pagrindas buvo
     duona ir alus. Ar sutinkant ką nors, ar išleidžiant, duoną ir alų
@@ -207,6 +209,7 @@ Nenurodyta
 - id: c-177007
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Įvairiai ruošiant javus, lengva ap­
     tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,

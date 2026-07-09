@@ -102,6 +102,7 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
 - id: c-76041
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1655 m.
 

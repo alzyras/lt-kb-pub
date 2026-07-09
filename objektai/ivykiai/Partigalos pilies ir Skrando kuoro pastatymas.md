@@ -87,6 +87,7 @@ Nenurodyta
 - id: c-87559
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     23. Apie Partigalos pilies ir Skrando kuoro pastatymą
 

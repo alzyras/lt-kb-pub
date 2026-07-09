@@ -183,6 +183,7 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
 - id: c-175034
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     tam, kad būtų apgyvendintos Europos dykros. Tik iš
     Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai,

@@ -232,6 +232,7 @@ media_all_json: |-
 - id: c-78482
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Mykolas Balinskis
     VILNIAUS MIESTO ISTORIJA
@@ -275,6 +276,7 @@ media_all_json: |-
 - id: c-78483
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Antologija. I knyga
     Teodoras Narbutas
@@ -323,6 +325,7 @@ media_all_json: |-
 - id: c-78485
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^4) PRATARMĖ
     Šitame ryšyje verta paminėti, kad prof. Stasys Šalkauskis ir

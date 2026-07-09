@@ -88,6 +88,7 @@ Nenurodyta
 - id: c-177338
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Raštas jiems nežinomas dalykas, be to, jie nesu­
     prato, kaip parašytomis raidėmis galima persiųsti savo

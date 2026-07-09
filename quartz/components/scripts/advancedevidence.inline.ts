@@ -53,13 +53,24 @@ document.addEventListener("nav", () => {
     window.addCleanup(() => button.removeEventListener("click", toggleMode))
   }
 
-  const setClaimOpen = (row: HTMLElement, open: boolean) => {
-    const claimId = row.dataset.claimId
-    if (!claimId) {
-      return
+  const detailForRow = (row: HTMLElement): HTMLElement | null => {
+    const toggle = row.querySelector<HTMLElement>("[data-claim-toggle][aria-controls]")
+    const controls = toggle?.getAttribute("aria-controls")
+    if (controls) {
+      const controlled = document.getElementById(controls)
+      if (controlled instanceof HTMLElement) {
+        return controlled
+      }
     }
+    const next = row.nextElementSibling
+    if (next instanceof HTMLElement && next.matches("[data-claim-detail]")) {
+      return next
+    }
+    return null
+  }
 
-    const detail = document.querySelector<HTMLElement>(`[data-claim-detail="${claimId}"]`)
+  const setClaimOpen = (row: HTMLElement, open: boolean) => {
+    const detail = detailForRow(row)
     if (!detail) {
       return
     }
@@ -77,7 +88,7 @@ document.addEventListener("nav", () => {
     if (!row) {
       return
     }
-    const detail = document.querySelector<HTMLElement>(`[data-claim-detail="${row.dataset.claimId ?? ""}"]`)
+    const detail = detailForRow(row)
     setClaimOpen(row, Boolean(detail?.hidden))
   }
 

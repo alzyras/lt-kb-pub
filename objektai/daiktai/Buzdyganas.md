@@ -86,6 +86,7 @@ Nenurodyta
 - id: c-44644
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Buzdyganas XVII a. pab. - XVIII a. Aštuonių
     sparnelių auksuoto plieno galva, medinis kotas

@@ -291,6 +291,7 @@ Nenurodyta
 - id: c-173889
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     39
     Po kurio laiko, 514 metais prieš Kristaus gimimą, kai
@@ -315,6 +316,7 @@ Nenurodyta
 - id: c-173890
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip Darijus buvo
     priverstas greitai pereiti visą Skitiją, persikelti per to­
@@ -336,6 +338,7 @@ Nenurodyta
 - id: c-173892
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Dėl įvairių trūkumų
     reikėjo trauktis tuo pat keliu, kuriuo kariuomenė buvo
@@ -357,6 +360,7 @@ Nenurodyta
 - id: c-173893
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ko
     gero, remdami Skitijos kolonistus graikus, persai palaikė
@@ -389,6 +393,7 @@ Nenurodyta
 - id: c-174749
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     59
 

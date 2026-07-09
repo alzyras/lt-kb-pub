@@ -170,6 +170,7 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
 - id: c-174124
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Humboltas** tvirtina, jog, kai skystoji materija staiga
     atsiskyrė nuo kietosios, Žemės rutulyje atsirado tiek ener­
@@ -186,6 +187,7 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
 - id: c-174125
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be viso to, dar prisiminkime, ką dėstė daug seno­
     vės autorių nuo Jordano* ir net iki Rudbeko** ir Ba­
@@ -218,6 +220,7 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
 - id: c-174126
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Todėl viskas prasidėjo nuo Siaurės, nes prie
     pusiaujo dėl karščio niekas negalėjo augti. Tai taip pat

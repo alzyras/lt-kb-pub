@@ -123,6 +123,7 @@ Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką api
 - id: c-169683
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Rodė­
     si, kad miestas netrukus bus
@@ -151,6 +152,7 @@ Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką api
 - id: c-169684
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Žy­
     gūnui įsakė joti tokiais keliais, kad atrodytų, jog jisai

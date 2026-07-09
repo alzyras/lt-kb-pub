@@ -90,6 +90,7 @@ Vilniaus universiteto bibliotekoje, prie Diplomatinio koJekso) In Nomine Domini 
 - id: c-84294
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui
     ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems

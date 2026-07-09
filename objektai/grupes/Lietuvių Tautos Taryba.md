@@ -79,6 +79,7 @@ Rusijoje 1917 metų kovo mėnesį iš visokių srovių buvo sudaryta Lietuvių T
 - id: c-01627
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     **1917 m. lietuvių seimas Petrapily.** Rusijoje 1917 metų kovo
     mėnesį iš visokių srovių buvo sudaryta Lietuvių Tautos Taryba,

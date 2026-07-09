@@ -206,6 +206,7 @@ Nenurodyta
 - id: c-00233
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Reikšmingą vietą aisčių religijoje turėjo ugnis. Ji buvo
     ne tik dievybė — per ją žmonės susižinodavo su savo dievais, su-
@@ -222,6 +223,7 @@ Nenurodyta
 - id: c-00234
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tokios vietos buvo savotiškos šventovės. Ugnis buvo
     gerbiama ne tik šventovėje, bet ir kiekvienų namų židiny, kur,
@@ -239,6 +241,7 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Jokio vyriau­
     siojo krivės arba, kaip S. Grunau vadina, Krivių Krivaičio
@@ -261,6 +264,7 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Iš kulto labiausiai tų laikų svetimšaliams į akis yra kri­
     tęs lietuvių ugnies kultas, kurio esmė taip pat nežinoma. Su

@@ -194,6 +194,7 @@ Nenurodyta
 - id: c-168895
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Per No-
     tangos kraštą įžengę į priešų žemę, jie, ketindami per­
@@ -235,6 +236,7 @@ Nenurodyta
 - id: c-168896
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Štai todėl jie nutarė kokia nors nedidele
     pergale atimti priešui iš pat pradžių progą džiaugsmui
@@ -261,6 +263,7 @@ Nenurodyta
 - id: c-168897
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kai pasirodė iš užnugario grėsmingi barbarai,
     kurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas

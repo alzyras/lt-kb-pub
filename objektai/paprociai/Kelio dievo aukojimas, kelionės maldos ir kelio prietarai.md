@@ -255,6 +255,7 @@ Nenurodyta
 - id: c-172658
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pasak Strijkovskio, senovės laikais kelių dievaičiui auko­
     davo baltas vištas. Aukoj antys ir besimeldžiantys būdavo tary­
@@ -271,6 +272,7 @@ Nenurodyta
 - id: c-172659
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     ()*
     163
@@ -296,6 +298,7 @@ Nenurodyta
 - id: c-172660
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Niekas
     neišdrįsdavo atsisėsti ant tų akmenų, prieš tai nesukalbėjęs
@@ -320,6 +323,7 @@ Nenurodyta
 - id: c-172661
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O
     dėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo
@@ -340,6 +344,7 @@ Nenurodyta
 - id: c-172662
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Stebėtinai panašu į senovės romėnų prietarus;
     tegul skaitytojas teikiasi prisiminti Horacijaus 27-ąją odę iš 3-

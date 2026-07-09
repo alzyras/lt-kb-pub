@@ -104,6 +104,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
 - id: c-59153
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     334 D.— Ochtolite, Jer.— Ouctolîte; vėlesnis Auglitten kair. Alnos krante aukščiau
     Alenburgo (dab. Družba). Piliavietėje vėliau buvo pastatyta bažnyčia (Ewald A.
@@ -117,6 +118,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
 - id: c-59154
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     75 (74). Apie tai, kaip buvo paimtos kitos pilys ir pavergta Vonsdorfo žemė
 

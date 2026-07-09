@@ -198,6 +198,7 @@ Nenurodyta
 - id: c-04922
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie­
     tuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų 54 55.
@@ -213,6 +214,7 @@ Nenurodyta
 - id: c-04923
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Žemaičiai, kuriems buvo atneštos žinios, kad «javams
     nunokus» prasidėsiąs karas^58 , sukilo dar gegužės mėn. (1409). Jie
@@ -229,6 +231,7 @@ Nenurodyta
 - id: c-04925
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tuo pat laiku,
     kai kryžiuočiams galutinai išslydo Žemaičiai, jie buvo priversti
@@ -244,6 +247,7 @@ Nenurodyta
 - id: c-67088
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Kai sukilimas apėmė visą Žemaičių kraštą, kuriame jau nuo
     1408 galo buvo atsiradę iš Vytauto Lietuvos « pašaliečių », ordinui

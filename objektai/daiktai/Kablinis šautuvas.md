@@ -194,6 +194,7 @@ Nenurodyta
 - id: c-75868
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Totoriai, nukirtę
 
@@ -209,6 +210,7 @@ Nenurodyta
 - id: c-75869
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Šaudymo metu kablys būdavo užkabinamas už įtvirtinimų, kitokio statinio arba vežimo krašto, kuris kaip at-
     rama perimdavo šūvio atatranką. Šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi. Atvirame lauke toks ginklas būdavo statomas
@@ -223,6 +225,7 @@ Nenurodyta
 - id: c-75870
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Priekyje, prie ginklo apačios, pritvirtintas stačiai žemyn nukreiptas kablys, skirtas sušvelninti šūvio atatranką,
     kuri būdavo ypač stipri naudojant tokio didelio kalibro šautuvus. Šaudymo metu kablys būdavo užkabinamas už įtvirtinimų, kitokio statinio arba vežimo krašto, kuris kaip at-
@@ -237,6 +240,7 @@ Nenurodyta
 - id: c-167076
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi. Atvirame lauke toks ginklas būdavo statomas
     ant skydo, kitokio stovo arba ant gurguolės vežimo borto. Jis buvo ypač parankus ginant miestų sienas bei pilis

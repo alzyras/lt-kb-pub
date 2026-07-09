@@ -63,6 +63,7 @@ Ir jis paskyrė jiems kitą chaną, vardu Ma žąjį Saladiną.
 - id: c-176751
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Nedaug laiko praėjus, jis atsisakė valdžios, o ki­
     ti Ordos vyresnieji nusiuntė pasiuntinius pas šlovingąjį

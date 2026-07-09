@@ -91,6 +91,7 @@ Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
 - id: c-75117
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Etninės Lietuvos miestuose atsirado ir rusų kultūros židinių, bet jie te-
     buvo politiškai viešpataujančios rusų mažumos kultūrinio gyvenimo da-

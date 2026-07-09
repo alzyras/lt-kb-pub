@@ -75,6 +75,7 @@ Iš iki tol nepaliestų Lovičiaus apygardų buvo išgabentas didžiulis grobis,
 - id: c-168689
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Po to kitą vasarą vėl kariuomenę nusiuntė į Mazovi­
     ją: kadangi čia negalėjo priešo įvilioti į mūšį, o po

@@ -77,6 +77,7 @@ Narbutas Šakjamunį apibūdino kaip tautos mokytoją, išminčių ir įstatymų
 - id: c-173107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tačiau tas
     palyginimas kilo nežinant esmės, todėl mažai pritaikomas da­

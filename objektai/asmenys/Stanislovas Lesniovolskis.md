@@ -80,6 +80,7 @@ Susirgęs Zebžidovskis perdavė pareigas Stanislovui Lesniovolskiui ir patarė 
 - id: c-169441
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Z ebžidovskis pro Polocką
     atžygiavo į Jezeriščę, q pask u i į N evelį. S taig a ten  su­

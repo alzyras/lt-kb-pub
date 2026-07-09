@@ -78,6 +78,7 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
 - id: c-70508
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių
     šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir

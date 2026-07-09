@@ -95,6 +95,7 @@ Nenurodyta
 - id: c-83255
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir
     Krėvos kunigaikštis Aleksandras Vygantas, vienas energin­

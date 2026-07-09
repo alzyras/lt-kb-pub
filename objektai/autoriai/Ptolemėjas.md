@@ -539,6 +539,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174396
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Mes net nežinome, ar tai buvęs tik
     vardas lėtų, arba veikiau lietuvių, genties, ar visai at­
@@ -559,6 +560,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Nestoras irgi nusirašė visa tai. Esmė ta,
     kad Ptolemėjas mini ir chiotus, bet tokioje pavadinimų,
@@ -579,6 +581,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174399
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kelio ilgis sutampa su
     Plinijaus skaičiavimais1 — 600 romėnų miliarijų, o tai
@@ -598,6 +601,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174400
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš įvairių Karaliaučiaus Slaptajame archy­
     ve esančių transakcijų ponas Foigtas1 teigia, jog viena
@@ -621,6 +625,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174401
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tad mes skyrėme daug dėme­
     sio, kad pažintume alanus; skaitytojas jau susipažino su
@@ -651,6 +656,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174402
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Juk tarp visų lietuvių nebuvo
     jokios atskiros genties, kuri būtų vadinama Prūsija ir
@@ -670,6 +676,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174403
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Si provincija
     plytėjo prie Vyslos, arčiausiai ribojosi su slavų gentimis,
@@ -690,6 +697,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174404
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kryžiuočiams val­
     dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
@@ -714,6 +722,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174405
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ten, miškuose, yra akmeninių pas­
     tatų griuvėsių ir ant kalvų piliaviečių, primenančių žilą
@@ -734,6 +743,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174406
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     270
     Lietuvos provincijos. Stavanus Ptolemėjas vadina Sta-
@@ -750,6 +760,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174407
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Senovės tyrinėtojai teigia, kad Vendenas Livoni­
     joje yra jų kolonija, kurią senovės lyviai vadino Kisia.
@@ -767,6 +778,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-177284
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Dies machten die Tagro-Jazygen.
     Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,

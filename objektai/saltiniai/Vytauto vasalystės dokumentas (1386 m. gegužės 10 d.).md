@@ -99,6 +99,7 @@ Vilniaus - (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Bet Vytautui mirus, vėl
     jo valdžia turėjo atitekti į Jogailos ir karūnos rankas. Kitokios

@@ -75,6 +75,7 @@ Tuo pat metu Lenki­ joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, 
 - id: c-82791
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šį karą kurstė neblėstantis
     Prūsijos ir Livonijos kryžiuočių įniršis. Tuo pat metu Lenki­

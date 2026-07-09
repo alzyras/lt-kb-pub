@@ -90,6 +90,7 @@ Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meo
 - id: c-175647
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Jų kraštas derlingas, turtingas tankių miškų, o
     didžiausiame miške yra pelkėtas, nendrėmis apaugęs

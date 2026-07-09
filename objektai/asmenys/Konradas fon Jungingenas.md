@@ -90,6 +90,7 @@ Munkaviškės Didysis Ordino magistras, vyriausiasis Ordino kariuomenės vadas U
 - id: c-41384
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Munkaviškės
 

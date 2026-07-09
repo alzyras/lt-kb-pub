@@ -144,6 +144,7 @@ Religinė Odoakro charakteristika šaltinyje.
 - id: c-175085
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     vertus, jie nematė kito būdo įtikti kariuomenei. Išsaugo­
     ję tai, ką jiems paliko jų ponai, jie galėjo tikėtis saugu­
@@ -162,6 +163,7 @@ Religinė Odoakro charakteristika šaltinyje.
 - id: c-175341
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Išsaugo­
     ję tai, ką jiems paliko jų ponai, jie galėjo tikėtis saugu­

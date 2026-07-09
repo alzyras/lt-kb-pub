@@ -94,6 +94,7 @@ Nenurodyta
 - id: c-172520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Jeronimą sudegino gyvą Konstancoje 1416 metais bir­
     želio 21 dieną2.

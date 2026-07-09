@@ -58,6 +58,7 @@ Dusburgietis teigia, kad semkowicz-Zarembina); Dąbrowski J.
 - id: c-61325
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     80  Dlugossii J. Annales..., lib. VI, VII et VIII, IX; Długosz J. Roczniki..., ks. 1—2, s.
     43—47 (W. Semkowicz-Zarembina); Dąbrowski J. Dawne dziejopisarstwo..., s. 217, 227.

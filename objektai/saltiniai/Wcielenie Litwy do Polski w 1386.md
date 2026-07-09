@@ -82,6 +82,7 @@ media_all_json: |-
 - id: c-33755
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     : _Unja Litwy z Polską,_
     PiL, 1914, 452-658 p. — Lewicki, A. : _Über das staatsrechtliche

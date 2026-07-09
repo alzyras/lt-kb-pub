@@ -73,6 +73,7 @@ media_all_json: |-
 - id: c-82245
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     8tio, plytinę su žemės sklypu ir lanka Antakalnyje paė­
     mę, jie artylleryi judicialiter pralaimėjo, kadangi, dokumentų

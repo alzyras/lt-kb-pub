@@ -74,6 +74,7 @@ Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus �
 - id: c-169470
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tiesa, jis n eu žp u o lė L ivonijos, žinodam as, k ad  ten
     g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti

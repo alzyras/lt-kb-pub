@@ -134,6 +134,7 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
 - id: c-78589
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Algirdas viešai nubaudė to žiauraus poelgio vadei­
     vas ir liepė paskelbti visame krašte valią nevaržomiems
@@ -164,6 +165,7 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
 - id: c-167998
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vaišvilkas mat, pasipiktinęs savo tėvo Min­
     daugo atsimetimu nuo krikščionių tikybos, pabėgo pas

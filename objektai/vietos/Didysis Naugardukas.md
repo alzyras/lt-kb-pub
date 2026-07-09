@@ -94,6 +94,7 @@ media_all_json: |-
 - id: c-170287
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tuo tarpu M. Miechovitos
     Lenkijos istorijoje vaizduojama, kad tame mūšyje Kry­

@@ -110,6 +110,7 @@ Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruten
 - id: c-61051
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Problemą bandyta spręsti dar XV a.: Prūsijos vardas buvo siejamas su Bitinijos karaliumi
     (II a. pr. m. e.) Prūsijumi (Długossii J. Annales..., kn. II, p. 216); kitur Prūsijos pradžia
@@ -125,6 +126,7 @@ Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruten
 - id: c-177116
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Išeitų, kad dievo Šneibrato mitas virto nusipelniusio tau­
     tai dievinamo vyro simboliu, kadangi tie patys kronikininkai

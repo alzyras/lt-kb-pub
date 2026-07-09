@@ -282,6 +282,7 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
 - id: c-170406
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Šventasis metropolitas
     Kiprijonas2 7  su arkivyskupais ir vyskupais, su archi­
@@ -311,6 +312,7 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
 - id: c-170407
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didysis kunigaikštis Kęstutis, sušaukęs savo Žemai­
     čių žemę ir visą kariuomenę, traukia prie Neries. O di­
@@ -330,6 +332,7 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
 - id: c-170408
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didžiajai kunigaikštienei Onai 1 5  mirus, didysis ku­
     nigaikštis Algirdas vedė Tverės didžiojo kunigaikščio
@@ -352,6 +355,7 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
 - id: c-170409
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­
     gaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­
@@ -372,6 +376,7 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
 - id: c-176658
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Vyriausias—Jogaila Vladislovas1 8 ;
     antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­

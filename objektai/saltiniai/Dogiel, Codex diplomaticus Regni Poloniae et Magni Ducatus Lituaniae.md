@@ -81,6 +81,7 @@ Motiejaus Dominiko Dogelio „Codex diplomaticus Regni Poloniae et Magni Ducatus
 - id: c-174714
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Čia cituojama įžymaus archeografo Motiejaus
     Dominiko Dogelio (1715—1760) šaltinių pub­

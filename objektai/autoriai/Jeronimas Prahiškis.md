@@ -136,6 +136,7 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
 - id: c-173205
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tie­
     sa, aukštasis dvasininkas gėdingai nužudė lordą, bet įpūtė po
@@ -158,6 +159,7 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
 - id: c-177058
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tenai nors tarėsi su Husu, sa­
     vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,

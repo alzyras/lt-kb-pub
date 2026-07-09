@@ -141,6 +141,7 @@ Nenurodyta
 - id: c-82909
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Varšuvoje valdžios apkaltintas „lenkiškuo­
     ju patriotizmu", M. Balinskis nutylėjo apie savo dalyvavimą
@@ -165,6 +166,7 @@ Nenurodyta
 - id: c-82910
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     1855 m. ca­
     rui Aleksandrui II pradėjus liberalias reformas, Rusijos imperi­

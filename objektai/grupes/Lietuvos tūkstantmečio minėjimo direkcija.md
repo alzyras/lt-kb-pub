@@ -112,6 +112,7 @@ Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Re
 - id: c-82785
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     UDK 947.45
     Ba237

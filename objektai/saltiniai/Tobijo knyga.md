@@ -123,6 +123,7 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
 - id: c-61948
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
     šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
@@ -146,6 +147,7 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
 - id: c-167382
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     PRŪSIJOS ŽEMĖS
        KRONIKA

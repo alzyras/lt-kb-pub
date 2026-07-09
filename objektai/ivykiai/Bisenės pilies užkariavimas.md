@@ -128,6 +128,7 @@ Nenurodyta
 - id: c-66711
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kita kariuomenės dalis įsibrovė  į šios pilies
     apylinkes ir, nusiaubusi kraštą ugnimi, su didžiausiu grobiu sugrįžo atgal. Šio antpuolio
@@ -148,6 +149,7 @@ Nenurodyta
 - id: c-66712
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     222 (217). Apie Lietuvos pilies, vardu Bisenė, užkariavimą
 

@@ -83,6 +83,7 @@ media_all_json: |-
 - id: c-33739
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^123) **_Pravoslavų dvasininkija ir nacionalinė priespauda Lietuvoje XIX a.
     antrojoje pusėje_** **(IstV, t. 8, 1966, 76-93 p.) ;** **_Lietuviškos spaudos draudimas

@@ -148,6 +148,7 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
 - id: c-174447
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     80
     Vėlesni padavimai. Apie estus nėra žinių nuo Tacito
@@ -166,6 +167,7 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
 - id: c-174448
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     2 Kasiodoro raštų rinkinyje (Variarum. Lib. V. Epistola 2). Apie
     tai
@@ -181,6 +183,7 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
 - id: c-174449
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ostrogaias reiškia rytų galą.
     3 Šie dokumentai yra Kasiodoro laiškų rinkinyje.

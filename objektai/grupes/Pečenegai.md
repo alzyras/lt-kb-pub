@@ -98,6 +98,7 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
 - id: c-175759
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Juo labiau kad poloviečiai nebuvo atskira tauta, bet bu­
     vo palikuonys ar dalis pečenegų, kurie, — o tai pana­

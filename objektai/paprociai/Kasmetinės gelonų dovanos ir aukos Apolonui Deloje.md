@@ -125,6 +125,7 @@ Nenurodyta
 - id: c-175794
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Todėl mano­
     ma, kad tai turėjo įvykti ne vėliau kaip VI amžiaus prieš
@@ -144,6 +145,7 @@ Nenurodyta
 - id: c-177269
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Herodotas
     prisimena buvus tokį miestą prie Juodosios jūros, kur

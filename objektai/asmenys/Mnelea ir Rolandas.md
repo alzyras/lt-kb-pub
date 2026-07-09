@@ -81,6 +81,7 @@ Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba m
 - id: c-173069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dabar sunku tinkamai atskleisti to mito prasmę: pirma,
     apeigos buvo slaptos, antra, painiava net senovės mitologų vei­

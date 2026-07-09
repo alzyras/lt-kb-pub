@@ -220,6 +220,7 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
 - id: c-172323
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     428
 
@@ -248,6 +249,7 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
 - id: c-172324
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     (Vietos ar srities burtininko krivio valdžios
     ženklas, arba dvasininko lazda, liaudies kalba
@@ -273,6 +275,7 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
 - id: c-172326
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Turime dar pakartotinai panagrinėti šį lietuvių mitologi­
     jos fragmentą, kadangi, gavę jį pavėluotai, negalėjome sudėti
@@ -293,6 +296,7 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
 - id: c-176969
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dabar pateiksime šį lietuvių mitologijos gabalėlį.
     Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­

@@ -123,6 +123,7 @@ Nenurodyta
 - id: c-169107
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Prūsijoje plintanti Liuterio sekta su­
     sirado pasekėjų Gdanske ir smarkiai sukrėtė tokį iki
@@ -145,6 +146,7 @@ Nenurodyta
 - id: c-169108
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Savava­
     liškai jie paskelbė įstatymą,

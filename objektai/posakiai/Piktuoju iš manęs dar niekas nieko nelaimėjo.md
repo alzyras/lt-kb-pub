@@ -71,6 +71,7 @@ media_all_json: |-
 - id: c-00372
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Vytautas supykęs atrėžė:
     — Maršalka, tu labai gerai žinai, kad piktuoju iš ma-

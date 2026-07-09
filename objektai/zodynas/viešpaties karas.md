@@ -72,6 +72,7 @@ Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir �
 - id: c-59573
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino
     riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus

@@ -187,6 +187,7 @@ media_all_json: |-
 - id: c-83415
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pasiligojusi Vytauto žmona Julijona bu­
     vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­
@@ -209,6 +210,7 @@ media_all_json: |-
 - id: c-83416
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Betgi yra ir
     Rudamina, miestelis, arba bažnyt­
@@ -253,6 +255,7 @@ media_all_json: |-
 - id: c-83417
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tai kaimas, išsidėstęs tarp dide­
     lių girių, per keturias mylias nutolęs nuo Vilniaus į pietva­

@@ -123,6 +123,7 @@ Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vien
 - id: c-171871
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­
     liose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai
@@ -140,6 +141,7 @@ Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vien
 - id: c-175921
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Nors ir merdėdamas, ordinas
 

@@ -321,6 +321,7 @@ media_all_json: |-
 - id: c-82054
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kazimiero mirtis —  Didysis kunigaikštis
     Aleksandras suteikia Vilniui naujų privilegijų —  Jo vedybos su
@@ -356,6 +357,7 @@ media_all_json: |-
 - id: c-82055
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jogaila taip pat
     nesvyravo, ar jam, tikram broliui, pavesti savo valdžią Lie­
@@ -376,6 +378,7 @@ media_all_json: |-
 - id: c-168327
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Praėjus kelioms
     dienoms, pasidavė Suražas, vėliau po staigaus antpuolio
@@ -397,6 +400,7 @@ media_all_json: |-
 - id: c-168328
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Veikiau norėdamas len­
     kus labiau palenkti į karalių, Vytautas galop sutiko nu­
@@ -421,6 +425,7 @@ media_all_json: |-
 - id: c-170527
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tais pačiais metais Lietuvos žemę ištiko baisus ba­
     das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,

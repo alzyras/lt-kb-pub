@@ -72,6 +72,7 @@ Narbutas Šventamiestį Prūsuose apibūdina kaip didelę Kurko šventovę, kuri
 - id: c-171992
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Skaityk straipsnius „Vaidilutės“,
     „Birutė“.

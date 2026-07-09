@@ -102,6 +102,7 @@ Prekybos sutartis su Pskovu, kaip ir prieš metus sudarytoji su Naugardu, buvo p
 - id: c-83654
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Didysis kunigaikštis pra­
     neša, kad jo pageidavimu „garbin-

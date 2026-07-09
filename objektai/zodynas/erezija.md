@@ -82,6 +82,7 @@ Petras Skarga sakė, kad nuo krikščionybės atsimetę ar prie erezijų prisid�
 - id: c-168763
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tie lietuviai
     pagonys kilnūs, išmintingi ir narsūs, kurie buvo išti­

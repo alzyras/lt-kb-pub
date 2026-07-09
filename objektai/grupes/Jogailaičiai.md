@@ -258,6 +258,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - id: c-22426
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Pabaiga arba išbarstyti
     Lietuvos veidai
@@ -280,6 +281,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - id: c-102461
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     IV KNYGA
     didžponiai, nors jų norą keltis į puikybę ir visur vadovauti
@@ -307,6 +309,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - id: c-102463
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     To suartė-
     jimo ryškiausia manifestacija buvo 1515 m.
@@ -329,6 +332,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - id: c-176217
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Okupacijos ir aneksijos, tremtys, genocidai ir
     Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-

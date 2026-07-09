@@ -84,6 +84,7 @@ Pasak Teodoro Narbuto, Jordanas rašė, kad Filimero gotai 161 m., persikėlę �
 - id: c-174607
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kadangi Rusios tema mūsų
     jau pakankamai išnagrinėta, nelaikydami jos atsikira pro­

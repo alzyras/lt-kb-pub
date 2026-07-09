@@ -147,6 +147,7 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
 - id: c-21555
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuvos bėda, kad
     ji dažnu atveju nesuspėjo ar neturėjo galimybių pasiekti „gilesnę“ Europą
@@ -168,6 +169,7 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
 - id: c-73365
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuo metu Lenkų valstybė stengėsi susigrąžinti sau visus bajo-
     rų kuriuo nors būdu pasisavintus dvarus ir atiminėjo visas žemes,
@@ -187,6 +189,7 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
 - id: c-73367
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Viena iš
     jų ištekėjo už Hohencolerno; jos sūnus buvo paskutinysis kryžiuočių

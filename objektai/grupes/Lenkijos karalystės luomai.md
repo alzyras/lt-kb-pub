@@ -73,6 +73,7 @@ Vytauto pasiuntiniai Korčino seime išdėstė Lenkijos karalystės luomams vald
 - id: c-168812
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
     niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.

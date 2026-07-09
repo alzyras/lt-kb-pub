@@ -66,6 +66,7 @@ Dusburgietis teigia, kad pradžios lotyniškuose Torunės analuose — Ragniten,
 - id: c-61867
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     12, 18, 22, 43). XV a. vokiškame rankraštyje — Ragnith (SRP,
     2, p. 709). XV a. pradžios lotyniškuose Torunės analuose — Ragniten, o jų pagrindu

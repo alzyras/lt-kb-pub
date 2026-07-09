@@ -80,6 +80,7 @@ Narbutas Vindavos upės pavadinimą laikė pėdsaku venedų slavų, galėjusių 
 - id: c-175681
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pasakysime tiktai tiek, kad venedams priklausė ne viena
     gentis, labai dominanti mūsų veikalą, o panagrinėję pa­

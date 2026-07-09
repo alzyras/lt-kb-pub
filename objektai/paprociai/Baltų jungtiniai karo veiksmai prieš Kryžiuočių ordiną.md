@@ -240,6 +240,7 @@ Nenurodyta
 - id: c-60357
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios
     Klaipėdos pilies apgulties eigoje (XIII a. 6-asis dešimtmetis)30. Priešiškuose lietuviams
@@ -261,6 +262,7 @@ Nenurodyta
 - id: c-60358
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Užgrobtų žemių gyventojai buvo pavergti, bet dalis nadruvių, pagudėnų, sūduvių,
     bartų ir kt. rado prieglobstį Lietuvos valstybės teritorijoje (III, 179, 191, 211, 217, 219,
@@ -282,6 +284,7 @@ Nenurodyta
 - id: c-60359
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
     tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir
@@ -301,6 +304,7 @@ Nenurodyta
 - id: c-60360
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė
     aplinka sunkino bendrą kovą prieš Ordino agresiją. Vis dėlto Lietuva ir toliau liko pagrindinė,

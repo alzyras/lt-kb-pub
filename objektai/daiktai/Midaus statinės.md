@@ -95,6 +95,7 @@ Nenurodyta
 - id: c-170051
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     M  Gėrimų ir valgių kiekiai, kuriuos Vytautas suvaišino Lucke
     savo svečiams, Lietuvos metraščiuose vis didinami: pagal TS išgerta

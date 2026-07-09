@@ -103,6 +103,7 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
 - id: c-69324
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Žuvusiam maršalkai Schindekopui pamin-
     klinis kryžius buvo pastatytas tuojau po
@@ -125,6 +126,7 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
 - id: c-69325
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tada
     Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.

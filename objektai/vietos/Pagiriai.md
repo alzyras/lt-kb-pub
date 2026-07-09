@@ -157,6 +157,7 @@ media_all_json: |-
 - id: c-45251
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     III. 25“
 
@@ -178,6 +179,7 @@ media_all_json: |-
 - id: c-45252
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     @ Tuo pat metu lenkų kavalerijos brigada užima Pagirius, jų judėjimą seka
     ir kolonas atakuoja lietuvių karo lėktuvai. Naktį lenkai priartėja prie

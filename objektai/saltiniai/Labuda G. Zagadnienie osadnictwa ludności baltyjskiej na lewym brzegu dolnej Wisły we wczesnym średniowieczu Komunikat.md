@@ -77,6 +77,7 @@ Dusburgietis teigia, kad labuda G.
 - id: c-61757
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Labuda G. Zagadnienie osadnictwa ludności baltyjskiej na lewym brzegu dolnej Wisły
     we wczesnym średniowieczu: Komunikat.—Konferencja pomorska (1978), Wrocław—

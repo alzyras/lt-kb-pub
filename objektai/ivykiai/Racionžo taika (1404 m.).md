@@ -168,6 +168,7 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Taip pat buvo susitarta
     užkariauti savarankiškus, turtingus ir prekybai patogius Psko­
@@ -191,6 +192,7 @@ Nenurodyta
 - id: c-88379
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Vytautui buvo svarbu turėti laisvas rankas atsi-
     metusiam Smolenskui atgauti. Todėl 1404 m. Racionže
@@ -208,6 +210,7 @@ Nenurodyta
 - id: c-177367
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Be to, pajutę Maskvos Vasiliaus priešingumą uošviui, ėmė
     šiauštis eilė didžiojo Lietuvos kunigaikščio priklausomybėje esančių

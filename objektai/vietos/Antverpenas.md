@@ -79,6 +79,7 @@ Antrasis Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“ tomas išėjo 1
 - id: c-168602
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     A. Kojelavičius nebegalėjo tikėtis tokio pasiseki­
     mo, kokio susilaukė A. Gvagninis, nors jo istorija para­

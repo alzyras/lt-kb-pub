@@ -154,6 +154,7 @@ Nenurodyta
 - id: c-63580
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Gardino pilies sunaikinimą
 
@@ -175,6 +176,7 @@ Nenurodyta
 - id: c-63581
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vieniems drąsiai puolant, kitiems atkakliai ginantis, viena ir kita šalis neteko
     daugybės [karių] užmuštaisiais ar sužeistaisiais. Galop iš dievo malonės broliai įsiveržė
@@ -192,6 +194,7 @@ Nenurodyta
 - id: c-63583
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Galop iš dievo malonės broliai įsiveržė
     į pilį ir ją sudegino, o visus [pilėnus] išžudė arba paėmė  į nelaisvę. Po to tūkstantis

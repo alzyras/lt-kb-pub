@@ -80,6 +80,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - id: c-25068
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė
     1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir

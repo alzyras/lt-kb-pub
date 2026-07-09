@@ -75,6 +75,7 @@ LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, a
 - id: c-23826
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš
     Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis

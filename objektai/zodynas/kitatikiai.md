@@ -80,6 +80,7 @@ Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII am
 - id: c-46901
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Nors ir nebuvo įstatymų, varžančių kitas tikybas, tačiau
     katalikiškoji bajorijos dauguma jautėsi galinti savo tikėjimo

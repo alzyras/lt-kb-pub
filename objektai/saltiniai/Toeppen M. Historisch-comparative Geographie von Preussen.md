@@ -68,6 +68,7 @@ Dusburgietis teigia, kad toeppen M.
 - id: c-61949
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858.
   statusas: verified

@@ -107,6 +107,7 @@ Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe. Sanas apibūdi
 - id: c-170354
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     2 d. mini Jonas iš Carnkovo (Monumentą Polonlae
     Historica. t. II, p. 674—675) ir pagal j| J. Dlugošas (Dziejėvr pols-

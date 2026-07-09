@@ -110,6 +110,7 @@ Nenurodyta
 - id: c-65533
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Zigmantas II (Senasis),
     1506—1548 m. d. Lietuvos kunigaikštis ir
@@ -125,6 +126,7 @@ Nenurodyta
 - id: c-65534
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Zigmantas buvo augalotas ir tvirtas vyras;
     sako jį galėdavus perlaužti pasagą ir pertraukti storoką kanapinę

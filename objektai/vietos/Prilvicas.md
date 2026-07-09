@@ -135,6 +135,7 @@ Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir 
 - id: c-171854
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­
     dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­
@@ -153,6 +154,7 @@ Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir 
 - id: c-177140
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Buvo ir lietuvių valdo­
     vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-

@@ -181,6 +181,7 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - id: c-170750
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Wilno, naktadem i drukiem
     A. Marcinowskicgo, 1835.
@@ -211,6 +212,7 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - id: c-171065
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     202 D. prophetissa — tai burtininkė, žynė, padedanti žmonėms; gydanti žmones
     ar galvijus, spėjanti ateitį ir pan. J. Bretkūno ir M. Daukšos postilėse (1591 ir 1599)
@@ -228,6 +230,7 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - id: c-176939
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Legendiniai kunigaikščiai sietini su žyniauti gebėjusių asmenų
     gimine (Vėlius N., Senovės baltų..., p. 226—229), ši tradicija, atrodo, išliko ir vėliau,

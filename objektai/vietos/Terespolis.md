@@ -180,6 +180,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 - id: c-106016
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tai didelis jo nuopelnas.
     M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­
@@ -197,6 +198,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 - id: c-106017
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Rusų kavalerija sugebėjo keliose Bugo
     brastose forsuoti upę ir ji pasileido pas-
@@ -220,6 +222,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 - id: c-106018
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Būsimo
     istoriko motina - Ona Balevičiūtė. Terespolis nebuvo Balinskių

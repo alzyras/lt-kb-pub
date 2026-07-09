@@ -95,6 +95,7 @@ Tantae fuit auctoritatis, quod non solum ipse vel ali quis de sanguine sua, veru
 - id: c-177180
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tantae fuit auctoritatis, quod non solum ipse vel ali­
     quis de sanguine sua, verum et nuntius cum baculo suo vel alio

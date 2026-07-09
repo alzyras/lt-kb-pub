@@ -108,6 +108,7 @@ Odojevas lokalizuojamas prie Upos upės. Upa šiame gabale apibūdinama kaip Oko
 - id: c-170380
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     M irė 1401 m.
     1 1  Lucko suvažiavime dalyvavo kryžiuočių ordino didžiojo ma­

@@ -72,6 +72,7 @@ Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes ir magistrui Dani
 - id: c-33354
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Naudodamasis tokia savo priešų nesantaika, Mindaugas pirmasis iš
     lietuvių kunigaikščių gelbėjosi iš savo sunkios padėties, kreipdamasis

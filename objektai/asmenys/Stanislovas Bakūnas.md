@@ -78,6 +78,7 @@ Stanislovas Bakūnas 1587 metais pasirašė prie antspaudo, kurio skydas padalyt
 - id: c-173126
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     IV lentelė, 30-asis piešinys. Ypatingo skydo, perskirto į 2
     dalis, dešiniojoje pusėje kažkas panašaus į varpą, kairiojoje -

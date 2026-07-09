@@ -63,6 +63,7 @@ Vaišvilkas 1 ėmė kunigaikščiauti visoje Lietuvos že mėje ir žudyti savo 
 - id: c-176671
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Visa Lietuva sutiko
     savo valdovo sūnų didžiai džiaugdamasi.

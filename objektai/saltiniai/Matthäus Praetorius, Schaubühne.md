@@ -70,6 +70,7 @@ Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama ka
 - id: c-174677
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pavadinimas kilęs iš lietuvių
     sudargų genties1 2, kurios dauguma priklausė Rusiai ir

@@ -177,6 +177,7 @@ Nenurodyta
 - id: c-169911
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tą pačią žiemą didysis kunigaikštis
     Aleksandras su didžiąja kunigaikštiene Elena bei su
@@ -204,6 +205,7 @@ Nenurodyta
 - id: c-169912
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     53. APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO
     ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA

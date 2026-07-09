@@ -122,6 +122,7 @@ Nenurodyta
 - id: c-02128
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Būdavo taip pat atsitikimų, kad valstiečiai kai kur net su-
     kildavo. Ypač garsus buvo 1769 m. Šiaulių ekonomijos vals-
@@ -137,6 +138,7 @@ Nenurodyta
 - id: c-02129
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tai buvo neramūs tik ką prasidėjusios Baro
     konfederacijos laikai. Tuo pat metu buvo sukilę Ukrainos

@@ -114,6 +114,7 @@ Nenurodyta
 - id: c-83291
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     „Tad tenai Gedimi­
     nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­

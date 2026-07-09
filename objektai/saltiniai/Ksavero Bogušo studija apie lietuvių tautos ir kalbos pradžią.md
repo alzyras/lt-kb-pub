@@ -115,6 +115,7 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
 - id: c-173375
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Bandymas kurti gryna lietuvių kalba:
     Ovidijaus „Metamorfozių“ fragmentas (II knygos 1-30 ei­
@@ -134,6 +135,7 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
 - id: c-173376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     30
     30

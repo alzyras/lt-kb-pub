@@ -90,6 +90,7 @@ Nenurodyta
 - id: c-172822
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nors paprotys senovinis, virtęs teise, bet pik­
     tnaudžiauti juo nepateisinama. Todėl blogai daro kunigai, ku­

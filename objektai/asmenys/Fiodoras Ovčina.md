@@ -157,6 +157,7 @@ Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivad
 - id: c-169400
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Po
     1534 m e ta i
@@ -189,6 +190,7 @@ Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivad
 - id: c-169401
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tiesa, tą karą jie pradėjo nei paskatinti, nei
     įsakyti valdovo, kuris, nė devynerių metų nesulaukęs,

@@ -83,6 +83,7 @@ Lenkų ir rusų bolševikų kare Lietuva paskelbė neutralitetą ir rūpinosi ap
 - id: c-99276
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tačiau, vengdama kraujo praliejimo,
     Lietuvos vyriausybė sutiko dalyvauti konferencijoj, kad tiesio-

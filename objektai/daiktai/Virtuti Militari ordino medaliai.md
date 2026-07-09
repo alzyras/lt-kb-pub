@@ -94,6 +94,7 @@ Nenurodyta
 - id: c-44687
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     60 užmuštųjų. Iš tikrųjų jie turėjo būti bent
     10 kartų didesni, nes nors lietuviai ir trau-

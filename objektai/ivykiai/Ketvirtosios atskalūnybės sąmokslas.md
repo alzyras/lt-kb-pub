@@ -118,6 +118,7 @@ Nenurodyta
 - id: c-167315
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama
 

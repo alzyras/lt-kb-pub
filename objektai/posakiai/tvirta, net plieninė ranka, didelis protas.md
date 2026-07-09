@@ -68,6 +68,7 @@ Tam buvo reikalinga tvirta, net plieninė ran­ ka, didelis protas.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Tam buvo reikalinga tvirta, net plieninė ran­
     ka, didelis protas. Šitas ypatybes kaip tik ir turėjo Kęstučio

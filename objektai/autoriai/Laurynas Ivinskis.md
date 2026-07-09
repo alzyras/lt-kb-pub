@@ -120,6 +120,7 @@ media_all_json: |-
 - id: c-104710
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Aplenkėjusi Lietuvos bajorija tuo sąjūdžiu nesidomėjo: jai
     terūpėjo savi luominiai reikalai ir kova dėl senųjų valstybinių
@@ -139,6 +140,7 @@ media_all_json: |-
 - id: c-104711
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kituose Gazeta Warszawska spausdintuose straipsniuo­
     se istorikas detaliai aprašė Vilniaus Archeologinės komisijos

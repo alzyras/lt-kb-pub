@@ -111,6 +111,7 @@ Vyskupijoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenk
 - id: c-22514
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Daugiausia dėmesio jie skyrė katalikišką
     doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai. Kartu su
@@ -132,6 +133,7 @@ Vyskupijoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenk
 - id: c-72551
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Kartu su
     būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Anta-

@@ -74,6 +74,7 @@ Narbutas rašė, kad Lietuvoje mirusieji dažniausiai laidoti karstuose žemėje
 - id: c-172420
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     „Palaidojimo vietoje trimituoja, dainuoja: „Eik, vargše, iš
     šio vargano pasaulio, pilno visokio vargo, į amžinas vestuves;

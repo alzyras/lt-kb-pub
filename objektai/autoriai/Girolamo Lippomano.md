@@ -89,6 +89,7 @@ media_all_json: |-
 - id: c-44607
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tik viename pranešime apie
     mūšį su nuostaba rašoma: „Visų keisčiau-

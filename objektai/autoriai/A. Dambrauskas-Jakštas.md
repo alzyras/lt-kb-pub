@@ -77,6 +77,7 @@ Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl., Roma^2 1975.
 - id: c-32867
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Metraštis, V tomas, VIII-623 psl., Roma 1970 16 dol.
     Metraštis, VI tomas, spausdinama

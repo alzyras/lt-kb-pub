@@ -69,6 +69,7 @@ Dusburgietis teigia, kad žodis dažnai apibūdina gyvenvietę iki miesto privil
 - id: c-61340
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Žodis dažnai apibūdina gyvenvietę iki miesto
     privilegijos suteikimo (Grieser R. Lischke..., p. 232—241), plg. vietoves Lisken (į šiaurę

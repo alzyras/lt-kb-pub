@@ -69,6 +69,7 @@ Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesn
 - id: c-01314
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Projekto autorius buvo universiteto bibliotekininkas K. Kantri-
     mas. Katedros vedėju buvo numatytas raseiniškis mokslintas ba-

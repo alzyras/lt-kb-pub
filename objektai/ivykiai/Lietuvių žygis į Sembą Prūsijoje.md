@@ -102,6 +102,7 @@ Nenurodyta
 - id: c-169175
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Iš žvalgų gavęs žinią, kad, keršijant dievo rūs­
     tybei, totoriai smarkiai niokoja Sandomiro, Seradzo ir

@@ -94,6 +94,7 @@ Vartojamos formos: `sūdąs`, `sūdą`.
 - id: c-09638
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Jei katrai Šaliai toksai sūdąs tėvūno su vyrais netiko, tad atjojęs didysis kunigaikštis į girias medžioti persūdijo^1103 , ir, kaip jis nusprendė, taip ir paliko.
   citata_rodoma: "Jei katrai Šaliai toksai sūdąs tėvūno su vyrais netiko, tad atjojęs didysis kunigaikštis į girias medžioti persūdijo^1103 , ir, kaip jis nusprendė, taip ir paliko."
@@ -107,6 +108,7 @@ Vartojamos formos: `sūdąs`, `sūdą`.
 - id: c-09639
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Tapo dar vergais vėl per sūdą tie, kurie negalėjo ant rako^1052 skolos atduoti savo skolininkui, tokius sūdąs pripažino vergais tų, nuo kurių pinigus buvo paskoli. je, ir jiems turėjo vergauti lig atduodantys ar lig atdirbantys, nes, atdavus ar atvergavus skolą, vėl paliko liuosais, kaip pirma kad buvo.
   citata_rodoma: "Tapo dar vergais vėl per sūdą tie, kurie negalėjo ant rako^1052 skolos atduoti savo skolininkui, tokius sūdąs pripažino vergais tų, nuo kurių pinigus buvo paskoli. je, ir jiems turėjo vergauti lig atduodantys ar lig atdirbantys, nes, atdavus ar atvergavus skolą, vėl paliko liuosais, kaip pirma kad buvo."

@@ -72,6 +72,7 @@ Pasak Narbuto perteikiamų Edų, Hoteriui valdant Balderis ankstesnę auką pake
 - id: c-173040
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­
     pu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­

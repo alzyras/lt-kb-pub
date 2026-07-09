@@ -145,6 +145,7 @@ Lietuvos metraščio pasakotojas teigia, kad Skirgaila Jogailos ir savo vardu da
 - id: c-170488
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir mes su mūsų tėvu stovėjome ant vieno kalno,
     o kunigaikštis Jogaila ant kito kalno, priešais mus. Ta­
@@ -163,6 +164,7 @@ Lietuvos metraščio pasakotojas teigia, kad Skirgaila Jogailos ir savo vardu da
 - id: c-170489
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir mūsų tėvas pati­
     kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo­
@@ -180,6 +182,7 @@ Lietuvos metraščio pasakotojas teigia, kad Skirgaila Jogailos ir savo vardu da
 - id: c-170490
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir iš mano žmonos bro­
     lio 1 4  jis atėmė visą jo tėviškę, ir iš Algimanto sūnaus

@@ -69,6 +69,7 @@ Teodoras Narbutas nurodo, kad Kromeris veikale „De situ, populis, moribus, mag
 - id: c-174676
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kromeris poloviečius vadina gotais
     (De situ, populis, moribus, magistratibus... P. 483). Si nuomonė ne­

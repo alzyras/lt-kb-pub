@@ -63,6 +63,7 @@ Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komitet
 - id: c-44391
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     į okupantų pusę. Apie 400 „raudonraiš-
     čių“, vadovaujamų „Nacionalinio gelbė-

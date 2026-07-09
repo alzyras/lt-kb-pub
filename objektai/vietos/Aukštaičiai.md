@@ -70,6 +70,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-175999
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Taip būdavo ir vėlesniaisiais laikais; pavyzdžiui,
     kai kurios Gedimino prijungtos sritys paskum buvo vėl laikinai

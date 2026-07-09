@@ -132,6 +132,7 @@ Nenurodyta
 - id: c-10292
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Tų trimitų balsas yra graudžiai malonus, daugiau rūstas, nekaip linksmas, keliąs klausantiems aitrą ir gailesį, kursai savo gausmu, graudingumu lyginos su šios dienos variniais karės trūbais. Tokie Lietuvos trimitai yra jau minavojami 1180 gudų raštuose, kaipo įvairiu ir neregėtu daiktu.
   citata_rodoma: "Tų trimitų balsas yra graudžiai malonus, daugiau rūstas, nekaip linksmas, keliąs klausantiems aitrą ir gailesį, kursai savo gausmu, graudingumu lyginos su šios dienos variniais karės trūbais. Tokie Lietuvos trimitai yra jau minavojami 1180 gudų raštuose, kaipo įvairiu ir neregėtu daiktu."
@@ -145,6 +146,7 @@ Nenurodyta
 - id: c-170035
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Kunigaikš­
     tis Mykolas !3, matydamas su didikais ir su visa kariuo­

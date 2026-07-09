@@ -76,6 +76,7 @@ Narbutas, kalbėdamas apie estų pavadinimą ir Jordaną, cituoja pasakojimą ap
 - id: c-174999
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Vėliau Jordanas, gotų istorikas,
     daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­

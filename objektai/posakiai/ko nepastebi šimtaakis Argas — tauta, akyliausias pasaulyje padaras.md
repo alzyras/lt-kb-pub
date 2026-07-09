@@ -64,6 +64,7 @@ Kojelavičius tautą vadino šimtaakiu Argu ir akyliausiu pasaulyje padaru, past
 - id: c-168832
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Suvokęs, jog visos jo pastan­
     gos nuėjo niekais, jis nugręžė pyktį į pamotę, kuri, jo

@@ -116,6 +116,7 @@ Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upė
 - id: c-82087
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     nec non cum omnibus Kmetb oni-
     bus, quae Bona quondam erant Siemion Ducis Bielski, om­

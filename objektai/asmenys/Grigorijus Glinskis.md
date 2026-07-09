@@ -59,6 +59,7 @@ media_all_json: |-
 - id: c-176747
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     "  Grigorijus Glinskis — Boriso Ivanovičiaus Glinskio sūnus.
     Gyvenimas mažai žinomas. N uo 14% m. buvo Ovručo vietininku.

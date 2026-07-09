@@ -132,6 +132,7 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
 - id: c-168770
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šis, labiau
     geisdamas plėsti savo valdas, nei paisyti duoto žodžio
@@ -162,6 +163,7 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
 - id: c-170476
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     76
 

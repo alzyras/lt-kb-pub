@@ -75,6 +75,7 @@ Wierzbowski), ar Didįjį Reformų (Ketverių metų) seimą (W.
 - id: c-33160
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Po II pasaulinio karo dar labiau jaunoji lenkų istorikų generacija
     ėmė darytis įžvalgesnė ir objektyvesnė link Lietuvos praeities, kaip

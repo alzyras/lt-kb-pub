@@ -129,6 +129,7 @@ Nenurodyta
 - id: c-43155
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     kurie prie jos dar priskiria petihorus, nors jų daugiau gali išvysti Lietuvos, o ne Karūnos
     armijoje. Visi šie kariai yra bajorai, o ypač husarai, karalius ir etmonai juos pagerbė su-

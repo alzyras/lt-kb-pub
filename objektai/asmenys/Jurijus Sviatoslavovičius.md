@@ -86,6 +86,7 @@ Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė prieši
 - id: c-169481
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Drucko kunigaikščiai, pirmųjų Rusios valdo­
     vų palikuonys, kurie šių neramumų pradžioje mažai

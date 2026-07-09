@@ -126,6 +126,7 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
 - id: c-47106
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     **Baudžiavos naikinimas atskiruose dvaruose.** Tačiau šiuo
     metu vienas kitas iš šviesesniųjų bajorų ir didžiūnų suprato,
@@ -150,6 +151,7 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
 - id: c-47107
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Merkinės dvaro (prie Turgelių,
     netoli Vilniaus) valstiečius atleido vien už piniginį mokestį ir net

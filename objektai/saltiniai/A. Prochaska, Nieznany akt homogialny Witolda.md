@@ -68,6 +68,7 @@ Prochaska, Nieznany akt homogialny Witolda, Kwartalnik histor.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, iš­
     duotą 1386 m. gegužės 10 d. Žiūr. A. Prochaska, Nieznany akt homogialny

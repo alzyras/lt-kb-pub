@@ -74,6 +74,7 @@ Narbutas Kamilo amžių sieja su pasakojimu, kad Junonai skirtos žąsys pažadi
 - id: c-173053
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lenkai savo mitologijoje turėjo tą pačią dievybę, vadintą
     Budzisz, kurios ženklas buvo žąsis -  paukštis. Jį Antikos žmo­

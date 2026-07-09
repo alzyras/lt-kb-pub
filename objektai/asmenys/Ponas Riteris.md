@@ -83,6 +83,7 @@ Narbutas rašo, kad ponas Riteris savo „Siaurės senovės tyrimuose“ plačia
 - id: c-173121
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     100
 

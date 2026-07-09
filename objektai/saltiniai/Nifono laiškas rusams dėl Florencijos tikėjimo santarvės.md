@@ -91,6 +91,7 @@ Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, 
 - id: c-169703
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Beje, d a r vienas dalykas užgavo jiems širdis:
     k a raliu s mat buvo išleidęs

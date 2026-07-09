@@ -74,6 +74,7 @@ F. Noelis manė, kad Kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje
 - id: c-172963
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Romėnai tuos pačius dievus vadino Diipotentes,
     Dii socii arbaAnactes -  monarchai. E Noelis mano, kad Kabi­

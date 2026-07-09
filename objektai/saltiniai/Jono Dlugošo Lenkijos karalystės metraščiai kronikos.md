@@ -110,6 +110,7 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
 - id: c-61617
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dlugossii I. Annales seu cronicae incliti regni Poloniae.— Varsaviae, lib. I—II, 1964;
     lib. V et VI, 1973; lib. VII et VIII, 1975; lib. IX, 1978; Opera omnia, t. 13, 1877.
@@ -123,6 +124,7 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
 - id: c-61618
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Długosz J. Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks. 1—2,
     1961; ks. 5 6, 1973; ks. 7 8, 1974.

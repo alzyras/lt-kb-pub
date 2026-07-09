@@ -98,6 +98,7 @@ Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvo
 - id: c-83773
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Livoniae, T. I,
     N. 1208, kur nurodytas Slaptajame

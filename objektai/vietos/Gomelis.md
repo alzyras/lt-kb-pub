@@ -121,6 +121,7 @@ Uzos upė įteka į Sožą truputį žemiau Gomelio. Apie 1447 m. Švitrigaila g
 - id: c-170290
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     ‘ Bobruiskas — dabar BTSR miestas (prie Berezinos, apie 100
     km  i rytus nuo Slucko).
@@ -139,6 +140,7 @@ Uzos upė įteka į Sožą truputį žemiau Gomelio. Apie 1447 m. Švitrigaila g
 - id: c-170291
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Dlugošas Lucko pasidavim ą klaidingai datuoja 1440 m. Apie
     1447 m. Švitrigaila gavo Iš Kazimiero dar Homelj ir bene Turovą.

@@ -76,6 +76,7 @@ Narbutas murgais vadino žuvusių karių vėles, kurias jo pasakojime deivė Mil
 - id: c-172202
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Anot visų tyrimų, šios deivės ypatybės buvo perimtos iš
     skandinavų, kurie ją vadino Frėja; ji buvo jūrų ir ugnies dievo,

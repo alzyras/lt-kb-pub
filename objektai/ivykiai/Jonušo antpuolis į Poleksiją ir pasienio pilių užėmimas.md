@@ -131,6 +131,7 @@ Nenurodyta
 - id: c-169069
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Po kelių dienų apgulos, sutikęs smarkų pasi­
     priešinimą, griebėsi kito sumanymo. Mat tuo metu
@@ -154,6 +155,7 @@ Nenurodyta
 - id: c-176084
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kęstutis, savo ruožtu
     apie viską sužinojęs, paliko rusų pulkus, turėjusius

@@ -151,6 +151,7 @@ media_all_json: |-
 - id: c-67403
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Nuo pasirašymo vie-
     tos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko už-
@@ -170,6 +171,7 @@ media_all_json: |-
 - id: c-67404
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Ta proga reikia pasakyti, kad tada, kai jo interesams
     būdavo patogu, jis noriai dėdavosi Jogailos vietininku (pa-
@@ -191,6 +193,7 @@ media_all_json: |-
 - id: c-67405
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau
     įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu
@@ -207,6 +210,7 @@ media_all_json: |-
 - id: c-67406
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Ordinas, remdamasis Salyno su-
     tartim, reikalavo, kad pabėgėliai žemaičiai būtų jam grąžinami.

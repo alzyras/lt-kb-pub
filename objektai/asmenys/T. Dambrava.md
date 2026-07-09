@@ -148,6 +148,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
 - id: c-42251
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     @ J.P. Sapiegos ir T. Dambravos raiteliai su-
     sikauna su atakuojančia švedų kavalerija
@@ -162,6 +163,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
 - id: c-44527
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Rotmistrų J. P. Sapiegos ir T. Dambra-
     vos kavalerija susikovė su švedų kairiojo
@@ -185,6 +187,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
 - id: c-44528
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Prasidėjo žiau-
     rios besitraukiančio priešo kapotynés.

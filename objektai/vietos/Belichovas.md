@@ -109,6 +109,7 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
 - id: c-59159
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     427  D. ir Jer.— Belichow; Bialachovas, Białachowo (SZCh, p. 5), gyvenvietė Osos
     žemupio deš. krante per 9 km į šiaurės rytus nuo Grudziondzo; žr. D. III, 14.
@@ -122,6 +123,7 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
 - id: c-59160
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     148 (143). Apie antrąjį minėtojo Marienverderio miesto sugriovimą
 

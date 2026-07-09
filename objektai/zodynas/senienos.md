@@ -245,6 +245,7 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
 - id: c-175022
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be to, dažnai esti, kad neįmanoma išlaikyti nepertrau­
     kiamą įvykių seką, ypač tuomet, kai labiau gilinamės į
@@ -266,6 +267,7 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
 - id: c-175023
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Bemaž sukaustytas kaimiškos vienatvės, vos ga­
     lėdamas dėl darbo ir varginančių paieškų sukaupti rei­
@@ -298,6 +300,7 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
 - id: c-175024
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Plačiai pasklidusi lietuvių gen­
     tis verta išsamesnių ieškojimų, negu tai galime padaryti
@@ -322,6 +325,7 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
 - id: c-175351
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Todėl ir paliko­
     me jiems kuklų istorijos* pavadinimą.

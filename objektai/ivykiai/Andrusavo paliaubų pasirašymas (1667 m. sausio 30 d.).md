@@ -94,6 +94,7 @@ Nenurodyta
 - id: c-40927
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1667 m. sausio 30 d. netoli Smolensko pa-
     sirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko

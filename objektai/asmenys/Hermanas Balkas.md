@@ -218,6 +218,7 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
 - id: c-85741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     12 (10). Apie brolį Hermaną, pirmų Teutonų namų ordino magistrą Prūsijos žemėje
 
@@ -237,6 +238,7 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
 - id: c-85742
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šitai išgirdęs, jo šventenybė popiežius nutraukė derybas ir papuošė
     mūsų minėtus brolius Gerlachą ir Joną šventosios Marijos Teutonų namų ligoninės ordino
@@ -263,6 +265,7 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
 - id: c-85743
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     11 (9). Apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­
                                         ta Nesavos pilis
@@ -286,6 +289,7 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
 - id: c-85744
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą
     vyrą  ir pamaldų  brolį Hermaną  iš  Zalcos, Teutonų namų ordino  didįjį magistrą,

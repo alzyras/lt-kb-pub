@@ -67,6 +67,7 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
 - id: c-177294
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Gotų pakurstyti he­
     rulai, surinkę savo jaunimą ir narsaus Malabato2 vado­

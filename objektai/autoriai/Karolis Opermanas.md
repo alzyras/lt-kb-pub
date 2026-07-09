@@ -73,6 +73,7 @@ Narbutas rašė laikęs rankose rankraščius apie juodkalniečius, kurių žini
 - id: c-174532
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Aprašęs juodkalniečių savybes, T. Narbutas nu­
     rodė ir savo žinių šaltinį, kuris, regis, susijęs su kai ku­

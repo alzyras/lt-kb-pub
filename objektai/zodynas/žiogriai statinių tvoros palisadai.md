@@ -231,6 +231,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
 - id: c-82420
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Antakalnis yra pava­
     dintas arba nuo žodžių: ant-to-Kal-
@@ -266,6 +267,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
 - id: c-82421
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kunigaikščio rūmų pastatai,
     kuriuose buvo ir iždas, ir arklidės, užėmė daugiausia vietos1;
@@ -300,6 +302,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
 - id: c-82422
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tolėliau, toje vietoje,
     kur dabar stovi katedra, stūksojo negrabus dievo Perkūno
@@ -330,6 +333,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
 - id: c-82423
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Lietuvai, ilgai nuo krikščio­
     niškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių

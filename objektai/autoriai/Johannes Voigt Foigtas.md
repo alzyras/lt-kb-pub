@@ -133,6 +133,7 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
 - id: c-83915
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Il
     APIE VALDOVO GEDIMINO LAIŠKUS, RAŠYTUS IŠ VILNIAUS,
@@ -155,6 +156,7 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
 - id: c-83916
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pasta­
     rasis varį (miedź - mied') palaikė me­

@@ -98,6 +98,7 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
 - id: c-71130
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Taigi ir pas mus buvo maždaug tokia pat santvarka,
     kaip Vakaruose vadinamasis feodalizmas. Tik Lietuvos feoda-
@@ -115,6 +116,7 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
 - id: c-175910
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Lietuvos sri-
     tinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikš-

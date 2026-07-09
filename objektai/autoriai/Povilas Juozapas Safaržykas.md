@@ -85,6 +85,7 @@ Povilo Juozapo Safaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyj
 - id: c-174463
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     14
 

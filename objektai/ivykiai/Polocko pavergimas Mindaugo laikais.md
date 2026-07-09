@@ -105,6 +105,7 @@ Nenurodyta
 - id: c-66954
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Iš jos miestų, kaip antai:
     Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
@@ -123,6 +124,7 @@ Nenurodyta
 - id: c-66955
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija,
     lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi. Nors jie ir

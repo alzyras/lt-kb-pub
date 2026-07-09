@@ -160,6 +160,7 @@ Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Balti
 - id: c-174116
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tad Nemuno žemupio pakrantes visų pirma de­
     ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
@@ -180,6 +181,7 @@ Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Balti
 - id: c-174117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ar galima tuo remiantis daryti prie­
     laidą, kad Prūsija Jordano laikais vadinosi Vidivarija, kad
@@ -200,6 +202,7 @@ Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Balti
 - id: c-174118
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sis skirtumas yra esminis dalykas;
     mes jį aptinkame jau 1224 metais popiežiaus Honorijaus

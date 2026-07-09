@@ -79,6 +79,7 @@ Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnim
 - id: c-173253
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Strijkovskis aiškiai
     tvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės

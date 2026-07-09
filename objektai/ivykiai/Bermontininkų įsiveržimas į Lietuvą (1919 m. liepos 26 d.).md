@@ -178,6 +178,7 @@ Nenurodyta
 - id: c-43039
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Bermonto ėmė
     bręsti karinis konfliktas.
@@ -199,6 +200,7 @@ Nenurodyta
 - id: c-43040
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Spalio 5 d. plk. Virgoličiaus
     rinktinė iš Kuršėnų per-
@@ -217,6 +219,7 @@ Nenurodyta
 - id: c-66708
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     1919 m. liepos mėn. 26 d. ties Kuršė-
     nais iš Latvijos perėjo į Lietuvos teritoriją stipri jungtinė vo-

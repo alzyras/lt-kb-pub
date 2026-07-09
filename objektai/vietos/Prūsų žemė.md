@@ -683,6 +683,7 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - id: c-34010
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Kai popiežiaus Honorijaus III atsiustasis legatas Vilhelmas de Mo­
     dena sėkmingai neišnarpliojo susipainiojusių ordino, vyskupo ir au­

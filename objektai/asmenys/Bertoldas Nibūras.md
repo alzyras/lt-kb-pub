@@ -76,6 +76,7 @@ Bertoldas Nibūras apie pelazgų kolonijų paplitimą tvirtino kalbantis iš ist
 - id: c-174222
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šia prasme mūsų is­
     torija yra pernelyg jauna, nes, kiek siekia jos atmintis,

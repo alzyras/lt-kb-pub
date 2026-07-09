@@ -89,6 +89,7 @@ Nenurodyta
 - id: c-172828
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vaidilų viršutinis drabužis buvo ilgas, įprastinio sukirpi­
     mo, apsiūtas baltu drobiniu apvadu; krūtinė būdavo užsega­

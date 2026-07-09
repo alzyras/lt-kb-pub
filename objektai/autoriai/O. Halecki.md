@@ -363,6 +363,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - id: c-04004
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — (”) _From, the Union with Hungary to the Union with
     Lithuania : Jadwiga, 1374-99,_ Tlie Cambridge History of Poland (to
@@ -377,6 +378,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - id: c-163238
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1932. — Bardach, J. : _Akt w Krewie,_ jo knygoje _Studia z ustroju i
     prawa Wielkiego Księstwa Litewskiego XIV-XVII w.,_ Warszawa 1970,
@@ -395,6 +397,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Pirmas toks grasini­
     mo aktas buvo padarytas 1421 m. — tai Jogailos dukters Jad­
@@ -414,6 +417,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - id: c-163240
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Plačiau MaŠ.**
     (^60) **PSRL, 17, 53 p.**
@@ -433,6 +437,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Būdamas pilnas nemalonės naujiems karūnos politikos vai­
     rininkams, kancleriui Jonui Šafrancui, vėliau pakeltam pakanc­
@@ -456,6 +461,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - id: c-163242
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     GrVUk = Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych
     knjazej XIV-XVI vv. Maskva-Leningradas 1950.
@@ -472,6 +478,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - id: c-163243
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Barbašev, A. : Vitovt i jego politika do grjuuvaldskoj bitvy 1410,
     Petersburg 1885. — Derby Henrikas, LE, t. 4, 453-454 p. — Halecki,
@@ -491,6 +498,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Taip pat buvo neliečia­
     mi Lietuvos ir Lenkijos ginčijami rusų žemės klausimai. Len­
@@ -510,6 +518,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - id: c-163245
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Zajączkows­
     kis, kuris žemaičių, jotvingių ir kitais Lietuvos XIII-XV amžių

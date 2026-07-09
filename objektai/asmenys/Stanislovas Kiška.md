@@ -284,6 +284,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 - id: c-76240
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Toks
     žygio tempas tais laikais buvo maksimali
@@ -303,6 +304,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 - id: c-76241
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tą pačią
     dieną ten buvo atvykęs jau mirtinai nega-
@@ -327,6 +329,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 - id: c-168192
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Netruko surengti tokį žy­
     gį Maskvos kunigaikštis: pa-
@@ -359,6 +362,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 - id: c-168193
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vis dėlto Ostro­
     giškis su keliomis lengvųjų
@@ -379,6 +383,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 - id: c-168194
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šis
     įsibrovimas išviliojo iš slėpynių priešo kariuomenę.

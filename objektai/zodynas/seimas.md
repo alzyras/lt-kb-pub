@@ -380,6 +380,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - id: c-168752
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Gal vengdamas aiškaus atsakymo į kry­
     žiuočių klausimą, gal norėdamas turėti laiko pasitarti,
@@ -404,6 +405,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - id: c-170477
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O po kunigaikščio Michailo mirties Lucką
     davė raštininkui ponui Teodorui Januševičiui3 6 .
@@ -421,6 +423,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - id: c-170478
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir Maskvos
     Didžioji Kunigaikštystė sunkiai pralaimėjo ir neapsa­

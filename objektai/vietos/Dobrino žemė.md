@@ -72,6 +72,7 @@ Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­ žiuočiai grį�
 - id: c-28428
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­
     žiuočiai grįžo atgal. Daug kainavęs Wallenrodo žygis baigėsi nie­

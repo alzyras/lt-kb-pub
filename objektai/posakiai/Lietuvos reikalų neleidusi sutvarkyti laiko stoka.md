@@ -124,6 +124,7 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
 - id: c-67246
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Mat,
     sukūrus Lietuvos kunigaikštiją, būtų reikėję ir Rusijos valdo-
@@ -146,6 +147,7 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
 - id: c-67247
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Todėl Lietu-
     vos atgaivinimo klausimas nebuvo paliestas nė 1812 m. carui at-

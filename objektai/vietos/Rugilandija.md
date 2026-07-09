@@ -77,6 +77,7 @@ Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi N
 - id: c-175667
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Lietuvių genčių likimai po kovo skerdynių Ra-
     venoje buvo įvairūs. Didžiausia herulų dalis pasitraukė

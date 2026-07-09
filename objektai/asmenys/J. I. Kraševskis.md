@@ -74,6 +74,7 @@ Teodoras Narbutas, kaip pats nurodė, nebuvo asmeniškai pažįstamas su J. I. K
 - id: c-174304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Galima
     spėti, jog būtent ši recenzija

@@ -65,6 +65,7 @@ Keletą mokyklų turėjo pravoslavai (Vilniuje, Polocke, Minske). Pravoslavai: j
 - id: c-176034
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Keletą
     mokyklų turėjo pravoslavai (Vilniuje, Polocke, Minske).

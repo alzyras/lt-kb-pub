@@ -68,6 +68,7 @@ Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius i
 - id: c-172418
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie tai kalbėsime straipsnyje
     „Burtai“.

@@ -72,6 +72,7 @@ PRADŽIOS PĖSTININKŲ TAKTIKA“, Andžej Geglis, dail.
 - id: c-41777
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     NEPRIKLAUSOMYBĖS KOVOS
     P. 172, „XX A. PRADŽIOS PĖSTININKŲ TAKTIKA“, Andžej Geglis,

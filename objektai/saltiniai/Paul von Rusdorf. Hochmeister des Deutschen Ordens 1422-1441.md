@@ -78,6 +78,7 @@ Hoch­ meister des Deutschen Ordens 1414-1422 ; t.
 - id: c-33689
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Hoch­
     meister des Deutschen Ordens 1414-1422_** **; t. 15, 1969, yra C. A. Lückerath :

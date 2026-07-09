@@ -82,6 +82,7 @@ Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stip
 - id: c-171987
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     310
 

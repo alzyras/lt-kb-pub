@@ -83,6 +83,7 @@ Nuo tada prasidėjo kruvina kryžiaus žygių prie Baltijos jūros epocha, kurio
 - id: c-45530
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Šiuo periodu išryškėjo lietuvių siekis didinti įtaką kitų baltų
     gentims (ypač gyvenusioms šiauriau - prie Dauguvos) ir įtraukti

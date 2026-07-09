@@ -281,6 +281,7 @@ Nenurodyta
 - id: c-43067
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo
     Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su
@@ -310,6 +311,7 @@ Nenurodyta
 - id: c-43069
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Naktį iš vasario 7 į 8 d. Kėdainių gynėjų
     vadovybė gavo žvalgų pranešimą apie tai,
@@ -333,6 +335,7 @@ Nenurodyta
 - id: c-43070
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Važiuojant pro Taučiūnų kaimą,
     žvalgus netikėtai pasitiko smarki bolše-
@@ -357,6 +360,7 @@ Nenurodyta
 - id: c-44905
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Nukauti
     bolševikai su visomis kariškomis apeigo-
@@ -377,6 +381,7 @@ Nenurodyta
 - id: c-44906
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Bolševikai tą dieną į lietuvių pusę paleido
     užtvarą ir tęsė puolimą Kėdainių link. apie 170 artilerijos sviedinių ir kelis kartus

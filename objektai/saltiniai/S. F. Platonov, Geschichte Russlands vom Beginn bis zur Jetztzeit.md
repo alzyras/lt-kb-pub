@@ -80,6 +80,7 @@ Platonov, S.
 - id: c-33709
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — Ekdahl, S. : _Der Krieg zwischen
     dem Deutschen Orden und Polen-Litauen im Jahre 1422_ , ZfO, t. 13, 1964,

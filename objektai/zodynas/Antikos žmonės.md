@@ -91,6 +91,7 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
 - id: c-172163
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Iš jų dažnai galima išgirsti: tas jau
     biją winnam Likis („taip jam jau buvo lemta“)1 2.

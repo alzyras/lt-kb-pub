@@ -76,6 +76,7 @@ Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi me vedybų papro�
 - id: c-177183
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Senovės prūsų merginas, jeigu norė­
     davo jas vesti, turėdavo iš tėvų nusipirkti1.

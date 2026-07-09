@@ -60,6 +60,7 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
 - id: c-61696
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pratarmė
 

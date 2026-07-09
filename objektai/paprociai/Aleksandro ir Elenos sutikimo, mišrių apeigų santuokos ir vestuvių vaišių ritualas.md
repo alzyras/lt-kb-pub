@@ -154,6 +154,7 @@ Nenurodyta
 - id: c-83176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tada Aleksandras šalia prašmatniose rogėse sėdin­
     čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi
@@ -176,6 +177,7 @@ Nenurodyta
 - id: c-83177
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pirmiausia Maskvoje (1494 m.)
     balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­

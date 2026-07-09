@@ -87,6 +87,7 @@ Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudo
 - id: c-44997
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1940-1950 m. Vakarų Ukrainoje ir Baltijos šalių teritorijoje agentais-smogikais papras-
     tai būdavo užverbuojami nacionalistinio pogrindžio nariai.

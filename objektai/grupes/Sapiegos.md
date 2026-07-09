@@ -158,6 +158,7 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
 - id: c-167942
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Cenzoriai neskaitė autoriaus pirmo ir antro tomų
     dedikacijų Sapiegoms. Antrą tomą A. Kojelavičius pa­
@@ -175,6 +176,7 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
 - id: c-176066
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šiuos ir kitus garsiuosius Tavo Tėvo nuopelnus valsty­
     bei, taip pat Tavo senelio Jono Sapiegos, pelniusio

@@ -74,6 +74,7 @@ Seniau Rūdninkų girios išties buvo ne­ peržengiamos ir žmonių neištirtos
 - id: c-82149
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pati vietovė, su­
     pama pelkių ir raistų, netinkama gyventi, lėmė tai, kad žmo­

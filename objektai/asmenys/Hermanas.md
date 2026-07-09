@@ -163,6 +163,7 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 - id: c-44346
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Po keturių savaičių apgulties, po dauge-
     lio susidūrimų meistras Hermanas vienoje
@@ -184,6 +185,7 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 - id: c-167128
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tačiau
     lietuviai sunaikino pilies priešakinius įtvir-

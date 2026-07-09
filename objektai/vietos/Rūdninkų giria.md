@@ -256,6 +256,7 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
 - id: c-170350
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     ko valdovu karalaitį Kazimierą iš Lenkijos ir Brasto­
     j e 3  pakėlė jį Lietuvos didžiuoju kunigaikščiu, išvyko
@@ -286,6 +287,7 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
 - id: c-170351
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jame veisėsi daug
     briedžių ir stirnų. Nors Mendzižečės girios daugiau negu 3
@@ -306,6 +308,7 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
 - id: c-170352
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     O Rūdninkų miškuose nieko panašaus ir neįmanoma
     būtų surasti. Jų pavadinimas kilęs nuo nemažų geležies rū­
@@ -323,6 +326,7 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
 - id: c-170353
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pati vietovė, su­
     pama pelkių ir raistų, netinkama gyventi, lėmė tai, kad žmo­

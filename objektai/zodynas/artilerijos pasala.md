@@ -93,6 +93,7 @@ Pergalė prie Oršos buvo didžiausias Konstantino Ostrogiškio karinis triumfas
 - id: c-45502
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     vėl atiteko Mstislavlis, Dubrovnos,
     Kryčevo pilys. Pergalė prie Oršos buvo

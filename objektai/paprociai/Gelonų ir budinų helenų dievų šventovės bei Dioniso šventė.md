@@ -139,6 +139,7 @@ Nenurodyta
 - id: c-175798
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     60
     Iš Herodoto žinome, kad budinai savo žemėje turėjo
@@ -160,6 +161,7 @@ Nenurodyta
 - id: c-175799
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ten yra helenų dievų bažnyčių, hele-
     nų papročiu tapytų dievų paveikslų (’EXXrpnxwg aexaxeua-

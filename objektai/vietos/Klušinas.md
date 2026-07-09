@@ -84,6 +84,7 @@ Lenkų kariuomenė šios sumaišties metu 1610 m. sumušusi rusus prie Klušino,
 - id: c-45144
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Dėl valdžios ėmė kovoti
     Abiejų Tautų valdovo Zigmanto Vazos re-

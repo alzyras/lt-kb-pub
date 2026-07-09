@@ -68,6 +68,7 @@ Dusburgietis teigia, kad antikinių šaltinių tyrimas rodo, kad lotyniškoji fo
 - id: c-61308
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Antikinių šaltinių tyrimas rodo, kad lotyniškoji
     forma Viscla, Visculus (t. y. Vysla) yra baltiškos kilmės, kad baltų buvimas mūsų eros

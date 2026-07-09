@@ -77,6 +77,7 @@ Dusburgietis teigia, kad tikras brolis, su 100 raitelių iš Brandenburgo pilies
 - id: c-59330
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     tikras brolis, su 100 raitelių iš Brandenburgo pilies patraukė  į Sūduvą; kai jis žygiavo
     atgal, paėmęs didelį grobį Kirsnavos valsčiuje514, priešai, leidęsi  jį persekioti, nukovė

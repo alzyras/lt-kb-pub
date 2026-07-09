@@ -83,6 +83,7 @@ Tuoj pat sušauktas lietuvių ku­ nigaikščių ir bajorų visuotinis seimas pa
 - id: c-82781
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     I. 7
     p. 11, apie Antakalnį pasakodamas, Tas Vilniaus, kaip jis atrodęs Vladis-

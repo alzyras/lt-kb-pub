@@ -73,6 +73,7 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
 - id: c-59319
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Bebirvytis (2-sis)
       Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab. Biebrza), u.

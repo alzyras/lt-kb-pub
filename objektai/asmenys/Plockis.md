@@ -89,6 +89,7 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
 - id: c-83813
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
     aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad

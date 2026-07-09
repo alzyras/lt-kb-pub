@@ -69,6 +69,7 @@ etmono Petro Sahaidačnij vadovaujamų Ukrainos kazokų.
 - id: c-44489
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     viso 8650 karių. Šią kariuomenę Lietuvos
     didysis etmonas padalino į trylika pulkų.

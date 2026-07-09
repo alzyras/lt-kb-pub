@@ -129,6 +129,7 @@ Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių ka
 - id: c-173049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie Obelių
     kapinyno kasinėjimus T. Narbutas sužinojo 1840
@@ -148,6 +149,7 @@ Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių ka
 - id: c-173780
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Čia pasitvirtina
     ir mokslininko, senovės tyrinėtojo pono Riterio nuomonė,

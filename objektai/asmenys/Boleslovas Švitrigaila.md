@@ -227,6 +227,7 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
 - id: c-169293
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Prasidėjus mūšiui, aukščiau­
     siasis lėmė, kad nugalėjo teisioji šalis. Praradęs mū­
@@ -244,6 +245,7 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
 - id: c-169294
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mat karalius Jo­
     gaila, prie žemės lenkiamas ir metų, ir anksčiau patirtų
@@ -270,6 +272,7 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
 - id: c-169295
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tuo tarpu rinkosi į seimą pakviesti
     didikai, ilgai nežinoję, nei ką
@@ -297,6 +300,7 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
 - id: c-169296
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kazimie-
     M a s k v o je

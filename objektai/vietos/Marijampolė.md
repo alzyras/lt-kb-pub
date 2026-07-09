@@ -186,6 +186,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 - id: c-32216
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Zūricho universitetą užbaigė rūpestingai parašy­
     dama vokiškai disertaciją apie Lietuvos bajorijos privilegijas iki
@@ -208,6 +209,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 - id: c-68136
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^70) **J. Totoraitis :** **_Die Litauer unter dem König Mindowe bis zum Jahre
     1263,_** **Freiburg (Schweiz) 1905. Paties autoriaus sulietuvinta:** **_Mindaugas,
@@ -225,6 +227,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 - id: c-68137
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Be to, netrukus žuvo ir visa Napoleono galybė. Tuojau
     po unijos atnaujinimo iškilmių jis išžygiavo iš Vilniaus į

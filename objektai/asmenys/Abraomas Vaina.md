@@ -133,6 +133,7 @@ Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abr
 - id: c-173010
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     310
 
@@ -154,6 +155,7 @@ Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abr
 - id: c-173716
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tai buvo akivaizdus aukojimo puotų li­
     kutis. Vėliau piktnaudžiavimas stipriaisiais gėrimais, kuriuos tik­

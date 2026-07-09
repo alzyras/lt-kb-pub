@@ -100,6 +100,7 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
 - id: c-42115
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Dešiniąją koloną sudarė 1-ojo pės-
     tininkų pulko du batalionai, raitųjų
@@ -117,6 +118,7 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
 - id: c-44444
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Puolimo eiga . a ;
     raudonosios armijos kario

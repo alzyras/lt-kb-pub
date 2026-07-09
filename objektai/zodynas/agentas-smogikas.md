@@ -123,6 +123,7 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
 - id: c-45498
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1949 m. rugpjūčio 13 d. UŽPELKIŲ KAUTYNĖS 241
 
@@ -158,6 +159,7 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
 - id: c-45499
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     . Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-
     muotose vadinamosiose specialiosiose grupėse, kurioms paprastai

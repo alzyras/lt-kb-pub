@@ -70,6 +70,7 @@ Vytautas padėti neatsisakė, nes gerai suprato, kad, turėdamas chaną sa­ vo 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     sijos suverenu, atbėgo pagalbos prašyti Lietuvon^1 ). Vytautas
     padėti neatsisakė, nes gerai suprato, kad, turėdamas chaną sa­

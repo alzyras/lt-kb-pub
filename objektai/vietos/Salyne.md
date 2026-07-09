@@ -99,6 +99,7 @@ Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magist
 - id: c-45318
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Siekdamas didelių planų pietryčiuose, va-
     karuose Vytautas turėjo bet kokiu būdu

@@ -160,6 +160,7 @@ Nenurodyta
 - id: c-12356
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Benzinas padegamiesiems
     mišiniams buvo suaukotas eilinių Lietuvos
@@ -178,6 +179,7 @@ Nenurodyta
 - id: c-12357
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Rengiantis gynybai AT rūsyje buvo įreng-
     tos ginklų remonto ir šovinių, sprogmenų
@@ -194,6 +196,7 @@ Nenurodyta
 - id: c-12358
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     deputatų pastangomis. Medicininę pagalbą
     ir reikalingas priemones teikė miesto medi-

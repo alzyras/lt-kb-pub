@@ -147,6 +147,7 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
 - id: c-168753
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Užgrobę visus grūdus,
     J ie  su daro k elia s pro-
@@ -174,6 +175,7 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
 - id: c-168754
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Visi Lietuvos
     iuvoje

@@ -106,6 +106,7 @@ Rohačevas minimas Aleksandro 1492.IX.27 instrukcijoje. Rohačevas lokalizuojama
 - id: c-170345
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     6 Serpeiskas — Smolensko žemės miestas (apie 200 km | ry­
     tus nuo Smolensko, dabar RTFSR Kalugos srities miestas), seniau

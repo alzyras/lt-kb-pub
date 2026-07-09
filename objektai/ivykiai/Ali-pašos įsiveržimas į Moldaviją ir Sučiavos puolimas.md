@@ -163,6 +163,7 @@ Nenurodyta
 - id: c-169969
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Hermano perkulabo kronika (O. Gorka, Kroni­
     ka czasow Stefana W ielkiego Moldawskiego, Krakow. 1931, p. 110)
@@ -185,6 +186,7 @@ Nenurodyta
 - id: c-169970
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Lenkijos ir Lietuvos Didžio­
     sios Kunigaikštystės prekyboje su Rytais, turkų buvo užimti 1484 m.

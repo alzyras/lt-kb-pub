@@ -162,6 +162,7 @@ Nenurodyta
 - id: c-66786
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tačiau visos akcijos centras jau buvo ordi-
     nas. Jo pareiga buvo ginti krikščionys ir padėti atversti pagonys.
@@ -178,6 +179,7 @@ Nenurodyta
 - id: c-66787
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Bet vos įsikūręs, ordinas pajuto savo
     galią ir pradėjo vaduotis iš vyskupo priklausomybės. Vyskupas
@@ -195,6 +197,7 @@ Nenurodyta
 - id: c-66788
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių
     ir krikštytų čiabuvių karinė pajėga. Neišnyko nė senas paprati-
@@ -211,6 +214,7 @@ Nenurodyta
 - id: c-66789
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vysku-
     pijoje. Jo 1202 m. įkurtą ordiną 1204 m. popiežius patvirtino ir

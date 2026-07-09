@@ -137,6 +137,7 @@ Nenurodyta
 - id: c-174970
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šalavija taip pat turėjo savo
     savarankiškų ponų, valdžiusių žmones ir kraštą; buvo
@@ -158,6 +159,7 @@ Nenurodyta
 - id: c-175303
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš šių galingų
     žmonių buvo renkami vyriausieji vadai, kurių vienas buvo

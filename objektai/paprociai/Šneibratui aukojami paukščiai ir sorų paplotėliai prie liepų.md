@@ -123,6 +123,7 @@ Nenurodyta
 - id: c-172768
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šneibratas (Sznejbrato)
     Paukščių ūkio ir medžioklės dievas. Jam daugiausia buvo
@@ -139,6 +140,7 @@ Nenurodyta
 - id: c-172769
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Išeitų, kad dievo Šneibrato mitas virto nusipelniusio tau­
     tai dievinamo vyro simboliu, kadangi tie patys kronikininkai

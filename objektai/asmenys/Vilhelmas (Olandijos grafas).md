@@ -85,6 +85,7 @@ Dusburgietis teigia, kad apie Vilhelmo, Olandijos grafo, išrinkimą Romos karal
 - id: c-61095
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Vilhelmo, Olandijos grafo, išrinkimą Romos karaliumi
 

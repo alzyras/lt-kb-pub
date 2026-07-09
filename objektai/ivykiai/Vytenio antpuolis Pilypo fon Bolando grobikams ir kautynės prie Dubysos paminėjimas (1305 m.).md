@@ -153,6 +153,7 @@ Nenurodyta
 - id: c-169031
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kitais metais, kai Vytenis
     abu luomus sukvietė į pasi-
@@ -185,6 +186,7 @@ Nenurodyta
 - id: c-169032
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kai valdovui
     pranešė, jog įsibrovė priešas ir degina kaimus bei kie­

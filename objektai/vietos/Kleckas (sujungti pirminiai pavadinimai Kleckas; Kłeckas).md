@@ -171,6 +171,7 @@ O totoriai, ties Kłecku įsirengę košą, arba stovyklą, nemažą būrį pasi
 - id: c-157756
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tad paskubomis susirinko 10 000 bajorų,
     kareivių ir ginkluotų žmonių, kuriuos į kovą su priešais ve­
@@ -190,6 +191,7 @@ O totoriai, ties Kłecku įsirengę košą, arba stovyklą, nemažą būrį pasi
 - id: c-157757
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Po šios
     džiugios naujienos buvo įvairiausiai
@@ -226,6 +228,7 @@ O totoriai, ties Kłecku įsirengę košą, arba stovyklą, nemažą būrį pasi
 - id: c-157758
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
     Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas

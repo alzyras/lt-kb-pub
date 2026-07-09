@@ -65,6 +65,7 @@ Si maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra šyta runo
 - id: c-177165
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Si
     maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra­

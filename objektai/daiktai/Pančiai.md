@@ -99,6 +99,7 @@ Nenurodyta
 - id: c-60330
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pasiėmęs
     su savimi kuriuos ne kuriuos brolius bei ginklanešius, patraukė į kelią; žygiuodamas jis

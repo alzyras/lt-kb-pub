@@ -119,6 +119,7 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
 - id: c-75668
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg)
 
@@ -138,6 +139,7 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
 - id: c-75669
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Šaudymo
     tempas - 300-450 šuvių/min, efektyvaus šaudymo nuotolis —

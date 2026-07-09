@@ -160,6 +160,7 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
 - id: c-171807
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Skaityk straipsnius „Vaidilutės“,
     „Birutė“.
@@ -177,6 +178,7 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
 - id: c-171808
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vis dėlto galimas
     daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl
@@ -199,6 +201,7 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
 - id: c-171809
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Įėjimas -  tai priekiniai vartai, į dešinę
     nuo vartų buvo vyriausiojo kunigo būstas, kairėje -  užeiga,

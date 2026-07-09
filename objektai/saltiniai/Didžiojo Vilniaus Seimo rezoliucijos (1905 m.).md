@@ -77,6 +77,7 @@ Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju 3 skyriu
 - id: c-23758
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Vilniaus Seimu, vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis. Į jį
     susirinko apie 2 000 delegatų iš bemaž visų etnografinės Lietuvos vieto-

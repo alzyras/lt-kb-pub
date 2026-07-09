@@ -165,6 +165,7 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
 - id: c-60803
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tačiau lotyniškai
     parašyta Dusburgiečio kronika nebuvo prieinama eiliniams Ordino broliams, ją reikėjo
@@ -185,6 +186,7 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
 - id: c-60804
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     XIV a. IV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis  į vokiečių kalbą išvertė
     Mikalojus iš Jerošino. Versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo
@@ -201,6 +203,7 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
 - id: c-167500
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kita vertus, jis rašė istorinį pasakojimą, paremtą didele jo sukaupta rašytine ir žodine
     Ordino tradicija, siekė šią tradiciją perduoti ateities kartoms (Dedikacija). Tačiau lotyniškai

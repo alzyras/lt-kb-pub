@@ -543,6 +543,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - id: c-12696
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.
     Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį
@@ -558,6 +559,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - id: c-24038
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Vokie-
     čiai, saugodami savo dalis Latvijoj, vasario mėnesio pradžioj
@@ -578,6 +580,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - id: c-31935
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Lie­
     tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­
@@ -599,6 +602,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - id: c-43311
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     173
 
@@ -657,6 +661,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - id: c-101165
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kitais
     metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
@@ -685,6 +690,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - id: c-101168
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     prieš tai nieko nepranešę atsitraukė ir
     paliko juos vienus Alytuje). Tačiau va-
@@ -705,6 +711,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - id: c-101170
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Absoliučią daugumą
     šių miestų pramonės įmonių darbuotojų sudarė iš kaimo atvykę lietuviai,
@@ -724,6 +731,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - id: c-101172
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tai buvo pirmas tokios rūšies karo
     grobis ir tuo pačiu pirmas Lietuvos aviacijos karo lėktuvas.“
@@ -748,6 +756,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - id: c-101173
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Atgarsis apie šią
     pergalę plačiai pasklido po visą Lietuvą,

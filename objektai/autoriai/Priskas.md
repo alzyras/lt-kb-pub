@@ -76,6 +76,7 @@ Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hu
 - id: c-174513
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Turbūt hu­
     nai buvo kilę iš plokščiaveidžių žmonių giminės, Hero­

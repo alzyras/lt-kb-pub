@@ -344,6 +344,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Dieną ir naktį ėjo mūšiai prie Vilniaus sienų. Pa­
     galiau griuvo mūrai ir bokštai į Neries bangas. Daugelyje vie­
@@ -359,6 +360,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - id: c-109490
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Iš kur kilo Nehrung arba Ne-
     hring - vokiečių kalboje didžiulių
@@ -380,6 +382,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - id: c-109492
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Prūsijos dokumen­
     tuose dar XIII amžiuje ji vadinta Ne­
@@ -401,6 +404,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - id: c-167251
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Anksčiau kitaip
     buvo vadinama arba turėjo ir kitą
@@ -429,6 +433,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - id: c-171679
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Iš jo paimtos eilutės, arba kreipimasis (apostrofa) į Vilijos
     upę, liečia mūsų dalyką:
@@ -453,6 +458,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - id: c-177136
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai buvo piktųjų dvasių apgaulė; ty-
     kodamos prie vandens, suvedžiodamos žmones, jos stengėsi

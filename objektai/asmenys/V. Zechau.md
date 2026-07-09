@@ -73,6 +73,7 @@ Zechau. Zechau ir lietuvių 1-ojo pėst.
 - id: c-44554
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     (Plačiau
     apie šrapnelinio sviedinio veikimą 198 psl.)

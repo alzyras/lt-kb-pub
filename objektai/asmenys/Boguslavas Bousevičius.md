@@ -85,6 +85,7 @@ Apie 1520 m. Boguslavas Bousevičius, Rodūnios vėliavininkas, buvo Bouseviči�
 - id: c-173019
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pasak vietos padavimo, tame kape
     palaidotas kažkoks lietuvių didikas, vadas (Wada), vardu Bou-

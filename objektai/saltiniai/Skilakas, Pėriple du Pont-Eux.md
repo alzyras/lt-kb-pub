@@ -71,6 +71,7 @@ Tai buvo 1350 metais iki Kristaus gimimo, 70 metų prieš 1 Skilakas, kilęs iš
 - id: c-177296
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Juodąja jūrą pavadino vėliau dėl dažnai virš jos tvy­
     rančių ir labai tirštų rūkų1. Jasono vadovaujama kelionė

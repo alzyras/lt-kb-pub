@@ -158,6 +158,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 - id: c-71086
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Po to atstovai susirinkdavo į savo rūmus ir išsirinkdavo pirmi-
     ninką, vadinamą maršalka, arba direktorium. Toliau buvo
@@ -173,6 +174,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 - id: c-71088
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Ypač
     dažnai būdavo nesutikimų dėl mokesčių apdėjimo; pavyzdžiui,
@@ -193,6 +195,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 - id: c-71089
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     **Seimo eiga.** Buvo nustatyta, kad seimai turi rinktis kas
     dveji metai. Tai buvo vadinamieji ordinariniai seimai,
@@ -208,6 +211,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 - id: c-166361
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tai buvo vadinamieji ordinariniai seimai,
     kurių darbas trukdavo šešetą savaičių. Be to, reikalui esant,

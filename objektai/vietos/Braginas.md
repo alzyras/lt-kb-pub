@@ -77,6 +77,7 @@ Kričevskio vadovaujami kariai priversti atsitraukti į mišką, iš ten nusilei
 - id: c-40253
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kazokų kariuomenė buvo perskelta į
     dvi dalis, kairysis jos sparnas sumuštas,

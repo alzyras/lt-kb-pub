@@ -99,6 +99,7 @@ Nenurodyta
 - id: c-60108
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     328 (321). Apie 80 lietuvių žūtį 1316 metais
 

@@ -64,6 +64,7 @@ Narbuto aiškinimu, Dregerio skelbtoje sutartyje Nr. 58 minėtas tvirtoves sunku
 - id: c-174715
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Beje, šiandien nelengva atrasti
     visas tvirtoves, kurias mini Dregerio skelbta sutartis (Nr.

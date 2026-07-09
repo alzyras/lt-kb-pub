@@ -90,6 +90,7 @@ Nenurodyta
 - id: c-172546
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Autografas epigrafo, kuriuo Teodoras Narbutas papildė tekstą,
     rengdamas spaudai antrąjį LTIIV tomo leidimą

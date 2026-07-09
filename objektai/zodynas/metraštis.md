@@ -364,6 +364,7 @@ Nenurodyta
 - id: c-170092
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     „Bychovco kronika" jis buvo pramintas XIX a.
     pagal rankraščio savininką, Gardino gubernijos Volko-
@@ -390,6 +391,7 @@ Nenurodyta
 - id: c-170093
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Pavadinimas ,,Lietuvos metraštis, arba Bychovco
     kronika", kuris duotas šiam vertimui į lietuvių kalbą,

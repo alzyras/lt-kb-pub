@@ -74,6 +74,7 @@ Dusburgietis teigia, kad mapa grodzisk w Polsce / Praca zbiorowa pod redakcją W
 - id: c-61789
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Mapa grodzisk w Polsce  / Praca zbiorowa pod redakcją W. Antoniewicza   i Z.
     Wartołowskiej.— Wrocław—Warszawa—Kraków, 1964.

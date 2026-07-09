@@ -105,6 +105,7 @@ Nenurodyta
 - id: c-172518
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O Konstancos susirinkime klausimas, kodėl Lenki­
     joje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte

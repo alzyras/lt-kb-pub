@@ -99,6 +99,7 @@ Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje ist
 - id: c-03986
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Lietuvos istorijos dirvone gana pozityviu būdu pasirodė J.
     Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis

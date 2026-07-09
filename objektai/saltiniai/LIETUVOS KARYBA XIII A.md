@@ -67,6 +67,7 @@ Informacinių blokų apie karybą sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPER
 - id: c-45004
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Informacinių blokų apie karybą sąrašas
 

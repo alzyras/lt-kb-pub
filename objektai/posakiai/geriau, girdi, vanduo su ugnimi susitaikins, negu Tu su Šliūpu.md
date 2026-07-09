@@ -60,6 +60,7 @@ Gerai man vienas inteligentas sakė, kai ketinau važiuoti į Ameriką: geriau, 
 - id: c-02327
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Jau mudviejų draugystės ryšiai per-
     trūko, nes ir pati lietuvystė ir katalikystė tai daryti verčia. Gerai

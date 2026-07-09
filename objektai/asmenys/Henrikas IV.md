@@ -87,6 +87,7 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
 - id: c-32736
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Vaka­
     ruose atlikus didelio masto propagandą, sugužėjo riterių ir piligrimų

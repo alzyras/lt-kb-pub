@@ -163,6 +163,7 @@ J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai 
 - id: c-170703
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     “  Konflikto priežastis buvo ne tik A. Drošdšos ir Iljiničiaus
     byla, bet ir politiniai nesutarimai — J . Zaberezinskio ir kitų LDK
@@ -180,6 +181,7 @@ J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai 
 - id: c-170704
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     4 T  Iš Jono Zaberezinskio buvo atim ta n e  tik Trakų vaivados,
     bet laikinai ir krašto m aršalo vieta. Be to, jis drauge su Vilniaus
@@ -198,6 +200,7 @@ J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai 
 - id: c-170705
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     87 Aleksandro 1492.VHI.6 privilegija Lietuvos leodalams, pra­
     plečiam i LDK Ponų Tarybos teises, nustatė, kad didžiojo kunigaikš­

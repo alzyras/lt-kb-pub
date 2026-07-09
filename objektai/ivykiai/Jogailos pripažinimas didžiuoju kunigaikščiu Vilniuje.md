@@ -147,6 +147,7 @@ Nenurodyta
 - id: c-169883
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Kunigaikštis Jogaila ir kunigaikštis Vy­
     tautas, jų tėvams dar gyviems esant, buvo labai su­

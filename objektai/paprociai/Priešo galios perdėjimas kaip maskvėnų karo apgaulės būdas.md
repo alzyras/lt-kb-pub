@@ -138,6 +138,7 @@ Nenurodyta
 - id: c-169246
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šitai išgirdęs,
     Konstantinas patraukė link priešo su savo kariais, ku­
@@ -164,6 +165,7 @@ Nenurodyta
 - id: c-169247
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Štai todėl ir pamanė,
     jog maskvėnai įprastu būdu dedasi esą stipresni nei iš

@@ -139,6 +139,7 @@ Nenurodyta
 - id: c-169905
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir Smolensko vyskupas Semionas2 , ir kunigaikš­
     čiai, ir bajorai, ir miestiečiai, ir prastieji žmonės prisie­

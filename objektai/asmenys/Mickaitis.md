@@ -57,6 +57,7 @@ Pulko vadas pasigedo 1 bataliono karininkų: ltn. Baniulio, ltn. Raibikio, ltn. 
 - id: c-42140
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Pulko vadas pasigedo 1 bataliono karininkų: ltn. Baniulio,
     ltn. Raibikio, ltn. Čižausko, ltn. Mickaičio ir kitų.

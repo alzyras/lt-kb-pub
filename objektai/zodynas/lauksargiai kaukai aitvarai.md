@@ -59,6 +59,7 @@ Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvar�
 - id: c-03300
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Buvo net svarbes-
     nių javų (pav., linų) globėjų, lauksargių, kaukų, aitvarų ir kitokių

@@ -209,6 +209,7 @@ Nenurodyta
 - id: c-83289
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tai sukėlė nesiliaujančius vaidus
     tarp šio ordino ir miestiečių, tad Žygimantas, kad paten­

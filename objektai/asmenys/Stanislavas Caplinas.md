@@ -87,6 +87,7 @@ Lietuvos pajėgos Čekistinę operacijos pusę koordinavo naujai Maskvos paskirt
 - id: c-44514
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     vadas generolas Valentinas Varenikovas. Lietuvos pajėgos
 

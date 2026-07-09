@@ -143,6 +143,7 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
 - id: c-59052
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies
                                   paėmimą
@@ -182,6 +183,7 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
 - id: c-59054
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pilėnai, gyvenę kitose trijose
 

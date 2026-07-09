@@ -111,6 +111,7 @@ Nenurodyta
 - id: c-171852
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vienas liaudies padavimas sa­
     ko, kad palaimintojo vėlė po mirties gaunanti šimtą juslių,

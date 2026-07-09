@@ -138,6 +138,7 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
 - id: c-70940
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuose kraštuose lietuvių tarnavo
     įvairiose rusų valdžios įstaigose, bet po karo daugumas jų grįžo
@@ -155,6 +156,7 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
 - id: c-70941
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Dabar Suomijoje yra Lietuvių Suomių Drau-
     gija, o Estijoje — Lietuvių Draugija Estijoje.
@@ -171,6 +173,7 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
 - id: c-70942
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Ypač daug lietuvių studentų, daugiausia medikų, studijuodavo
     Tartų universitete, Estijoje. Tuose kraštuose lietuvių tarnavo

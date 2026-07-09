@@ -167,6 +167,7 @@ Vartojamas senosios istoriografijos ir rašytojo apie praeitį prasme.
 - id: c-175114
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     si, iš cituoto teksto galima spręsti, jog T. Narbutas la­
     bai aišikiai atribojo tai, kas šiandien mūsų ausiai skamba

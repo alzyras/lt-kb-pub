@@ -119,6 +119,7 @@ Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris taus gimimo tūkstantis 
 - id: c-176731
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tą pačią žiemą didysis kunigaikštis
     Aleksandras su didžiąja kunigaikštiene Elena bei su
@@ -145,6 +146,7 @@ Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris taus gimimo tūkstantis 
 - id: c-176732
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O šie tuoj pat atsiuntė jam kelis tūkstančius ka­
     riuomenės, ir pats susitvarkė bei pasiruošė su visais

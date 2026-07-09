@@ -96,6 +96,7 @@ Nenurodyta
 - id: c-44689
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Nors kulkosvaidžių įgula dar ne-
     turėjo, visų savanorių apgin-

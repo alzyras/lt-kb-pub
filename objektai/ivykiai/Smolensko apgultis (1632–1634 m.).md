@@ -234,6 +234,7 @@ Nenurodyta
 - id: c-11911
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Mūšis
     1632 m. maskvėnai, pasinaudodami
@@ -258,6 +259,7 @@ Nenurodyta
 - id: c-11912
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Smolenską gynė apie 2 tūkst. Lietuvos
     karių. Miestas buvo stipriai apšaudo-
@@ -279,6 +281,7 @@ Nenurodyta
 - id: c-11913
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1633 m. žiemą į pagalbą atskubėjo tuo-
     metinis Lietuvos lauko etmonas Kristupas
@@ -314,6 +317,7 @@ Nenurodyta
 - id: c-11914
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Prie Polianovkos upės Lietuva ir Lenkija su
     Rusija sudarė „amžinosios taikos“ sutartį.

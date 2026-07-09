@@ -257,6 +257,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 - id: c-104852
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vėliau karalienė
     Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
@@ -279,6 +280,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 - id: c-104854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Karalius tuoj pat
     aprūpino ją nemenkomis pajamomis: be turtingos Klodovo
@@ -318,6 +320,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 - id: c-104855
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Jiems buvo pavestos spręsti visos bylos dėl turto, t. y. vadinamo-
     sios civilinės bylos. Tik bylos dėl žemės ribų (ežių) buvo pa-
@@ -335,6 +338,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 - id: c-166365
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tik bylos dėl žemės ribų (ežių) buvo pa-
     vestos atskiram pakamorės teismui. Kiekviename dabar
@@ -352,6 +356,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 - id: c-175905
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Seimeliai. Žemės teismams rinkti buvo įvesti viso pavieto
     arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.

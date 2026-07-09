@@ -122,6 +122,7 @@ Nenurodyta
 - id: c-177217
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai,
     panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė­
@@ -141,6 +142,7 @@ Nenurodyta
 - id: c-177218
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kai kuriuos žymius žmones Lietuvoje kartais laidodavo
     prie didelių akmenų, esančių laukuose. 1822 metais pasitaikė

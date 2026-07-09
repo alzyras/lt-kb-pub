@@ -124,6 +124,7 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
 - id: c-59572
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kronikos idėjinė reikšmė ir mokslinė svarba
 
@@ -146,6 +147,7 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
 - id: c-167405
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Ir šiuo atveju Petras iš Dusburgo yra ryškus Ordino interesų gynėjas, visas
     pastangas sutelkęs kronikos pagrindinei idėjai — agresyvios vokiečių feodalų klasės

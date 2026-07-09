@@ -138,6 +138,7 @@ Nenurodyta
 - id: c-63166
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie taikos atkūrimą tarp Sventopelko ir brolių
 
@@ -163,6 +164,7 @@ Nenurodyta
 - id: c-63167
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     295   Paliaubos tarp Ordino  ir Sventopelko sudarytos 1246 m. (Ewald  A., Die
     Eroberung..., 2, p. 205).

@@ -83,6 +83,7 @@ Nenurodyta
 - id: c-01486
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Zigmanto Augusto antkapis Krokuvos katedroje.
     į protestantizmą, kad galėtų gauti persiskyrimą su žmona, bet dėl

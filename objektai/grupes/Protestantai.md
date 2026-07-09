@@ -205,6 +205,7 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - id: c-01696
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Katalikams pačios pavojingosios buvo protestantų
     mokyklos. Jos buvo steigiamos protestantų didikų, o kai kur
@@ -221,6 +222,7 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - id: c-166322
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Visur
     prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
@@ -239,6 +241,7 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - id: c-175884
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Beveik visos didžiųjų ponų šeimos buvo išvir-
     tusios protestantais. Bet jau to pat amžiaus gale atvykusių jėzuitų
@@ -254,6 +257,7 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - id: c-175885
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Todėl vėlesniai-
     siais laikais lietuviškų protestantiškųjų knygų spausdinimas ėjo

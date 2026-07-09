@@ -69,6 +69,7 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 - id: c-03037
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Čia buvo kuriami visi poli-
     tiniai planai, iš čia ėjo derybos su užsieniu, čia lankydavosi arba

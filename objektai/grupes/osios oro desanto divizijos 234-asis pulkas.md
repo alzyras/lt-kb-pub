@@ -84,6 +84,7 @@ Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko
 - id: c-77350
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Sustiprinti esamą Vilniaus įgulą buvo at-
     siųsti ir papildomi sovietinės kariuomenės

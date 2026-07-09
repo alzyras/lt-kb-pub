@@ -230,6 +230,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
 - id: c-168789
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vytautas, pasipiktinęs ne tiek
     dėl pralaimėjimo, kiek dėl
@@ -261,6 +262,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
 - id: c-168790
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Žygimantas, beveik be kovos laimėjęs karą,
     paėmė be kraujo praliejimo į savo rankas Vilnių, Tra­
@@ -285,6 +287,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
 - id: c-168791
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Atidėlioti šį
     reikalą būtų buvę pavojinga,
@@ -313,6 +316,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
 - id: c-168792
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tada Žygimantas pagal senus papročius
     buvo maršalų paskelbtas didžiuoju kunigaikščiu ir pa­

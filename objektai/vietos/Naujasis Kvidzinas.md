@@ -137,6 +137,7 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Todėl ir Naujojo Kvidzino tvirtovė buvo pavesta valdyti
     Vytautui. Joje 1384 metų birželio mėn. 14 d. Vytautas ir magis­
@@ -152,6 +153,7 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Nors ateitis, kuri Vytauto laukė Lietuvoje, jam
     nebuvo aiški, bet jis savo išsiskyrimą su Ordinu vykdė apgalvo­
@@ -174,6 +176,7 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Sujungtos Jo­
     gailos ir Skirgailos kariuomenės gavo smūgį. Nežiūrint nera­

@@ -75,6 +75,7 @@ Pasak Teodoro Narbuto perteikiamo pasakojimo, Neoptolemas pirmasis steigė pasto
 - id: c-174330
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     33
     Jau labai senais laikais graikai užmezgė santykius su

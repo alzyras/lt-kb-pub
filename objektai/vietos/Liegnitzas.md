@@ -79,6 +79,7 @@ Ir iš menkų šaltinių nuotrupų yra įmanoma šiek tiek įžvelgti, jog Minda
 - id: c-33924
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Ką galima pasakyti apie jaunos Lietuvos valstybės vaidmenį
     sulaikant totorių slinkimą prie Baltijos jūros? Ir iš menkų šaltinių

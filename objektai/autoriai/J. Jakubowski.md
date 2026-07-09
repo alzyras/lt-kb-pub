@@ -115,6 +115,7 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Red.
     (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
@@ -131,6 +132,7 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
 - id: c-65306
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^128) I SKYRIUS: LIETUVOS PROISTORĖ
     342 p. ; plg. _Südostbaltikum,_ ten pat, XIII, 1929. — Jakubowski, J.: _Opis

@@ -98,6 +98,7 @@ Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių
 - id: c-83912
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Dlugošas nurodo, jog Vilnius yra senovinis
     miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo

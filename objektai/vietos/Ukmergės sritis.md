@@ -77,6 +77,7 @@ Narbutas Zivinbudą vadino Dausprungų giminės Ukmergės srities kunigaikščiu
 - id: c-171961
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     154
 

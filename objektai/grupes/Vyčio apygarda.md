@@ -120,6 +120,7 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
 - id: c-42983
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     VYČIO APYGARDOS vadas Alfonsas Sme-
     tona-Žygaudas (1915-1950), buvęs poli-
@@ -143,6 +144,7 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
 - id: c-44873
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     praktiškai žuvo visa apygardos vadovybė.
     1950 m. lapkričio 25 d. srities vado įsakymu

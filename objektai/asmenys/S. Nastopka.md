@@ -147,6 +147,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 - id: c-42208
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Karin. S. Nastopkos vadovaujamos 11 bri-
 
@@ -167,6 +168,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 - id: c-42210
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     S. Nastopkos vadovaujama 1-oji pėstininkų
     divizija (1-asis, 4-asis ir 7-asis pulkai), įžen-
@@ -183,6 +185,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 - id: c-44503
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Konstantinas Žukas. Atleidus iš
     pareigų armijos vadą gen. S. Nastopką

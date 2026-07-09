@@ -117,6 +117,7 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
 - id: c-46627
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Į pagalbą jam atvykdavo būriai
     kryžeivių. Bet vos tik jie išvykdavo namo, prūsai, išlindę iš
@@ -136,6 +137,7 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
 - id: c-54204
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Praėjo net keliolika metų, o vysk. Kristijonui vis ne-
     sisekė: pagonys ne tik naikino jo kuriamas krikščionių bendruo-

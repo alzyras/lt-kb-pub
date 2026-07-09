@@ -128,6 +128,7 @@ Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Pr�
 - id: c-61634
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Galbūt galima
     daryti prielaidą, kad prieš D. territorium baltų kraštuose galėjo egzistuoti terrula —
@@ -149,6 +150,7 @@ Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Pr�
 - id: c-61635
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija
     (Būga K. 1, p. 554; MPKP, 1, p. 14—15; Prūsijos valdžios gromatos..., Nr. 1 (1589

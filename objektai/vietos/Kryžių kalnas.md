@@ -124,6 +124,7 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
 - id: c-167004
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stipry-
     bės ir vilties šaltinio, prasmė. Todėl Kryžių kalnas, esantis 12 km į šiaurę

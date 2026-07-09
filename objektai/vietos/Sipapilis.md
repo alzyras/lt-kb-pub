@@ -127,6 +127,7 @@ Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
 - id: c-175573
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kitos tokios tvirtovės buvo ir kitose Bar­
     tos dalyse, nes šios provincijos gyventojai, vokiečių va­
@@ -152,6 +153,7 @@ Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
 - id: c-175574
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taigi čia gyveno Bartos karaliukas, čia buvo ir savo
     sprendimus skelbė vietinis Krivis. Net ir Sipapilio pava­

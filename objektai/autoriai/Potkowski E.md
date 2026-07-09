@@ -70,6 +70,7 @@ Dusburgietis teigia, kad po derybų Fridrichas II pripažino popiežiaus valdži
 - id: c-61402
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Popiežiaus mirtį imperatorius manifeste krikščioniškosios Europos valdovams
     traktavo kaip pergalę. Konfliktas tęsėsi ir Inocento IV laikais. Po derybų Fridrichas II

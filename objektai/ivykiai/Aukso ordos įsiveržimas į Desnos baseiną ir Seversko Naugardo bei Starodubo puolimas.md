@@ -195,6 +195,7 @@ Nenurodyta
 - id: c-169978
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     4 4  Seversko N augardas ir Starodubas Aukso ordos totorių bu­
     vo puolami 1501 m. rugsėjo mėn. (prieš X.7).
@@ -216,6 +217,7 @@ Nenurodyta
 - id: c-169979
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1501 m., tarpininkaujant M. Chaleckiui.
     tarp Aukso ordos ir LDK buvo sudaryta sųjungos sutartis prieš

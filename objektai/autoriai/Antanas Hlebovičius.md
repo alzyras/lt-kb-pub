@@ -82,6 +82,7 @@ Narbutas mini Hlebovičiaus „Vytauto gyvenimą“ kaip Onacevičiaus pastabose
 - id: c-175307
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Todėl vieni tiesiog
     priimdavo kronikininkų geriau išdėstytas išvadas apie

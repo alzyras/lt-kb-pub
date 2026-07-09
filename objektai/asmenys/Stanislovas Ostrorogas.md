@@ -74,6 +74,7 @@ Stanislovas Ostrorogas, Kališo vaivada, atvyko į Vilniaus lietuvių seimą kai
 - id: c-169618
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Gavo jie tik tokį atsakymą, kad
     lenkai nieku būdu neatsisakysią atsilyginti lietuvių luo­

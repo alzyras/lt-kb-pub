@@ -81,6 +81,7 @@ Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairio
 - id: c-171876
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai galima pastebėti iš to, kas išdėstyta,
     ir iš kai kurių žmonių pasakojimų. Kaip tik tokie bjaurūs vabz­

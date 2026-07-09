@@ -200,6 +200,7 @@ Nenurodyta
 - id: c-63424
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje
 
@@ -220,6 +221,7 @@ Nenurodyta
 - id: c-63426
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie kito brolio gyvenimą toje pačioje pilyje
 

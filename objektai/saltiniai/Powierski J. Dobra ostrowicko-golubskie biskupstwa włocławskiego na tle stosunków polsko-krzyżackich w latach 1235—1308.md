@@ -145,6 +145,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
 - id: c-61591
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų
 
@@ -160,6 +161,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
 - id: c-61592
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus,  ir broliai, ten
     įsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai
@@ -176,6 +178,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
 - id: c-61593
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201).
   statusas: verified

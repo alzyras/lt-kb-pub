@@ -76,6 +76,7 @@ Dabartinis iš tiesų visiškai skiriasi nuo pirmesniojo, kurio klaidas stengėm
 - id: c-84291
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     To įsidėmėtino žygio į Vilnių apra­
     šymą nepasirašę įdėjome į 1829 metų

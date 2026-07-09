@@ -124,6 +124,7 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
 - id: c-33175
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     2, 1972). S. Matulaitytė rašo apie astro­
     nomijos mokslo įvedimą Vilniaus universitete XVIII a. (AkMD,
@@ -144,6 +145,7 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
 - id: c-171374
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     21 Daukantas S. Raštai / Tekstą parengė B. Vanagienė. Sudarė,
     įvadą ir paaiškinimus parašė V Merkys. -  V, 1976. -  T. 1. -  P. 488-

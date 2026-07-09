@@ -85,6 +85,7 @@ Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros a
 - id: c-175675
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šios lietuvių tautos valdos yra iškovotos iš
     lyvių, todėl vadinamos Livonija labai seniai ir gerokai

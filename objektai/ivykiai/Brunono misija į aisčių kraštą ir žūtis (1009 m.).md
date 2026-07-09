@@ -137,6 +137,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 - id: c-00189
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo
     jotvingų krašte. Jo ir palydovų lavonai taip pat buvo išpirkti
@@ -152,6 +153,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 - id: c-70265
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo
     Annales Quedlinburgenses, pažymėdami, kad 1009 m. prie Lietuvos

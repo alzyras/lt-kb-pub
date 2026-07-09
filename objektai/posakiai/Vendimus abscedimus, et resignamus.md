@@ -104,6 +104,7 @@ Elenos dieną, už šimtą kapų lietu­ viškų grašių ir dešimtį pūdų pi
 - id: c-82854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pirmąją iš griuvėsių prikėlė karalius ir pa­
     vertė patogiais savo apartamentais11, antrosios atstatymu

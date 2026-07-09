@@ -79,6 +79,7 @@ Narbutas laikė labiau tikėtina, kad Jonas Rivijus kai kuriuos kronikos dalykus
 - id: c-172987
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Sunku atspėti, ar tai Rivijus iš tikrųjų turėjo ran­
     koje Rotundo Lietuvos istoriją, ar kai kuriuos dalykus įtraukė ( kro­

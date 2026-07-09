@@ -215,6 +215,7 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 - id: c-59640
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Medininkų valsčiaus apiplėšimą 1316 metais
 
@@ -235,6 +236,7 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 - id: c-59641
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     296 (289). Apie maldininkų atvykimą
 
@@ -261,6 +263,7 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 - id: c-59642
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie maldininkų atvykimą
 

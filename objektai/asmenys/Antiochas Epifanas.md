@@ -78,6 +78,7 @@ Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malo
 - id: c-60869
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto —
     „gelbėtojas“. Kadangi Dovydas buvo pranašas  ir jo lūpomis bylojo šventoji dvasia,

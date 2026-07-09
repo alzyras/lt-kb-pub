@@ -74,6 +74,7 @@ Dusburgietis teigia, kad savukynas B.
 - id: c-61915
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Savukynas B. Dėl M. Rudnickio Galindos, Priegliaus ir Sūduvos etimologinių aiškinimų.—
     Lietuvių kalbotyros klausimai, V., 1963, 6, p. 320—325.

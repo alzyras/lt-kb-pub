@@ -78,6 +78,7 @@ Teodoras Narbutas, remdamasis „Dziennik Warszawski“ 1829 m. Nr. 44, herulus 
 - id: c-174636
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Todėl herulus
     reikėtų vadinti gerulais, Gerule; kai sakoma Herulis, tai skamba kaip

@@ -75,6 +75,7 @@ VaŽV = Wolonczewskis (Valančius), M., Žemajtiu Wiskupiste, dal.
 - id: c-29460
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     VaŽV = Wolonczewskis (Valančius), M., Žemajtiu Wiskupiste, dal.
     1-2, Vilnius 1848 ; naujas leid. Vilnius 1972.

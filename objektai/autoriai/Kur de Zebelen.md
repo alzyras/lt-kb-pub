@@ -77,6 +77,7 @@ Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino i
 - id: c-174561
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pirmtakų paistalai šių dienų istorijos kritikos požiūriu
     pateisina vėlesnius rašytojus. Pagal tas pačias taisykles

@@ -78,6 +78,7 @@ Dąbrowski : Rozbiór krytyczny Anna ­ lium Poloniae Jana Długosza z lat 1385-
 - id: c-33584
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1, 1909, 25 (12-28); zesz. 2, 121-132 p. — Plg. M. Goyski
     rec., KH, t. 26, 1912, 332-333 p. — J.** Dąbrowski **:** **_Rozbiór krytyczny Anna_** **­**

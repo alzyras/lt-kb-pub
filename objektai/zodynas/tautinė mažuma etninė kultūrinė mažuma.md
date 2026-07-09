@@ -215,6 +215,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
 - id: c-154612
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     1935–1936 mokslo metais veikė apie 30 lenkiškų
     mokyklų.
@@ -235,6 +236,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
 - id: c-154614
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuvių literatūra per šį laikotarpį pakilo į naujas aukštumas, lietuvių
     kalba parašyti kūriniai tenkino ir intelektualiai išlavintą protą, gerą meni-
@@ -253,6 +255,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
 - id: c-166869
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių or-
     ganizacijų, beveik visų lenkų (Lenkijos) politinių partijų padaliniai. La-
@@ -273,6 +276,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
 - id: c-166870
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano
     Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valsty-

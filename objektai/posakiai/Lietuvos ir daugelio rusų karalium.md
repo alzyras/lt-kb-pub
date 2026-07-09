@@ -75,6 +75,7 @@ media_all_json: |-
 - id: c-00253
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Gediminas jau aiškiai buvo nusistatęs prie savo valstybės pri-
     jungti visą Rusiją. O kadangi tuo tarpu dar jos visõs nebuvo

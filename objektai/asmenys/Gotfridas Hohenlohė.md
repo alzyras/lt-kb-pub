@@ -212,6 +212,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
 - id: c-60651
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     283 (276). Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
              kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno
@@ -233,6 +234,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
 - id: c-60652
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie brolį Gotfridą iš Hohenlohės, Teutonų namų ordino didįjį magistrą
 
@@ -255,6 +257,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
 - id: c-60653
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     1298 viešpaties
     metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur

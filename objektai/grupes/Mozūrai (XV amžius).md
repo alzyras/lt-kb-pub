@@ -158,6 +158,7 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 - id: c-13635
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Noris pradžioj 15 amžiaus namų ermyderiai ir svetimos karės trukino lietuvius ir žemaičius nuo
         prekybos, vienok Zigmantui Kęstutaičiui paėmus ūkę valdyti ir patvirtinus sandaras su mozūrais,
@@ -173,6 +174,7 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 - id: c-175879
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Rytuose nuo gudų juos skyrė didžiulės sausos girios.
 
@@ -190,6 +192,7 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 - id: c-175880
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
     Tačiau su lenkais jam tekdavo nemažai kariauti; jis pasiekdavo
@@ -207,6 +210,7 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Užtai nenuostabu, kad Jadvygos,
     įtaka padarė tai, kad lenkai šiame žygyje beveik nedalyvavo.

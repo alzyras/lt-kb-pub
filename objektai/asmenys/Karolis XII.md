@@ -132,6 +132,7 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
 - id: c-42072
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1706 m. švedai nužygiavo į
     Saksoniją ir, sumušę Augusto 11 pajėgas, privertė jį
@@ -150,6 +151,7 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
 - id: c-156074
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Augus-
     tas II pripažino Prūsijos kunigaikštystės

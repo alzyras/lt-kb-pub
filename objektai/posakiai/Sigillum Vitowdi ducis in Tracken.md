@@ -69,6 +69,7 @@ Kiek vėliau padary­ tas jo nuorašas aprašo keturias antspaudas, tarp kurių 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Prie šito akto Vytauto antspauda neišliko. Kiek vėliau padary­
     tas jo nuorašas aprašo keturias antspaudas, tarp kurių pirmoje

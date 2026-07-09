@@ -72,6 +72,7 @@ Pasak Lasickio, Bežlėja, kitaip Vakarinė, buvo vakaro deivė, kartu su Aušra
 - id: c-172168
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Bežlėja (Bezelea)
     Pasak Lasickio, vakaro deivė, kitaip Vakarinė (Wakarinne).

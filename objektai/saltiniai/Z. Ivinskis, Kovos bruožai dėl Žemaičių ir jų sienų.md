@@ -118,6 +118,7 @@ Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų , Athenaeum V, 1935, 54-
 - id: c-33763
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.
     Berlin 1906. — Horn, A. : _Tannenberg,_ AM, t. 22, 1885, 637-648 ; t. 23,
@@ -137,6 +138,7 @@ Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų , Athenaeum V, 1935, 54-
 - id: c-33764
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — Goyski, W. : _Wzajemne stosunki Polski, Litwy i Zakonu w latach
     1399-1404,_ Przewodnik nauk. i liter., t. 34, 1906. — Ivinskis, Z. : _Kovos

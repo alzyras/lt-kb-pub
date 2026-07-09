@@ -141,6 +141,7 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
 - id: c-55794
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I  TOMAS
     senųjų valdų germanų gentį - gotus, o šie tai į Europos va­
@@ -166,6 +167,7 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
 - id: c-55795
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kraštas, ku­
     rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­

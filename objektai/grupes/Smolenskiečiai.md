@@ -122,6 +122,7 @@ Tos vė­ liavos buvusios smolenskiečių.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Dešinysis lietuvių sparnas pakriko, liko tik
     keletas lietuvių vėliavų kairiajame sparne arčiau lenkų. Tos vė­
@@ -137,6 +138,7 @@ Tos vė­ liavos buvusios smolenskiečių.
 - id: c-170684
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O
     gyvų paimta keturios dešimtys5 0  kunigaikščių su Kijevo

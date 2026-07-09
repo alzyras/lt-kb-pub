@@ -88,6 +88,7 @@ Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos
 - id: c-60895
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     133 (128). Apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas
 

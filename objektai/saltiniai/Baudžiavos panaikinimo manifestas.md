@@ -80,6 +80,7 @@ Baudžiavos panaikinimo manifestas buvo paruoštas Petrapily ir paskelbtas 1861 
 - id: c-02377
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Nebuvo tik sutikimo dėl tolimesnio jų li-
     kimo. Bet vis dėlto vienur daugumas, kitur bent dalis bajorų

@@ -202,6 +202,7 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 - id: c-173315
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tada aprengia drabužiais, pritinkančiais luomui ir ly­
     čiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša
@@ -220,6 +221,7 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 - id: c-173628
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Oficialūs atgarsiai į T. Narbuto „Lie­
     tuvių mitologiją“ pasirodė netrukus, t. y. tais pačiais
@@ -238,6 +240,7 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 - id: c-173629
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Galima
     spėti, jog būtent ši recenzija
@@ -257,6 +260,7 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 - id: c-176258
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
     kalba – 1835–1841 m. Vilniuje lenkų kalba išeina devyni tomai karo in-

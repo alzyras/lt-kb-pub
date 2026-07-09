@@ -96,6 +96,7 @@ Nenurodyta
 - id: c-33424
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Vesdamas dviem frontais karus su kryžiuočiais, Vytenis nepa­
     miršo ir kaimyninių rytinių žemių. Naudodamasis proga, jis apie

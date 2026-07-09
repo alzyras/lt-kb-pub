@@ -78,6 +78,7 @@ Nenurodyta
 - id: c-176692
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ant šio kalno XII a, buvo įkurtas benediktinų
     vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija — kryžius

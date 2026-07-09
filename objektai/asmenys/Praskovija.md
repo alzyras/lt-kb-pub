@@ -100,6 +100,7 @@ O savo vietoje paliko sūnų Glėbą ir dukterį Praskoviją IS . Išgyveno ten 
 - id: c-176734
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Savo vietoje, Polocke, jis paliko savo sūnų Rogvolo-
     dą, pramintą Vosyliumi1 7 , ir tasai Polocko kunigaikš­
@@ -120,6 +121,7 @@ O savo vietoje paliko sūnų Glėbą ir dukterį Praskoviją IS . Išgyveno ten 
 - id: c-176735
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Toji duktė davė įžadą, kad liksianti ligi mirties
     skaisti, ir tapo šventojo Išganytojo vienuolyno prie

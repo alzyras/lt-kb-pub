@@ -118,6 +118,7 @@ Jonas Albertas užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvyko s
 - id: c-176703
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O šie tuoj pat atsiuntė jam kelis tūkstančius ka­
     riuomenės, ir pats susitvarkė bei pasiruošė su visais
@@ -151,6 +152,7 @@ Jonas Albertas užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvyko s
 - id: c-176704
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     8 Kazimiero Jogallaičio trečiasis sūnus Jonas Albertas, vadin­
     tas Olbrachtu. buvo vyresnis už brolį Aleksandra dviem  metais:

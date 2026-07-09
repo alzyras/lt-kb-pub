@@ -156,6 +156,7 @@ media_all_json: |-
 - id: c-169484
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Juos nesunku paveikti gerumu, paskyrus į se­
     niūnus žmogų, kurį žemaičiai mielai priimtų ir kuriam
@@ -182,6 +183,7 @@ media_all_json: |-
 - id: c-176558
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     .M , nes Kantautas buvo kilęs
     iš Žemaičių. Ir didysis kunigaikštis Kazimieras labai
@@ -201,6 +203,7 @@ media_all_json: |-
 - id: c-176559
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tas Kantauto giminaitis suprato, kad negalima sto­
     ti prieš taip didį valdovą, ir žemaičiai nusileido, sutikę

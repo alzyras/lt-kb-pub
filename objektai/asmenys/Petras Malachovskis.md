@@ -129,6 +129,7 @@ Narbutas nurodė, kad Petras Malachovskis bajoriškų pavardžių rinkinyje pate
 - id: c-174188
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
     Lietuvoje šeimos herbai egzistavo70.
@@ -150,6 +151,7 @@ Narbutas nurodė, kad Petras Malachovskis bajoriškų pavardžių rinkinyje pate
 - id: c-174189
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     T. Narbutas turėjo omenyje Černigovo
     dvarininko Petro

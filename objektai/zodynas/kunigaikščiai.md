@@ -348,6 +348,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - id: c-03293
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Anų laikų svetimšaliai juos vadin-
     davo daugybe dar kitų vardų: vyresniaisiais, kilmingaisiais, kuni-

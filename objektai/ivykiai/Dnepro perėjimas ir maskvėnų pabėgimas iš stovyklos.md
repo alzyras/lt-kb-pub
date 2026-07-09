@@ -189,6 +189,7 @@ Nenurodyta
 - id: c-168922
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kadangi prie­
     šas nežinojo, kas dedasi, keli tūkstančiai raitelių, apie
@@ -217,6 +218,7 @@ Nenurodyta
 - id: c-168923
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Glinskis, puo­
     selėdamas jau kartą atmestus sumanymus, po senovei
@@ -247,6 +249,7 @@ Nenurodyta
 - id: c-168924
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Po šio įvykio Glinskis, nelyginant sumažėjęs ne
     tik savo šalininkų, bet ir savo paties akyse, pasitraukė

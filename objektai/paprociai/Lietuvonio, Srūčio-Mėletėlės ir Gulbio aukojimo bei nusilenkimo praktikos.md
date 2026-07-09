@@ -127,6 +127,7 @@ Nenurodyta
 - id: c-172689
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tuo
     labiau kad nežinome kitų senovės tautų panašios religinės mo­
@@ -145,6 +146,7 @@ Nenurodyta
 - id: c-172690
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Senovės latvių panašios asmeninės dvasios vadinosi Lul-
     kis .

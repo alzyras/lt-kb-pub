@@ -81,6 +81,7 @@ Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž. visuomeninių-socialinių
 - id: c-33194
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Šio objektyvi studija «Tautybių santykiai
     Lietuvoje prieš Liublino uniją » Kaune Švietimo Ministerijos buvo

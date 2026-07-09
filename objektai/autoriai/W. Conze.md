@@ -78,6 +78,7 @@ Conze 161 , ir paskutiniu metu išsp. F.
 - id: c-33191
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Serijoje « Ostmittel­
     europa in Vergangenheit und Gegenwart» pasirodė Lietuvos isto­

@@ -71,6 +71,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - id: c-02630
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuo tarpu Lenkijoj laimėjo Za-
     moiskis. Būdamas hetmonas, vadovaudamas Lenkijos kariuo-

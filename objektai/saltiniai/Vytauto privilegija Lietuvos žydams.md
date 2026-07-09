@@ -90,6 +90,7 @@ Vilno ipso die Sanctae Priscae Virginis 67 et martyris anno D-ni 1401 [Lietuvos 
 - id: c-84336
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Reikšminga pergalė prie Griunvaldo pirmą kar­
     tą pajudino jo tvirtus pamatus. Tačiau nėra likę ženklų, kad

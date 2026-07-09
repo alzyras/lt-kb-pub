@@ -80,6 +80,7 @@ Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo į savo praeitį pamilusios
 - id: c-34048
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Geležinio vilko legenda, be abejo, primena
     Romos vilkę, kai jau lietuviai buvo įsisąmoninę apie savo kilmę

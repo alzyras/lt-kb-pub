@@ -74,6 +74,7 @@ Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs da
 - id: c-173038
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­
     pu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­

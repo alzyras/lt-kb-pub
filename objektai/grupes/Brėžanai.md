@@ -76,6 +76,7 @@ Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai,
 - id: c-175764
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Helmoldas ir
     Adomas Bremenietis teigia, jog herulai pirmiausia ap­

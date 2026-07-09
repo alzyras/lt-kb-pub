@@ -142,6 +142,7 @@ Nenurodyta
 - id: c-169006
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Užvolgio skitai,
     netekę mirusio chano Saladi-
@@ -167,6 +168,7 @@ Nenurodyta
 - id: c-169007
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vytautas, ne vieną
     kartą ligi tol patyręs šios tautos tvirtą palankumą ir

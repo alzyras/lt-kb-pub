@@ -271,6 +271,7 @@ media_all_json: |-
 - id: c-83984
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     48
 
@@ -327,6 +328,7 @@ media_all_json: |-
 - id: c-83985
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     20
     G r z y b o w s k i, Sk. XI, 1. 90. Anot
@@ -344,6 +346,7 @@ media_all_json: |-
 - id: c-83986
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Nuo neat­
     menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­
@@ -364,6 +367,7 @@ media_all_json: |-
 - id: c-83987
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Strijkovskis ir Koje-
     1  a v i č i u s supainiojo Andrių, Al­
@@ -390,6 +394,7 @@ media_all_json: |-
 - id: c-83988
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     7
     Šventaragio vardo kilmę aiškina

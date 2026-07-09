@@ -72,6 +72,7 @@ Narbuto aprašyme lietuvių liudytojas dėdavo kepurę prieš teisėją ir ja la
 - id: c-172469
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     93
     321

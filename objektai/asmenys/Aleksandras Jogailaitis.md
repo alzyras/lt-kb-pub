@@ -1573,6 +1573,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-55307
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     III KNYGA
     Iki tol (1492 m.) didžiųjų Lietuvos kunigaikščių Vilniui
@@ -1600,6 +1601,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-55309
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
     to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
@@ -1620,6 +1622,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-55310
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tarp Aleksan­
     dro ir jo uošvio vyko nuolatinės rietenos. Krymo totorių
@@ -1640,6 +1643,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-55311
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau Aleksandro planai pasirodė esą klaidingi, nes
     totoriai, nepaisydami grasinimų, jog Šach Achmedas bet ka­
@@ -1660,6 +1664,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-55313
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Toksai pagrindinės valdžios nutolimas
     nuo sostinės galėjo turėti blogos įtakos jos gerovei.
@@ -1679,6 +1684,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-78657
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     PATS ALEKSANDRAS,
     DIEVO MALONE DIDYSIS LIETUVOS,
@@ -1700,6 +1706,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-78658
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     229
 
@@ -1727,6 +1734,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-78659
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Ta pačia privilegija, kuria Vilniui buvo
     duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­
@@ -1752,6 +1760,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-78660
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Todėl mes,
     Aleksandras, Dievo malone Lenkijos karalius, didysis Lie­
@@ -1798,6 +1807,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-78661
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Krymo totorių
     orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,
@@ -1823,6 +1833,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-78662
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Bet, kai totoriai didele
     *
@@ -1887,6 +1898,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-78663
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Transilvanijos kunigaikštis. Šiuo raštu skel­
     biame visiems ir kiekvienam, kam dera žinoti, kad pas mus
@@ -1913,6 +1925,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-78664
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Mes, Aleksandras, Dievo malone didysis
     Lietuvos, Žemaitijos, Rusios, Kijevo ir 1.1, kunigaikštis. Po­
@@ -1938,6 +1951,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-78665
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Gausūs Krymo ordos ka­
     rių būriai susirėmė su mūsiškiais ties Kłecku, ir lemtinga
@@ -1973,6 +1987,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-78666
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Iš daugelio didžiųjų kunigaikščių privilegijų ir ediktų ma­
     tyti, kad čia gerokai sumažėjo gyventojų, pastatai apleisti,
@@ -1993,6 +2008,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-78667
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     681-687, plačiai ir ganėtinai žais-
     karaliaus mirties sėdėjo kalėjime Vii- mingai eilėmis aprašo šią svarbią
@@ -2020,6 +2036,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-78668
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šio išmintingo karaliaus nuopel­
     nas - vietinio Lietuvos ūkio pradmenys bei tvarka jos sosti­
@@ -2040,6 +2057,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-78669
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Aleksandro Jogailaičio nerūpestingumas ir išlaidumas vė­
     liau, valdant Žygimantui, sukėlė diskusiją apie Vilniaus sau­
@@ -2067,6 +2085,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-78670
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Quem quidem vitae spiritum
     368
@@ -2101,6 +2120,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-168018
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kai gydytojas Jokūbas Zaleskis, palieptas atvirai išklo­
     ti, ar karalius atlaikys ligą, nieko gero negalėjo paža­
@@ -2123,6 +2143,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-168019
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Gerokai nesutarė tie, kurie, visaip meilin-
     damiesi, tylomis medžiojo sau kitų balsus, ir tie, kurie
@@ -2145,6 +2166,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-168020
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Akivaizdus ir nepaprastas tautos pritarimas
     ju  k u n ig a ik ščiu
@@ -2170,6 +2192,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-168021
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Atvestas pas Ivaną, Konstan­
     tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
@@ -2191,6 +2214,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-168022
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Neatsispyręs kas dieną girdimiems Glinskio
     klastingiems
@@ -2222,6 +2246,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-168023
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Į seimą atvyko iš Vilniaus
     Skitas Sich Achmetas
@@ -2246,6 +2271,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-171400
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai tikriausiai pati seniausia šventovė Že­
     maitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,
@@ -2264,6 +2290,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-173727
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tai tik­
     riausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi­
@@ -2286,6 +2313,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-176511
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO
     ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA
@@ -2316,6 +2344,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-176512
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir didysis kunigaikštis Aleksandras, maty­
     damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­
@@ -2333,6 +2362,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-176513
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     5 Trisdešimt vienerių metų Aleksandras (gimė Krokuvoje
     1461.V1I1.5) buvo Lk ir Ldk Kazimiero ir Vokietijos im peratoriaus
@@ -2348,6 +2378,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - id: c-176514
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų
     LDK žemių seimas Vilniuje, 1492.VII.18.

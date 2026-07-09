@@ -80,6 +80,7 @@ Nenurodyta
 - id: c-09936
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Sugrietąjį nuo neprietelių grobį karėj visados į keturias dalis dalijo. Visų gerąją atdavė savo
         dievams. Antroji teko kūrėjų kūrėjui ar kunigaikščiui ir jo tarnams arba kunigams. Trečiąją gavo

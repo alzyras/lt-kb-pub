@@ -93,6 +93,7 @@ LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento Lietuv
 - id: c-75433
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento
     Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde)

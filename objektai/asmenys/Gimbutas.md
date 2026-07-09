@@ -147,6 +147,7 @@ Gimbutui buvo paskirta valdyti Žemaitiją. O tasai kunigaikštis Kūnas turėjo
 - id: c-169471
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kokius jis nuveikė paminėtinus darbus,
     vėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­
@@ -165,6 +166,7 @@ Gimbutui buvo paskirta valdyti Žemaitiją. O tasai kunigaikštis Kūnas turėjo
 - id: c-176536
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Neilgai trukus, mirė jo brolis Barkus, kuris gyveno
     Jurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė
@@ -184,6 +186,7 @@ Gimbutui buvo paskirta valdyti Žemaitiją. O tasai kunigaikštis Kūnas turėjo
 - id: c-176537
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O tuo laiku, jam bebūnant Rusioje, kita gentis, va­
     dinama latviais, kurie gyveno jūros pakrantėje ir iš­

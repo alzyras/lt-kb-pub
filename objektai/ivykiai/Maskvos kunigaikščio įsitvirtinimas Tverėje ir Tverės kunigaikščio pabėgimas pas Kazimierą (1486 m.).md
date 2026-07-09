@@ -198,6 +198,7 @@ Nenurodyta
 - id: c-168976
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Sutvarkęs Valachijos reikalus, karalius nuvyko į
     Lietuvą, nes, bėgant metams ir nykstant dvasios žva­
@@ -229,6 +230,7 @@ Nenurodyta
 - id: c-168977
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kai Tvėrėje ar dėl
     M a s k v o s
@@ -260,6 +262,7 @@ Nenurodyta
 - id: c-168978
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tverė turėjo labai galingas karo
     jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­

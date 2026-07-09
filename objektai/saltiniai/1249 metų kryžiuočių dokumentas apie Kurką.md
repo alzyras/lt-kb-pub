@@ -108,6 +108,7 @@ Narbutas mini 1249 m. kryžiuočių dokumentą kaip originalą, kurį, jo teigim
 - id: c-170962
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dėl šito kyla abejonė33, kadangi viename 1249 metų kry­
     žiuočių dokumente, kurio originalą autorius matė, vietoje žo­

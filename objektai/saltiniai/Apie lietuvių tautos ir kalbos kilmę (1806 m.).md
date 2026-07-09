@@ -91,6 +91,7 @@ Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir
 - id: c-67297
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     lietuvius mokytis lenkiškai. Kad lietuvių kalba nežūtų, jis siūlo
     įsteigti Lietuvą mylinčių ir lietuvių kalbą mokančių draugiją, kuri
@@ -109,6 +110,7 @@ Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir
 - id: c-67298
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tokį pra-
     nešimą Krokuvoje padarė Vilniaus universiteto garbės narys, uk-

@@ -179,6 +179,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 - id: c-43518
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     @ Geležinkelio linija tarp Klaipėdos ir Šiaulių
     (Kretinga-Kužiai) buvo baigta tiesti tik 1936 m.,
@@ -209,6 +210,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 - id: c-156139
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     © M. Kalmantavičiaus-Bajoro traukinys išvyksta
     į Tauragę.
@@ -226,6 +228,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 - id: c-166424
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     I Gardino apygardoj apygardėlinių mokyklų buvo šiose vie-
     tose: Vilniuje, Volkoviske, Višniove, Pastoviuose, Lydoje, Merkinėje,

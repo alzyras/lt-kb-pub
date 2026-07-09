@@ -90,6 +90,7 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
 - id: c-01353
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Bet
     kadangi jis tuo metu gyveno užsieny, daugiausia Bulgarijoje

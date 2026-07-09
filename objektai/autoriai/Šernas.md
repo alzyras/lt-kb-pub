@@ -86,6 +86,7 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
 - id: c-01411
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Visi jie buvo vien informacinio pobūdžio, ir tautiškosios
     sąmonės ugdymu nesirūpino. Tik vienas Šernas savo „Lie-

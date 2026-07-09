@@ -90,6 +90,7 @@ Narbuto pasakojime Sturlaugas Darbštusis išleido Ingigerdą už Flamoro ir kai
 - id: c-174278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Goterio sū­
     nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­

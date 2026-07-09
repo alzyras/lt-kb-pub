@@ -147,6 +147,7 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
 - id: c-61588
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kryžiuočių kelių aprašymuose (XIV a. pabaiga) minimas Putinveld (Weg.
     12, 16), Putetauken (Weg. 18). Pūtvės pilis ir laukas identifikuojami su Pūtvės kaimu
@@ -165,6 +166,7 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
 - id: c-61589
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Mickevičius J. Putvės pilis XIV amžiuje.— Gimtasai kraštas, 1940, Nr. 3—4, p. 286—
     287.
@@ -178,6 +180,7 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
 - id: c-61590
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dab. Pūtvės kaimo žemėse, Akmenos
     kair. kranto vingyje, esančioje Pilikėje (aikštelė 40Х Х24 m, be žymesnių įtvirtinimų

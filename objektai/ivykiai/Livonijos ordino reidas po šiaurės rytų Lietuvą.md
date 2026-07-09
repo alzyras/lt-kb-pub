@@ -240,6 +240,7 @@ Nenurodyta
 - id: c-169959
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Livonijos kariuome­
     nė, nežygiuodama link Molodečno, pasitenkino 1433.L30—II.9 rei­
@@ -259,6 +260,7 @@ Nenurodyta
 - id: c-169960
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     ”  Kalbama apie naujus Švitrigailos veiksmus 1433 m. sausio
     pabaigoje — vasario pradžioje. Nepavykus 1432 m. rudens puoli­

@@ -128,6 +128,7 @@ Nenurodyta
 - id: c-59982
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Popiežius 1217.III.3 leido Kristijonui organizuoti
     kryžiaus žygį į kitas Prūsijos žemes (PUB, 1, 1, Nr. 15; Pakarklis P. Kryžiuočių..., p. 205).
@@ -141,6 +142,7 @@ Nenurodyta
 - id: c-59983
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos
     kunigaikščiu Konradu, iš kurio gavo naujų vaidų (PUB, 1, 1, Nr. 32; Szacherska S. M.

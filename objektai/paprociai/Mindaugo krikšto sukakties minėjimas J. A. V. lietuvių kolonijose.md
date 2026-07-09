@@ -104,6 +104,7 @@ Nenurodyta
 - id: c-33460
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Čia ji pradedama dviejų
     šimtmečių (XII-XIII) sąvartoje.

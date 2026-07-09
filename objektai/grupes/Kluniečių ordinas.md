@@ -69,6 +69,7 @@ Dusburgietis teigia, kad kluniečių ordinas — 900 viešpaties metais popieži
 - id: c-63919
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kluniečių ordinas — 900 viešpaties metais popiežiaus Madrijono III laikais (Ptol. 16,23
     ir kt.).

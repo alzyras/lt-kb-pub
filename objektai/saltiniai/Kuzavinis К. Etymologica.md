@@ -73,6 +73,7 @@ Dusburgietis teigia, kad kuzavinis К.
 - id: c-61746
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kuzavinis К. Etymologica.— Baltistica, 1966, 1(2), p. 177 184.
   statusas: verified

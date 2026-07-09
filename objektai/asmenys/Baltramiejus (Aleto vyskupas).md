@@ -94,6 +94,7 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 - id: c-60877
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
                                        čionių 1324 metais

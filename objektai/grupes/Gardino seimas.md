@@ -185,6 +185,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
 - id: c-46280
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Rusija sau tenkančias žemes tuo metu jau buvo užėmusi; Prū-
     sija savąsias irgi tuojau okupavo. Tuomet, kaip ir 1772 m., iš
@@ -203,6 +204,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
 - id: c-46281
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kaip pirmą padalinimą patvirtinusiame seime, taip ir šitame
     šeimininkavo Kotrynos ambasadorius, Ziversas. Buvo sudaryta
@@ -220,6 +222,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
 - id: c-70499
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tačiau Rusijai buvo patogiau, kad valstybės priešaky liktų ka-
     ralius: mat, laikant jį savo įtakoj, lengviau prižiūrėti visą vals-

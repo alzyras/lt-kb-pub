@@ -75,6 +75,7 @@ Gardino žemė su artimiausiomis pilimis buvo pradinis laimikis.
 - id: c-33845
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Naudodamiesi artimųjų Rusios žemių susilpnėjimu, dar
     keliasdešimt metų prieš totorių pasirodymą, lietuviai buvo pradėję

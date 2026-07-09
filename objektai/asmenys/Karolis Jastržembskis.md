@@ -84,6 +84,7 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
 - id: c-44415
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1863-1864 m. sukilėlių vėliava
 

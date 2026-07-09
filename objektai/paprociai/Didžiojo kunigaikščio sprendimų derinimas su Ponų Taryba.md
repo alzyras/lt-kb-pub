@@ -84,6 +84,7 @@ Nenurodyta
 - id: c-176681
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     87 Aleksandro 1492.VHI.6 privilegija Lietuvos leodalams, pra­
     plečiam i LDK Ponų Tarybos teises, nustatė, kad didžiojo kunigaikš­

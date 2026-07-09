@@ -66,6 +66,7 @@ Paskui Smolenske kilo didelis maištas, smolenskiečiai sučiupo Smolensko marš
 - id: c-176740
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir tą pačią naktį Andrius su žmona, o su juo
     Smolensko bajorai išvyko iš miesto.

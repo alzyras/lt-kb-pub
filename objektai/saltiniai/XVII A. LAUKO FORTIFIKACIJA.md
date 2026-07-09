@@ -70,6 +70,7 @@ LAUKO FORTIFIKACIJA", Andžej Geglis, dail.
 - id: c-41773
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     P. 114, „XVII A. LAUKO FORTIFIKACIJA", Andžej Geglis, dail. Andžej Geglis.
   statusas: verified

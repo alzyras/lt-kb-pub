@@ -135,6 +135,7 @@ Korsako ir J.
 - id: c-169797
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     REDAKCINE KOMISIJA
     K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
@@ -152,6 +153,7 @@ Korsako ir J.
 - id: c-169802
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1 d., Kaunas 1934, 48-81 p.;
     jis kildino Rotundą iš Veliuonos ; Z. Ivinskis, LE, t. 26, 15 p.; J. Jurgi­

@@ -86,6 +86,7 @@ Lietuvos metraštis Vaidilą vadina didžiojo kunigaikščio Algirdo tarnu ir ve
 - id: c-170503
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didysis kunigaikštis Kęstutis, atsižvelg­
     damas j susitarimą bei savo brolišką meilę ir santar-

@@ -121,6 +121,7 @@ Mykolas Goštautas buvo Lietuvos Didžiosios Kunigaikštystės arklidininkas ir 
 - id: c-169513
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mykolas Goštautas, Lietuvos
     Didžiosios Kunigaikštystės arklidininkas, valdęs didžiu­
@@ -144,6 +145,7 @@ Mykolas Goštautas buvo Lietuvos Didžiosios Kunigaikštystės arklidininkas ir 
 - id: c-176580
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Antai didžiulėje
     tiems laikams jo bibliotekoje (žinomos 57 pozicijos,

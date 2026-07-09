@@ -73,6 +73,7 @@ Teodoras Narbutas rėmėsi Gartnerio veikalu „De fructibus et seminibus planta
 - id: c-174554
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tokia yra tikroji padėtis. Galima būtų stebėtis, jei
     karšto klimato medis Phyllantus Emblica būtų atsidū­

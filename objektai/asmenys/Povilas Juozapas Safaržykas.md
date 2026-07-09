@@ -256,6 +256,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
 - id: c-173986
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     P. J. Safaržyko veikalas buvo pirmasis išsamus, vis­
     ką apimantis slavų istorijos tyrinėjimas. Pats „Slavų se­
@@ -276,6 +277,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
 - id: c-173987
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tai, jog alanai taip pat
     buvo vadinami asais, o rusų — ¡asais, osáis, osetinais, kurių palikuo­
@@ -296,6 +298,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
 - id: c-173989
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Galbūt todėl, kad ir bu-
     dinai-skitai buvo kilę iš savo tautos žemdirbių kastos
@@ -321,6 +324,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
 - id: c-173990
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pats se­
     niausias ir tikrai istorinis pėdsakas, bylojantis, jog jazi­
@@ -340,6 +344,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
 - id: c-175371
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Safaržykas iškelia hipotezę, iš kuries verta tik pasijuok­
     ti, — tas kalnas turėtų būti Minsko gubernijojell! Sis kruopštus sla­

@@ -166,6 +166,7 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
 - id: c-175731
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     63
 
@@ -194,6 +195,7 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
 - id: c-177261
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     62
 

@@ -157,6 +157,7 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
 - id: c-29573
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios
     archyvinės medžiagos Lietuvos ir Lenkijos istorijai, 1758 m. Vil­
@@ -174,6 +175,7 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
 - id: c-167722
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tuo būdu jis davė pradžią
     naujam Lietuvos istoriografijos posūniui, kuris ėmė ryškėti, kai
@@ -192,6 +194,7 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
 - id: c-167723
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Vil­
     niuje buvo pradėta spausdinti didžiulio formato (4°) « Codex diplo­

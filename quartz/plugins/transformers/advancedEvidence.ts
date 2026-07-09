@@ -45,6 +45,8 @@ const ADVANCED_KEYS = new Set([
 ])
 const ADVANCED_LABELS = new Map<string, string>([
   ["global_id", "Globalus ID"],
+  ["public_id", "Viešas ID"],
+  ["original_local_id", "Originalus lokalus ID"],
   ["teiginio_tipas", "Teiginio tipas"],
   ["patikimumo_lygis", "Patikimumas"],
   ["patikimumo_saltinis", "Patikimumo šaltinis"],
@@ -151,13 +153,33 @@ function pill(id: string): string {
   return `<span class="evidence-pill evidence-pill-${kind}">${escapeHtml(normalized)}</span>`
 }
 
-function claimAnchorId(globalId: string): string {
-  const code = globalId
+function sanitizeClaimDomKey(raw: string): string {
+  return raw
     .trim()
     .toLowerCase()
     .replace(/[^a-z0-9_-]+/g, "-")
     .replace(/^-+|-+$/g, "")
-  return code ? `claim-${code}` : ""
+}
+
+function claimPublicId(index: number): string {
+  return `t-${String(index + 1).padStart(3, "0")}`
+}
+
+function claimDomKey(entry: EvidenceEntry, index: number, usedKeys: Set<string>): string {
+  const globalId = entry.fields.get("global_id")?.trim()
+  const raw = globalId || `${entry.id}-${index + 1}`
+  const base = sanitizeClaimDomKey(raw) || `claim-${index + 1}`
+  let candidate = base
+  if (usedKeys.has(candidate)) {
+    candidate = `${base}-${index + 1}`
+  }
+  let suffix = 2
+  while (usedKeys.has(candidate)) {
+    candidate = `${base}-${index + 1}-${suffix}`
+    suffix += 1
+  }
+  usedKeys.add(candidate)
+  return candidate
 }
 
 function claimDeeplinkPill(localId: string, anchorId: string): string {
@@ -532,22 +554,25 @@ function renderClaimsSection(
     `<div class="claims-section" data-claims-section="true">`,
     `<table class="advanced-claims-table" data-claims-table="true"><thead><tr><th>Teiginys</th></tr></thead><tbody>`,
   ]
-  for (const entry of entries) {
+  const usedDomKeys = new Set<string>()
+  entries.forEach((entry, index) => {
     const { claim } = splitClaimAndContext(entry)
     const refs = entry.lists.get("pagrindžia") ?? []
     const globalId = entry.fields.get("global_id") ?? ""
-    const anchorId = claimAnchorId(globalId)
+    const publicId = claimPublicId(index)
+    const domKey = claimDomKey(entry, index, usedDomKeys)
+    const anchorId = `claim-${domKey}`
     const globalAttrs = globalId ? ` data-global-claim-id="${escapeHtml(globalId)}"` : ""
     const anchorAttr = anchorId ? ` id="${escapeHtml(anchorId)}"` : ""
-    const claimPill = claimDeeplinkPill(entry.id, anchorId)
-    const detailId = `claim-evidence-${entry.id}`
+    const claimPill = claimDeeplinkPill(publicId, anchorId)
+    const detailId = `claim-evidence-${domKey}`
     const toggle = `<button class="claim-evidence-toggle-button" type="button" data-claim-toggle="true" aria-expanded="false" aria-controls="${escapeHtml(detailId)}"><span class="claim-evidence-toggle-icon" aria-hidden="true">▸</span><span class="sr-only">Rodyti citatas</span></button>`
     const claimCell = `${toggle}${claimPill} ${markdownCell(claim)}`
     out.push(
-      `<tr${anchorAttr} data-claim-row="true" data-claim-id="${escapeHtml(entry.id)}"${globalAttrs} data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${claimCell}</td></tr>`,
-      renderClaimEvidenceDetailRow(entry, detailId, refs, citationsById, resolveIndex),
+      `<tr${anchorAttr} data-claim-row="true" data-claim-id="${escapeHtml(domKey)}" data-claim-key="${escapeHtml(domKey)}" data-public-claim-id="${escapeHtml(publicId)}" data-original-claim-id="${escapeHtml(entry.id)}"${globalAttrs} data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${claimCell}</td></tr>`,
+      renderClaimEvidenceDetailRow(entry, detailId, domKey, publicId, refs, citationsById, resolveIndex),
     )
-  }
+  })
   out.push(
     `</tbody></table>`,
     `<p class="options-filter-empty" data-claims-empty-state hidden>Nėra teiginių pagal pasirinktus filtrus.</p>`,
@@ -558,8 +583,10 @@ function renderClaimsSection(
   return out
 }
 
-function claimAdvancedRows(entry: EvidenceEntry, resolveIndex: SlugResolveIndex): string[] {
+function claimAdvancedRows(entry: EvidenceEntry, publicId: string, resolveIndex: SlugResolveIndex): string[] {
   const rows: string[] = []
+  rows.push(`<tr><th>${escapeHtml(advancedLabel("public_id"))}</th><td>${escapeHtml(markdownText(publicId))}</td></tr>`)
+  rows.push(`<tr><th>${escapeHtml(advancedLabel("original_local_id"))}</th><td>${escapeHtml(markdownText(entry.id))}</td></tr>`)
   const globalId = entry.fields.get("global_id")
   if (globalId) {
     rows.push(`<tr><th>${escapeHtml(advancedLabel("global_id"))}</th><td>${escapeHtml(markdownText(globalId))}</td></tr>`)
@@ -676,11 +703,13 @@ function renderCitationCard(
 function renderClaimEvidenceDetailRow(
   claimEntry: EvidenceEntry,
   detailId: string,
+  domKey: string,
+  publicId: string,
   refs: string[],
   citationsById: CitationMap,
   resolveIndex: SlugResolveIndex,
 ): string {
-  const claimTechnicalRows = claimAdvancedRows(claimEntry, resolveIndex)
+  const claimTechnicalRows = claimAdvancedRows(claimEntry, publicId, resolveIndex)
   const claimTechnicalHtml =
     claimTechnicalRows.length > 0
       ? `<section class="claim-technical-audit advanced-evidence-line" data-adv-key="claim_technical_fields"><h4>Teiginio techniniai duomenys</h4><table class="advanced-evidence-table"><tbody>${claimTechnicalRows.join("")}</tbody></table></section>`
@@ -694,7 +723,7 @@ function renderClaimEvidenceDetailRow(
       ? cards.join("")
       : `<p class="claim-citation-missing">Citata nerasta.</p>`
   const content = `${claimTechnicalHtml}${citationContent}`
-  return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(claimEntry.id)}" hidden><td colspan="1"><div class="claim-evidence-detail">${content}</div></td></tr>`
+  return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(domKey)}" data-original-claim-id="${escapeHtml(claimEntry.id)}" data-public-claim-id="${escapeHtml(publicId)}" hidden><td colspan="1"><div class="claim-evidence-detail">${content}</div></td></tr>`
 }
 
 function advancedRows(

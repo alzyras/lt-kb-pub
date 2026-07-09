@@ -151,6 +151,7 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
 - id: c-82011
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Aleksandro Jogailaičio nerūpestingumas ir išlaidumas vė­
     liau, valdant Žygimantui, sukėlė diskusiją apie Vilniaus sau­
@@ -167,6 +168,7 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
 - id: c-82012
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Didysis magistras į Vilnių išsiuntė
     komtūrus: iš Elbliongo, Baigos, Brandenburgo ir Kristbur-

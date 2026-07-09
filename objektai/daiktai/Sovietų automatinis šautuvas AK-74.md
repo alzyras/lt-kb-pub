@@ -99,6 +99,7 @@ Nenurodyta
 - id: c-44681
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1959 m. sovietų ginkluotosios pajėgos pradėjo naudoti moder-
     nizuotą (palengvintą ir supaprastintos konstrukcijos) AK-47 ver-

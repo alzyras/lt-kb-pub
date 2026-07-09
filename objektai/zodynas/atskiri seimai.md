@@ -107,6 +107,7 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
 - id: c-03194
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Taip antai, po Zigmanto
     Augusto ir po vėlesniųjų karalių mirties visada susirinkdavo
@@ -128,6 +129,7 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
 - id: c-175892
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos
     akto nuostatus, net pats karalius sušaukdavo atskirus seimus.

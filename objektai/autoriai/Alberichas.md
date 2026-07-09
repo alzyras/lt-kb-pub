@@ -86,6 +86,7 @@ Alberichas 1228 m. kronikoje, Narbuto perteikimu, tarp įgytinų pagonių provin
 - id: c-174548
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat apie skirtingas šalis ra­
     šo Alberichas savo 1228 metų kronikoje (Leibnitz: Access.

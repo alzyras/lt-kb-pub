@@ -207,6 +207,7 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
 - id: c-107146
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vengoževą, prie
     Mamrų ežero (RSNG, 2, p. 581), bet čia — jau ne Notangos teritorija.
@@ -225,6 +226,7 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
 - id: c-107147
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Ilgą laiką sėkmei
     nekrypstant nei  į vieną, nei  į kitą pusę, galop broliai, viešpačiui leidžiant, pralaimėjo,
@@ -260,6 +262,7 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
 - id: c-168072
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Taigi pasitrau-
     d in a m i

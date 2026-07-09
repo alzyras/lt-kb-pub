@@ -91,6 +91,7 @@ Nenurodyta
 - id: c-172812
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ką paliko Lasickis ir ką čia ką tik pasakėme, to teisingumą
     patvirtina tyrimai. Žemdirbiai garbino šią deivę kaip oro per­

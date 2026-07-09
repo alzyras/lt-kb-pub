@@ -66,6 +66,7 @@ Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas
 - id: c-171837
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tikriausiai tai davė dingstį laikyti blindę šventa ir ma­
     nyti, kad ji galinti turėti įtakos vaisingumui.

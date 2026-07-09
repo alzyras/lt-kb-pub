@@ -73,6 +73,7 @@ Narbutas pasakoja, kad Treniota įkalino Polocko bajorus, o Jonas, gelbėdamas P
 - id: c-172416
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
     keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­

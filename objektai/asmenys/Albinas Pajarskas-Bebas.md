@@ -80,6 +80,7 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
 - id: c-41277
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio sky-
     riaus viršininkas Aleksas Matelis-Audenis, apygardos vadas Antanas

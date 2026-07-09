@@ -72,6 +72,7 @@ Teodoro Narbuto teigimu, Depingas be pagrįstų įrodymų Pavyslę priskyrė kra
 - id: c-174487
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios
     pakrantės ligi Dauguvos žemupio. Tokios nuomonės yra

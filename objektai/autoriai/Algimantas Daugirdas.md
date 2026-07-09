@@ -81,6 +81,7 @@ Algimantas Daugirdas (gimęs 1949 m.), 1972 m. baigė KTU (tuometinį Kauno poli
 - id: c-41652
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Algimantas Daugirdas (gimęs 1949 m.), 1972 m. baigė KTU
     (tuometinį Kauno politechnikos institutą). Domisi ir tyrinėja

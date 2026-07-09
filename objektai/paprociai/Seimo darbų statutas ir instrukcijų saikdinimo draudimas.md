@@ -129,6 +129,7 @@ Nenurodyta
 - id: c-02256
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kadangi anksčiau daug seimų iširdavo
     dėl to, kad atstovai seimeliuose būdavo saikdinami griežtai lai-
@@ -147,6 +148,7 @@ Nenurodyta
 - id: c-02257
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Lig šiol seimo darbai eidavo
     be jokios tvarkos, ir jie daž-

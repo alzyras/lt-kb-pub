@@ -140,6 +140,7 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
 - id: c-71083
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Vienos kongreso dalyviais,
     kurie jai pavedė Lenkų karalystę, Užnemunėje neišdrįso griebtis
@@ -159,6 +160,7 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
 - id: c-71084
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     (Rimšos kūrinys).
     nerūpėjo: gana buvo to, kad jie rusai ir kad šiek tiek pramokyti.

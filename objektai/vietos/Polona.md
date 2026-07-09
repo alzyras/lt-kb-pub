@@ -80,6 +80,7 @@ Glebui Svetoslavovičiui buvo duotas Polonos miestas.
 - id: c-170336
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tad atvykite
     visi pas mane, ir aš išspręsiu jūsų ginčus ir sugrąžinsiu

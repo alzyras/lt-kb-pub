@@ -110,6 +110,7 @@ Nenurodyta
 - id: c-176685
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didžiajam Lietuvos ir Žemaičių kunigaikščiui Ku-
     kovaičiui būnant didžiuoju Naugarduko kunigaikščiu 2 I,
@@ -130,6 +131,7 @@ Nenurodyta
 - id: c-176686
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O tą jos stabą garbino ir Pa­
     jautą laikė deive. Paskui tas stabas supuvo, ir toje vie­

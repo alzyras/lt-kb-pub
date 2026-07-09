@@ -82,6 +82,7 @@ Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodor
 - id: c-174217
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     325
     Rytų imperatorius, silpstant jo galiai, blaškėsi pavy­

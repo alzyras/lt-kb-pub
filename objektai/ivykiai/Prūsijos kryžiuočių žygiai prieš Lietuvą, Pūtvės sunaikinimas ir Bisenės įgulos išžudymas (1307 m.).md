@@ -277,6 +277,7 @@ Nenurodyta
 - id: c-168857
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mat į Prūsiją papildymui at-
     1307 m e la i
@@ -309,6 +310,7 @@ Nenurodyta
 - id: c-168858
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mat silpnas le­
     das dar negalėjo atlaikyti besikeliančios per upę ka­
@@ -331,6 +333,7 @@ Nenurodyta
 - id: c-168859
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šitaip tada lietuviai tvarkė įgu­
     lų tarnybas, norėdami, kad kariškai lavintųsi jaunuo­
@@ -354,6 +357,7 @@ Nenurodyta
 - id: c-168860
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Sutelktu būriu užgriuvę iš pasalų nieko nenu-
     jaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,
@@ -373,6 +377,7 @@ Nenurodyta
 - id: c-168861
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Neteku­
     sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys

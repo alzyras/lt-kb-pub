@@ -76,6 +76,7 @@ Prasidėjęs kon­ fliktas dėl Haličo ir Volinijos žemių paveldėjimo nusit�
 - id: c-33858
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     anksčiau palaikomi intereso prieš bendrą priešą. Prasidėjęs kon­
     fliktas dėl Haličo ir Volinijos žemių paveldėjimo nusitęsė iki Liud­

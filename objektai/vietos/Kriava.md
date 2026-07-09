@@ -115,6 +115,7 @@ media_all_json: |-
 - id: c-32146
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Šitokioje padėtyje Krokuvon buvo
     atgabentas aktas, surašytas 1385.VIII.14 d. Kriavo pilyje, kur
@@ -130,6 +131,7 @@ media_all_json: |-
 - id: c-163690
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Būda­
     mas ir fiziniu atžvilgiu silpnas, Jaunutis nesugebėjo išreikalauti

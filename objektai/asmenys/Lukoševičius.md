@@ -73,6 +73,7 @@ media_all_json: |-
 - id: c-42107
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Leitenantas Barkauskas puolė į bolševikų štabą, kur miegojo aštuoni komisarai. Kai
     pašvietė lempute ir įsakė stoti ir kelti rankas aukštyn, tai vienas komisarų, gulėjęs prie

@@ -87,6 +87,7 @@ Nenurodyta
 - id: c-10241
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     briedinis diržas su vario sagčiais^1460 , pirma goda^1461 ir gašumas senovės Lietuvos vyro, nugis išjuoktas
         ir lauko žmogui paliktas, o meškena, taurena ar briedena neb kyriejum^1462 bebuvo.

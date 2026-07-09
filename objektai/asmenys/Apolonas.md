@@ -68,6 +68,7 @@ APIE ROMOS KUNIGAIKŠTI PALEMONĄ IR KAIP JIS ĮSIKORĖ ŽEMAITIJOJE Kunigaikšt
 - id: c-176741
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     APIE ROMOS KUNIGAIKŠTI PALEMONĄ
     IR KAIP JIS ĮSIKORĖ ŽEMAITIJOJE

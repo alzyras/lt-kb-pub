@@ -73,6 +73,7 @@ Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta
 - id: c-03130
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tame seime, be to, galutinai visiems
     laikams buvo pripažinta, kad karaliui mirus aukščiausioji valdžia

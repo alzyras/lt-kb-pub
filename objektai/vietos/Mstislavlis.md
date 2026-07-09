@@ -338,6 +338,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - id: c-165572
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     jo garnizonai įsikūrė Rževe ir Bialoje. Iki 1362 jis užėmė Smolensko
     kunigaikštijai priklausantį Mogiliavą, Toropiecą, Mstislavlį ir kt.
@@ -353,6 +354,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - id: c-165574
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
     prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
@@ -369,6 +371,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - id: c-165575
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Už pažadą ginti nuo priešų, jis ordinui buvo
     užrašęs «visą savo Polocko karalystę». Būdamas sąjungoje su
@@ -385,6 +388,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - id: c-168419
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Neimdami į rankas kir-
     paliaubų są ly g a
@@ -411,6 +415,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - id: c-170565
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir prisikariavę bei paėmę belaisvių, bet neįveikę pi­
     lių sugrįžo, iš kur atėję.
@@ -433,6 +438,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - id: c-170566
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Žygiuokime prieš jį,
     pasitikėdami dievu ir krikščionių galybe."

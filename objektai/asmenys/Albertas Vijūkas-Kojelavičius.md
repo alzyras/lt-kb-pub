@@ -137,6 +137,7 @@ Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai. Kojelav
 - id: c-176184
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     A. Kojelavičius savo istoriją rašė pusamžiu vėliau
     negu jo pirmtakai. Chronologiškai ir idėjiškai nebe­
@@ -156,6 +157,7 @@ Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai. Kojelav
 - id: c-176185
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     „Lietuvos istorijos" atsiradimas glaudžiai susijęs su
     Vilniaus aukštąja mokykla, vadinta dvigubu akademi­
@@ -174,6 +176,7 @@ Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai. Kojelav
 - id: c-176186
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     1655 m., prasidėjus Rusijos ir Švedijos kariuomenių
     okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.

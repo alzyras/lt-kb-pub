@@ -77,6 +77,7 @@ Livonijos Ordinas puolė dar Vytautą, pavy­ dėdamas jam popiežiaus suteikto 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Pykdamas ant Vokiečių Ordino rėmėjo, ciesoriaus Zigmanto,
     Vytautas buvo susidėjęs net su husitais, Katalikų Bažnyčios pa­

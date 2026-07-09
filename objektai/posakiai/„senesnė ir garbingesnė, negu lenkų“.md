@@ -67,6 +67,7 @@ Ta pati prob lematika vystoma ir Bychovco kronikos originaliuo siuose pasakojimu
 - id: c-176674
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ta pati prob­
     lematika vystoma ir Bychovco kronikos originaliuo­

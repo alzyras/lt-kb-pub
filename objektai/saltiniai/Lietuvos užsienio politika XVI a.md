@@ -100,6 +100,7 @@ Lietuvos užsienio politika xvi a. Lietuvos užsienio politika xvi a., (įklijos
 - id: c-43283
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     P. 77, Krymo totoriai varosi užgrobtus belaisvius ir gyvulius. Dundulis B. Lietuvos užsienio
     politika xvi a. Vilnius: 1971 (įklijos tarp p. 224 ir 225).
@@ -113,6 +114,7 @@ Lietuvos užsienio politika xvi a. Lietuvos užsienio politika xvi a., (įklijos
 - id: c-45008
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     p. 79, Totorių raitelis. Dundulis B. Lietuvos užsienio politika xvi a., (įklijos tarp p. 224 ir 225).
     p. 80, Vokiškojo tipo alebardos, xvi a. pirmasis ketvirtis. VDKM, Artūro Užgalio nuotr.

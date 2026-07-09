@@ -91,6 +91,7 @@ Nenurodyta
 - id: c-173932
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Nuolatiniai skundai ir ap­
     maudas lėmė žygį Odoakro brolio Onulfo, kuris, vado­

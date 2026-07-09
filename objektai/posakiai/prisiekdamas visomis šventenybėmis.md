@@ -80,6 +80,7 @@ Maskvos valdovas Ivanas, prisiekdamas visomis šventenybėmis, žadėjo išdavik
 - id: c-168842
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Dievobaimingas Aleksandro įstangas sužlugdė klas­
     tingos Ivano pinklės. Jis pra-

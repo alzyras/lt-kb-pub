@@ -123,6 +123,7 @@ Vartojamas kaip istorinis-geografinis terminas, apibūdinantis sausumos perneši
 - id: c-175049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Nuo seniausių laikų sausumos kelius tarp dviejų prieplaukų
     slavai vadino Wolok. Tokių pavadinimų Rusijoje ligi šiol esama ne­

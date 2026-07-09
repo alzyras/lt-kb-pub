@@ -91,6 +91,7 @@ V. O. Ključevskis šitą faktą laiko ir svarbiausiu visos rusų istorijos peri
 - id: c-91710
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Rytiniai
     slavai šimtmečių bėgyje taip buvo pamėgę kraustytis bei koloni­

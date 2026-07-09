@@ -84,6 +84,7 @@ media_all_json: |-
 - id: c-44451
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Aukso ordai pavaldžios rusėnų žemės 1278-1279 m. žiemą puolė
     Lietuvą. 1279 m. pradžioje įvykęs puolimas geičiausiai buvo inspi-

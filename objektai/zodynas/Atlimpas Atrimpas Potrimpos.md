@@ -135,6 +135,7 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
 - id: c-175115
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šitoks lietuvių supratimas galėjo apdovanoti
     amžinos jaunystės savybe tą elementarųjį dievą, valdantį kil­
@@ -155,6 +156,7 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
 - id: c-175116
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     pastraipos
     tęsinys/

@@ -114,6 +114,7 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
 - id: c-70525
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Iš okupuoto Vil-
     niaus instruktuojama ir pinigais aprūpinama, ta organizacija varė
@@ -138,6 +139,7 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
 - id: c-70527
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Visą Lietuvą apipynusi sąmokslininkų tinklu, P.O.W. organi-
     zacija ruošėsi sukilimui; tam tikslui ypač stengėsi patraukti savo

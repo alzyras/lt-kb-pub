@@ -94,6 +94,7 @@ Nenurodyta
 - id: c-172483
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Laiško origina­
     las nepasiekė mūsų dienų, o iš juodraštinio varianto negalime

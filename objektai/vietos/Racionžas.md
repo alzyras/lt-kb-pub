@@ -94,6 +94,7 @@ Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
 - id: c-161938
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Vytautui buvo svarbu turėti laisvas rankas atsi-
     metusiam Smolenskui atgauti. Todėl 1404 m. Racionže

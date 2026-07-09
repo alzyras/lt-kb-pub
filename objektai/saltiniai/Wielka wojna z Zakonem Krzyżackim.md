@@ -79,6 +79,7 @@ media_all_json: |-
 - id: c-30016
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     KuWZ = Kuczyński, S. M. : Wielka wojna z Zakonem Krzyżackim
     w latach 1409-1411, 1-mas leid. 1955, 2-ras leid. 1966,

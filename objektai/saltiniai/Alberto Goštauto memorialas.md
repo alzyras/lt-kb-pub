@@ -70,6 +70,7 @@ Pagaliau, bene svarbiausias liudininkas Alberto Goš tauto naudai yra jo paties 
 - id: c-176768
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Pagaliau, bene svarbiausias liudininkas Alberto Goš­
     tauto naudai yra jo paties memorialas lotynų kalba,

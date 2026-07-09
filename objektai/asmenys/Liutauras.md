@@ -101,6 +101,7 @@ Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė L
 - id: c-172989
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Todėl Jonas, išvaduodamas nuo nelaimės Po­
     locko ponus, išjojo į Naugardą ir ten tapo vienuoliu. O Lietu­

@@ -161,6 +161,7 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
 - id: c-42172
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Rusijos imperatorienė Jekaterina 1
 
@@ -185,6 +186,7 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
 - id: c-44479
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Rusijos pajėgų vadovybė
     Rusijos pajėgų, nukreiptų prieš
@@ -208,6 +210,7 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
 - id: c-167146
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Liepos ir rugpjū-
     čio mėnesiais Vilniaus gynybai tie-

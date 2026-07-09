@@ -99,6 +99,7 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
 - id: c-60959
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Galop
     magistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį

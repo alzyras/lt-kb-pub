@@ -128,6 +128,7 @@ Nenurodyta
 - id: c-172547
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šie žyniai būdavo ne­
     vedę*.
@@ -146,6 +147,7 @@ Nenurodyta
 - id: c-172548
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Drabužio apačioje vienur kitur būdavo prisiuvinėta pė­
     dos ilgumo gyvulio plaukų kuokštų. Tarnaudami dievams, vai­

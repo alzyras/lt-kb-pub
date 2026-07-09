@@ -83,6 +83,7 @@ Nenurodyta
 - id: c-172628
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Saulės rūmai buvo rytuose, kur buvo šventa ir palaiminta
     šalis, lietuvių protėvių tėvynė -  rytų šalis (Aušinimą zemme).

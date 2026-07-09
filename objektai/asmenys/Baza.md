@@ -79,6 +79,7 @@ Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas
 - id: c-174257
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     327
     Odoakras savo ruožtu taip pat negaišo laiko; jis su­

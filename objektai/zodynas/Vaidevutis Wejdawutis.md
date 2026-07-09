@@ -72,6 +72,7 @@ Narbutas Vaidevučio (Wejdawutis) vardą kildino iš Wejdas ir Wujtis, aiškinda
 - id: c-172143
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir
     Pruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius. Dėl Vai­

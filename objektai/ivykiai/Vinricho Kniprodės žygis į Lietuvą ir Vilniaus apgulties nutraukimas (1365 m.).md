@@ -195,6 +195,7 @@ Nenurodyta
 - id: c-55689
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
     miestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­
@@ -216,6 +217,7 @@ Nenurodyta
 - id: c-78383
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau keturių
     Butauto tarnų perbėgimas naktį iš kryžiuočių stovyklos į

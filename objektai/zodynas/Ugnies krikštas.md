@@ -67,6 +67,7 @@ Vyskupo Petro rankrašty je yra pasakyta: Habuerunt autem baptismum per ignem, s
 - id: c-177182
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Švenčiant Rasos šventę, šokinėta per degantį laužą, sukrautą
     pusračiu, kaip tai mini Strijkovskis. Vyskupo Petro rankrašty­

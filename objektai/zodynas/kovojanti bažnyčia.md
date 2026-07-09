@@ -77,6 +77,7 @@ Dusburgietis teigia, kad šit koks reikšmingas ženklas pasirodęs kovojančios
 - id: c-59569
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nieku būdu nereikia pamiršti ir to itin
     svarbaus įrodymo, jog šių brolių kovas lydėjusi tokia karo sėkmė, kad per vienuolika

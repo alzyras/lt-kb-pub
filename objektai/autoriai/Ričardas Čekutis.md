@@ -125,6 +125,7 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
 - id: c-44628
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lietuvos karinė padėtis 1919 m. pavasarį - 1920 m. pradžioje
     Karolis Zikaras, Vytautas Lesčius 190

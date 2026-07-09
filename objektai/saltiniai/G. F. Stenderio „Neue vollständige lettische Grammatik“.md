@@ -88,6 +88,7 @@ Gotchardo Frideriko Stenderio „Neue vollständige lettische Grammatik“ buvo 
 - id: c-174717
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     5 /P.
     57,

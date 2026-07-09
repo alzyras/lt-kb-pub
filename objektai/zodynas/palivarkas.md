@@ -66,6 +66,7 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
 - id: c-176024
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Miestų žemės irgi buvo atskirtos.
     Išmatavus žemę, geriausiose vietose buvo steigiami dvarai

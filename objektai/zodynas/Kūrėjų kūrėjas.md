@@ -106,6 +106,7 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 - id: c-09696
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Visų vyriausiu valdymieru tų žynių, kaip sakiau, buvo kūrėjų kūrėjas, kurs vienas pats visus valdė ir
         visiems įsakymus davė, kaipogi jis su dievais kalbėjo ir, nuo jų pamokslą gavęs, svietui jį skelbė per
@@ -123,6 +124,7 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 - id: c-09697
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Pats tiktai visų vyriausiasis kunigaikštis kūrėjų kūrėjas tegalėjęs tenai įeiti, kurs davęs atsakus vardu Perūno klausiantiems.
   statusas: verified

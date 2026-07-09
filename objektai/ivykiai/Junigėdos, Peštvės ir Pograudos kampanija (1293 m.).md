@@ -149,6 +149,7 @@ Sudegė abiejų pilių papiliai.
 - id: c-69725
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,
     magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei

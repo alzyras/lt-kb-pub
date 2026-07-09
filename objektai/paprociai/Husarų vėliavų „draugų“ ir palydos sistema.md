@@ -252,6 +252,7 @@ Nenurodyta
 - id: c-12385
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė
     200 raitelių. Įprasta vėliava - 100-150 raitelių. Husarų vėliavos pa-
@@ -281,6 +282,7 @@ Nenurodyta
 - id: c-43157
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     „Draugas“ atsivesdavo ir tarnus, kurie į rikiuotę
     nestodavo, o užsiimdavo ūkine veikla, saugodavo
@@ -317,6 +319,7 @@ Nenurodyta
 - id: c-43158
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Dažniausiai šio periodo Lenkijos husarai vaiz-
     duojami su sparnais, pritvirtintais prie nugaros ar
@@ -337,6 +340,7 @@ Nenurodyta
 - id: c-43159
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     _ palydos poreikius.
     „Draugų“ palydos buvo vieninteliai viene-

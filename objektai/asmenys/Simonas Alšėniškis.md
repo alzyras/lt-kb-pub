@@ -71,6 +71,7 @@ Ir didysis kunigaikštis Vytautas paskyrė jiems vietininku savo svainį, kuniga
 - id: c-176736
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Naugardiečiai, matydami pskoviečius jam pasidavus
     ir priėmus jo vietininką, nebenorėdami, kad jų žemė

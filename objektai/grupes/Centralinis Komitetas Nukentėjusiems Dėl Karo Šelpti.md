@@ -271,6 +271,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 - id: c-00307
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Komiteto pasiuntiniai slapta pasklido po Lietuvą burti
     į tą darbą visų krašte likusių inteligentiškų pajėgų. Buvo pa-
@@ -288,6 +289,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 - id: c-46268
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuomet ir seniau išblaškyti po plačiąją
     Rusiją inteligentai buvo suburti į tautos pajėgų ruošiamąjį darbą
@@ -306,6 +308,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 - id: c-46269
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Komitetas, kiek leido aplinkybės, užstodamas žmones prieš
     okupacinės valdžios žiaurumus, nepakeliamas rekvizicijas ir vi-
@@ -328,6 +331,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 - id: c-152973
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Partijų kovoms nė tuomet
     neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiū-
@@ -349,6 +353,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 - id: c-166289
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Studentams buvo duodamos pašalpos universitetuose ir
     steigiami bendrabučiai. Tuomet ir seniau išblaškyti po plačiąją
@@ -365,6 +370,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 - id: c-175852
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     ##### 2. Lietuvių tremtiniai Rusijoje
 

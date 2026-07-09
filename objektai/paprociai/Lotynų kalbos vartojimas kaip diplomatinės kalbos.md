@@ -126,6 +126,7 @@ Nenurodyta
 - id: c-174982
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     O tai yra toks pat užrašas kaip
     ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO
@@ -144,6 +145,7 @@ Nenurodyta
 - id: c-175301
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito
     skydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo

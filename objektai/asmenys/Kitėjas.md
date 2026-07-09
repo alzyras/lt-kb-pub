@@ -79,6 +79,7 @@ Narbuto pasakojime Masilijos keliautojas Kitėjas laikomas seniausio išlikusio 
 - id: c-174840
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     78
     Padavimai. Iš išlikusių istorinių padavimų apie Estiją

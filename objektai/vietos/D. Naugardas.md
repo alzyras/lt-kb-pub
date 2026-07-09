@@ -68,6 +68,7 @@ Naugardo miestiečių valstybė. Naugardu, 1262 m. nužygiavo į Livonijos ordin
 - id: c-67549
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Padarę taiką pietuose, jie pradėjo
     žiauriai siaubti kalavijuočių ordino pavergtas sritis, naikinti jo

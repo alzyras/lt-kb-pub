@@ -87,6 +87,7 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 - id: c-23598
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     LAF programoje ir kituose dokumentuose ne-
     išvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF progra-

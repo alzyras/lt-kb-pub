@@ -203,6 +203,7 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
 - id: c-166002
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Įsikūręs pirmiausia jų krašte, ordinas jų vardu pavadino ir
     visą nukariautą kraštą.
@@ -221,6 +222,7 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
 - id: c-166003
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuo tarpu visos kiltys, buvusios anapus Nemuno,
     liko amžinoje vokiečių vergovėje.
@@ -241,6 +243,7 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Tas kraštas jį ir politiškai iš­
     lavino. Per tiek metų jis išmoko gerai vokiečių kalbos, kry­
@@ -259,6 +262,7 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
 - id: c-175998
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     **11. Kryžiuočių ordino atsikraustymas į Prūsus**
 

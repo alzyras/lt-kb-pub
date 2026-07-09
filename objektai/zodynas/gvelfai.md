@@ -77,6 +77,7 @@ Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Itali
 - id: c-59536
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie gibelinus ir gvelfus
 

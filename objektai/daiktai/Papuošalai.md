@@ -163,6 +163,7 @@ Nenurodyta
 - id: c-05245
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Kai kurių papuošalų prototipai yra
     randami dar prieškristiniais laikais keltų plotuose. Dalis papuošalų
@@ -180,6 +181,7 @@ Nenurodyta
 - id: c-31009
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Gausus to laikotarpio
     kapinynai, su degintiniais ir griautiniais kapais, rodo naujas formas

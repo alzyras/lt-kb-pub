@@ -117,6 +117,7 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Jadvygai mirus lenkai, nenorėdami, kad unija būtų nu­
     traukta, Jogailai pažadėjo, jog Lenkijos sostą turės teisę užimti
@@ -135,6 +136,7 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
 - id: c-176057
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Antra vertus, Jono
     valdingas būdas ir nesėkmingi jo žygiai Vengrijoje

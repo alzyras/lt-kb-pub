@@ -84,6 +84,7 @@ Varšuvoje įsikūręs sukilimo rengimo Nacionalinis Centro komitetas, pasivadin
 - id: c-44784
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Sukilimo pradžia
     Sausio 22 d. Lenkijoje prasidėjo sukili-

@@ -116,6 +116,7 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
 - id: c-76025
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Anot Bychoveco
     kronikos, LDK daliniai taip suspaudė toto-
@@ -141,6 +142,7 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
 - id: c-76026
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Gavusi erdvės įsibėgėjimui, dar kartą smogė
     dešinioji lietuvių kolona. Anot Bychoveco

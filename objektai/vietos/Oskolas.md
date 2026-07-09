@@ -125,6 +125,7 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
 - id: c-171925
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
     Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­
@@ -145,6 +146,7 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
 - id: c-175481
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Vadinasi, tokiu pat būdu ten pateko ir
     masagetai4.

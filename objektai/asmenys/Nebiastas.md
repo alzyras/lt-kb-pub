@@ -72,6 +72,7 @@ Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu praš�
 - id: c-174328
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip buvo pradėtas
     mūšis, kuris visą dieną užpuolikams buvo labai sėkmin­

@@ -73,6 +73,7 @@ Kan­ trimas, J. (= Jonikas, P.) : Baltų kalbos ir tautos, Aidai, nr. 6, 1947, 
 - id: c-32969
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — Jodkowski, J. : _Grodno i okolice
     w zaraniu dziejów Litwy i Rusi nad Niemnem,_ 1928. — Johansen, P. :

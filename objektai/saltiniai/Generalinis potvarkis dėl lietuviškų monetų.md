@@ -173,6 +173,7 @@ Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešam
 - id: c-84140
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jei kas pagal šį įsakymą arba skelbimą mūsų lietuviškos mo­
     netos imti nenorėtų, tuomet tarybą be jokio atidėjimo su­
@@ -194,6 +195,7 @@ Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešam
 - id: c-167216
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Visiems bendrai ir kiekvie­
     nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes,

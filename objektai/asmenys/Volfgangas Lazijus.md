@@ -74,6 +74,7 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
 - id: c-174215
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ma­
     tydamas, jog ta tauta meldžiasi kažkokia nesuprantama jiems kal­

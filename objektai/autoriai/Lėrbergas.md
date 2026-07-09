@@ -111,6 +111,7 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
 - id: c-173251
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dabar tarp šiuolaikinių istorikų atsirado to­
     kių, kurie dėjo pastangų sukelti abejonę dėl šio padavimo, ypač
@@ -128,6 +129,7 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
 - id: c-173252
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Naujaisiais laikais ne tiktai imta abejoti vyriausiojo žynio
     ir aukščiausiojo teisėjo egzistavimu, bet jis net pravardžiuoja­

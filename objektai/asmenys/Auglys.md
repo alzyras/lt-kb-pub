@@ -86,6 +86,7 @@ Jai vadovavo lietuvis karininkas Auglys.
 - id: c-44295
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tuo metu
     Jiezno miestelio pakraštyje buvo išdėstyta

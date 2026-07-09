@@ -119,6 +119,7 @@ Narbutas japonus priskyrė prie tautų, kurios, jo aiškinimu, turėjo daugiau a
 - id: c-172358
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kabirai (Kabiiy)
     Tai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel­
@@ -137,6 +138,7 @@ Narbutas japonus priskyrė prie tautų, kurios, jo aiškinimu, turėjo daugiau a
 - id: c-172359
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
     susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.

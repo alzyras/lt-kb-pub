@@ -151,6 +151,7 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
 - id: c-172014
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Egiptiečiai ir graikai, romėnai, in­
     dai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­
@@ -168,6 +169,7 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
 - id: c-172016
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Domintis vėliau,
     po dešimt metų, neaptikta nė pėdsako, kur toji liekana dingo;
@@ -189,6 +191,7 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
 - id: c-177079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
     susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.

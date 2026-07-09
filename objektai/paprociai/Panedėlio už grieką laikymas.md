@@ -84,6 +84,7 @@ Nenurodyta
 - id: c-09953
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     pritirtu yra daiktu, kad lietuviai, Vilniuje metuose 1387 apsikrikštiję, panedėly po baltosios
         nedėlios^802 tą žinyčią sugriovė, tarp skaitliaus minavoto 121 plytos pasitiko ir ta, kuri turėjo už

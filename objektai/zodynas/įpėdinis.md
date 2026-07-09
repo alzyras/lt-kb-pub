@@ -151,6 +151,7 @@ Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dė
 - id: c-170497
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     38
     1  Peremišlis — dabar pietų Lenkijos miestas (prie Sano upės,

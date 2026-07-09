@@ -82,6 +82,7 @@ media_all_json: |-
 - id: c-01635
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     1912 m. F-ja sušaukė Čikagoje pirmąjį
     lietuvių moksleivių suvažiavimą ir įkūrė Amerikos Lietu-

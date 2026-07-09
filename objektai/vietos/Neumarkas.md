@@ -83,6 +83,7 @@ Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­ traciją ir ek
 - id: c-33976
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Pats didysis
     magistras buvo apgulęs Veliuonos pilį^28 , bet jos paimti neįstengė.

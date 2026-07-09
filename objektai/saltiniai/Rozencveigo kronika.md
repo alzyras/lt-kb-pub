@@ -127,6 +127,7 @@ Teodoras Narbutas Rozencveigo kroniką siejo su pasakojimu apie kimbrų epochos 
 - id: c-174693
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Hartknochas, remdamasis vietos pa­
     davimais ir tiesioginiais vietovės tyrinėjimais, visiškai
@@ -154,6 +155,7 @@ Teodoras Narbutas Rozencveigo kroniką siejo su pasakojimu apie kimbrų epochos 
 - id: c-174694
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     2 Pas Hartknochą.
     3 Rozencveigo kronika šiandien laikoma dingusia; čia iš jos pa­

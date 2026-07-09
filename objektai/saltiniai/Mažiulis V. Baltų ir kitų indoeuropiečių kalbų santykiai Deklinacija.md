@@ -74,6 +74,7 @@ Dusburgietis teigia, kad mažiulis V.
 - id: c-61797
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Mažiulis V. Baltų ir kitų indoeuropiečių kalbų santykiai: Deklinacija.—V., 1970.
        Mažiulis V. Seniausias baltų rašto paminklas — Baltistica, 1975, 11 (2), p. 125—131.

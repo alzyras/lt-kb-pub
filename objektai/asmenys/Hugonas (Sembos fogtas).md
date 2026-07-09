@@ -83,6 +83,7 @@ Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1
 - id: c-60963
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     330 (323). Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
 

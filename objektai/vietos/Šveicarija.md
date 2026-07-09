@@ -191,6 +191,7 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 - id: c-154264
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Lietuvių amerikiečių delegatai vėliau
     prisidėjo prie Lietuvos delegacijos Paryžiuje bendrai ginti Lie-
@@ -210,6 +211,7 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 - id: c-154266
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Šita konferencija tegvildeno propagandos organizacijos
     klausimus ir protestavo prieš vokiečių okupacijos žiaurumus
@@ -230,6 +232,7 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 - id: c-175993
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Konfe-
     rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-

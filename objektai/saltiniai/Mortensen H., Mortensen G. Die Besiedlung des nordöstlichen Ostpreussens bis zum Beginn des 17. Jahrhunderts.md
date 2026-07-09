@@ -208,6 +208,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 - id: c-159317
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     D. Skronaitę pabandyta, pasiremiant P. Tarasenkos užfiksuota kartografine medžiaga,
     tapatinti su vietove prie Mituvos aukštupio — Skeršpile (1915 m. — Szkerkszpile;
@@ -225,6 +226,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 - id: c-159318
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie brolio Ernekės, Ragainės pilies komtūro, žūtį
       529 D.— Colayne, Jer.— Kalaine. Tiksliau kol kas nelokalizuota Kolainių pilis dažniausiai
@@ -244,6 +246,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 - id: c-159319
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     544  D.— contra territorium [...] Pograudam, Jer.— Pograudin; valsčius Žemaičių
     pietvakariuose, atrodo, ties Jūros upe, jame — Gedimino pilis (žr. III, 289, 332; SRP, 2,
@@ -260,6 +263,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 - id: c-159320
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum
     Beginn des 17. Jahrhunderts.—Teil 1—2,— Leipzig, 1937, 1938.
@@ -273,6 +277,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 - id: c-159323
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos
     intakas — Bebirva, į jį įteka Bebirvytis. Prie to upelio, prie Raseinių—Šilinės (Skirsnemunės)

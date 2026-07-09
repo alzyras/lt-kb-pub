@@ -969,6 +969,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175833
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     O pilies kalno pietų
     pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
@@ -989,6 +990,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175834
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­
     konams ir dominikonams, prie Vilniaus pilies pastatydino
@@ -1023,6 +1025,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175835
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tuo metu poreikis turėti savą gynybą ir per ne­
     paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
@@ -1047,6 +1050,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­
     konams ir dominikonams, prie Vilniaus pilies pastatydino
@@ -1081,6 +1085,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175837
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     O pilies kalno pietų
     pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
@@ -1101,6 +1106,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175838
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Dar
     niūrokas tuomet, bet visais laikais kerintis gražiu krašto­
@@ -1122,6 +1128,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175839
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Iš to žodžio paimtas pa­
     vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
@@ -1139,6 +1146,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175840
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tuo metu poreikis turėti savą gynybą ir per ne­
     paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
@@ -1163,6 +1171,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175841
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pagaliau čia, Vilniuje,
     šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
@@ -1187,6 +1196,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175842
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Darant to­
     pografinę apžvalgą, nesunku pastebėti, kad tų upių vandens
@@ -1209,6 +1219,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175843
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pagaliau čia, Vilniuje,
     šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
@@ -1233,6 +1244,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175844
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Iš tos versmės ištekantis upelis vadi­
     nosi Druja, nes yra miesto archyve ka­
@@ -1265,6 +1277,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175845
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Malūnas, iki mūsų laikų vadin­
     tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
@@ -1287,6 +1300,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175846
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Malūnas, iki mūsų laikų vadin­
     tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
@@ -1309,6 +1323,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175847
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     48
 
@@ -1347,6 +1362,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175848
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     48
 
@@ -1385,6 +1401,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-175849
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     PATS ALEKSANDRAS,
     DIEVO MALONE DIDYSIS LIETUVOS,
@@ -1405,6 +1422,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-176856
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     17
 
@@ -1431,6 +1449,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-176857
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Man atrodo, kad jei Lietuvo­
     je buvo keletas tokių šventų vieto­
@@ -1465,6 +1484,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-176858
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Taigi ta vietovė, žinia, jei ji buvo parinkta to­
     kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­
@@ -1492,6 +1512,7 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
 - id: c-176859
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau nėra patikimų
     tam įrodymu.

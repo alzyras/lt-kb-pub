@@ -191,6 +191,7 @@ Nenurodyta
 - id: c-169974
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Išskyrus ViaznuĮ. visi aukščiau išvardytieji LDK rytų pasienio
     miestai, kaip maskvėnų užimti, y ra minimi Aleksandro 1492.IX 27
@@ -209,6 +210,7 @@ Nenurodyta
 - id: c-169975
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     J Karas prasidėjo ne 1492— 1493 m. žiemų, o dar 1492 m. ru­
     deni. kai M askvoje buvo sužinota apie Kazimiero m irtį. BK tekste

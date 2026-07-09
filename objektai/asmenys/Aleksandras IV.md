@@ -85,6 +85,7 @@ Dusburgietis teigia, kad apie Aleksandrą IV, popiežių, ir neužimtą imperato
 - id: c-60865
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Aleksandrą IV, popiežių, ir neužimtą imperatoriaus sostą
 

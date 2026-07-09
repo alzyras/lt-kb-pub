@@ -76,6 +76,7 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
 - id: c-60864
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Skaitome ir apie Makabėjų, kad
     jo vyrai šaukėsi  į dangų melsdamiesi ir išvaikė priešų stovyklas. Apie Judą Makabėjų

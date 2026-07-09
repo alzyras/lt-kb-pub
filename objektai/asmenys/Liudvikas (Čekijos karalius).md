@@ -72,6 +72,7 @@ Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tė
 - id: c-169505
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Imperatorius, karalius Vladislovas bei jo duktė Ona at­
     važiavo važiuoti, o Žygimantas ir Liudvikas raiti at­

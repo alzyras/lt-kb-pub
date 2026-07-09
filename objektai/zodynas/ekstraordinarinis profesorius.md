@@ -75,6 +75,7 @@ Jonyno, kuris 1932 m. tapo ekstraordinariniu profesoriumi.
 - id: c-34153
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     visuotinės istorijos katedros (P. Gronskis, L. Karsavinas) turėjo
     atskirą Lietuvos istorijos katedrą, nuo 1924 **m.** pradžios visą laiką

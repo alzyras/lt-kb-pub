@@ -84,6 +84,7 @@ media_all_json: |-
 - id: c-42249
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     „[...] Švenčiausios trejybės švenčių išvakarėse [1376 m. birželio 7 d.], matė karalių Algirdą
     ir karalių Kęstutį, o su jais Svirdeiką su savo pajėgomis įeinančius į Narkyčius. Ir jie

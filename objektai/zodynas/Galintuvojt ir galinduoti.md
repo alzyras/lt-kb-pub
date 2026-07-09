@@ -203,6 +203,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
 - id: c-175068
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau
     lai neatitinka lietuvių pavadinimų suteikimo tradicijų;
@@ -231,6 +232,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
 - id: c-175069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Esama įvairių nuomonių apie
     pavadinimo kilmę; vieni teigia, jog jis atsirado iš žodžio

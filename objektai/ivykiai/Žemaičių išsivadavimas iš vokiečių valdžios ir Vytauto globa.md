@@ -243,6 +243,7 @@ Nenurodyta
 - id: c-169896
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O paskui vokiečiai atsiuntė pas didjjį kunigaikštį
     Vytautą savo pasiuntinius, primindami jam, kad jis tu­
@@ -278,6 +279,7 @@ Nenurodyta
 - id: c-169897
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių
     vietininkus, nebenorėdami daugiau būti vokiečių val­

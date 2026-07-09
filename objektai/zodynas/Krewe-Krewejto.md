@@ -79,6 +79,7 @@ Narbutas Krewe-Krewejto pateikia kaip tikslų vyriausiojo žynio pavadinimą, re
 - id: c-172189
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Taigi Vai­
     devutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,

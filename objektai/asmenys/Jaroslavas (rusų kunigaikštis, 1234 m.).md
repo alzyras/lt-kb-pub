@@ -91,6 +91,7 @@ media_all_json: |-
 - id: c-44372
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Į karinę koaliciją prieš lietuvius įsijungė ir
     šiaurės vakarų rusėnai. 1234 m. rusų ku-

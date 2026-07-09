@@ -708,6 +708,7 @@ media_all_json: |-
 - id: c-167749
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Naujojon jo rezidencijon ėmė rinktis
     Kęstučio ir jo paties šalininkai, ar Jogailos persekiojamieji. Čia
@@ -723,6 +724,7 @@ media_all_json: |-
 - id: c-167750
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Savo galvas tolimose stepėse
     paliko ir vieninteliai du lietuviai-kryžiuočiai Jonas ir Tomas Sur­
@@ -741,6 +743,7 @@ media_all_json: |-
 - id: c-168266
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vėliau nušuoliavo prie upės ir iš užpakalio
     užpuolė pakrantėje išstatytas saugas, atverdami savo
@@ -761,6 +764,7 @@ media_all_json: |-
 - id: c-168267
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tačiau Vasilijus, negalėda­
     mas užmiršti imperatoriaus bei kryžiuočių pažadų ir
@@ -786,6 +790,7 @@ media_all_json: |-
 - id: c-168268
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Prie Smolensko įkūręs stovyklą ir pasilikęs čia su dvi­
     dešimt tūkstančių karių, pasiuntė į Lietuvą aštuonias­
@@ -813,6 +818,7 @@ media_all_json: |-
 - id: c-168269
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Galop jis pa­
     prašė leisti laisvai sugrįžti į Maskvą tiems pirkliams
@@ -838,6 +844,7 @@ media_all_json: |-
 - id: c-171544
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Iš tikrųjų tais me­
     tais vyko Lenkijos seimas Piotrkove, trukęs ilgai
@@ -860,6 +867,7 @@ media_all_json: |-
 - id: c-171545
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nors karalius
     nenutraukė karo veiksmų, už kuriuos stojo San­
@@ -885,6 +893,7 @@ media_all_json: |-
 - id: c-176138
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Ne mažiau
     bėdų Maskvos kunigaikštystei pridarė galingi didikai,
@@ -913,6 +922,7 @@ media_all_json: |-
 - id: c-176648
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tą pačią žiemą didysis kunigaikštis
     Aleksandras su didžiąja kunigaikštiene Elena bei su
@@ -939,6 +949,7 @@ media_all_json: |-
 - id: c-176845
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Antra, kad susikūrė iš trijų skirtingų
     bendruomenės klasių, tai yra: nelaisvųjų, dirbusių žemę, susi­

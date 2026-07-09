@@ -86,6 +86,7 @@ Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivan
 - id: c-169412
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Išleidęs maskvėnų pasiuntinį ir Velykas atšventęs
     Liubline, karalius patraukė į Brestą bei Gardiną, o vė­

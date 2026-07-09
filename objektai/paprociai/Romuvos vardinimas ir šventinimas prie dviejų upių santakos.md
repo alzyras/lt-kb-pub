@@ -96,6 +96,7 @@ Nenurodyta
 - id: c-174957
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     I
     viduryje atsiduria Oskolo upės slėnis, galima lengvai su­

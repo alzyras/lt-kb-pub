@@ -88,6 +88,7 @@ Zeschau vadovaujamas 18-tarių skaičius su šių komendantūrų kasis saksų p�
 - id: c-42294
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Vėliau kovų
     su bolševikais metu saksų savanorių sudėtis atsisijojo. Likusieji Lietuvoje labai gerai ko-

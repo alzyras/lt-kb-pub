@@ -73,6 +73,7 @@ Puolimą pradėjo I brigada, jos svarbiausias uždavinys buvo pralaužti bolšev
 - id: c-45238
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     jant vyriausiajam Lietuvos kariuome-
     nės vadui generolui Silvestrui Žukauskui,

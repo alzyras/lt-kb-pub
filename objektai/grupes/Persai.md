@@ -430,6 +430,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
 - id: c-172312
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tą kalaviją lietuviai paskyrė savajam karo dievui;
     kiek kartų jį turėję su savimi kovodami su livoniečiais, tiek
@@ -449,6 +450,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
 - id: c-172313
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šio dievo mitas taip pat sutampa su senovės persų Oro-
     mazu ir Arimanu, iš kurių, matyt, ir kilęs. Senovės romėnai
@@ -464,6 +466,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
 - id: c-172314
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -480,6 +483,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
 - id: c-172315
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
     pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
@@ -499,6 +503,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
 - id: c-172316
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šventyklos
     Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
@@ -521,6 +526,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
 - id: c-175232
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     37
     Darijaus puolimai prieš skitus. Apie 520 metus prieš
@@ -543,6 +549,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
 - id: c-175233
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šis, priplaukęs su 30 galerų, labai juos sumušė,
     paėmė didelį grobį ir belaisvių, tarp kurių buvo ir kara­
@@ -562,6 +569,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
 - id: c-175234
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taigi 535 metais, kai samdyta
     svetimšalių kariuomenė Afrikoje sukėlė maištą, ją sudarė

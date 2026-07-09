@@ -70,6 +70,7 @@ Dusburgietis teigia, kad kai jie pabeldė į vartus, juos apakino jų pačių ne
 - id: c-59564
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
     tebuvo du vyrai: vienas brolis bei jo tarnas. Ir štai kokie stebuklai! Kai jie pabeldė  į

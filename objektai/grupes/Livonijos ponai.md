@@ -73,6 +73,7 @@ Livonijos ponai buvo Jogailos kariuomenėje, kai Jogaila pasitiko Kęstutį su �
 - id: c-170722
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir atėjo mūsų tėvas su žemaičiais prie
     Trakų, aš pats irgi buvau ten su savo tėvu kunigaikš­

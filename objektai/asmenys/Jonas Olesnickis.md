@@ -465,6 +465,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Nors Skirgaila ir turėjo krašte vyriausią valdžią, bet karinę tu­
     rėjo dalintis su Maskoževskiu. Po jo 1390 m. tą vietą užėmė
@@ -480,6 +481,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - id: c-78905
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     —  •  —
     132
@@ -508,6 +510,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - id: c-78906
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pamažu ėmė telktis išsisklaidę
     gyventojai ir statytis namus ant degėsių. Tačiau Moskožev-
@@ -530,6 +533,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - id: c-78907
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tasai kunigaikštis, toks pat
     narsus, kaip ir apsukrus, skubinai išvyksta iš Marienburgo, ir
@@ -553,6 +557,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - id: c-78908
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šitą supratęs Olesnickis surengia drąsų išpuo­
     lį ir su visa įgula netikėtai užgriūna vokiečius, suduoda jiems
@@ -573,6 +578,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - id: c-78910
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Iš tiesų ketu­
     rių mylių nuo Vilniaus spinduliu visos gyvenvietės, kaip an­
@@ -597,6 +603,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - id: c-168100
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Sunkūs, bemaž nuolatiniai
     priešų antpuoliai, pagaliau Skirgailos puikybė ir žiauru­
@@ -615,6 +622,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - id: c-168101
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mergelės Marijos bažnyčią, plačioje aikštėje.
     Olesnickis, gerai žinodamas, kad pirmieji karo žingsniai
@@ -632,6 +640,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - id: c-168102
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šios sąlygos buvo įtrauk­
     tos į protokolą, patvirtintos susitariančiųjų valdovų

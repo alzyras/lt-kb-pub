@@ -147,6 +147,7 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
 - id: c-59682
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Judą Makabėjų
     pasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą,
@@ -173,6 +174,7 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
 - id: c-59683
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     o kitoje vietoje:
 
@@ -191,6 +193,7 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
 - id: c-59684
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
     jei sieloje tikrai išsaugome kantrybę“. Jeronimas priduria: „Negi gali būti kas vainikuotas

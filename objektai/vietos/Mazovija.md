@@ -818,6 +818,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - id: c-166238
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino
     XIII a. 3—4 dešimtmečiais vyskupo Kristijono misijos bei kryžiuočių įkurdinimo šiame
@@ -832,6 +833,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - id: c-167247
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šio antspaudo niekintojus šiuo savo laišku pasmerkiame
     kaip bjaurius tikėjimo ardytojus, eretikus, melagius ir jokios
@@ -850,6 +852,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - id: c-167248
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tokios
     didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-
@@ -871,6 +874,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - id: c-167249
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pagaliau kodėl Ge­
     diminas būtų slėpęs tą priežastį nuo legatų, ypač jei ji būtų
@@ -892,6 +896,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - id: c-167567
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     „Pranešime...“ kalbama apie pagonių brovimąsi  į Mazovijos kunigaikščio
     Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas,
@@ -907,6 +912,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - id: c-167568
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     2. Prūsijos žemės aprašymas
 
@@ -924,6 +930,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - id: c-168404
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mat, nors visą Belzo
     kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­
@@ -958,6 +965,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - id: c-168405
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tuo
     tarpu Jogaila, atsikratęs rū­
@@ -985,6 +993,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - id: c-168406
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kurie, prisi-
     džiovinę medžių lapų ir juos
@@ -1021,6 +1030,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 - id: c-171660
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pasipiktinusios šito­
     305

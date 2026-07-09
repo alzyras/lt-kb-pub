@@ -313,6 +313,7 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
 - id: c-174058
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Skitai gintarą
     vadino
@@ -333,6 +334,7 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
 - id: c-174059
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Europą ir Afriką kartu jie vadino Europa, o
     Siaurės reikšmė buvo siejama anaiptol ne su šiauriniais
@@ -354,6 +356,7 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
 - id: c-174060
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Čia pakalbėsime apie kai
     kurias detales, palikdami išvadas daryti skaitytojui. Be
@@ -373,6 +376,7 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
 - id: c-174061
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Visa tai išliko Prūsijoje. Jie
     nekalbėjo slaviškai, nes Nestoras nemini jų tarp slaviškų
@@ -391,6 +395,7 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
 - id: c-174062
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.
     84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­
@@ -408,6 +413,7 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
 - id: c-174063
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip jūros plotas vis didėjo, ir
     galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra

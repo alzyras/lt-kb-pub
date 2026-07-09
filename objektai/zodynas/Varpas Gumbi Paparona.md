@@ -114,6 +114,7 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
 - id: c-172145
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Esu matęs
     tokių ikiunijinių lietuviškų antspaudų; vieną iš jų perpieštą nu­
@@ -140,6 +141,7 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
 - id: c-177088
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Budintoja (Budintoja)
     Budėjimui prielanki deivė, pratusi reikiamu momentu pa­

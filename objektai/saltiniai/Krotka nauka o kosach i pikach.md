@@ -75,6 +75,7 @@ Krotka nauka 0 kosach i pikach, Warszawa, 1794.
 - id: c-41727
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     P. 161, 1794 m. sukilimo laikais išleisto cirkuliaro, skirto sukilėlių mokymui, iliustracija,
     vaizduojanti dalgininkų ir ietininkų kovos metodus, Aigner P. Krotka nauka 0 kosach i

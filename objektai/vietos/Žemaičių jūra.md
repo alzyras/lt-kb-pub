@@ -207,6 +207,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - id: c-10521
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Žuvėdai^14 turi ant savo uolų ženklus, kurie rodo, jog Žemaičių jūra
         per 1000 metų yra per kelias uolektis nusekusi.
@@ -220,6 +221,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - id: c-10522
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Taip pat lygia dalia visos upės šiaurinėj įšleitėj nuo tos gi kalvos teka į
         Žemaičių jūrą, tarp kurių didžiosios upės yra: Daugava, Nemunas, Pragaras ir Isla.
@@ -233,6 +235,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - id: c-10523
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     - status: unused
     - claim_role: new_claim
@@ -260,6 +263,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - id: c-10524
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Šiaurėj, Odinui mirus, nebepasitiko tokio, kurs būt galėjęs visą šiaurę valdyti ir kurio būt klausiusios tautos, šiapus ir anapus Žemaičių jūros gyvenančios.
   statusas: verified
@@ -272,6 +276,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - id: c-10525
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Kad taip šiaurėj ir Žemaičių jūroje audras vertė kariaudami, vienok nuo pietų, nurimus tautoms kita kitą stumdyti, rados pakajus, ir prekyba vėl pradėjo plėstis.
   statusas: verified

@@ -338,6 +338,7 @@ media_all_json: |-
 - id: c-83328
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Žr. IX priedą.
     72
@@ -366,6 +367,7 @@ media_all_json: |-
 - id: c-83329
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Juozapas Petravičius, iš Vilniaus miesto
     raštininko paskirtas vaitu gruodžio 3 d. - 1649
@@ -390,6 +392,7 @@ media_all_json: |-
 - id: c-83330
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Steponas Morozas - - 1701
     20. Jokūbas Vargalovskis Stefanovičius dar buvo
@@ -406,6 +409,7 @@ media_all_json: |-
 - id: c-83331
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jurgis Fedaravičius
     22. Anupras Minkevičius, buvo vaitas: 1753 ir 1758
@@ -439,6 +443,7 @@ media_all_json: |-
 - id: c-83332
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jachna Laurinavičius žinomas nuo - 1485 m.
     Tuo metu burmistras Mykolas Laurinavičius.
@@ -454,6 +459,7 @@ media_all_json: |-
 - id: c-83333
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     9. Motiejus (arba Matas) Božiminskis, iš bajorų,
     paskirtas karaliaus Zigmanto Vazos raštu,

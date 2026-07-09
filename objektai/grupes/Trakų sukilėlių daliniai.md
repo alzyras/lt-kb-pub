@@ -81,6 +81,7 @@ Sukilėlių pajėgos Sukilėlių kariuomenės pagrindą Panerių mūšyje sudar�
 - id: c-40810
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Sukilėlių pajėgos
 

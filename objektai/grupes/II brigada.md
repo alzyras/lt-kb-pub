@@ -124,6 +124,7 @@ media_all_json: |-
 - id: c-44744
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1 brigadai užėmus Zarasus,
     puolimas tęsėsi toliau. Į ope-
@@ -162,6 +163,7 @@ media_all_json: |-
 - id: c-44745
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Il brigada pralaužia gynybą ir 28 d. priverčia
     bolševikus trauktis už Dauguvos.

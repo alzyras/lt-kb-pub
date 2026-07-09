@@ -127,6 +127,7 @@ Nenurodyta
 - id: c-00235
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo
     traukti minios maldininkų. Bet netrukus naujajai Jeruzalės valstybei
@@ -146,6 +147,7 @@ Nenurodyta
 - id: c-00236
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Todėl visos didesniosios valstybės ten ėmė steigti spe-
     cialias brolijas savo maldininkams globoti. Iš pradžių tokios brolijos

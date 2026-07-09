@@ -79,6 +79,7 @@ media_all_json: |-
 - id: c-170381
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     *  Kalbama apie 1434 m.
     *  Iš kryžiuočių ša'tin‘ų  (LUR VIII. N '. P56. 813 8851 Ir J . D'u-

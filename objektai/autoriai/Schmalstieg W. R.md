@@ -76,6 +76,7 @@ Dusburgietis teigia, kad schmalstieg W.
 - id: c-61417
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Schmalstieg W. R. An Old Prussian Grammar: The Phonology and Morphology of the
     Three Catechisms.—London, 1974.

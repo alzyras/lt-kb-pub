@@ -150,6 +150,7 @@ media_all_json: |-
 - id: c-10472
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     iš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį
         krikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės
@@ -165,6 +166,7 @@ media_all_json: |-
 - id: c-10473
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Reikia žinoti, jog tame pasaulio sluoksny, einančiame nuo šiaurės Uksinių pamarių iki Žemaičių pajūrių, it^74 vidury yra kalva, daugiau nei per šimtą mylių tęsiantis į
         rytus ir vakarus, dviem giriom apaugusi, rytų pusėj Juodąja, o vakarų Žaliąja giria vadinamom,
@@ -182,6 +184,7 @@ media_all_json: |-
 - id: c-10474
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Čia aš, trumpai parodęs notis Lietuvos tautos, žiloj senovėj nutikusias, ir šios dienos jos kraštą,
         norinčius dar aiškiau apie tą žinoti siunčiu į viršiau minavotus raštus, o pats grįžtu prie tos dalies

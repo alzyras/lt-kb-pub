@@ -80,6 +80,7 @@ Narbutas slaptų apeigų įvedimą Kretoje priskyrė Minui, o persų, graikų ir
 - id: c-171898
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Egiptiečiai visiškai nesivadina
     jų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­

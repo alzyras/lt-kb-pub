@@ -91,6 +91,7 @@ Nenurodyta
 - id: c-169005
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vėliau šių valdų vietininku kara­
     lius laikinai buvo paskyręs Spiteką. Ta pačia proga ka­

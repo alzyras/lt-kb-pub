@@ -121,6 +121,7 @@ Nenurodyta
 - id: c-172733
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Patelas (Patelo)
     Skraidančių oro dvasių dievas, savitas aukščiausiosios ka­
@@ -138,6 +139,7 @@ Nenurodyta
 - id: c-177026
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuvių kalboje Potalas reiškia mirties patalą, neštuvus,
     ant kurių neša mirusiuosius, katafalką, antikinį Bustum. Tik­

@@ -84,6 +84,7 @@ Nenurodyta
 - id: c-174898
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat skandinavų užkariavi­
     mai lietuvių žemėse buvo labai seni ir dideli. Tai patvir­

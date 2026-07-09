@@ -74,6 +74,7 @@ Narbutas Burimme vadino pavienes sibiles, būrimu pagarsėjusias moteris arba at
 - id: c-172173
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tad atėjęs pasiskųsti arba prašantis patarimo gauda­
     vo atsakymą“.

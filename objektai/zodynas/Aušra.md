@@ -77,6 +77,7 @@ Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų 
 - id: c-172167
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Aušra (Aussra)
     Ryto deivė.

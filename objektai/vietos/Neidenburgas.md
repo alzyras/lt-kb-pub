@@ -80,6 +80,7 @@ Kitame žygyje iš Neidenburgo Kęstutis parsigabeno 800 vyrų, kurie, anot Wiga
 - id: c-33968
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1376
     m. vasarą Kęstutis, Algirdas ir šio sūnus Skirgaila stipriai nuteriojo

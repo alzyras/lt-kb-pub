@@ -405,6 +405,7 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 - id: c-78620
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­
     šimčius, kas metinių pajamų tesudaro 165 auksinus.
@@ -431,6 +432,7 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 - id: c-78622
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Grįžęs iš laimingai baig­
     tos Smolensko operacijos, 1404 rugpiūčio viduryje Vytautas su
@@ -449,6 +451,7 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 - id: c-78623
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     c. _Žemaičių sukilimai._ — Ilgas ir įkyrus aiškinimasis su Vy­
     tautu, kas Žemaičiuose yra laisvas ir kas činšininkas — duoklinin­
@@ -463,6 +466,7 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 - id: c-78624
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     144
 
@@ -487,6 +491,7 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 - id: c-78626
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas
     sutiko ten jam pastatyti dvi naujas pilis. Jos turėjo reikšti atlygi­
@@ -504,6 +509,7 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 - id: c-78627
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tą Fi-
     lipovo namą kunigaikščio Kristupo
@@ -530,6 +536,7 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 - id: c-166389
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tik po sukilimo konfiskuotose ba-
     jorų ir dvasininkų žemėse valstiečių būklė žymiai pagerėjo.
@@ -549,6 +556,7 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 - id: c-167222
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     O Jurgio brolis, kunigaikštis Mi­
     kalojus Kristupas, Lietuvos Didžio­
@@ -580,6 +588,7 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 - id: c-175916
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tačiau
     būdami neturtingi, bajorai čia tebebuvo nenutolę nuo liaudies

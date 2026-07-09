@@ -85,6 +85,7 @@ Marcinkevičių ir dar vieną rusą karininką.
 - id: c-41400
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė
     tris NKGB dalinio buvusius vadus: kpt. Kruglovą, leit. Marcinkevičių ir dar vieną rusą

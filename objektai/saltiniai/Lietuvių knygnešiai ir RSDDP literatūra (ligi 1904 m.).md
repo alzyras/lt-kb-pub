@@ -82,6 +82,7 @@ Be to, jis rašė : Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.) (L
 - id: c-31686
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Be to, jis
     rašė :** **_Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904_** **m.) (Liet. istorijos

@@ -84,6 +84,7 @@ Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos
 - id: c-171864
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kuršiškai arba latviškai; iš Branto, imta iš Ksavero Bogu­
     šo (ten pat):

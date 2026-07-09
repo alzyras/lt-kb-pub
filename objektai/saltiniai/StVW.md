@@ -73,6 +73,7 @@ Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­ ną tokiais žo
 - id: c-33724
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Ordi­
     nui priskirtoje dykroje buvę žemaičių pilių. Tai teberodą « kalniu­

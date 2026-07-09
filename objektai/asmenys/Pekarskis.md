@@ -79,6 +79,7 @@ Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užs
 - id: c-83799
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Man buvo ati­
     duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už

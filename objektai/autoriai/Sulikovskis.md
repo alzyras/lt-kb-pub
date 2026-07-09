@@ -86,6 +86,7 @@ Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papro
 - id: c-84078
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau amžininkas rašytojas
     Sulikovskis  pasakoja tiktai,

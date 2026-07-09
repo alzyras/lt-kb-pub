@@ -100,6 +100,7 @@ Nenurodyta
 - id: c-02010
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Todėl tuojau
     po krikšto Jogaila įkūrė Vil-

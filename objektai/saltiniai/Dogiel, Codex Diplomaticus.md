@@ -83,6 +83,7 @@ media_all_json: |-
 - id: c-84282
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     72
     D o g i e 1 Codex Diplom. IV, 92 yra

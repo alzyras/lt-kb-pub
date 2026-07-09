@@ -98,6 +98,7 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
 - id: c-168746
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pats Vasilijus, beje, irgi gerai žino­
     jo, kad Glinskis, sulaukęs iš jo malonės, dar ištikimiau

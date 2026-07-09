@@ -118,6 +118,7 @@ Algirdas viešai laikėsi stabmeldžių apeigų, bet Julijonos noru sutiko priim
 - id: c-168755
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mat rusai nuo senų senovės įpratę Velykų dieną do­
     vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
@@ -138,6 +139,7 @@ Algirdas viešai laikėsi stabmeldžių apeigų, bet Julijonos noru sutiko priim
 - id: c-168756
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kryžiaus baž­
     nytėlė. Čia įsikūrę vienuo­

@@ -247,6 +247,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
 - id: c-174112
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     322
     Tuo metu ostrogotus1 2 valdė Teodorikas, ne tik retų
@@ -267,6 +268,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
 - id: c-174113
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Galop jis slapta susitarė su Teodo-
     riku, pasikliaudamas pažadais, o gal vildamasis sukelti
@@ -291,6 +293,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
 - id: c-174114
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tariamomis žygio priežastimis tapo
     kerštas už padarytą rugiams skriaudą ir vykdymas įsa­
@@ -321,6 +324,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
 - id: c-174115
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tik žinoma tai, kad Teodorikas paža­
     dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam

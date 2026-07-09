@@ -71,6 +71,7 @@ media_all_json: |-
 - id: c-44343
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Beje, Švedijos karalius
     Karolis 1x vos nepakliuvo į nelaisvę. Švedų

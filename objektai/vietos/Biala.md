@@ -115,6 +115,7 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 - id: c-31973
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1355 m.
     jo garnizonai įsikūrė Rževe ir Bialoje. Iki 1362 jis užėmė Smolensko
@@ -129,6 +130,7 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 - id: c-175920
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     I Gardino apygardoj apygardėlinių mokyklų buvo šiose vie-
     tose: Vilniuje, Volkoviske, Višniove, Pastoviuose, Lydoje, Merkinėje,

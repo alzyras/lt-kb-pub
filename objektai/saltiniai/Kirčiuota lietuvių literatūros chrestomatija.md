@@ -99,6 +99,7 @@ Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA. Iki šiol dar nė 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     22. V. Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS
     CHRESTOMATIJA. Kirčius patikrino Dr. Pr. Skardžius.
@@ -113,6 +114,7 @@ Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA. Iki šiol dar nė 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Skardžius.
     Iki šiol dar nė vienos kirčiuotos chrestomatijos neturėjome, o

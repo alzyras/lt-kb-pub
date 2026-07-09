@@ -115,6 +115,7 @@ Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru. Narbutas rašo, k
 - id: c-171849
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Visa, ką šiuo klausimu žinome iš istorijos, ap­
     siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
@@ -132,6 +133,7 @@ Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru. Narbutas rašo, k
 - id: c-171850
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Bet virš jos nebuvo stogo; į ją vedė tik vienas įėjimas
     nuo didžiosios upės pusės; prie sienos, esančios priešais įėji­

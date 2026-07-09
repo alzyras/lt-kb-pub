@@ -80,6 +80,7 @@ media_all_json: |-
 - id: c-44765
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1943 m. įstojo į Lietuvos laisvės armijos
     (LLA) organizaciją, jam suteiktas jaunesniojo leitenanto laipsnis. 1945 m.

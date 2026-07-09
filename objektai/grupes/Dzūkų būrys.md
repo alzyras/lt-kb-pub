@@ -73,6 +73,7 @@ Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai
 - id: c-44734
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     vadas Vladas Gavėnas-Tarzanas bei lais-
     vės kovotojai Vincas Boruta-Žvalgas ir

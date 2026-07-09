@@ -75,6 +75,7 @@ Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį b
 - id: c-169453
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kol lietuviai šitaip siautėjo Lenkijoje,
     niekas jiems nepastojo kelio ir niekas nedrįso perse­

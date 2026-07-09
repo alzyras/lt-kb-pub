@@ -71,6 +71,7 @@ Jaroslavas tikrai buvo Tverės didžiojo kunigaikščio Boriso Aleksandravičiau
 - id: c-176748
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Mano­
     ma, kad Švitrigaila tuo žygiu ketino atsiimti Vilnių ir buvo sutel­

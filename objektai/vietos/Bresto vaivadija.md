@@ -89,6 +89,7 @@ Oginskis telkė respublikonų pajėgas Žemaitijoje, Višnioveckiai organizavo b
 - id: c-45045
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1700 m. į respublikonų judėjimą
     aktyviai įsijungė broliai Jonušas ir Myko-

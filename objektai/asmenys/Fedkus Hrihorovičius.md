@@ -68,6 +68,7 @@ Siunčia pas jį savo pa siuntinius 1 0 — Trakų vaivadą, krašto maršalą p
 - id: c-176721
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Bet jam, naujai pradėjusiam valdyti, tuo me­
     tu kariauti su juo buvo sunku. Siunčia pas jį savo pa­

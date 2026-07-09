@@ -206,6 +206,7 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
 - id: c-172081
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tolesnį šito patvirtinimą rasime žemiau,
     straipsnyje „Laima“.
@@ -225,6 +226,7 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
 - id: c-172082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tad
     sutampa su pareigomis, kurių priedermė tirti sunkiai išaiški­
@@ -252,6 +254,7 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
 - id: c-172083
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nykstant ir
     išsigimstant lietuvių mitologijai, burtininkų profesija nusmu­
@@ -273,6 +276,7 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
 - id: c-172084
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Burtininkė (Burte)
     Lietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­

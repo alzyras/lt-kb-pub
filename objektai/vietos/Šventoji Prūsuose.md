@@ -71,6 +71,7 @@ media_all_json: |-
 - id: c-171979
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai labai įdomus sutapimas, o galbūt ir
     pamėgdžiojimas reiškinio, apie kurį kalbame*.

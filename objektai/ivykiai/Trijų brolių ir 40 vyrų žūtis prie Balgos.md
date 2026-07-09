@@ -88,6 +88,7 @@ Nenurodyta
 - id: c-63187
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie 3 brolių ir 40 vyrų nužudymą
 

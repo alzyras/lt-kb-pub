@@ -84,6 +84,7 @@ Nepadėjo šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis kišusis 
 - id: c-84443
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Nepadėjo
     šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis

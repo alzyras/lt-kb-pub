@@ -113,6 +113,7 @@ T. Narbutas „Spisanie Muzeum w Szawrach“ Dievo Kovo stabą laikė vienu svar
 - id: c-174576
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
     leidimą (PEĮ. L. 133). Dievo Kovo stabą T. Narbutas ypač vertino
@@ -130,6 +131,7 @@ T. Narbutas „Spisanie Muzeum w Szawrach“ Dievo Kovo stabą laikė vienu svar
 - id: c-174577
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     491
 

@@ -131,6 +131,7 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
 - id: c-46405
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Skandinavai, būdami energingiausi iš šiaurės Europos tautų, tu-
     rėjo nuolatinį upių susisiekimą su Bizantija. Vienas iš jų svar-
@@ -150,6 +151,7 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
 - id: c-166331
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Vienas iš jų svar-
     biųjų upių kelių į Bizantiją buvo Dauguva ir Dniepras (čia

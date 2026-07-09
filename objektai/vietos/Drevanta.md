@@ -164,6 +164,7 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
 - id: c-59062
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo
     lenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Drvenca). Upės vardas baltiškas
@@ -180,6 +181,7 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
 - id: c-168305
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Iš L iv o n ijo s lie tu v ia i
     Taigi šeši tūkstančiai karių,

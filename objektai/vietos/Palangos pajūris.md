@@ -83,6 +83,7 @@ Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos so
 - id: c-02890
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje
     čia pasitaikydavo nesusipratimų. Visiems neaiškumams likvi-

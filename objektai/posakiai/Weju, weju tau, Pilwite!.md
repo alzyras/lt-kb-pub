@@ -104,6 +104,7 @@ Narbutas dainelę „Weju, weju tau, Pilwite!“ pateikė kaip vietos valstieči
 - id: c-172444
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kad šis mitas buvo žinomas, įrodo pateikiama dainelė, ku­
     rią dar tebemoka vietos valstiečiai:
@@ -127,6 +128,7 @@ Narbutas dainelę „Weju, weju tau, Pilwite!“ pateikė kaip vietos valstieči
 - id: c-172445
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
     rųjų reiškia storulį, perkeltine prasme -  turčių. Iš čia Pilwitos,

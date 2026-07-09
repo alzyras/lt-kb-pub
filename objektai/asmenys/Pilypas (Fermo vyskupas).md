@@ -76,6 +76,7 @@ Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, a
 - id: c-61043
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tą patį padarė ir ketvirtas brolis, o kad šis dovanojimas butų teisėtas
     ir amžinas, visi trys broliai pasižadėjo nekelti jokių teisinių ieškinių ir nesiimti faktinių

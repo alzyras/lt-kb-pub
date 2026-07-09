@@ -86,6 +86,7 @@ Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus 
 - id: c-169588
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pats Klemensas
     v a ld o v ų  ž y g is  p rie š

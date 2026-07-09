@@ -139,6 +139,7 @@ Nenurodyta
 - id: c-66713
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Pasisekimas buvo toks didelis, jog kai kuriose parapijose blai-
     vybės brolijos nariais pasidarė net 97% visų gyventojų. Pajuto
@@ -157,6 +158,7 @@ Nenurodyta
 - id: c-66714
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Vyskupo raginama, kunigija tapo uoliausia
     blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
@@ -174,6 +176,7 @@ Nenurodyta
 - id: c-66715
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     XIX amž. vidury popiežiaus Pijo IX paraginti, viso pa-
     saulio dvasininkai ėmė skelbti blaivybę. Lietuvoje didžiausią

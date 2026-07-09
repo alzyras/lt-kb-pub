@@ -71,6 +71,7 @@ Rėzos „Dainų“ komentaruose, Narbuto perteikimu, alus atskiriamas nuo Prūs
 - id: c-173441
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ponas Rėza „Dainų“ komentaruose pažy­
     mi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama

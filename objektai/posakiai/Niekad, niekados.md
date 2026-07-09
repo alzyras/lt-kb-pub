@@ -93,6 +93,7 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 - id: c-67250
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Toji lietuvių brošiūra, nors ir sulaukė lenkų spaudoje gyvo at-
     garsio, tačiau niekas su ja nesutiko. Griežčiausiai neigiamai at-
@@ -112,6 +113,7 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 - id: c-67251
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Lietuviai veikėjai, nepaisydami tokio nepalankaus bajorijos
     nusistatymo, ne kartą kvietė ją prisidėti prie bendro tautos dar-

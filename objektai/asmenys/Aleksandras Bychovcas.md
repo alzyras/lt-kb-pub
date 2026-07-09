@@ -152,6 +152,7 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
 - id: c-169839
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     T. Narbuto prašomas, rankraščio savininkas Alek­
     sandras Bychovcas perdavė jį istoriko pažįstamam tei­
@@ -169,6 +170,7 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
 - id: c-169840
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Pavadinimas ,,Lietuvos metraštis, arba Bychovco
     kronika", kuris duotas šiam vertimui į lietuvių kalbą,
@@ -187,6 +189,7 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
 - id: c-169841
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     I RANKRAŠTIS IR JO  SKELBIMAS
     Bychovco kronika, palyginus su Trumpuoju ir Pla-

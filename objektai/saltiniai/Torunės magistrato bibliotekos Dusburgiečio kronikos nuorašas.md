@@ -79,6 +79,7 @@ Dusburgietis teigia, kad torunės magistrato bibliotekos nuorašas (XVII a.) pad
 - id: c-61954
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Torunės  magistrato  bibliotekos  nuorašas  (XVII  a.)  padarytas  iš  Karaliaučiaus
     bibliotekos  teksto. Nurašyta žmogaus,  gerai mokėjusio viduramžių  lotynų  kalbą,

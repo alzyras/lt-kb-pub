@@ -114,6 +114,7 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - id: c-55392
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     1859 m. išleistame vadove po Vilnių autorius Adomas Ho­
     norijus Kirkoras su pasitenkinimu pastebėjo, kad jo mylimas

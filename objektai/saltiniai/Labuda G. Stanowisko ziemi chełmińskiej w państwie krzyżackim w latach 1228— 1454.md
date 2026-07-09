@@ -70,6 +70,7 @@ Dusburgietis teigia, kad labuda G.
 - id: c-61754
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Labuda G. Stanowisko ziemi chełmińskiej w państwie krzyżackim w latach 1228—
     1454 —Przegląd historyczny, Warszawa, 1954, t. 45, z. 2—3, s. 280—337.

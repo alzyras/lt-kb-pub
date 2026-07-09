@@ -121,6 +121,7 @@ terminas pateiktas tik viename sakinyje, todėl viešame įraše reikės aiškia
 - id: c-175075
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Nuo deši­
     niosios Nemuno pakrantės kiek aukščiau Ratnyčios upės

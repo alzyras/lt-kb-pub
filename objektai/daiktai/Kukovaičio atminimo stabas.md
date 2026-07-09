@@ -96,6 +96,7 @@ Nenurodyta
 - id: c-170463
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O paskui mirė didysis Lietuvos ir Žemaičių kuni­
     gaikštis Kukovaitis, buvęs labai teisingas ir malonin­

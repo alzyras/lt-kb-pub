@@ -113,6 +113,7 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
 - id: c-61065
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tuo
     metu Kristburgo pilyje tebuvo likę trys broliai, trys jų tarnai ir vienas pamedėnas, vardu
@@ -131,6 +132,7 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
 - id: c-167510
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai  jį užpuolė,
     visiškai sugriovė pamedėnų gyvenvietę bei  pilį424  ir brolių  papilį, vienus paimdami

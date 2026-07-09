@@ -89,6 +89,7 @@ Nenurodyta
 - id: c-01840
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas,
     vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J.

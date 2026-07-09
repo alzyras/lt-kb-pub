@@ -80,6 +80,7 @@ media_all_json: |-
 - id: c-33600
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Adamus, J. : _O tytule panującego i paóstwa litewskiego,_ KH, t. 49,
     1930, 313-332 p. — Būtėnas, P. : _Lietuvos sostinė Vilnius,_ Karys, 1973,

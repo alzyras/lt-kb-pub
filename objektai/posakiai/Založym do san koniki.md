@@ -87,6 +87,7 @@ Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kai
 - id: c-172458
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     456
 

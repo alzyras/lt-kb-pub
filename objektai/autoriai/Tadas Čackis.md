@@ -183,6 +183,7 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
 - id: c-173183
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kuo daugiau tikėta jų buvimu, tuo labiau
     artėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų
@@ -201,6 +202,7 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
 - id: c-173184
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Sulaužęs priesaiką, kuri rė­
     mėsi tautiniais papročiais, faktiškai būdavo prakeiktas ir ne­
@@ -221,6 +223,7 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
 - id: c-173186
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     5 Istorijos duomenų apie kitų tautų antspaudus ir herbus skaity­
     tojas ras Čackio veikale „Apie teises“ (t. I. -  P. 71. -  Prierašas nr. 347),
@@ -236,6 +239,7 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
 - id: c-177070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     10 Šis dalykas plačiai išdėstytas Čackio veikale (O prawach. -  T. I. -
     S. 61-62. - Nota nr. 331).

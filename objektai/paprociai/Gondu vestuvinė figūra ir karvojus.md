@@ -126,6 +126,7 @@ Nenurodyta
 - id: c-172715
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šios dievybės atvaizdą pasiseka pamatyti kai kuriose Lie­
     tuvos vietovėse, kur išlikę senieji papročiai, ypač Merkinės vals­
@@ -148,6 +149,7 @@ Nenurodyta
 - id: c-172716
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tokia
     figūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­

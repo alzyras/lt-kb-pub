@@ -2614,6 +2614,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - id: c-24560
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     didatūrą į sostą. Bet nepasisekė nė čia. Padarius sąjungą su
     Austrija, turkai užpuolė šią ir pasiekė net Vieną.
@@ -2628,6 +2629,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - id: c-24561
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Pacai vienas
     po kito pagaliau išmirė, ir jų turėtieji urėdai atiteko kitiems.
@@ -2648,6 +2650,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - id: c-87155
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kaip ir anksčiau mūsų minėtas
     (Henriko iš Hohenlohės) taip  ir šis „Pranešimas...“ aptiktas Vokiečių ordino archyve
@@ -2663,6 +2666,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - id: c-87157
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Berlyno  karališkosios
     bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
@@ -2680,6 +2684,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - id: c-168537
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Žygimantą supo lenkų, lietuvių bei rusų
     raitelių būriai, apsivilkę turkų, persų, maskvėnų ir ski­
@@ -2710,6 +2715,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - id: c-171737
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Štai iš šito židinio Jeronimas pasiėmė ugnies, kadangi,
     apie 1405 metus grįždamas tuo pačiu keliu į tėvynę, parsinešė

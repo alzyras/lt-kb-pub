@@ -72,6 +72,7 @@ Dalevskis, nurodydamas, kad rusai vakare iš kautynių vietos taip pat pasitrauk
 - id: c-44397
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     tolių“. Tačiau, kai kurių
     sukilėlių nuomone,

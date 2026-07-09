@@ -76,6 +76,7 @@ Dusburgietis teigia, kad schall H.
 - id: c-61415
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Schall  H.  Baltische  Gewässernamen  im  Flußsystem  „Obere  Havel“  (Südost-
     Mecklenburg).—Baltistica, 1966, 2(1), p. 7—42.

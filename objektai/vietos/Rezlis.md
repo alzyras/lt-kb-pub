@@ -150,6 +150,7 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - id: c-59253
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     258 D.— Resel (dab. Rešelis)— į šiaurės rytus nuo Olštino. Vardas kildinamas iš prūsų
     kalbos — GAO, p. 141; Rymut K., Nazwy.., p. 205. Iš pradžių kryžiuočių pilaitė, medžio-
@@ -166,6 +167,7 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - id: c-167580
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą
 

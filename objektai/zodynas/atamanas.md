@@ -112,6 +112,7 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
 - id: c-45503
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Podolės žemės tėvonys bei paveldėtojai“.
     Podolėje veikė jų paskirti atamanai, kurie
@@ -128,6 +129,7 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
 - id: c-45504
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     į vakarus nuo minėtos mūšio
     vietos), kurioje nebuvo nė vie-

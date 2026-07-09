@@ -78,6 +78,7 @@ Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta
 - id: c-170510
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Is Talkos sutartis tarp  LDK ir Maskvos Didžiosios Kunigaikš­
     tystės buvo surašyta 1494.11.5 Maskvoje, Ivano Ilt-ojo prisiekta

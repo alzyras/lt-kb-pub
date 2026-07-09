@@ -135,6 +135,7 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 - id: c-32522
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
     _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
@@ -156,6 +157,7 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 - id: c-68866
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Augustas irgi pasi-
     ryžo prie jo prisidėti; Petrui palikęs Estiją, jis svajojo nusika-

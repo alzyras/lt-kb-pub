@@ -80,6 +80,7 @@ Dusburgietis teigia, kad [Schroetter-Karte], Karte von Ost-Preussen nebst Preuss
 - id: c-61921
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     [Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West-
     Preussen nebst dem Netzdistriect / Von Schroetter in den Jahren von 1796 bis 1802.

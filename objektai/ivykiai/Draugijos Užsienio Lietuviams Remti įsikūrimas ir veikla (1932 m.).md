@@ -131,6 +131,7 @@ Nenurodyta
 - id: c-01848
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     (Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune. Tarp kitko jis
     nutarė įkurti Pasaulio Lietuvių Sąjungą).
@@ -148,6 +149,7 @@ Nenurodyta
 - id: c-01849
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tam tikslui 1932 m. įsikūrė Draugija
     Užsienio Lietuviams Remti (DULR). Draugijos tik-

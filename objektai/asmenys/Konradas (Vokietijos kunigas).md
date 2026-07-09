@@ -82,6 +82,7 @@ Dusburgietis teigia, kad apie tai, kaip žuvo Konradas, Vokietijos kunigas, pers
 - id: c-60995
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių
                                               atversti

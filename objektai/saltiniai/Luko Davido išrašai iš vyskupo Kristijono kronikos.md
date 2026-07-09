@@ -82,6 +82,7 @@ Narbutas svarsto, ar Lukas Davidas naudojosi visa vyskupo Kristijono kronika, ar
 - id: c-173429
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Žinią apie vyriausiuosius žy­
     nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes

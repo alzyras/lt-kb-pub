@@ -120,6 +120,7 @@ Nenurodyta
 - id: c-67200
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Miestuose, ypač Vil-
     niuje, kur mišrai gyveno katali-
@@ -140,6 +141,7 @@ Nenurodyta
 - id: c-67201
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kai protestantai pradėjo vengti disputų,
     jie tokiuos disputus rengdavo vieni; vienas jų narys stodavo

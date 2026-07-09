@@ -62,6 +62,7 @@ Dusburgietis teigia, kad abejojama, kad buvusios 4 gentinės jotvingių teritori
 - id: c-87577
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vengoževo (Węgorzewo) apylinkėse —
     (Okulicz J. Pradzieje..., p. 466) arba į pietryčius nuo Suduonios (Powierski J., Uwagi...,

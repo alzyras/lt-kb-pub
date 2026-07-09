@@ -69,6 +69,7 @@ Dusburgietis teigia, kad vieną gražią dieną, bėgdamas nuo žmonių spūstie
 - id: c-60898
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vis dėlto niekas jo nepalietė, išskyrus vieną senutę, kuri jam sukirto daug smūgių.
     Šitaip brolis Konradas palinko  į Teutonų namų ordiną. Vieną gražią dieną, bėgdamas

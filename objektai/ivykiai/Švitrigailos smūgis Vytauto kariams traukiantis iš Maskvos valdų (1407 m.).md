@@ -137,6 +137,7 @@ Nenurodyta
 - id: c-169155
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kaip paprastai esti, kariuomenė, karo va­
     dams pasitraukus, patyrė nemaža nuostolių. Mat, nors
@@ -160,6 +161,7 @@ Nenurodyta
 - id: c-169156
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Be to, jie negalėjo rasti neseniai nusiaubtuose kai­
     muose nei maisto, nei pašaro. Vargais negalais kariai

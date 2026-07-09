@@ -80,6 +80,7 @@ Sniatinas lokalizuojamas į rytus nuo Kolomyjos. Apie 1485 m. rugsėjo 24 d. Kaz
 - id: c-170359
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     ”  Vaivada Steponas perdavė karaliui Kazimierui didele Sil­
     kine valiavę su Moldavijos herbu, o jo  palydovai suguldė an t ic-

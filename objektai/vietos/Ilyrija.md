@@ -132,6 +132,7 @@ Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakran
 - id: c-175611
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau esama sunku­
     mų nustatant datą, kada tai galėjo įvykti: kalbėdamas
@@ -159,6 +160,7 @@ Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakran
 - id: c-175612
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tai ir pri­
     vertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net

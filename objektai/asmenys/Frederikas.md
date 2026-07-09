@@ -83,6 +83,7 @@ Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiai
 - id: c-174085
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Teodoriko valdžia nepatenkintas
     Tufą su visa jam patikėta kariuomene paliko jį ir vėl

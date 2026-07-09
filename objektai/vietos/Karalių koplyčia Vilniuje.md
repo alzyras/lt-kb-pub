@@ -85,6 +85,7 @@ Nepašykštėjo čia ir Žygimantas Augustas, dalydamas gausius savo prieraišum
 - id: c-82172
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų
     giminės galybė ir kaupėsi nauji jų turtai, kurių pėdsakai, net

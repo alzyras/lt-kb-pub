@@ -228,6 +228,7 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
 - id: c-166480
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Varšuvos kunigaikštijos įkūrimas sukėlė vilčių nusikratyti
     Rusų valdžia ir Lietuvoje. Tuo tikslu pas Napoleoną į Tilžę
@@ -245,6 +246,7 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
 - id: c-171727
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
     vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­
@@ -259,6 +261,7 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
 - id: c-171728
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
     ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­
@@ -280,6 +283,7 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Al. = Alekna, Ant., Prof., Lietuvos istorija. Antras pataisytas
     leidimas. Tilžė, 1923.

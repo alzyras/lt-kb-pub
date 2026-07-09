@@ -95,6 +95,7 @@ Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukšči
 - id: c-169536
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tais pačiais metais
     Kazimieras,

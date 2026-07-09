@@ -237,6 +237,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-34030
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Žemaičių pusėje siena turėjo kilti Šventąja dvi mylias, paskui
     stačiai per dykrą į vakarus — Juros upėn, ordinui paliekant Ne­
@@ -257,6 +258,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-171717
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Si ket­
     virta šventoji upė iki šiol išlaikė nepakitusį savo vardą. Lietu­
@@ -277,6 +279,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-175518
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tun-
     manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
@@ -304,6 +307,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-175519
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pusantros mylios už šio miesto aukštos pakrantės ima
     žemėti, vagos didingumas mažėja, o Nemunas ima vin­

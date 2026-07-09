@@ -84,6 +84,7 @@ Nenurodyta
 - id: c-169158
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Nuliūdęs ir pasipiktinęs Šindekopfas patraukė
     su kariuomene prie Bajorų pilaitės ir netrukus ją už­

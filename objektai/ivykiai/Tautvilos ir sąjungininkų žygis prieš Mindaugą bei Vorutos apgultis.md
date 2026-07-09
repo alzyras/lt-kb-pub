@@ -191,6 +191,7 @@ Nenurodyta
 - id: c-170456
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
     ir jotvingius. O rytojaus metą prieš vokiečius išjojo
@@ -211,6 +212,7 @@ Nenurodyta
 - id: c-170457
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Visa tai padarė, kad Lietuva netapo krikščioniška.
     Andrių broliai riteriai pašalino iš pareigų, o Tautvilą

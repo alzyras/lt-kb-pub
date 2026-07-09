@@ -86,6 +86,7 @@ Zabiela, liepos 16 d. išžygiavęs į Lietuvos Brastą iš stovyklos prie Biels
 - id: c-45040
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     uniforma
 

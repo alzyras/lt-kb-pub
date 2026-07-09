@@ -206,6 +206,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
 - id: c-84132
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Apie visa tai, garbingasis tėve, mes rašome tuo tikslu,
     kad jūs žinotumėte, kodėl mūsų senoliai mirė pagonybės ir
@@ -235,6 +236,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
 - id: c-84134
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kryžiuočiai tą antspaudą mums panieką reikš­
     dami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­
@@ -258,6 +260,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
 - id: c-84135
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Juk suktybės ir melo jukinys
     buvo taip gerai suregztas, kad pradžioje jo galų niekaip nega­
@@ -280,6 +283,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
 - id: c-84136
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Po šių paaiškinimų apie antspaudą visuose trijuose
     laiškuose yra ypatingas prakeiksmas tų, kurie nepatikėtų jį

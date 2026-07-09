@@ -73,6 +73,7 @@ Narbutas Ratainyčią (Ratajniczu), remdamasis Lasickio tyrimais, priskiria prie
 - id: c-172211
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ratainyčia (Ratajniczu)
     Deivė, globojanti jojamuosius arklius. Tą reiškia pats var­

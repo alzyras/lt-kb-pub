@@ -149,6 +149,7 @@ media_all_json: |-
 - id: c-76021
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti
     žūtbūtinėje kovoje prieš kryžiuočių ekspansiją ir įsigyti vietą
@@ -174,6 +175,7 @@ media_all_json: |-
 - id: c-76022
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     „Antemurale Christianitatis“! Lietuvos kova Vakarų civiliza-
     cijos vertybių pusėje turi gilią tradiciją. Pirmiausia prisiminkime

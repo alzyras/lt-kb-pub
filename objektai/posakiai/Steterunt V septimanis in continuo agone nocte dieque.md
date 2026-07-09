@@ -75,6 +75,7 @@ Vygan­ das tačiau byloja: Steterunt V septi­ manis in continuo agone nocte di
 - id: c-82850
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     33
     Lindenblatt Jahrbücher etc., p. 76,

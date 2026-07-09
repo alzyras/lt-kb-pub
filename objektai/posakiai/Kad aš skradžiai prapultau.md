@@ -81,6 +81,7 @@ Savęs prakeikimo formulė, skirta priesaikai sutvirtinti.
 - id: c-170802
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuviai savo priesaikas duodavo visai panašiai: visi saky­
     davo (tai ir dabar yra kaimiečių paprotys) „dėl Dievo“ (Dali

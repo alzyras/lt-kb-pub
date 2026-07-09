@@ -214,6 +214,7 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 - id: c-83370
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Dar prieš įžengiant karaliui Steponui į sostą, Lie­
     tuvos piliečių brolių Mamoničių namuose įsteigta spaustu­
@@ -237,6 +238,7 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 - id: c-83371
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Duota Vilniuje, penktadienį, rytojaus dieną po
     Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai
@@ -275,6 +277,7 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 - id: c-83372
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Rašytas ir duotas Varšuvoje, didžiajame visuotiniame seime.
     — • —

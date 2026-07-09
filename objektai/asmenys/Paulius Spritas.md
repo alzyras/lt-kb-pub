@@ -81,6 +81,7 @@ Narbutas Pauliaus Sprito Karaliaučiaus bažnyčios Agendą mini kaip liudijimą
 - id: c-173079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
     čerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­

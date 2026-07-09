@@ -198,6 +198,7 @@ Nenurodyta
 - id: c-04991
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     O tuometinės Lietuvos priešai kunigų
     vardus į savo kronikas kartais įtraukdavo tik ryšium su lietuvių
@@ -218,6 +219,7 @@ Nenurodyta
 - id: c-04992
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Vistik vien Lietuvos
     (Aukštaičių ir Žemaičiu) plote tada atsitiktinai yra užrašyta bent
@@ -239,6 +241,7 @@ Nenurodyta
 - id: c-31351
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Pvz., kai visa grupė Lietuvos kunigų
     1219 m. darė sutartį su Volinijos kunigaikščio Romano našle, Ipa­

@@ -102,6 +102,7 @@ Nenurodyta
 - id: c-83104
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Andrius žuvo prie Vorsklos 1399
     metais.

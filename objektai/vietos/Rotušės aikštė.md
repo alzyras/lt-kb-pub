@@ -79,6 +79,7 @@ Balandžio 24 d. Vilniuje, Kovos Viln Rotušės aikštėje, buvo paskelbtas 2328
 - id: c-45308
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     užmuštų ir šešių sužeistų karių.
     Balandžio 24 d. Vilniuje,

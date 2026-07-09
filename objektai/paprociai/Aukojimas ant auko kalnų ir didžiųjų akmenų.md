@@ -74,6 +74,7 @@ Nenurodyta
 - id: c-09923
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Turėjo dar taip pat už šventus aukurus, arba altorius, ant kalnų, kuriuos vadino auko kalnais,
         arba alko kalnais, ir viešpilais, ir didelius akmenis, ant kurių meldės ir dievams aukavo, arba juos

@@ -113,6 +113,7 @@ media_all_json: |-
 - id: c-71123
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
     teismą ir kitus urėdus. Taip pat seimeliuose buvo renkami at-
@@ -135,6 +136,7 @@ media_all_json: |-
 - id: c-71124
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Su mažais pakeitimais jis toks
     pat išliko iki pat nepriklausomybės pabaigos. Tribunolo teisė-

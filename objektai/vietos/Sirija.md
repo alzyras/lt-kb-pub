@@ -195,6 +195,7 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
 - id: c-87095
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
     (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
@@ -218,6 +219,7 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
 - id: c-171724
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     24
     Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-

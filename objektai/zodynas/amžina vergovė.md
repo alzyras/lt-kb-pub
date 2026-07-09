@@ -129,6 +129,7 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
 - id: c-59520
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     2. Apie Lenkijos žemės nuniokojimą
 
@@ -152,6 +153,7 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
 - id: c-167383
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     kaimynais, išpažįstančiais krikščionybę, netrukdė jiems garbinti gyvojo dievo ir apskritai
     jų nekliudė. Tačiau žmonių giminės priešas, nebegalėdamas pakęsti taikos, ilgainiui

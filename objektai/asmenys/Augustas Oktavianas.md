@@ -127,6 +127,7 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
 - id: c-174064
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     *  ¥  *
     III skyrius
@@ -152,6 +153,7 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
 - id: c-174065
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kai kartaginietis
     pamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­

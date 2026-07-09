@@ -68,6 +68,7 @@ Dusburgietis teigia, kad 2: Niemiecko-polska.— Wrocław—Warszawa, 1951.
 - id: c-61831
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     2:
 

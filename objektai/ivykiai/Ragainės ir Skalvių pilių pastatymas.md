@@ -120,6 +120,7 @@ Nenurodyta
 - id: c-63771
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     235 (228). Apie Ragainės ir Skalvių pilių pastatymą
 

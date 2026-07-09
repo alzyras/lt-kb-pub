@@ -175,6 +175,7 @@ Nenurodyta
 - id: c-85368
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Neilgai trukus po to jo šventenybė
     popiežius Urbonas, palydėjęs minėtąjį Petrą į Prancūziją, sušaukė visuotinį susirinkimą,
@@ -205,6 +206,7 @@ Nenurodyta
 - id: c-85369
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Padrąsintas  dieviškojo apreiškimo  ir užsidegęs
 

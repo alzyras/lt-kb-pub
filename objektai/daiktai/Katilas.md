@@ -96,6 +96,7 @@ Nenurodyta
 - id: c-60321
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     120 (115). Apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį
 

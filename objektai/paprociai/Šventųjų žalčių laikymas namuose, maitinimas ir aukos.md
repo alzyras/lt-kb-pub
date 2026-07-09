@@ -169,6 +169,7 @@ Nenurodyta
 - id: c-172674
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tačiau ir man
     pačiam yra tekę girdėti, kad kai kuriuose kaimuose šliaužo
@@ -188,6 +189,7 @@ Nenurodyta
 - id: c-172675
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
     jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
@@ -208,6 +210,7 @@ Nenurodyta
 - id: c-172676
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     3.
     204

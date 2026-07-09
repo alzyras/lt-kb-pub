@@ -68,6 +68,7 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 - id: c-176018
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     **Visuomenės sluoksniai.** Iškilus didesnių sričių valdovams
     —kunigaikščiams, senieji apylinkių vadai—rikiai—tapo aukštes-

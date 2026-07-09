@@ -63,6 +63,7 @@ Papildomos aiškios formos neišskirtos.
 - id: c-09583
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     lepnų^385 ir neskudrų: „Merga, – sako, – ne vyras, minkštpautis“ arba: „Veršis nelaižytas, mulkis arba molakis^386 “, arba: „Dantis praėdęs, proto neįgavęs, molio motiejus.“
   citata_rodoma: "lepnų^385 ir neskudrų: „Merga, – sako, – ne vyras, minkštpautis“ arba: „Veršis nelaižytas, mulkis arba molakis^386 “, arba: „Dantis praėdęs, proto neįgavęs, molio motiejus.“"

@@ -182,6 +182,7 @@ Nenurodyta
 - id: c-85352
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Ir štai kokie stebuklai! Kai jie pabeldė  į
     vartus, juos apakino jų pačių nedorybė, ir jie nestengė pamatyti prieš akis kabančio
@@ -198,6 +199,7 @@ Nenurodyta
 - id: c-85354
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     110 (105). Apie Rinavos valsčiaus sembų naują atskalūnybę
 
@@ -217,6 +219,7 @@ Nenurodyta
 - id: c-85356
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     111 (106). Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį
 

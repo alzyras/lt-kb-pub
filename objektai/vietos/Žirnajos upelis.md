@@ -121,6 +121,7 @@ Jos viena kitą pastebėjo šiauriau Žirnajų ežero, kur išteka Žirnajos upe
 - id: c-77322
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Žygimanto kariuomenė
     traukė į šiaurę rytine to paties ežero puse.
@@ -143,6 +144,7 @@ Jos viena kitą pastebėjo šiauriau Žirnajų ežero, kur išteka Žirnajos upe
 - id: c-170634
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     TS Ir PS nuorašuose upė be vardo. Tikroji mūšio vieta buvo prie
     Ztrnaios upelio, tarp Zirnajų ežero ir Pabaisko — 9 km nuo Uk­

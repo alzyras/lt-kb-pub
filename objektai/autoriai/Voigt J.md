@@ -81,6 +81,7 @@ Dusburgietis teigia, kad 1-os pusės dokumentuose vadinama Rommowe, Romaynis; te
 - id: c-65456
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     D. Romovės resp. Romuvos nuo XVI a. ieškota Varmėje, Notangoje, Semboje  ir
     kitur. Vėlesnė Romehnen Semboje (jos vak. dalyje, netoli Girmavos) XIV a. 1-os pusės

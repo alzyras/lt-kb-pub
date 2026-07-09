@@ -151,6 +151,7 @@ Narbutas rašo, kad prie Nevėžio upės buvęs aukuras, kuriame degusi vaidilu�
 - id: c-171846
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Strijkov­
     skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­
@@ -169,6 +170,7 @@ Narbutas rašo, kad prie Nevėžio upės buvęs aukuras, kuriame degusi vaidilu�
 - id: c-171847
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dievo Kurko garbei taip pat degė nuolat kurstoma ug­
     nis, ypač Prūsuose, didelėje to dievo šventovėje Šventamiesty-
@@ -186,6 +188,7 @@ Narbutas rašo, kad prie Nevėžio upės buvęs aukuras, kuriame degusi vaidilu�
 - id: c-171848
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Visa, ką šiuo klausimu žinome iš istorijos, ap­
     siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­

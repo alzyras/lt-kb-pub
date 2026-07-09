@@ -112,6 +112,7 @@ Komentare teigiama, kad 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos 
 - id: c-170302
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     ‘ 1428 m. žygio karo veiksmai buvo sustabdyti, liepos 28 d.
     naugardiečiams paprašius taikos.

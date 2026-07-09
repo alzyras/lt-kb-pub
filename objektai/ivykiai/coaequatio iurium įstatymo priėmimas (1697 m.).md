@@ -83,6 +83,7 @@ Nenurodyta
 - id: c-67079
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Buvo pa-
     leistas šūkis suvaržyti hetmono teisę iš vienos vietos į kitą

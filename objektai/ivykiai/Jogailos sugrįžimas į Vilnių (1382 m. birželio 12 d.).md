@@ -95,6 +95,7 @@ Nenurodyta
 - id: c-28723
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Vytautui išvykus į Trakus, Jogailos šalininkai išžudė Kęstučio
     sargybas ir užėmė pilį. Rygiečio pirklio Hanulio vadovaujami,

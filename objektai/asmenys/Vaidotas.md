@@ -87,6 +87,7 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 - id: c-65020
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     O bėglio sūnaus Butauto pėdo­
     mis 1381 m. pasekė ir jo sūnus Vaidotas. Iš ordino žemių patekęs

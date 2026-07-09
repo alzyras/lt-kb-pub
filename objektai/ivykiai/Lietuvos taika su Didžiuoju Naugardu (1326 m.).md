@@ -118,6 +118,7 @@ Nenurodyta
 - id: c-85333
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Lenkijos  ir Lietuvos kariuomenė įsiveržė  į Brandenburgo valdas, pasiekė
     Frankfurtą prie Oderio (III, 361). Tvirtindama savo pozicijas prieš Kryžiuočių ordiną,

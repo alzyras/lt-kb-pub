@@ -127,6 +127,7 @@ Nenurodyta
 - id: c-172558
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ugniai buvo priskiriama ga­
     lia suteikti kam nors šventumo savybę ir apvalyti nuodėmes:
@@ -150,6 +151,7 @@ Nenurodyta
 - id: c-177009
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šito senųjų religijų paklydimo pradžią lengva nustatyti. Vi­
     sose senovės iškilmingose apeigose -  ar tai dėl to, kad lieps­

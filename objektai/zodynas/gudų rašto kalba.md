@@ -102,6 +102,7 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
 - id: c-71072
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tačiau judėjimas dėl lotynų kalbos veikiai aprimo. Plačiosios
     bajorų masės lotynų kalbos nemokėjo, nes nebuvo mokyklų,
@@ -118,6 +119,7 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
 - id: c-175898
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Plačiosios
     bajorų masės lotynų kalbos nemokėjo, nes nebuvo mokyklų,

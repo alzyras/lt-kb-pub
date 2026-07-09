@@ -93,6 +93,7 @@ Nenurodyta
 - id: c-172634
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     34 Senoviniai liaudies padavimai ir dainos.
     301

@@ -147,6 +147,7 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
 - id: c-32061
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Archeolo­
     giniai duomens parodo apie 650 m. prasidedančią didelę švedų
@@ -164,6 +165,7 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
 - id: c-157740
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Vienas tų
     laiškų (1323.1.24), skirtas «visai krikščionijai», buvo išsiuntinėtas

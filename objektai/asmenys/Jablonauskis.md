@@ -58,6 +58,7 @@ media_all_json: |-
 - id: c-41551
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     [Vadas] Jablonauskis mus sušaukęs pareiškė, kad „kirilas“ jau atsitraukė ir liepė mums
     dainuoti. Uždainavom balsiai, kiek galėjome; miškas mums pritarė. Beskambant mūsų

@@ -189,6 +189,7 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 - id: c-10114
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Senovės kalnėnai ir žemaičiai, traukdami į karę, du tarnu lygiai turėjo, beje, šunį ir žirgą, nesgi, ko
         kareivis jodamas negalėjo ant žirgo pakelti, tą jo šuo, įkinkytas į mažas rogeles, po jo vilko, beje,
@@ -204,6 +205,7 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 - id: c-10115
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Kaip kalnėnai, taip ir žemaičiai, noris visados joti tekariavo, tačiau turėjo lygiai ir pėsčiuosius
         paslėptus, kuriuos dvisėdais jodino: susigrūmus pačiai jočiai su neprieteliais, pėstieji anai
@@ -219,6 +221,7 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 - id: c-10116
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Senų senovėj kalnėnai ir žemaičiai pilių neturėjo, kaipogi neišžengiamos girios jų pilimis, o pačių
         narsybė ir kantrybė jų mūrais buvo, į kurias ir visų narsusis neprietelius nedrįso lįsti, bet ilgainiui,

@@ -82,6 +82,7 @@ Raczyński : RaCD, 82, 251 p. ; Lites, II, 1892.
 - id: c-33649
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Pasižadėdamas be ordino žinios iš Žemaičių
     nieko nepriiminėti, Vytautas išsiderėjo teisę Lietuvon išsigabenti

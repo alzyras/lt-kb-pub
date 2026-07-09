@@ -72,6 +72,7 @@ Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos g
 - id: c-175767
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­
     rulai. Taip pat neabejotina, kad senovės valetabai ir lu-

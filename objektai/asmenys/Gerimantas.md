@@ -166,6 +166,7 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
 - id: c-170889
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Prie šventyklos įėjimo buvo Krivių
     Krivaičio -  žynių žynio rūmas. Tas rūmas turėjo apvalų bokš­
@@ -190,6 +191,7 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
 - id: c-171424
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tas rūmas turėjo apvalų bokš­
     tą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­

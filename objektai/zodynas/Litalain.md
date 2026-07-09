@@ -135,6 +135,7 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
 - id: c-175052
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat
     mes neneigsime šio autoriaus nuomonės, kad buvusi lie-

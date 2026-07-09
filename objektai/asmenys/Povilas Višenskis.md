@@ -90,6 +90,7 @@ Povilas Višenskis buvo šviesiausiojo valdovo pono Žygi­ manto, didžiojo Lie
 - id: c-83818
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     —  Volumus,
     ut si, quae Ecclesia Temerarie a Quocunque Fxtructa, vėl si ali­

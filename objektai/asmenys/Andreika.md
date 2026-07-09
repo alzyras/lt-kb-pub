@@ -61,6 +61,7 @@ Jogailos pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes i�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Kitame laiške tą pačią datą vėl nurodo^3 ). Vytau­
     tas kviesdamas į tas iškilmes Ordiną, taip pat mini tą dieną^4 ). Jogailos

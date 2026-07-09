@@ -78,6 +78,7 @@ Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su 
 - id: c-172017
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vietiniai kaimiečiai dar nepaliauja tikėję, kad esama žmo­
     nių, susidėjusių su koboliais, kurie jiems slapčia neša dovanų

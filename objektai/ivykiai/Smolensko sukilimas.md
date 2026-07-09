@@ -87,6 +87,7 @@ Nenurodyta
 - id: c-66995
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Vytautui pasisekė atsiimti
     Smolenską tik po kelerių metų, kai buvo sutvarkyti reikalai su

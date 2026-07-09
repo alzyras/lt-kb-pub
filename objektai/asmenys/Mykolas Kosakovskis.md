@@ -72,6 +72,7 @@ Narbutas rašo, kad Mykolas Kosakovskis statulėlę laikė Kauno miesto dievu gl
 - id: c-172944
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai turėjo būti vienas iš penatų; šios rūšies dievai vi­
     suomet būdavo vaizduojami sėdintys rytietiškai, nes jie buvo kilę

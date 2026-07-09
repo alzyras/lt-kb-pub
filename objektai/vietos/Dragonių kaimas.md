@@ -70,6 +70,7 @@ Pirmiausia buvo pulta viena vietinių vyrų, daugiausia iš Dragonių k.
 - id: c-45078
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kovo 27 d. mūšis prasidėjo 7 val. ryto.
     Pirmiausia buvo pulta viena vietinių vyrų,

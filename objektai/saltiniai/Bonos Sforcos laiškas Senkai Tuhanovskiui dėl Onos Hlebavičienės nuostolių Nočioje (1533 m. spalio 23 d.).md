@@ -173,6 +173,7 @@ media_all_json: |-
 - id: c-84222
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Mums skundėsi Polocko vaivadienė ponia Ona Jonienė
     Hlebavičienė, buvusi Ona Jurjevaitė, esą jos Nočios valdoje,
@@ -225,6 +226,7 @@ media_all_json: |-
 - id: c-84223
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     1514
     ---- • ---

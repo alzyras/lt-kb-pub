@@ -2738,6 +2738,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-32339
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Apie
     1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių
@@ -2753,6 +2754,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-32341
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tačiau Strėvos kau­
     tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
@@ -2770,6 +2772,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-32343
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Esant nepatogiam susisiekimui į Pietus, vis daugiau reikšmės
     įgijo Dauguvos kelias. Didžiosios kunigaikštijos plačios sritys per
@@ -2787,6 +2790,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-32344
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
     sodino iš pirmųjų vedybų savo sūnus. Jie visi buvo priėmę graikų
@@ -2803,6 +2807,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-32345
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Iš tikro, Skirgailai bebuvo palik­
     tas Polockas ir pažadėta Kijevo kunigaikštija.
@@ -2819,6 +2824,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Kai šie, pavyzdžiui, naikino Kęstučio žemes, tai Jogaila pagal­
     bos siuntimu visai nesirūpino, o kada tuo pačiu laiku Skirgaila
@@ -2836,6 +2842,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-43754
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1563 m. pradžioje didelė Maskvos kariuomenė užėmė Polocką - strateginės reikšmės Lietuvos
     tvirtovę. Kelias į Lietuvos gilumą tapo atviras. 1564 m. dvi didelės rusų kariaunos pajudėjo Vilniaus link. Lietuvos
@@ -2851,6 +2858,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Tos žinios kėlė Vytauto
     garbę, aukštino jį vietinių gyventojų akyse. Ir kada Vytautas,
@@ -2872,6 +2880,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164044
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jogailai pristigo pajėgų gintis taip staiga užkluptam,
     tad miestas ir pilys bemat buvo Kęstučio užimtos, turtai ir
@@ -2904,6 +2913,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164045
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Vykdamu Lietuvon malšinti sukilimo, jiedu
     turėjo raštu pažadėti, pareikalavus, atgal sugrįžti.
@@ -2921,6 +2931,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164046
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Sąmokslininkai 1432 m. rugpjūčio
     31 d. naktį užpuolė Švitrigailą Ašmenos
@@ -2943,6 +2954,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164047
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Todėl
     jis pradėjo su caru derybas. Caras jo pasiuntinius priėmė labai
@@ -2963,6 +2975,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164048
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Tai šiek tiek primena frankus Galijoje,
     t. y. germanų gentį, sukūrusią valstybę ir valdžios struktūras Galijoje ir
@@ -2984,6 +2997,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164049
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     C t.  FIeTep6yprb 1793 roAa 8vo)
     tariamų Lietuvos kunigaikščių kilmė aiškinama taip: „Vil­
@@ -3009,6 +3023,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164052
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Tik XVII a. rusėnai
     skilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje.
@@ -3030,6 +3045,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164053
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1506 m. vasarą totoriai įsiveržė į LDK valdas
     gerai nusiteikę. Prieš metus įvykęs jų žygis
@@ -3051,6 +3067,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164054
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Pačiam Sviatoslavui žuvus
     prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
@@ -3068,6 +3085,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164056
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Gediminas (1316—1341 m.)**
 
@@ -3085,6 +3103,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164058
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Taip
     pat buvo sudarytos paliaubos su Livonijos magistru Rygo­
@@ -3114,6 +3133,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     pirkliai, ir jau prie
     Vytenio, Gedimino ir kitų didžiųjų Lietuvos kunigaikščių turė­
@@ -3132,6 +3152,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164061
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jur­
     gio paveikslo ir 1.1. Antrasis laiškas
@@ -3161,6 +3182,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164062
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Kazimiero kultas ėmė išstumti Lenkijos globėjo šv. Sta-
     nislovo kultą. Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties
@@ -3179,6 +3201,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Rygoje
     padarė sutartį laisvai prekiauti, jei net ištiktų ir karas tarp Li­
@@ -3197,6 +3220,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164064
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     1388 [pasirašyta ties Kaunu
     rytojaus dieną po Šv. Martyno, vys­
@@ -3221,6 +3245,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164067
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Narimantui, kuris 1348 m. žuvo
     Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo
@@ -3240,6 +3265,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164068
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
     visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
@@ -3259,6 +3285,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164069
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau ši jo žmo­
     na Sofija, Tverės kunigaikščio Bori­
@@ -3293,6 +3320,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164070
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Pasiekimai vakaruose Gediminui leido
     plėsti savo valstybę rytuose. Prie jau anksčiau lietuvių užvaldytų
@@ -3310,6 +3338,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164071
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Tačiau
     opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
@@ -3331,6 +3360,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164072
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Rytuose jis atgavo Mindaugo
     valstybės sienas. Polockas, kuris jau buvo pakliuvęs į ordino
@@ -3347,6 +3377,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164077
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Todėl pasirinko
     _bendradarbiavimo_ kelią. Tuo keliu nuėjo ne tik Dauguvos pilys,
@@ -3368,6 +3399,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164082
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tačiau
     „užpylus žemę liūtimis“
@@ -3390,6 +3422,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164084
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tuomet ir Algirdo valdos buvo ak­
     tyviai įsijungusios į vakarų Lietuvos gynybą. Tačiau Strėvos kau­
@@ -3405,6 +3438,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164091
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Livonijoje tuo metu jau buvo pagerėję reikalai: karalium
     paskelbtas Magnusas jau buvo paties caro pašalintas, o kraštas,
@@ -3433,6 +3467,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164094
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     I I I  KNYGA
     degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
@@ -3462,6 +3497,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164097
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Žr. V oi g t, V. 533.
     116
@@ -3485,6 +3521,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-164098
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     5
     Lukiškės pavadintos nuo lietuviškų
@@ -3519,6 +3556,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-166466
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vyk-
     damas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.
@@ -3538,6 +3576,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-168456
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tad Daumantas nutarė nesigriebti ginklo,
     bet neužmiršti ir neapykantos: išsižadėjus smurto, ban­
@@ -3563,6 +3602,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-168457
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tai šen, tai ten liepsnojo prie­
     šo padegti kaimai, kylantys
@@ -3593,6 +3633,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-168458
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Žiemos viduryje ap­
     lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske
@@ -3637,6 +3678,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-170586
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     26. APIE KRYŽIUOČIŲ PAGALBĄ JOGAILAI IR DIDŽIOJO
     KUNIGAIKŠČIO KĘSTUČIO NUŽUDYMĄ
@@ -3655,6 +3697,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-170587
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO
     ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA
@@ -3685,6 +3728,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-170588
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1 8  Stanislovas Hlebaviėius buvo 1492 m. M erkinės valdytoju
     ir didžiojo kunigaikščio maršalu (iki 1504 m. imtinai); 1495 m. —
@@ -3699,6 +3743,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-171693
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
     jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
@@ -3721,6 +3766,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-171694
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Todėl Jonas, išvaduodamas nuo nelaimės Po­
     locko ponus, išjojo į Naugardą ir ten tapo vienuoliu. O Lietu­
@@ -3741,6 +3787,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-175965
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Mer-
     kinė čia buvo kraštutinė didesnioji lietuvių pilis, nors jotvingų
@@ -3759,6 +3806,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-176852
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kaip ir
     tame neseniai vykusiame kare prieš Maskvos kunigaikštį

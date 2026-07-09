@@ -66,6 +66,7 @@ Tegyvuoja gegužės 3 d. konstitucija!: vienas Vilniaus gimnazijos mokinys ant l
 - id: c-67252
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Vienas Vilniaus gimnazijos mokinys ant lentos užrašė: „Te-
     gyvuoja gegužės 3 d. konstitucija!" (mat, ši reforminio

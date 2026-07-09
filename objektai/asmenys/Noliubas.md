@@ -120,6 +120,7 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
 - id: c-85898
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     101 (96). Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
                             pirmiausia — prieš Kvedenavos valsčių
@@ -141,6 +142,7 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
 - id: c-85899
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,
     nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie

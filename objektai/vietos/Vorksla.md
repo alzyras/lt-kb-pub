@@ -88,6 +88,7 @@ Vorksla apibūdinta kaip upė, tekanti pro Poltavą ir iš kairės pusės įteka
 - id: c-170637
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     256
 

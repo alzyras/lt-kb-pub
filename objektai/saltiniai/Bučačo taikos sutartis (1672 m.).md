@@ -86,6 +86,7 @@ media_all_json: |-
 - id: c-39217
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1672 m. Turkija pradėjo karo veiks- pasirašyti Bučačo taikos sutartį, pasiek- Turkų pajėgos
 

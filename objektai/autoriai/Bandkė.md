@@ -74,6 +74,7 @@ Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su sl
 - id: c-173296
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ypač
     jis buvo gerbtinas kaip žemdirbių dievas.

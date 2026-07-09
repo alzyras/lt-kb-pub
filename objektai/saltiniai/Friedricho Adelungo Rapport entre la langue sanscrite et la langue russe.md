@@ -83,6 +83,7 @@ Friedricho Adelungo „Rapport entre la langue sanscrite et la langue russe“ i
 - id: c-174716
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sanskrite yra panašus ir panašią reikšmę
     turintis žodis1; jis nesvetimas ir lietuvių kalbai, kurioje

@@ -123,6 +123,7 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
 - id: c-30613
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Po studijų Lietuvos universitete, 1932 m. parašęs Berlyne diser­
     taciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą
@@ -145,6 +146,7 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
 - id: c-32987
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^2) **Pvz., H. Paszkiewicz, J. Latkowski, H. Lowmiański.**
     (^3) **Žr. žemiau skyrių « Lietuvos karalius Mindaugas ir jo palikimas ».**

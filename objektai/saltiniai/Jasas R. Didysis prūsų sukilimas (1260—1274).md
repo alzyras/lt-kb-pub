@@ -77,6 +77,7 @@ Dusburgietis teigia, kad didysis prūsų sukilimas (1260—1274).— V., 1959.
 - id: c-61721
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Jasas R. Didysis prūsų sukilimas (1260—1274).— V., 1959.
   statusas: verified

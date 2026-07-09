@@ -71,6 +71,7 @@ Dusburgietis teigia, kad tokiais atvejais nepaisoma argumentų, leidžiančių a
 - id: c-61370
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tvirtinama, jog žynių luomo buvimą
     neigia faktai apie vyriausiuosius aukotojus—valdovus (remiamasi duomenimis apie

@@ -88,6 +88,7 @@ Nenurodyta
 - id: c-172549
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Priešais jį buvo ne­
     šiojama vyriausiojo žynio lazda su trimis užlenkimais.

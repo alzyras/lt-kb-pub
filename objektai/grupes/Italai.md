@@ -91,6 +91,7 @@ Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres
 - id: c-177258
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Jau
     vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo­

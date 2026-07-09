@@ -85,6 +85,7 @@ Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų ga
 - id: c-82213
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau 1573 metais
     kovo 26 dieną su kapitula įsigaliojo

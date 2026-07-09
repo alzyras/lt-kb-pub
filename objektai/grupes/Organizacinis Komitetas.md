@@ -74,6 +74,7 @@ Susirinkimas, pasivadinęs Organizaciniu Komitetu, nenorėjo pertraukti savo pol
 - id: c-01671
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Susirinkimas, pasivadinęs Organizaciniu Komitetu,
     nenorėjo pertraukti savo politinės veiklos, ir todėl šiek tiek

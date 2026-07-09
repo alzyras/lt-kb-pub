@@ -185,6 +185,7 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 - id: c-44216
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lauko etmonas kairiajame sparne išdėstė
     savo kavalerijos dalinius, kuriems greičiau-
@@ -214,6 +215,7 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 - id: c-44217
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tautinio autoramento pagrindu buvo formuojama sunkioji kava-
     lerija - husarai, vidutinė ir lengvoji kavalerija - kazokai, petihorai
@@ -231,6 +233,7 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 - id: c-44219
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Vidinė
     dalinių tvarka buvo paremta tradicine „draugų“ tipo organizacija.

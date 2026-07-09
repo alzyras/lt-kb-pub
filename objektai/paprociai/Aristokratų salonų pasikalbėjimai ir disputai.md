@@ -74,6 +74,7 @@ Nenurodyta
 - id: c-02145
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Eilė autorių užsiėmė visuomenės san-
     tvarkos, valstybės ir ūkio klausimais. Visi tuo domėjosi, visi apie tai

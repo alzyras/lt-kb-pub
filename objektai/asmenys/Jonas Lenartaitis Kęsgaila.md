@@ -86,6 +86,7 @@ Jonas Lenartaitis Kęsgaila savo antspaudą prispaudė prie 1490 m. sutarties, k
 - id: c-173114
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nuogas bėgantis žmogus abiem
     rankom laiko ietį su dviguba ietigalio geležte, nukreipta durti;

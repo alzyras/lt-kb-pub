@@ -84,6 +84,7 @@ Narbutas nurodo, kad Jono Kanto Boreišos 1689 m. lotyniškame pamoksle rado iš
 - id: c-173314
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Gediminas, sekdamas savo didžiųjų protėvių pėdomis, nu­
     kovė neapsakomo didumo taurą ant Tauro kalno Antakalny­

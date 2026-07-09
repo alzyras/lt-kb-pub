@@ -250,6 +250,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
 - id: c-172946
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie tai papa­
     sakosime straipsnyje „Šventyklos“.
@@ -269,6 +270,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
 - id: c-172947
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Akmeniniai kirviai randami laukuose ir prie senų 1
     11
@@ -285,6 +287,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
 - id: c-173732
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Dobrom).
     2 Dionizas Paškevičius, tyrinėdamas herulus ir hirius, vardija Že­
@@ -307,6 +310,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
 - id: c-173733
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     163 /Ten
     pat,
@@ -327,6 +331,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
 - id: c-173734
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     T. Narbutas turėjo omenyje straipsnj:
     Krotki spis niektorych starožytnych zabytkow, znajdujących się w

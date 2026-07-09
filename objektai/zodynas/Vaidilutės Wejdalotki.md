@@ -72,6 +72,7 @@ Narbutas darė išvadą, kad vaidilutės buvo jaunos merginos, pareigas ėjusios
 - id: c-172227
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vis dėlto
     reikia daryti išvadą, kad tas pareigas eidavo jaunos merginos

@@ -87,6 +87,7 @@ Narbutas rašo, kad danų mokslininkas Rasmusas Raskas 1817 m. lietuvius kildino
 - id: c-174236
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau senovės
     tyrinėtojai, kurie teikėsi įsigilinti į mitologiją ir lietuvių

@@ -94,6 +94,7 @@ Nenurodyta
 - id: c-02082
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Mieste
     tuojau kilo triukšmas: kalvinai buvo apkaltinti išniekinę baž-

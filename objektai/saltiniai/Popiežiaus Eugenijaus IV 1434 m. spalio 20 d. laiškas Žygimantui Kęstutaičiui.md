@@ -102,6 +102,7 @@ Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėlia
 - id: c-84442
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tai, ką mūsų kronikininkai kal­
     ba apie Švitrigailos žmonos sugavi­

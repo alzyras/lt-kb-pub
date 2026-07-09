@@ -127,6 +127,7 @@ Nenurodyta
 - id: c-172774
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vis dėlto iki šiol ypač garbinami pilka­
     piai, supilti ant žymių žmonių pelenų.
@@ -143,6 +144,7 @@ Nenurodyta
 - id: c-172775
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kraštuose, kur gyveno lietuvių genties tautos, vienur kitur
     matoma kai kada gana aukštų, nors ne taip dažnai pasitaikan­

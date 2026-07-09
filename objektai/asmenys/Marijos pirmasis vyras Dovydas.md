@@ -70,6 +70,7 @@ Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugia
 - id: c-176758
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
     do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo

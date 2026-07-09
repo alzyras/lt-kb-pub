@@ -74,6 +74,7 @@ Narbutas kašubų protėvius sieja su Asubi ir Cassubi tauta, kuri, jo manymu, s
 - id: c-175754
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­
     tinių kašubų protėviai. Neabejotina, kad ji susiliejo su

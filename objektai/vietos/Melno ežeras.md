@@ -119,6 +119,7 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Tik
     kada patys Prūsijos krašto gyventojai prieš kryžiuočius sukilo,
@@ -137,6 +138,7 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
 - id: c-68206
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Kryžiuočiams laikantis savo, kunigaikštis suti­
     ko «taikos labui » (« propter bonum pacis ») atsisakyti nuo Klai­

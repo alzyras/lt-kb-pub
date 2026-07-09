@@ -92,6 +92,7 @@ Nenurodyta
 - id: c-41109
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     P. 30, XIII a. Kalavijas. Rastas Raudonėje, VDKM, Artūro Užgalio nuotr.
   statusas: verified

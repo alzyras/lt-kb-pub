@@ -73,6 +73,7 @@ Dusburgietis teigia, kad tuo tarpu lietuviai savo dievams kaip auką sudegino br
 - id: c-60920
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kiti, nemaža dienų bei naktų klaidžioję be duonos kąsnio
     dykrose, sugrįžo šiaip ne taip namo. Tuo tarpu lietuviai savo dievams kaip auką sudegino

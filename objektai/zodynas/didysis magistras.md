@@ -555,6 +555,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 - id: c-44160
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tuo tarpu len
     ėmė spausti kryžiuočių dešinįjį flangą.
@@ -575,6 +576,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 - id: c-104813
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tačiau Vytautas ir Jogaila
 
@@ -600,6 +602,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 - id: c-104814
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,
     didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
@@ -618,6 +621,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 - id: c-104815
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     130
 
@@ -664,6 +668,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 - id: c-104816
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Dabartinis
     iš tiesų visiškai skiriasi nuo pirmes-
@@ -705,6 +710,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 - id: c-104817
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     **Ordino valstybės santvarka.** Savo organizaciją ordinas at-
     sinešė jau gatavą, susidariusią dar Palestinoje. Jo priešaky sto-

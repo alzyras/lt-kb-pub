@@ -77,6 +77,7 @@ Maciūno, TRUMPAS HIGIENOS VADOVĖLIS.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     23. Gyd. J. Maciūno, TRUMPAS HIGIENOS VADOVĖLIS. Suda­
     rytas pagal Švietimo Ministerijos programa. 1929 m. 112 pusl. Kaina Lt. 3.

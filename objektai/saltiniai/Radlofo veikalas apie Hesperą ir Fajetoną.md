@@ -127,6 +127,7 @@ Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nu
 - id: c-174688
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Anot legendos, tuo metu uolos skilo į
     uolas, kalnai griuvo ant kalnų. Kai kurie kalnai būdavo
@@ -144,6 +145,7 @@ Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nu
 - id: c-174689
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip įsivaizduojame mūsų žemyno susifor­
     mavimą.

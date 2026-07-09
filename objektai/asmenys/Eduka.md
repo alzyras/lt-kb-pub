@@ -142,6 +142,7 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
 - id: c-174083
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šios vilties ir narsos, ku­
     rią suteikia keršto troškimas, skatinami, skiri ai skubėjo
@@ -163,6 +164,7 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
 - id: c-174830
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sudargai, kuriuos istorikai vadina
     Satargarii ir Sadargii, buvo ištikimiausi skiriu bičiuliai:

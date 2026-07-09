@@ -87,6 +87,7 @@ Nenurodyta
 - id: c-02032
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėju-
     siam Dauguvos upe per Rygą. Kai 1621 m. Ryga atiteko Šve-

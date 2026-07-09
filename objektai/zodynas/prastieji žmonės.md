@@ -180,6 +180,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
 - id: c-170494
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     ## Puslapis 127
 
@@ -211,6 +212,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
 - id: c-170495
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir tą pačią naktį Andrius su žmona, o su juo
     Smolensko bajorai išvyko iš miesto.
@@ -231,6 +233,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
 - id: c-170496
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir jie nuvyko skųs­
     132

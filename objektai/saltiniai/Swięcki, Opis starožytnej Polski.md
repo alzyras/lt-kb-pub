@@ -70,6 +70,7 @@ Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dė
 - id: c-173446
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Net buvo ap­
     23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-

@@ -70,6 +70,7 @@ Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, v
 - id: c-03356
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kiekviename dabar
     naujai sudarytame paviete buvo vienas didžiojo kunigaikščio

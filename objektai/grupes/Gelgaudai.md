@@ -75,6 +75,7 @@ Se­ niau ji priklausė Eperješams, vėliau - Gelgaudams; kadangi išvengė gai
 - id: c-82771
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kita kryžiuočių pilis, vadinta Fridbergu (taikos kalnas),
     pastatyta tuo pat metu, stovi už 2 mylių nuo Veliuonos že­

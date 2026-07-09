@@ -86,6 +86,7 @@ Algirdas prie Maskvos pasirodė ant Pasveikinimo kalvos.
 - id: c-170329
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir didysis kunigaikštis Algirdas ištrau­
     kė iš maišiuko kempinę bei titnagą ir, uždegęs kem­

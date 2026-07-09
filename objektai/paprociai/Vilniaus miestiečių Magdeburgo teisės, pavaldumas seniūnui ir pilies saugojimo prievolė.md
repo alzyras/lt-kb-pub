@@ -157,6 +157,7 @@ Nenurodyta
 - id: c-83214
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Buvo juk to­
     kia visuotinė pirmykščių krikščionių
@@ -197,6 +198,7 @@ Nenurodyta
 - id: c-83215
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     114
 

@@ -113,6 +113,7 @@ Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, liet
 - id: c-174029
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Alanai buvo
     skitų blondinų gentis, jie davė pradžią roksolanams; gotai
@@ -136,6 +137,7 @@ Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, liet
 - id: c-177097
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O
     vyras gedėdavo žmonos tiktai astuonias dienas. Erazmas Ste­

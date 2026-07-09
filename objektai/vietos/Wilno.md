@@ -69,6 +69,7 @@ Obraz Litwy pod względem jej cywilizacyi, od czasow najdawniejszych do koncawie
 - id: c-177172
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuvių liaudis nesanti išlaikiusi jokių mitų,
     20 Jaroszewi.cz J. Obraz Litwy pod względem jej cywilizacyi, od

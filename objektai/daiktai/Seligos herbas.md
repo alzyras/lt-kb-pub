@@ -96,6 +96,7 @@ Nenurodyta
 - id: c-170050
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Bei pagal
     herbynus Davainų giminės ženklas buvo n e Dubnios, o panašus

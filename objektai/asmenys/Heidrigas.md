@@ -73,6 +73,7 @@ Narbuto pasakojime norvegas Heidrigas vedė reto grožio moterį ir kraičiu gav
 - id: c-174291
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Norvegas Heidrigas
     vedė šią reto grožio moterį ir gavo 'kraičio Vindliandiją,

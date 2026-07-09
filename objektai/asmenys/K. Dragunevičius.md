@@ -114,6 +114,7 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
 - id: c-44399
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo
     Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su
@@ -139,6 +140,7 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
 - id: c-44400
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Pirmoji grupė, va-
     dovaujama paties Variakojo, turėjo suda-

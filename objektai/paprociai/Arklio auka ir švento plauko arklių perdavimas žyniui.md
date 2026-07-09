@@ -221,6 +221,7 @@ Nenurodyta
 - id: c-171003
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dievams taip pat būdavo aukojamas arklys tam tikro plau­
     ko, su tam tikrais įgimtais ženklais. Prūsai teikdavo pirmeny­
@@ -244,6 +245,7 @@ Nenurodyta
 - id: c-171004
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     17. Arklio auka. Jeigu grobiamasis žygis pavykdavo, treč­
     dalį grobio skirdavo paaukoti dievams; jį priimdavo Krivių Kri­
@@ -261,6 +263,7 @@ Nenurodyta
 - id: c-171013
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tokiu atveju vieną iš pagrobtų arklių liepdavo nujodyti,
     kol kris, o tada Krivių Krivaitis, papjovęs savo ranka, sudegin­
@@ -280,6 +283,7 @@ Nenurodyta
 - id: c-171280
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Prūsai teikdavo pirmeny­
     bę širmiems, kitos provincijos -juodžiams, dar kitos -  kitokio

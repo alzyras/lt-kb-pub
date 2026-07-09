@@ -154,6 +154,7 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
 - id: c-169416
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Beveik tuo pat metu karalius
     Kazimieras bei lenkų senatas karalystės seime tarėsi
@@ -176,6 +177,7 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
 - id: c-176564
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Podolėje veikė jų  paskirti atamanai, ku­
     rie tvarkė visas pajamas, o pas juos atvykdavo totorių
@@ -200,6 +202,7 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
 - id: c-176565
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1 3  Lietuvos metraščių versija apie Lenkijos karaliaus Kazimiero
     ketinimų susigiminiuoti su Konstantinu Karijotaičių laikoma patiki­

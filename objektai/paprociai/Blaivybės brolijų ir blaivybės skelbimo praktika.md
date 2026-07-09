@@ -130,6 +130,7 @@ Nenurodyta
 - id: c-67110
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Administracijai spiriant, blai-
     vybės brolijų narių surašinė-
@@ -159,6 +160,7 @@ Nenurodyta
 - id: c-67111
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     XIX amž. vidury popiežiaus Pijo IX paraginti, viso pa-
     saulio dvasininkai ėmė skelbti blaivybę. Lietuvoje didžiausią

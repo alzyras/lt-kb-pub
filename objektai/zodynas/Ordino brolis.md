@@ -150,6 +150,7 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
 - id: c-59493
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     (žr. Povilas)
     Pelužis (D.— Peluse)
@@ -175,6 +176,7 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
 - id: c-167992
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Taigi pasitrau-
     d in a m i

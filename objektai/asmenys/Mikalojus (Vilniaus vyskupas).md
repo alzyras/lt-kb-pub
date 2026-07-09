@@ -87,6 +87,7 @@ Actum et datum die dominico Reminiscere anno 1410 in castro nostro Vilnensi [Vil
 - id: c-83760
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tarp
     dalyvavusiųjų buvo: Nicolaus Epis­

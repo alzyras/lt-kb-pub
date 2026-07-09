@@ -70,6 +70,7 @@ Dusburgietis teigia, kad miškinis A.
 - id: c-61815
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Miškinis A. Klaipėdos genezė ir urbanistinė raida iki XVII a. pabaigos.—Architektūros
     paminklai, V., 1979, 5, p. 19—36.

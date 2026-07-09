@@ -88,6 +88,7 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
 - id: c-175570
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Panašu­
     mas į prie Ponto buvusias tvirtoves leidžia manyti ir

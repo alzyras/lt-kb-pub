@@ -88,6 +88,7 @@ reikšmė čia pateikiama tik kaip Narbuto išvada, todėl viešame įraše ją 
 - id: c-175076
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Neroma — atskirai pažymėtas tikrosios Lietuvos kraš­
     tas. Jo pavadinimas, be abejonės, kilęs iš Neries upės,

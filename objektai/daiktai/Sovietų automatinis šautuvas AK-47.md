@@ -200,6 +200,7 @@ Nenurodyta
 - id: c-75891
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Maistą taip pat aukojo gyventojai
     ir maitinimo įmonės. Statybines medžiagas
@@ -225,6 +226,7 @@ Nenurodyta
 - id: c-75892
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo pa-
     prasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba,
@@ -245,6 +247,7 @@ Nenurodyta
 - id: c-75893
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Negana to, 7,62x54 mm R šoviniai buvo naudojami visuose sovietų
     snaiperiniuose šautuvuose ir kulkosvaidžiuose

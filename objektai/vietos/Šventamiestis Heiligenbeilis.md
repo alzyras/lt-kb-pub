@@ -77,6 +77,7 @@ Narbutas Šventamiestyje, vėliau Heiligenbeilyje, mini žiemą ir vasarą žali
 - id: c-171977
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vis dėlto galimas
     daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl

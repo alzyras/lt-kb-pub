@@ -69,6 +69,7 @@ Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— 
 - id: c-59559
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     D. territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.
     Kartais valsčiuje esti keletas pilių (III, 313, 321, 327), taigi ir jų apygardų, apylinkių

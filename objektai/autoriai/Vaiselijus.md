@@ -175,6 +175,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
 - id: c-173344
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     -  Frankfurt und Leip­
     zig, 1684*.
@@ -195,6 +196,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
 - id: c-173698
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pamaryje buvo ne tiek daug gyventojų, nes ten plytėjo
     didžiuliai miškai. Čia gyveno stiprūs ir karingi žmonės,
@@ -213,6 +215,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
 - id: c-174792
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     *  ¥  *
     III skyrius

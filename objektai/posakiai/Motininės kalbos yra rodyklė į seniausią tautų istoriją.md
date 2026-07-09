@@ -77,6 +77,7 @@ Narbutas iš Henriko Leo tyrimų apie Marienburgo glosas darė išvadą, kad mot
 - id: c-172482
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     22 Vokiečių istorikas Henrikas Leo darbe, pavadintame „Marien­
     burgo glosos“ (Die Malbergische Glosse), teigia, kad žodžiai, vadinti

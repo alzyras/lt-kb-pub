@@ -163,6 +163,7 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
 - id: c-46897
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tad valstybės
     kūrėjai svajojo, kad į nepriklausomą Lietuvą turi įeiti ne tik
@@ -187,6 +188,7 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
 - id: c-71070
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Lietuvos Latvijos sienos nustatymas**
 

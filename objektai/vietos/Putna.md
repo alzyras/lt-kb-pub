@@ -106,6 +106,7 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
 - id: c-170342
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir pagal tą Trakų vaivados patarimą karalius
     davė etmono vietą kunigaikščiui Konstantinui2 5 .

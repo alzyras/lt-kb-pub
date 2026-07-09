@@ -73,6 +73,7 @@ Dusburgietis teigia, kad powierski J.
 - id: c-61870
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Powierski J. Chronologia początków Malborka.— ZHPB, 1979, t. 44, z. 2, s. 5—31.
   statusas: verified

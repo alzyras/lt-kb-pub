@@ -76,6 +76,7 @@ Peter van der Lyxten dabar grįžęs man pranešė, kad Švitrigaila yra laisvė
 - id: c-83801
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     164
 

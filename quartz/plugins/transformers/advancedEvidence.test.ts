@@ -58,13 +58,18 @@ describe("AdvancedEvidence transformer", () => {
     assert.doesNotMatch(transformed, /<th>Kontekstas<\/th>/)
     assert.doesNotMatch(transformed, /<th>Pagrindžia<\/th>/)
     assert.doesNotMatch(transformed, /colspan="3"/)
-    assert.match(transformed, /data-claim-id="t-001"/)
+    assert.match(transformed, /data-claim-id="t-00042"/)
+    assert.match(transformed, /data-claim-key="t-00042"/)
+    assert.match(transformed, /data-public-claim-id="t-001"/)
+    assert.match(transformed, /data-original-claim-id="t-001"/)
     assert.match(transformed, /id="claim-t-00042"/)
     assert.match(transformed, /data-global-claim-id="t-00042"/)
     assert.match(transformed, /href="#claim-t-00042"/)
+    assert.match(transformed, /aria-controls="claim-evidence-t-00042"/)
     assert.match(transformed, /data-no-popover="true"/)
     assert.match(transformed, /data-supporting-ids="c-001"/)
-    assert.match(transformed, /data-claim-detail="t-001"/)
+    assert.match(transformed, /data-claim-detail="t-00042"/)
+    assert.match(transformed, /id="claim-evidence-t-00042"/)
     assert.match(transformed, /data-claim-citation-id="c-001"/)
     assert.match(transformed, /claim-citation-contributor/)
     assert.match(transformed, /claim-citation-author/)
@@ -88,7 +93,7 @@ describe("AdvancedEvidence transformer", () => {
     const claimRowRegion = transformed.slice(claimRowStart, claimRowEnd)
     assert.doesNotMatch(claimRowRegion, /advanced-evidence-table/)
     assert.doesNotMatch(claimRowRegion, /claim_technical_fields/)
-    const claimDetailStart = transformed.indexOf('data-claim-detail="t-001"')
+    const claimDetailStart = transformed.indexOf('data-claim-detail="t-00042"')
     const claimDetailEnd = transformed.indexOf("</tr>", claimDetailStart)
     assert.ok(claimDetailStart >= 0)
     assert.ok(claimDetailEnd > claimDetailStart)
@@ -96,6 +101,8 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(claimDetailRegion, /claim-technical-audit/)
     assert.match(claimDetailRegion, /claim_technical_fields/)
     assert.match(transformed, /Teiginio sudarymas/)
+    assert.match(transformed, /Viešas ID/)
+    assert.match(transformed, /Originalus lokalus ID/)
     assert.match(transformed, /Susiję objektai/)
     assert.match(transformed, /Ryšiai/)
     assert.match(transformed, /Laikotarpiai/)
@@ -231,9 +238,94 @@ describe("AdvancedEvidence transformer", () => {
 
     const transformed = plugin.textTransform?.({ allSlugs: [] } as any, missingCitationMarkdown) ?? missingCitationMarkdown
 
-    assert.match(transformed, /data-claim-detail="t-001"/)
+    assert.match(transformed, /data-claim-detail="t-001-1"/)
+    assert.match(transformed, /aria-controls="claim-evidence-t-001-1"/)
     assert.match(transformed, /Citata nerasta\./)
     assert.doesNotMatch(transformed, /data-claim-citation-id="c-404"/)
+  })
+
+  test("uses unique DOM keys when local claim ids repeat and keeps public page order ids", () => {
+    const plugin = AdvancedEvidence()
+    const duplicateLocalIdMarkdown = `# Objektas
+
+## Teiginiai
+- id: t-001
+  global_id: t-111
+  teiginys: Pirmas teiginys.
+  pagrindžia:
+    - c-001
+- id: t-001
+  global_id: t-222
+  teiginys: Antras teiginys.
+  pagrindžia:
+    - c-002
+
+## Citatos
+- id: c-001
+  šaltinis: A
+  citata_originali: |
+    Pirma citata.
+- id: c-002
+  šaltinis: B
+  citata_originali: |
+    Antra citata.
+`
+
+    const transformed = plugin.textTransform?.({ allSlugs: [] } as any, duplicateLocalIdMarkdown) ?? duplicateLocalIdMarkdown
+
+    assert.match(transformed, /data-claim-id="t-111"/)
+    assert.match(transformed, /data-claim-id="t-222"/)
+    assert.match(transformed, /id="claim-evidence-t-111"/)
+    assert.match(transformed, /id="claim-evidence-t-222"/)
+    assert.match(transformed, /data-claim-detail="t-111"/)
+    assert.match(transformed, /data-claim-detail="t-222"/)
+    assert.match(transformed, /aria-controls="claim-evidence-t-111"/)
+    assert.match(transformed, /aria-controls="claim-evidence-t-222"/)
+    assert.match(transformed, /data-public-claim-id="t-001"/)
+    assert.match(transformed, /data-public-claim-id="t-002"/)
+    assert.equal((transformed.match(/data-original-claim-id="t-001"/g) ?? []).length, 4)
+    assert.match(transformed, /Nuoroda į teiginį t-001/)
+    assert.match(transformed, /Nuoroda į teiginį t-002/)
+  })
+
+  test("keeps DOM ids unique when the same global claim is rendered twice", () => {
+    const plugin = AdvancedEvidence()
+    const duplicateGlobalIdMarkdown = `# Objektas
+
+## Teiginiai
+- id: t-001
+  global_id: t-333
+  teiginys: Pirmas to paties globalaus teiginio rodymas.
+  pagrindžia:
+    - c-001
+- id: t-001
+  global_id: t-333
+  teiginys: Antras to paties globalaus teiginio rodymas.
+  pagrindžia:
+    - c-002
+
+## Citatos
+- id: c-001
+  šaltinis: A
+  citata_originali: |
+    Pirma citata.
+- id: c-002
+  šaltinis: B
+  citata_originali: |
+    Antra citata.
+`
+
+    const transformed = plugin.textTransform?.({ allSlugs: [] } as any, duplicateGlobalIdMarkdown) ?? duplicateGlobalIdMarkdown
+
+    assert.match(transformed, /id="claim-evidence-t-333"/)
+    assert.match(transformed, /id="claim-evidence-t-333-2"/)
+    assert.match(transformed, /aria-controls="claim-evidence-t-333"/)
+    assert.match(transformed, /aria-controls="claim-evidence-t-333-2"/)
+    assert.equal((transformed.match(/id="claim-evidence-t-333"/g) ?? []).length, 1)
+    assert.equal((transformed.match(/id="claim-evidence-t-333-2"/g) ?? []).length, 1)
+    assert.match(transformed, /data-global-claim-id="t-333"/)
+    assert.match(transformed, /data-public-claim-id="t-001"/)
+    assert.match(transformed, /data-public-claim-id="t-002"/)
   })
 
   test("leaves unresolved advanced values as plain text", () => {

@@ -132,6 +132,7 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
 - id: c-168779
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Antra vertus, netrukus atvyksią į Maskvą jo įgalioti
     legatai, kurie pasitarsią su Maskvos didikais ir pada­
@@ -154,6 +155,7 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
 - id: c-170487
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     M A ndrius Droždža. Aleksandro favorito kunigaikščio Mykolo
     Glinskio giminaitis, sūnus Aleksandro Droždžos, Kazimiero laikais

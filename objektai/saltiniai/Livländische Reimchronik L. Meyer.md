@@ -68,6 +68,7 @@ Dusburgietis teigia, kad livländische Reimchronik / L.
 - id: c-61781
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Livländische Reimchronik / L. Meyer.—Paderborn, 1876.
   statusas: verified

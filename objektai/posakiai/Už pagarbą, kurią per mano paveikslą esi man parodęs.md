@@ -87,6 +87,7 @@ Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščioni�
 - id: c-59796
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šis atsakė, kad esąs nukovęs daugybę krikščionių, o apie kokius gerus darbus
     nieko nežinąs, išskyrus vienui vieną, būtent, kai su didele kariuomene buvo įsibrovęs į

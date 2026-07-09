@@ -91,6 +91,7 @@ Griškūnaitė 121 , P.
 - id: c-32914
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje
     pasirodė keletas kolektyvinių veikalų 1964 ir 1965 m.; apie jį rašė

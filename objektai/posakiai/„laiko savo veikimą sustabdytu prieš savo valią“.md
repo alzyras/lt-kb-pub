@@ -75,6 +75,7 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
 - id: c-75166
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Nepatenkinti LV egzistavimu naciai liepos 23-iosios naktį voldemari-
     ninkų nacionalistų, paklususių gestapui, rankomis įvykdė pučą, pašalinę

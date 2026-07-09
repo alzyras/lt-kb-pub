@@ -441,6 +441,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
 - id: c-104822
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     O Vytauto
     pusėje kovęsis caras Tochtamišas, „vos tai
@@ -465,6 +466,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
 - id: c-104823
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tuo metu, kai šitai dėjosi, Sventopelkas
     sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
@@ -487,6 +489,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
 - id: c-104824
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     116
 
@@ -521,6 +524,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
 - id: c-167974
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Dėl tos pačios
     priežasties valdovas neleido viešai teikti prūsams ko­
@@ -554,6 +558,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
 - id: c-167976
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Bendras sąjungininkų pralai­
     mėjimas būtų palietęs ir Kulmo žemę, jeigu smarkiai
@@ -580,6 +585,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
 - id: c-167977
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Gal ir buvo pamato tikėtis pergalės, tačiau Kęstutis
     bei Algirdas nenorėjo puoselėti abejotinų vilčių: abu
@@ -604,6 +610,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
 - id: c-167978
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kunigaikštis Jonas
     Olbrachtas, uoliai vykdyda-
@@ -632,6 +639,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
 - id: c-176103
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Antra vertus, stovykla, pilna grobio,
     L enkai rengiasi p u lti

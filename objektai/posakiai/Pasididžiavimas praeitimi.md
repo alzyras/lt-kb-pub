@@ -76,6 +76,7 @@ Vis dėlto pasididžiavimas praeitimi, susietas su sunkiu darbu ir tinkamai skir
 - id: c-44960
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tai ne tik šaunūs patrio-
     tizmo ir pasiaukojimo pavyzdžiai, bet ir klaidos, būdingos tautai

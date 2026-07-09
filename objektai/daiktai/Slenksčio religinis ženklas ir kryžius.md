@@ -130,6 +130,7 @@ Nenurodyta
 - id: c-172585
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Be to, žemdirbiai jam dar paskirdavo vasa­
     rojaus pasėlius, kur tam tikruose rėžiuose jam sėdavo, idant
@@ -151,6 +152,7 @@ Nenurodyta
 - id: c-172586
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­
     se“. Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­

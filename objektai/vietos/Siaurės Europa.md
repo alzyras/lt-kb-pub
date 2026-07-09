@@ -75,6 +75,7 @@ Narbutas Siaurės Europos praeities miglotumą siejo su vėlyvu rašto pažinimu
 - id: c-175688
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     O ir tas, kuris susipažino su priešistorinės seno­
     vės epochomis, apiplėštomis įvairių senienų epochomis,

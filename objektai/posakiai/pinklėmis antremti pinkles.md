@@ -80,6 +80,7 @@ Formulė nusako atsakomąją gudrybę: į priešo pinkles atsakyti kitomis pinkl
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     „Trokšdami išmintingai užbėgti už akių dar didesnėms ne­
     laimėms, nebe priežasties palaikėme Žemaičius, norėdami pink­

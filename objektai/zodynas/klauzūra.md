@@ -73,6 +73,7 @@ Dusburgietis teigia, kad be to, jie sudegino du šimtus penkiasdešimt parapini�
 - id: c-59484
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui,
     netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis,

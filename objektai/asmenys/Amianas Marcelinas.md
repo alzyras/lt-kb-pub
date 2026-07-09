@@ -169,6 +169,7 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
 - id: c-174053
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Į
     vakarus, pasak Jordano, keliavę tie alanai, kurie anks­
@@ -191,6 +192,7 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
 - id: c-174054
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šie buvo Padneprės
     emporiumų graikų kolonistai, susigiminiavę su skitais ir
@@ -212,6 +214,7 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
 - id: c-174820
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Mes, užuot ieškoję tų toli­
     mų persikėlimų, iš dalies pripažinkime Jordano tiesą, iš

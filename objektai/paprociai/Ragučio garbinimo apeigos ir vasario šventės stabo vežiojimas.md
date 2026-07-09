@@ -131,6 +131,7 @@ Nenurodyta
 - id: c-172748
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Straipsnyje „Stabai“ pamatysime tam tikrą to dievo pa­
     veikslą. Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­
@@ -158,6 +159,7 @@ Nenurodyta
 - id: c-177029
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lasickis pasakoja, kad ru­
     sai lenkėsi tam dievui, vadindami Zosim.

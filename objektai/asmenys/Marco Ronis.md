@@ -69,6 +69,7 @@ Narbutas mini kritiką, kuriam Marco Ronio ir Bolloysos vardai kėlė įtarimų,
 - id: c-173064
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kritikui visai ne pagal skonį tų vyriausiųjų žynių vardai,
     todėl jam kelia įtarimą. Pavyzdžiui, iš kur atsirado Marco Ro-

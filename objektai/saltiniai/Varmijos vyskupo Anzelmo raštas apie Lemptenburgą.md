@@ -70,6 +70,7 @@ Narbutas nurodo, kad Varmijos vyskupo Anzelmo rašte Lemptenburgas minimas fraz�
 - id: c-174745
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Viena­
     me Varmijos vyskupo Anzelmo rašte (Bacho. T. 1. P. 289),

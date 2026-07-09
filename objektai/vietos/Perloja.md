@@ -153,6 +153,7 @@ media_all_json: |-
 - id: c-43737
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     pateko į iš anksto parengtą pasalą ir pa-
     tyrę nuostolių buvo priversti grįžti atgal.
@@ -175,6 +176,7 @@ media_all_json: |-
 - id: c-43738
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Priešo pusėje žuvo 15 NKVD karių
     ir 2 stribai. Dar 5 stribai nukauti kitą dieną

@@ -71,6 +71,7 @@ Dusburgietis teigia, kad šis, gerai susipažinęs su brolių gyvenimu, sugrįž
 - id: c-176959
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Todėl jie mus
     kovoje, be abejonės, nugalės!“ Kadangi matė brolius valgant kopūstus, kurių prūsai

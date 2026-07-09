@@ -143,6 +143,7 @@ Nenurodyta
 - id: c-169133
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kai valdovas, įta­
     rimo kamuojamas, ėmė dvejoti, Vaidila be vargo su-
@@ -176,6 +177,7 @@ Nenurodyta
 - id: c-169134
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vis dėlto nutariama tol nestoti į atvirą kovą, kol
     nebus sudaryta karinė sąjunga su Prūsijos bei Livoni­

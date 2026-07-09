@@ -210,6 +210,7 @@ Nenurodyta
 - id: c-169902
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Būnant Kazimierui Vilniuje, Drohičino ir Melniko
     seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­
@@ -238,6 +239,7 @@ Nenurodyta
 - id: c-169903
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir su visais tais miestais prisijungė
     prie Mazovijos ir ėmė tarnauti Mykoliukui

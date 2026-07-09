@@ -146,6 +146,7 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
 - id: c-173240
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
     bių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­
@@ -165,6 +166,7 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
 - id: c-173242
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Žymiausia šventykla buvo Romovėje, ku­
     rios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos
@@ -183,6 +185,7 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
 - id: c-177072
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už
     Baublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­

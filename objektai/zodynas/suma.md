@@ -90,6 +90,7 @@ Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais 
 - id: c-59558
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     1. Apie evangeliją: pradžioje buvo žodis
 

@@ -166,6 +166,7 @@ media_all_json: |-
 - id: c-42047
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     "Tuo tarpu dešiniosios kolonos
     vadas karin. K. Ladyga birželio 2 d.
@@ -183,6 +184,7 @@ media_all_json: |-
 - id: c-42048
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1 brigados vadas
     karin. K. Ladyga suskirstė savo pajėgas
@@ -206,6 +208,7 @@ media_all_json: |-
 - id: c-42049
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     "Tuomet I brigados vadas karin. K. Ladyga
     įsakė pulti bolševikus Degučių plentu,

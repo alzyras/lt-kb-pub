@@ -83,6 +83,7 @@ Papildomos aiškios formos neišskirtos.
 - id: c-09620
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Buvo dar šventomis vadinamos karmūšų^842 , arba kovų, vietos, tai yra laukai, kuriuose su
         neprieteliais buvo grūmęsi ir tenai svietas buvo kritęs kariaudamas: kaipogi senovėj didžiai

@@ -183,6 +183,7 @@ Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių ap
 - id: c-169404
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Sitai dėjo­
     si pavakaryje, o štai jau auštant jie susilaukė pelny­
@@ -202,6 +203,7 @@ Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių ap
 - id: c-169405
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Surminas grįžo pas valdovą nugalė­
     toju, visiems nešdamas džiaugsmą, o pats slėpdamas
@@ -235,6 +237,7 @@ Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių ap
 - id: c-169406
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Lietuviai, nujautę, jog priešas šitaip ir
     elgsis, iš anksto slaptai apstojo miškuose takus, visur

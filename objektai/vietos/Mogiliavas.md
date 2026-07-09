@@ -132,6 +132,7 @@ media_all_json: |-
 - id: c-105804
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Mogiliavas - iš Stepono Batoro, sausio 28 dieną...............................1578 m.
     Privilegija Mogiliavui, kuria gavo Magdeburgo teisę, išspausdinta su prie­
@@ -148,6 +149,7 @@ media_all_json: |-
 - id: c-105805
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Žlugus deryboms, rusai
     Padneprėje įsiveržė į rytines LDK valdas ir

@@ -75,6 +75,7 @@ Narbutas rašė, kad nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė s
 - id: c-174190
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pietuose į viršų kilo Vek-
     lico tvirtovė, viena garsiausių Pagudėje. Be to, ir kitose

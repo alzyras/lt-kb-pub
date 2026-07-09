@@ -75,6 +75,7 @@ p. 254, „TELEVIZIJOS LAIDA“, [nepublikuota]; Švedas V., Sausio 13-oji ir Au
 - id: c-41677
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     p. 254, „TELEVIZIJOS LAIDA“, [nepublikuota]; Švedas V., Sausio 13-oji ir Aukščiausios Tarybos
     rūmų gynimas (Bakalaurinis darbas), VPU, Vilnius, 1994.

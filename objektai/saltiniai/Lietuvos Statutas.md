@@ -155,6 +155,7 @@ media_all_json: |-
 - id: c-67345
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Vi-
     sas statutas buvo taip sutvarkytas, kad rodė Lietuvą esant vi-
@@ -174,6 +175,7 @@ media_all_json: |-
 - id: c-67347
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kai 1522 m. bajorija
     pažadėjo jį išrinkti didžiuoju Lietuvos kunigaikščiu, jo tėvas
@@ -194,6 +196,7 @@ media_all_json: |-
 - id: c-67348
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Žodžiu, ji visą laiką kovojo,
     kad Lietuva gautų tokią pat reikšmę jungtinėje valstybėje, ko-
@@ -213,6 +216,7 @@ media_all_json: |-
 - id: c-67350
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     valdyme. Visa tai buvo patvirtinta naujai perredaguotoje ant-
     rojoje statuto laidoje.

@@ -67,6 +67,7 @@ Dusburgietis teigia, kad smolenskas Snervai (dab.
 - id: c-59361
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Smolenskas
     Snervai (dab. Sniardvai, j. Sniardwy), ež.

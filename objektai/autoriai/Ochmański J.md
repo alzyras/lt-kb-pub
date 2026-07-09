@@ -69,6 +69,7 @@ Dusburgietis teigia, kad intaką Zelvą; pastarosios intakas Sasva (Pružanų rj
 - id: c-61251
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie sūduvių (jotvingių) apgyvendinimą Lietuvos valstybės teritorijoje žr. Kamiński
     A., Jaćwież..., p. 67—71. Jų sodybos randamos XIII a. etninio lietuvių ploto rytiniame

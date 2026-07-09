@@ -74,6 +74,7 @@ Maskvos didikai teigė, kad Suleimano laiškas Vasilijui Vasiljevičiui titulavo
 - id: c-169619
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Maskvos didikų vardu atsakė to miesto vy­
     riausiasis dvasininkas. Esą visų didžiausi pasaulyje

@@ -90,6 +90,7 @@ Andrius Droždža 1498 m. gavo didžiojo kunigaikščio taurininko pareigas ir v
 - id: c-170511
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     M A ndrius Droždža. Aleksandro favorito kunigaikščio Mykolo
     Glinskio giminaitis, sūnus Aleksandro Droždžos, Kazimiero laikais

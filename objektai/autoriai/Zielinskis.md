@@ -69,6 +69,7 @@ Dar iki XV amžiaus daugelį Europos tautų gaubė barba- 1 1 Histoire de Pologn
 - id: c-177289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Dar iki XV amžiaus daugelį Europos tautų gaubė barba- 1
     1 Histoire de Pologne par Zielinski. Paris, 1830. T. 1. P. 166.

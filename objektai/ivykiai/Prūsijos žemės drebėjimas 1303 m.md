@@ -91,6 +91,7 @@ Nenurodyta
 - id: c-173953
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be to, šios pakrantės neišvengė vulkaninių ka­
     tastrofų, kurių ryšį su staigiais atmosferos sujudimais

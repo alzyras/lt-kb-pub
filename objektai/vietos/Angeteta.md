@@ -65,6 +65,7 @@ Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.
 - id: c-59312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     337 D.— Angetete, Jer.— Angetêtin. Pilis buvo tapatinama su gerokai į pietryčius nuo
     Unzatrapio žemės buvusiu Engelšteinu (dab. Vengelštinas, Węgielsztyn, į šiaurės vakarus

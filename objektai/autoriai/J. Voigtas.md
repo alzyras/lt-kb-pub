@@ -103,6 +103,7 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
 - id: c-174766
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Siame gana aiš­
     kiame Tacito aprašyme atsiskleidžia ta istorinė tiesa, kad
@@ -121,6 +122,7 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
 - id: c-177276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip pat ties pie­
     tiniu šio ežero sąsiauriu yra miestelis Anger, nusidrie-

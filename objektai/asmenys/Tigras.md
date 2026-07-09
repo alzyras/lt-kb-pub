@@ -106,6 +106,7 @@ Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulko
 - id: c-42263
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Partizanai pasiruošė ginklus. Gaidys ir Viesulas turėjo tik pistalietus. Gi atsargusis Tig-
     ras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulkosvaidžiu. Jis buvo vienintelė
@@ -120,6 +121,7 @@ Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulko
 - id: c-42265
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė
     tris NKGB dalinio buvusius vadus: kpt. Kruglovą, leit. Marcinkevičių ir dar vieną rusą

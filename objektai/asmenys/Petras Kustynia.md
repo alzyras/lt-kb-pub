@@ -84,6 +84,7 @@ Petras Kustynia, lenkas iš Krokuvos, savo antspaude rai­ dę „S" turėjęs, 
 - id: c-83806
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     4. Mikalojus Gožkovskis, lenkas, šv. teologijos daktaras, kry­
     žiaus ženklo antspaudą dėdavęs, buvo vyskupu nuo 1408 m.

@@ -107,6 +107,7 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
 - id: c-172106
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šis tėvynės paminklų brangintojas liepė iš trūnijusiame
     šio ąžuolo kamiene įrengti kabinetą, turintį 7 uolekčių, 18 co­
@@ -127,6 +128,7 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
 - id: c-172107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pasakojimuose yra net neatgyvenusių kalbų apie pranašiš­
     kus ąžuolus: ąžuolai kalbėdavę balsu ir atsakinėdavę į klausi­

@@ -72,6 +72,7 @@ Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti,
 - id: c-44358
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     |
     Taip savanoriai veržėsi į mūšį su Lietuvos priešais bolševikais.“

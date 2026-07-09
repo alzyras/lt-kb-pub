@@ -121,6 +121,7 @@ media_all_json: |-
 - id: c-173066
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Taip jų mokslas rado mora­
     linę atramą. Po ketverto metų Žemaičių vyskupas Melchioras
@@ -139,6 +140,7 @@ media_all_json: |-
 - id: c-173802
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip jų mokslas rado moralinę atramą. Po
     ketverto metų Žemaičių vyskupas Melchioras Giedraitis vėl išsi­

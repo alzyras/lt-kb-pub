@@ -135,6 +135,7 @@ Nenurodyta
 - id: c-169129
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Karalius, užbaigęs ka­
     rą su Maskva, dalį algininkų paleido, o su kitais pa­
@@ -160,6 +161,7 @@ Nenurodyta
 - id: c-169130
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Nio­
     kotojus sėkmingai išsklaidė Ostrogiškis ir išvarė iš vi­

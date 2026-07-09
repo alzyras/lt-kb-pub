@@ -72,6 +72,7 @@ Pėstininko užrašai / Dokumentinis romanas, Vilnius, 2012, p. 309. Pėstininko
 - id: c-176472
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     ## Puslapis 269
 

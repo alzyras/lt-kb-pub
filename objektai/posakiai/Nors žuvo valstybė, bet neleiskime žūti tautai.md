@@ -87,6 +87,7 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
 - id: c-171028
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Naujų socialinių ekonominių santykių, nau­
     jo gyvenimo būdo, naujos kultūros formavimasis čia sutapo

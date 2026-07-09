@@ -270,6 +270,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 - id: c-84110
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Laiškų autorius, baimindamasis, kad neišaiškė­
     tų, kaip yra iš tikrųjų, turėjo stengtis visoms dvejonėms už­
@@ -294,6 +295,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 - id: c-84111
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jau seniai esame girdėję, kad visi krikščionių tikėjimo iš­
     pažinėjai turi paklusti tavo valiai bei tėviškai [globai] ir kad
@@ -325,6 +327,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 - id: c-84112
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui
     XXII, dominikonų ordinui, Mažesniesiems troliams kei Siaurės
@@ -355,6 +358,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 - id: c-84113
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Apie visa tai, garbingasis tėve, mes rašome tuo tikslu,
     kad jūs žinotumėte, kodėl mūsų senoliai mirė pagonybės ir
@@ -384,6 +388,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 - id: c-84114
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Užuot ėmę tą dalyką nagrinėti, manome esant naudinga su­
     sipažinti su to valdovo laišku popiežiui, kuriame taip pasa­

@@ -82,6 +82,7 @@ Remiantis Torno analų žinia, dar gali būti samprotaujama, kad Jogaila atsisak
 - id: c-33726
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Jogailos politikos nauja kryptis, t. y. jo savarankiška laikysena
     ir užsispyrimas nevykti į Skirsnemunę, gali būti tuo paaiškintas,

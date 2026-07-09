@@ -375,6 +375,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 - id: c-55908
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Taigi, kai mes, Jurgis Radvila,
     Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­
@@ -411,6 +412,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 - id: c-55909
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     IV KNYGA
     Tą dvarelį su žmonėmis, namais, laukais, pievomis, ganyk­
@@ -449,6 +451,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 - id: c-55910
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     O kadangi no­
     rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų
@@ -478,6 +481,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 - id: c-78323
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Quod quidem praedium cum kominikus, villis,
     426

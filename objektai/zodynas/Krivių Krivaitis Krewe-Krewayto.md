@@ -109,6 +109,7 @@ Narbutas „Krewe-Krewejto“ laiko tiksliu vyriausiojo žynio pavadinimu, reiš
 - id: c-172152
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Taigi Vai­
     devutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,
@@ -129,6 +130,7 @@ Narbutas „Krewe-Krewejto“ laiko tiksliu vyriausiojo žynio pavadinimu, reiš
 - id: c-177083
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pretorijus Hartknocho studijų prierašuose aiškina teisin­
     gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­

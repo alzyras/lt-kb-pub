@@ -154,6 +154,7 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
 - id: c-172018
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kitus dalykus apie ją išdėsty-
     sime straipsniuose „Vėlinės“, „Laidotuvių papročiai“, „Kapai,“
@@ -173,6 +174,7 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
 - id: c-172019
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Skaityk straipsnį „Šventės“.
     Tai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-
@@ -191,6 +193,7 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
 - id: c-172020
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Senovės germanai ją vadino H erta, tai yra Motina žeme.
     Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas

@@ -114,6 +114,7 @@ Narbutas rašo, kad Stenderis savo latvių mitologijoje prisiminė buvęs Ausku�
 - id: c-173406
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šioje tautoje prietarai, susiję su kal­
     bamuoju dievaičiu, gyvuoja iki šiol. Pastebėję po nakties avį
@@ -134,6 +135,7 @@ Narbutas rašo, kad Stenderis savo latvių mitologijoje prisiminė buvęs Ausku�
 - id: c-173407
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Datonas (Datonus)
     Dievaitis, žemių arba visokio turto dalytojas. Tik tiek apie

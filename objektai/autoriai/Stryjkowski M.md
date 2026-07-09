@@ -100,6 +100,7 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
 - id: c-65438
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,
     1846.
@@ -113,6 +114,7 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
 - id: c-65439
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.
       Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi.

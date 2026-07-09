@@ -76,6 +76,7 @@ Generolo grafo Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rut
 - id: c-173056
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Didesnę dalį jis atidavė
     Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*.

@@ -75,6 +75,7 @@ Savo dokumente Jogaila pareiškė, jog, jo broliams ir visiems Lietuvos didikams
 - id: c-93944
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Prie to jie « gali
     būti verčiami net kūno bausmėmis »^20.

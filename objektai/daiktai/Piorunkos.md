@@ -128,6 +128,7 @@ Nenurodyta
 - id: c-172580
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vadinasi, bu­
     vo tik Jupiteris, turėjęs antrąją ypatybę*.
@@ -145,6 +146,7 @@ Nenurodyta
 - id: c-172581
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Mat tais laikais bajorai, susidėję su žy­
     dais, spekuliavo pinigais, ypač lietuviškais. Tasai Petras buvo

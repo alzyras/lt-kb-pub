@@ -94,6 +94,7 @@ Nenurodyta
 - id: c-63435
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį
     menką nusidėjėlį“. Buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo

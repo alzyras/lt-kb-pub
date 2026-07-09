@@ -89,6 +89,7 @@ Ožasiai fo} Svyroneéliai 6 Šemetas oje, Kiauneliškio geležinkelio stoties i
 - id: c-45132
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     PASTOVIAIO)
 

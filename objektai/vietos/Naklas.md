@@ -74,6 +74,7 @@ Dusburgietis teigia, kad paskui ši kariuomenė nužygiavo prie kitų dviejų pi
 - id: c-59339
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Po to kariuomenė patraukė toliau ir apgulė vieną
     pilį, kurią apsuptieji atidavė su tokia sąlyga, kad galėsią su savo manta gyvi iš čia išeiti.

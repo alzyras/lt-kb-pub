@@ -69,6 +69,7 @@ Barbora (Aleksandro sesuo) priėmė jas su didžiausiu džiaugsmu ir daug dienų
 - id: c-176742
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O paskui, po vestuvių, Maskvos pasiuntiniai, di­
     džiai pagerbti ir gausiai apdovanoti, buvo išleisti at­

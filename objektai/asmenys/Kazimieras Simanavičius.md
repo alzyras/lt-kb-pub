@@ -69,6 +69,7 @@ Simanavičius pirmasis aptarė daugiapakopės raketos idėją ir raketinės arti
 - id: c-41381
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Veikalas buvo išverstas į daugelį Europos kalbų
 

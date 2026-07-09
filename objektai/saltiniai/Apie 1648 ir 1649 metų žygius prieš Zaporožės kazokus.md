@@ -192,6 +192,7 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
 - id: c-43232
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     „1649 metais [...] kelios valandos iki vidurdienio iš pirmųjų priešų, staiga pasileidusių
     ant buvusių prie pat stovyklos pašarininkų, buvo gauta žinia apie pavojų, ir lauko etmono
@@ -229,6 +230,7 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
 - id: c-102971
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Svetimšalių autoramento „vokiškojo“ tipo pėstinin-
     kas-ietininkas (pikinierius). Svetimšalių autoramento

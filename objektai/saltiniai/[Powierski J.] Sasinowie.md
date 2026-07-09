@@ -64,6 +64,7 @@ Dusburgietis teigia, kad [Powierski J.] Sasinowie.— SSS, t.
 - id: c-61886
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     [Powierski J.] Sasinowie.— SSS, t. 5, s. 74—75.
   statusas: verified

@@ -72,6 +72,7 @@ Harum Testimonio Literarum, quibus Sigill um Nostrum Mag­ ni Ducatus Litbvaniae
 - id: c-82825
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Harum Testimonio Literarum, quibus Sigill um Nostrum Mag­
     ni Ducatus Litbvaniae est subappensum. Datum in Commi-

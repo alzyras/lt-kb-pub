@@ -151,6 +151,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
 - id: c-43711
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Sukilėlių pajėgos
     buvo suskirstytos į tris grupes - Klaipėdos,
@@ -171,6 +172,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
 - id: c-45254
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     @ UM. Kalmantavičiaus-Bajoro vadovaujama
     grupė be pasipriešinimo užima Pagėgius, o
@@ -192,6 +194,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
 - id: c-45255
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     [0] Sausio 14 d. iš Šilutės ir Pagėgių atvyksta II ir
     III grupių sukilėlių dalis, pagrindinių sukilėlių

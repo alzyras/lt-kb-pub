@@ -98,6 +98,7 @@ Nenurodyta
 - id: c-63251
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     25. Apie šventos Elžbietos kanonizavimą
 

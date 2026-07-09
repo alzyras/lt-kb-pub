@@ -268,6 +268,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
 - id: c-176335
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Sudarydamas Krėvos sutartį, Jogaila, kaip ankstyvasis monarchas, visą
     valstybę laikė savo nuosavybe ir manė galįs elgtis su Lietuva kaip patinka.
@@ -287,6 +288,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
 - id: c-176336
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Tačiau didžiausias Krėvos sutarties minusas, kad viską palikta lem-
     ti ne teisiniams, o realiems valstybių santykiams – čia Lietuvai ir glūdėjo
@@ -310,6 +312,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
 - id: c-176337
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Kai 1815 m. Vienos kongreso nu-
     tarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietu-
@@ -327,6 +330,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
 - id: c-176477
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir aš prieš savo norą, jų valią vyk­
     dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­
@@ -346,6 +350,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
 - id: c-176478
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tais laikais jo brolis Jogaila, lenkiškai Vladislovu
     vadinamas, sėdėjo Krokuvos karalystės soste. Ir tasai
@@ -364,6 +369,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
 - id: c-176479
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1  Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali­
     kęs vyriškos lyties įpėdinių. Jo  vietą 1370—1382 m. užėmė Veng­
@@ -380,6 +386,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
 - id: c-176480
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1 0  Lenkijos kariuom enė (apie 50 tūkstančių), didesnė negu Žal­
     girio m ūšyje (1410 m.), buvo telkiam a Lvove 1497 m. birželio mėn.

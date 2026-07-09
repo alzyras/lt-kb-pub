@@ -159,6 +159,7 @@ Nenurodyta
 - id: c-83154
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Ją saugojo ir kurstė žyniai, o jų vy­
     riausiasis Krivių Krivaitis buvo pranašas, o Lietuvos kūri­
@@ -184,6 +185,7 @@ Nenurodyta
 - id: c-83155
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Franciszkanów Litew­
     skich. Wilno 1740 in 8vo, skyr. I. Esą

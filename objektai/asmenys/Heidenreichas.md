@@ -104,6 +104,7 @@ Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metai
 - id: c-60933
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie
                                   brolį Heidenreichą, Kulmo vyskupą

@@ -66,6 +66,7 @@ Narbutas Prajui priskiria pasakojimą apie hunus, paremtą Ptolemėjo raštuose 
 - id: c-174472
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tai pasakoja Amia-
     nas Marcelinas1. Prajus** vėlgi kalba apie tą patį, žiūrė­

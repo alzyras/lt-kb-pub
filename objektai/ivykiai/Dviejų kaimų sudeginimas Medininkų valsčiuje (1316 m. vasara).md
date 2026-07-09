@@ -97,6 +97,7 @@ Nenurodyta
 - id: c-63568
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     330 (323). Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
 

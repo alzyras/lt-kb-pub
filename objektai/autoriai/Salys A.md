@@ -115,6 +115,7 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
 - id: c-65432
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,
     Pirmoji.., p. 251, 257). Lietuviškai M. Mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
@@ -131,6 +132,7 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
 - id: c-65433
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     asmenvardžio Ramego
     (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie. Ramingė, pr. Ramgesalus,

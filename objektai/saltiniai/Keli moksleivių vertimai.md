@@ -68,6 +68,7 @@ KELI MOKSLEIVIU VERTIMAI. „Šie moksleivau vertimai (rašo pats Rygiškiu Jona
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Kaina 1 litas.
     Tai Rygiškiu Jono redaguotas mokyklinis rašto darbu rinkinėlis

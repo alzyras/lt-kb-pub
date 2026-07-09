@@ -81,6 +81,7 @@ Apsauginė maldelė Gabijai / jaujos ugniai, prašanti šilumos ir saugumo nuo k
 - id: c-172447
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai reiškia: „Gabija, miela deive, duok daugiau šilu­
     mos, neleisk ugniai per daug kibirkščiuoti“. Si maldelė yra ug­

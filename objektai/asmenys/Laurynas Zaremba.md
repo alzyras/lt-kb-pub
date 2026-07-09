@@ -136,6 +136,7 @@ Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir
 - id: c-169499
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Žygimantas ir anksčiau jautė priešiš­
     kumą Boleslovui, nes šis vei-
@@ -170,6 +171,7 @@ Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir
 - id: c-169500
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Atidėlioti šį
     reikalą būtų buvę pavojinga,

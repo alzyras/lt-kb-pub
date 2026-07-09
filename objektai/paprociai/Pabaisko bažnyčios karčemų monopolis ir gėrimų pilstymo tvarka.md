@@ -105,6 +105,7 @@ Nenurodyta
 - id: c-83258
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Item Decima in Wieprze om­
     nis Grani praeter Avenam et Strenam, Sive Columbationem

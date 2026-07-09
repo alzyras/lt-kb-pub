@@ -104,6 +104,7 @@ Nenurodyta
 - id: c-66822
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Atmetė jį svarbiausia dėl valstiečiams
     duodamųjų palengvinimų. „Mužikus nori padaryti

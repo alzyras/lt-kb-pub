@@ -114,6 +114,7 @@ Nenurodyta
 - id: c-169995
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     ВУСНОѴСО KRONIKA IR JOS KILMĖ
     Ligi šiol yra žinomi trys žymesni Lietuvos Didžiojoje

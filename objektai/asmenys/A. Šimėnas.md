@@ -75,6 +75,7 @@ media_all_json: |-
 - id: c-44254
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     „Tragiškiausia buvo sausio 13-14-osios naktis, o ne sausio 12-13-osios, kai mes dar ne
     viską suvokėme. 13-osios vakare įvyko AT posėdis, kuriame V. Landsbergis pasakė atsis-

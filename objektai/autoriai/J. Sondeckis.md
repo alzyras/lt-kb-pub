@@ -71,6 +71,7 @@ Sondeckis išvertė lietuviškai^141.
 - id: c-32978
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Ypač reikšmingi jo veikalai
     apie Lietuvos valstybės administracinį padalinimą ir apie seimą^140.

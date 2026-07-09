@@ -70,6 +70,7 @@ Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir išsiskleidę pasuko Mo
 - id: c-45224
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Apie 12 val.
     T. Balno kariai pasiekė Motiejūnų-Giedraičių

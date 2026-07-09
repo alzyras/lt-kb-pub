@@ -101,6 +101,7 @@ media_all_json: |-
 - id: c-170371
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     J o  em igravim as j užsieni galimas nebent 1439 m.,
     nes tuoj po savo priešo Žygimanto Kęstutalčio nužudymo (1440,111.)

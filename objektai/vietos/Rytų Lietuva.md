@@ -86,6 +86,7 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
 - id: c-165054
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie
     Lvovo. Tuo metu Rytų Lietuvą kontroliavo bolševikai. Bolševikų pa-

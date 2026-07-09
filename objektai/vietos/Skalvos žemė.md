@@ -217,6 +217,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
 - id: c-76997
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Atsakydami į kryžiuočių bei kryži-
     ninkų Ariogalos, Paštuvos puolimą,
@@ -239,6 +240,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
 - id: c-76998
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
 
@@ -257,6 +259,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
 - id: c-76999
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Livonijos magistras surengė didelį
     žygį prieš lietuvius į Papilės žemę. 1360 m.
@@ -279,6 +282,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
 - id: c-77000
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie karą su skalviais. Apie įvykius prieš šį karą
 

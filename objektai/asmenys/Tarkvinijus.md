@@ -67,6 +67,7 @@ Dusburgietis teigia, kad netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs vis
 - id: c-61077
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vartyk
     nevartęs visus šventųjų kankinių gyvenimo aprašus, niekur neužtiksi, kad kas būtų

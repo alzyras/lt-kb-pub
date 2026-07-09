@@ -254,6 +254,7 @@ media_all_json: |-
 - id: c-42053
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lietuviams nepavyksta užimti Suvalkų iš šiaurės K. Škir-
     pos rezervas siunčiamas pulti Suvalkus pro Krasnapolį,
@@ -271,6 +272,7 @@ media_all_json: |-
 - id: c-42054
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos su-
     naikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos
@@ -292,6 +294,7 @@ media_all_json: |-
 - id: c-51392
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     E. Adamkavičiaus va-
     dovaujamas Kauno batalionas.
@@ -310,6 +313,7 @@ media_all_json: |-
 - id: c-51393
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     K. Ladyga suskirstė savo pajėgas
     į 3 kolonas. Kairiajai karin. K. Škirpos
@@ -332,6 +336,7 @@ media_all_json: |-
 - id: c-167135
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Čaplikas puola Jestšembną, tai sustabdo len-
     kus ir jis gali atsitraukti į Gruškų-Liepynės liniją.

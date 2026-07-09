@@ -109,6 +109,7 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
 - id: c-03219
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Čia jau buvo sutraukta visa Sapiegų kariuomenė
     ir dalis jiems ištikimos bajorijos. Tačiau Sapiegų priešų jėgos
@@ -126,6 +127,7 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
 - id: c-166342
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tačiau Sapiegų priešų jėgos
     buvo didesnės: prieš Sapiegas buvo susirinkusi beveik visos

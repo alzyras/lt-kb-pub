@@ -79,6 +79,7 @@ media_all_json: |-
 - id: c-33156
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Br. 1923. — Sužiedėlis, S. :
     Vytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-

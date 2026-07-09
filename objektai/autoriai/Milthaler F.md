@@ -57,6 +57,7 @@ Dusburgietis teigia, kad 136 Milthaler F.
 - id: c-61390
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     136 Milthaler F. Die Grossgebietiger..., S. 59—69.
   statusas: verified

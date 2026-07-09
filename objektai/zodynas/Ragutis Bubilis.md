@@ -108,6 +108,7 @@ Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir deg
 - id: c-172022
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     98
 
@@ -128,6 +129,7 @@ Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir deg
 - id: c-172023
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kronikininkai skiria Ragutį nuo Bubilo, pirmąjį pripažin­
     dami rūgšties, antrąjį -  saldumynų šeimininku. Rūgštis -  tai

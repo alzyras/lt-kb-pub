@@ -122,6 +122,7 @@ Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas 
 - id: c-171828
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     218
 
@@ -145,6 +146,7 @@ Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas 
 - id: c-177150
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Mieloji Lietuva,
     Laisvės kely!

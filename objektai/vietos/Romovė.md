@@ -491,6 +491,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 - id: c-171782
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Patelas (Patelo)
     Skraidančių oro dvasių dievas, savitas aukščiausiosios ka­
@@ -506,6 +507,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 - id: c-171783
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuvoje, Hartknocho nuomo­
     ne, tokia ugnis turėjo degti prie Nevėžio upės.
@@ -523,6 +525,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 - id: c-171784
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     235
 
@@ -543,6 +546,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 - id: c-171785
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro­
     nikininkai specialistai to neaprašo, tik priduria, kad senais lai­
@@ -562,6 +566,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 - id: c-171786
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Be to, įrodymas, skatinantis sutikti, kad Dusburgietis tu­
     rėjo neklystamų žinių apie dalykus, dėstomus tame skyriuje, o
@@ -585,6 +590,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 - id: c-175512
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
     jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
@@ -600,6 +606,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 - id: c-175513
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Di­
     džiuliuose krašto plotuose augo miškai, kurie geriau negu
@@ -621,6 +628,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 - id: c-177142
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Taigi senovės lietuviai šį jūrų dievą vaizdavo kaip di­
     džiulį žaltį, tai yra žalčių karalių *.
@@ -638,6 +646,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 - id: c-177143
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Jau mes mūsų istorijos tyrimais įrodėme, kad
     paskutiniais stabmeldystės amžiais Romovių būta ne vienoje
@@ -657,6 +666,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 - id: c-177144
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     42 pav. Senovės prūsų herbas
     470

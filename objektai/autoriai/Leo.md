@@ -73,6 +73,7 @@ Leo nurodė, kad borusai 523 ar 530 metais persikėlė iš šiaurės į dabartin
 - id: c-174495
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pirmiausia
     taip manė Erazmas Stela1**. Jo išvadą pripažino daugelis,

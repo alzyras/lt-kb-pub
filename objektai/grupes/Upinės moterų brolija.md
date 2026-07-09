@@ -124,6 +124,7 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
 - id: c-172393
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Prie upelio, dešinėje vieš­
     kelio pusėje, ant nedidelės žemės sankasos, kurią sakė buvus
@@ -143,6 +144,7 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
 - id: c-172394
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kol ta brolija buvo uždrausta, gretimų kaimų moterys -
     matyt, dėl kažkokių kerų -  susirinkdavo vadovaujamos nepa­

@@ -92,6 +92,7 @@ Pagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­ mo, kad aplanky
 - id: c-82283
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kadangi visos karalystės, iš kurių vieną mes valdome,
     yra pavaldžios dangaus karaliui Jėzui Kristui tokiu būdu,

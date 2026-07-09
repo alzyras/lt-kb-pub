@@ -77,6 +77,7 @@ Andrius Klingeris buvo jėzuitų Lietuvos provincijos viršininkas ir pasirašė
 - id: c-169541
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Toliau K. L. Sapiegai sakoma: „Lietuvos istorijos
     negalėjau kitaip išleisti, kaip Tavo Aukštybės globo­

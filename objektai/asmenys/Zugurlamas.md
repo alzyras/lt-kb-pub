@@ -78,6 +78,7 @@ Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vad
 - id: c-174370
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Torfėjas, chronologiškai vardijęs
     danų istorijos įvykius, palygintus su tiksliausiais skaičia­

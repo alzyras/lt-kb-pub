@@ -69,6 +69,7 @@ Narbutas signotą (Sigonotta) įvardija kaip žynį, siejamą su pajūrio žvej�
 - id: c-172249
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pajūrio žvejai nešdavo jam įvairiausių žuvų. Jis turėjo sa­
     vo žynį, vardu signotas (Sigonotta). Skaityk apie jį žemiau,

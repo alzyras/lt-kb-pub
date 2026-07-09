@@ -98,6 +98,7 @@ Praktika minima Vytauto santykiuose su Ordinu ir Jogailos dokumentiniame pažad�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Po trumpų tarp abiejų pusių trukusių derybų, 1385 metų
     rugpjūčio mėn. 14 d. toje pačioje pilyje, kur pabaigė savo dienas

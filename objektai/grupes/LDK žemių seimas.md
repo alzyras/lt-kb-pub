@@ -80,6 +80,7 @@ media_all_json: |-
 - id: c-170720
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų
     LDK žemių seimas Vilniuje, 1492.VII.18.

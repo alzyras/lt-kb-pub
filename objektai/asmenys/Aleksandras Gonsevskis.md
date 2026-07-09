@@ -84,6 +84,7 @@ Apsiaustųjų pajėgų aprūpinimo papildymus organizavo Smolensko vaivada Aleks
 - id: c-44264
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lietuviai rusų veiksmus varžė išpuoliais.
     Apsiaustųjų pajėgų aprūpinimo papil-

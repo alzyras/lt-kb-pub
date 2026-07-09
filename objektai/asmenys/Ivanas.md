@@ -117,6 +117,7 @@ Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir
 - id: c-169323
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     M at, išsiuntęs A u g u stu i laišką, p arag in o  jį ta i­
     k y tis ir pareiškė, jog, tro k šd am as taikos, m ielai įvyk-

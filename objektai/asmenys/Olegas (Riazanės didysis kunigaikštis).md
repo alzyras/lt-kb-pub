@@ -81,6 +81,7 @@ media_all_json: |-
 - id: c-41424
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1396 m. Riazanės didysis kunigaikš-
     tis Olegas ir kiti „ėjo prieš Lietuvą ir

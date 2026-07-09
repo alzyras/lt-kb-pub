@@ -114,6 +114,7 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 - id: c-45486
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Sprendžiant iš pagrindinių istorinių
     šaltinių, Švitrigailos ir Ordino pajėgos iš
@@ -135,6 +136,7 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 - id: c-170635
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     TS Ir PS nuorašuose upė be vardo. Tikroji mūšio vieta buvo prie
     Ztrnaios upelio, tarp Zirnajų ežero ir Pabaisko — 9 km nuo Uk­

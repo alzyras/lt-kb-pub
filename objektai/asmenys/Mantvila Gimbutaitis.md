@@ -77,6 +77,7 @@ Mantvila Gimbutaitis ir Zivinbudas susitarė pulti nuo smūgio neatsigavusį pri
 - id: c-169597
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šis rusų pralaimėjimas lietuviams suteikė
     vilties ir nurodė būdą atsik­

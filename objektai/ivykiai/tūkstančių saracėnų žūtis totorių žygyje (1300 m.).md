@@ -98,6 +98,7 @@ Nenurodyta
 - id: c-60107
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     87. Apie 200 tūkstančių saracėnų žūtį
 

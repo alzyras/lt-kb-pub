@@ -71,6 +71,7 @@ Vartojamos formos: `gaspadinę`, `viešne`, `viešnė`.
 - id: c-09680
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Ryto metą vakarop, atkeliavus jaunajam su vėdliais į jaunosios tėvo namus, linksminos ir gėrė dieną ir naktį, maž temiegodami per tris ar keturias naktis, trečiąją ar ketvirtąją dieną vėdlių gaspadinė, tai yra viešnė, turėjo pasielgti, beje, pasirodyti, ar turtinga yra, nesgi nuo jos turtų apie visą jaunojo kiltį jaunosios gentys sprendė.
   citata_rodoma: "Ryto metą vakarop, atkeliavus jaunajam su vėdliais į jaunosios tėvo namus, linksminos ir gėrė\ndieną ir naktį, maž temiegodami per tris ar keturias naktis, trečiąją ar ketvirtąją dieną vėdlių\ngaspadinė, tai yra viešnė, turėjo pasielgti, beje, pasirodyti, ar turtinga yra, nesgi nuo jos turtų\napie visą jaunojo kiltį jaunosios gentys sprendė"

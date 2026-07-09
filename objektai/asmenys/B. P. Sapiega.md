@@ -76,6 +76,7 @@ Sapiega ir maršalas A.
 - id: c-44302
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Užnugaryje buvę Sapiegas rėmę
     bajorų pašauktiniai pasitraukė iš

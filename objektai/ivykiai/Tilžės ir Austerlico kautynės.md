@@ -91,6 +91,7 @@ Nenurodyta
 - id: c-172515
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Jaunuolis nesibaidė vyriau­
     sybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų

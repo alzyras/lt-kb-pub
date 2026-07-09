@@ -188,6 +188,7 @@ Kolomyja aiškinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nu
 - id: c-170299
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Apie LDK pajėgų dalyvavim ą trūksta tikslesnių žinių.
     1 3  Kolomyja — dabar Ukrainos TSR Ivano Franko sr. miestas
@@ -207,6 +208,7 @@ Kolomyja aiškinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nu
 - id: c-170300
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     n  M oldavijos vaivados Stepono vasalinė priesaika ivyko Ko-
     lom yjoje 1485 m. rugsėjo 15 d. (M. Mlechovlta, p. 324).
@@ -226,6 +228,7 @@ Kolomyja aiškinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nu
 - id: c-170301
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1 3  Kolomyja — dabar Ukrainos TSR Ivano Franko sr. miestas
     (prie Pruto upės, apie 160 km j pietryčius nuo Lvovo). Lenkijos

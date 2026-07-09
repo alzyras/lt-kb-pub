@@ -118,6 +118,7 @@ Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų. Jogaila be Kęstučio �
 - id: c-170314
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     tėvas kunigaikštis Kęstutis (tada jis buvo galingas),
     jei būtų norėjęs, būtų atėmęs Vilnių ir kunigaikščiui
@@ -147,6 +148,7 @@ Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų. Jogaila be Kęstučio �
 - id: c-170315
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir atėjo mūsų tėvas su žemaičiais prie
     Trakų, aš pats irgi buvau ten su savo tėvu kunigaikš­

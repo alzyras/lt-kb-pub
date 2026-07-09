@@ -78,6 +78,7 @@ Buvo uždaryta daugybė vienuolynų (Kaune, Pažaisly, Panevėžy, Ukmergėje, R
 - id: c-03025
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Į ištremtųjų vietas
     buvo privežta rusų, kurie turėjo pasidaryti caro valdžios atrama.

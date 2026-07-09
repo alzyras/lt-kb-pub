@@ -78,6 +78,7 @@ Smilginis, citatoje pateiktas kaip Szmilgin, 1475 metais pridėjo antspaudą su 
 - id: c-173124
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     IV lentelė, 26-asis piešinys. Žąsies herbas, arba Paparo-
     na, -  toks kaip lenkų herbynuose; skiriasi tuo, kad čia yra ke­

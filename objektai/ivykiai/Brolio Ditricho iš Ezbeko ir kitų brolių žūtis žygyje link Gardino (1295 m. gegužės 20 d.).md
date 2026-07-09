@@ -136,6 +136,7 @@ Nenurodyta
 - id: c-66716
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei
                                             netikėlių žūtį
@@ -157,6 +158,7 @@ Nenurodyta
 - id: c-66717
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai
     įstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai

@@ -135,6 +135,7 @@ Nenurodyta
 - id: c-05450
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Stiprindamas lotyniškąjį kryžių Lietuvoje, Algirdaitis trečiuoju
     dokumentu (II.22) uždraudė naujakrikštams tikybiniu atžvilgiu
@@ -154,6 +155,7 @@ Nenurodyta
 - id: c-123136
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Prie to jie « gali
     būti verčiami net kūno bausmėmis »^20.

@@ -251,6 +251,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 - id: c-175100
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ypač mus domina baltarusių
     pilkapiai, savo forma ir dydžiu besiskiriantys nuo ukrai-
@@ -272,6 +273,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 - id: c-175101
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Apskri­
     tai panašūs radiniai priklauso prie retenybių.
@@ -306,6 +308,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 - id: c-175102
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tokia surinkta pradinės Kijevo istorijos medžiaga, ku­
     ria remdamasis, išmanantis istoriją ir turintis noro galės

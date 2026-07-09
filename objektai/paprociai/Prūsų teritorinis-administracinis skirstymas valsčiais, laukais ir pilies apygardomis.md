@@ -203,6 +203,7 @@ Nenurodyta
 - id: c-60361
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     D. žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium
     Reysen, III, 11; de depredatione territorium Pastovie et Gesovie, III, 246 ir kt.); žinomas
@@ -223,6 +224,7 @@ Nenurodyta
 - id: c-60362
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Valsčių sudarė  pilis  ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis
     — kaimais ir žemdirbių — sodžiais (Jurginis J. Baudžiavos..., p. 168; Łowmiański H.
@@ -238,6 +240,7 @@ Nenurodyta
 - id: c-60363
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.  lie.
     pulkas); Dusburgietis šiuo atveju sako — campus (laukas) — III, 300, 310 ir kt.; Jer.—
@@ -260,6 +263,7 @@ Nenurodyta
 - id: c-60364
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     D. territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.
     Kartais valsčiuje esti keletas pilių (III, 313, 321, 327), taigi ir jų apygardų, apylinkių

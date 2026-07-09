@@ -116,6 +116,7 @@ Narbutas remiasi Tadu Čackiu teigdamas, kad XVI a. daugiausia raganų būdavo r
 - id: c-172900
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kuo daugiau tikėta jų buvimu, tuo labiau
     artėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų
@@ -134,6 +135,7 @@ Narbutas remiasi Tadu Čackiu teigdamas, kad XVI a. daugiausia raganų būdavo r
 - id: c-172901
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Sulaužęs priesaiką, kuri rė­
     mėsi tautiniais papročiais, faktiškai būdavo prakeiktas ir ne­

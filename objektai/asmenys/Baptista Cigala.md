@@ -71,6 +71,7 @@ dr. Baptista Cigala^16.
 - id: c-28856
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tuo tarpu imp. Zigmantas pirma išsiuntė
     teisininkų delegaciją, kuriai vadovavo Vienos univ. dr. Baptista

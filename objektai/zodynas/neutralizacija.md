@@ -106,6 +106,7 @@ Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lietuvos pripažinimu de 
 - id: c-46915
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     griežtą Lietuvos protestą nei priėmė jos pasiūlymą pateikti Ha-
     gos Teismui klausimą dėl tokios procedūros teisėtumo (1922—

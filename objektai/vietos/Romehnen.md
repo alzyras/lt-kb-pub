@@ -73,6 +73,7 @@ Dusburgietis teigia, kad vėlesnė Romehnen Semboje (jos vak.
 - id: c-59350
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     D. Romovės resp. Romuvos nuo XVI a. ieškota Varmėje, Notangoje, Semboje  ir
     kitur. Vėlesnė Romehnen Semboje (jos vak. dalyje, netoli Girmavos) XIV a. 1-os pusės

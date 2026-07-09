@@ -79,6 +79,7 @@ Motiejus iš Mechovo citatoje įvardijamas kaip Miechowita, Mechovita, gyvenęs 
 - id: c-173238
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     -  Francofurti, 1709; Mie-
     chowita (Motiejus iš Mechovo, Mechovita, 1456-

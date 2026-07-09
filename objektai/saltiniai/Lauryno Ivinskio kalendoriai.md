@@ -71,6 +71,7 @@ Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
 - id: c-84417
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kituose Gazeta Warszawska spausdintuose straipsniuo­
     se istorikas detaliai aprašė Vilniaus Archeologinės komisijos

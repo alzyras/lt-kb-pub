@@ -536,6 +536,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Visos tos didžiulės kariuomenės susirinkimo vieta buvo
     paskirta Kijeve. Kautynėms vieta buvo numatyta Vorsklos
@@ -552,6 +553,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Bet deja, jam tokiu iš jo grįžti neteko: didelių užsimojimų žygis
     buvo prie Vorsklos pralaimėtas. To išdavoj Vytauto taip auk­
@@ -568,6 +570,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
 - id: c-44046
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Buvo valakai, kryžiuo-
     čių dalinys (100 riterių), vadovaujamas
@@ -604,6 +607,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Tokios didelės
     krikščionių kariuomenės rytų kraštuose niekas dar nebuvo ma­
@@ -621,6 +625,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
 - id: c-162443
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Strijkovskis ir Koje-
     1  a v i č i u s supainiojo Andrių, Al­
@@ -647,6 +652,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
 - id: c-162445
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Vienas galingiausių Lietuvos valdovų, didysis kunigaikštis
     Vytautas maksimaliai išplėtė Lietuvos valstybę, rytuose prijungęs
@@ -667,6 +673,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
 - id: c-162446
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Garsiajame
     Lucko suvažiavime 1429 m. pas Vytautą rinkosi Vidurio ir Rytų
@@ -690,6 +697,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Kaip būtų Vytautas pasielgęs su
     Lenkija, jei būtų iš to žygio grįžęs nugalėtoju, sunku pasakyti.
@@ -707,6 +715,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
 - id: c-168572
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Nesutikdami jokio pasiprieši­
     nimo, nuniokojo tolesnes že­

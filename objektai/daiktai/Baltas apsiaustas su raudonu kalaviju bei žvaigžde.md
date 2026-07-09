@@ -97,6 +97,7 @@ Nenurodyta
 - id: c-60312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     4. Apie Kristaus karių ordino brolius
 

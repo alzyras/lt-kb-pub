@@ -98,6 +98,7 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
 - id: c-172120
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Buvo ir keliautojų deivė Vibilia.
     Numėjas ir Peskija (Numejas i Peskia)
@@ -114,6 +115,7 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
 - id: c-172121
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Būta ir viešo svetingumo, tai yra šventyklose ir šventose
     giraitėse; ten ne tik žmogus, bet ir kiekvienas gyvas padaras

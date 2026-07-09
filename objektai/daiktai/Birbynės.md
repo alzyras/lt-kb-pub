@@ -92,6 +92,7 @@ Nenurodyta
 - id: c-170036
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Kunigaikš­
     tis Mykolas !3, matydamas su didikais ir su visa kariuo­

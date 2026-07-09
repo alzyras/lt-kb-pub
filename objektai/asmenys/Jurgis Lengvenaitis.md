@@ -147,6 +147,7 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
 - id: c-83722
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Priešininkas, persekio­
     jamas nugalėtojų, naują nesėkmę patyrė brastoje per Šven­
@@ -165,6 +166,7 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
 - id: c-176555
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Prastieji žmonės, išgirdę, kad Smolensko bajorai iš­
     vyko pas didįjį kunigaikštį Kazimierą, pabūgo ir labai
@@ -186,6 +188,7 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
 - id: c-176556
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Jonas Goštautas visa tai greitai padarė ir didikus
     prikalbėjo, o čia jau kunigaikštis Kazimieras, savo

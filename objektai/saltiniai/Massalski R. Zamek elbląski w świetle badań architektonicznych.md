@@ -74,6 +74,7 @@ Dusburgietis teigia, kad massalski R.
 - id: c-61791
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Massalski R. Zamek elbląski w świetle badań architektonicznych.— Rocznik Elbląski,
     Warszawa—Poznań—Toruń, 1979, t. 8, s. 39—87.

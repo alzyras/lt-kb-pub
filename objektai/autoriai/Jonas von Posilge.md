@@ -63,6 +63,7 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
 - id: c-177383
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Gi įkaitus
     kryžiuočiai ėmė šimtais iš įvairių vietų. Daug įdomių žinių iš to

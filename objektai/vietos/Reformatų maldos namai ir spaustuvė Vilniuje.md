@@ -80,6 +80,7 @@ media_all_json: |-
 - id: c-82208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujuši-
     no protus65. Šis vyskupo žingsnis 1581 metais padrąsino

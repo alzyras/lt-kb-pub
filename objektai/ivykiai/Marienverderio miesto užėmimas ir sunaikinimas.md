@@ -93,6 +93,7 @@ Nenurodyta
 - id: c-60195
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Prūsai, po  senovei  nepasisotinę  krikščionių  kraujo,  vėl suskato  ruošti  ginklus
     tikintiesiems žudyti, kankinti ir kryžiuoti, kad ant jų galvų kristų visas teisiųjų kraujas,

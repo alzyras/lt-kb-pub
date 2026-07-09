@@ -80,6 +80,7 @@ Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m. liepą
 - id: c-23949
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuvių diplomatijos sunkumai buvo už-
     programuoti, nes du pagrindiniai Lietuvos tikslai akivaizdžiai pjovėsi tar-

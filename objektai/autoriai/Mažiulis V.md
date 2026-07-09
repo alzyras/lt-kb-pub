@@ -71,6 +71,7 @@ Dusburgietis teigia, kad lietuvių kalba težinojusi tokius Kuršių nerijos pav
 - id: c-61479
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kuršių  nerijos vardą pasidarė Ordino  raštininkai pagal Kuršo vyskupystės
     pavadinimą (taip atsirado  ir Kuršių marių pavadinimas). Nuo XV a. vidurio Ordino

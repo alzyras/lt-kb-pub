@@ -97,6 +97,7 @@ V. Visockas nurodytas „Lietuvių tautos istorijos“ leidinio redaktorių kole
 - id: c-170929
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Wilno, naktadem i drukiem
     A. Marcinowskicgo, 1835.

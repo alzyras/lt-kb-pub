@@ -127,6 +127,7 @@ Nenurodyta
 - id: c-163189
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     5 d.), iš kurių kry­
     žiuočių nelaimei pasitraukė žiemgaliai^238 , žuvo pats magistras ir 71
@@ -146,6 +147,7 @@ Nenurodyta
 - id: c-163190
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Skaudžiam Aizkrauklės pralaimėjimni Eiliuotinės
     kronikos autorius tepaskyrė, palyginti, nedaug posmelių. Iš to, ką

@@ -127,6 +127,7 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
 - id: c-83644
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
     mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
@@ -147,6 +148,7 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
 - id: c-173735
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sis darbas tikriausiai yra vienas žymiau­
     sių ir dėl jame išdėstytų naujų faktų, ir dėl apimties. Ant­

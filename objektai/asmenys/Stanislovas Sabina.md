@@ -157,6 +157,7 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
 - id: c-83437
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Be karaliaus Stepono laiškų, rašytų
     dėl kalendorinių ginčų, Dubins-
@@ -207,6 +208,7 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
 - id: c-83438
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Augustinas Rotundas Milesijus (Mieleskis),
     abiejų teisių daktaras, išrinktas iš magistrato

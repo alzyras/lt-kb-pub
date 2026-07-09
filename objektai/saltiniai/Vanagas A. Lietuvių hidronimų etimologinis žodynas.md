@@ -74,6 +74,7 @@ Dusburgietis teigia, kad vanagas A.
 - id: c-61976
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vanagas A. Lietuvių hidronimų etimologinis žodynas.— V., 1981.
       Varakauskas R. Vokiečių feodalų agresija į Rytinį Pabaltijį ir lietuvių kova su ja XIII а.

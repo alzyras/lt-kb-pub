@@ -106,6 +106,7 @@ APIE TOTORIŲ CHANĄ BATU, ŽEMAIČIŲ KUNIGAIKŠTI MANTVILĄ IR NAUGARDUKO ĮK�
 - id: c-176726
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     5. APIE TOTORIŲ CHANĄ BATU, ŽEMAIČIŲ KUNIGAIKŠTI
     MANTVILĄ IR NAUGARDUKO ĮKŪRIMĄ
@@ -130,6 +131,7 @@ APIE TOTORIŲ CHANĄ BATU, ŽEMAIČIŲ KUNIGAIKŠTI MANTVILĄ IR NAUGARDUKO ĮK�
 - id: c-176727
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir jis sušaukė ka­
     rius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­

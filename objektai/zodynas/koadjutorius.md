@@ -71,6 +71,7 @@ Protasevičius ir jo koadjutorius, pačių jėzuitų į katalikybę atverstas vy
 - id: c-03274
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Jėzuitams jau nebebuvo sunku įkurti aukštąją mokyklą:
     jai kandidatų jau buvo pakankamai paruošta, profesorių iš tų

@@ -91,6 +91,7 @@ istoriografija, tautos kilmės klausimai
 - id: c-175020
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Savo
     tikslą sukonkretino taip: „Šių raštų pirmą tomą skyrėme

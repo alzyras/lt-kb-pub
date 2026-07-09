@@ -140,6 +140,7 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
 - id: c-72173
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir
     užsienio reikalų ministras Antanas Valionis pasirašo stojimo į
@@ -164,6 +165,7 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
 - id: c-72175
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Visų šalių narių piliečiai kartu yra ir ES piliečiai. Kiek­
     vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių na-

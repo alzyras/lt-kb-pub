@@ -121,6 +121,7 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
 - id: c-00076
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Per 35 m. ji išleido 40
     veikalų (ne tik originalių lietuviškų raštų, bet ir verstinių). Be
@@ -140,6 +141,7 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
 - id: c-00109
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Į Mažąją Lietuvą jie atnešė daug netikusių
     papročių — tinginiavimą, girtybę, muštynes ir ištvirkavimą. To-

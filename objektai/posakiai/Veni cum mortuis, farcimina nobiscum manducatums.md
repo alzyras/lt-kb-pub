@@ -78,6 +78,7 @@ Narbutas maldą „Veni cum mortuis, farcimina nobiscum manducatums“ siejo su 
 - id: c-172480
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     384
 

@@ -197,6 +197,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - id: c-59039
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šitaip jų nedraugai gavo viršų, o jie tapo pažeminti,
     nes jųjų priešai užgrobė ne tik žadėtąją žemę, bet beveik visas apygardas, miestus bei
@@ -221,6 +222,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - id: c-59040
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     80. Šventoji žemė ragina krikščionis ją išvaduoti
 
@@ -244,6 +246,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - id: c-59041
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     78. Apie šventosios žemės reikalus
 
@@ -264,6 +267,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - id: c-59042
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     79. Dejonė dėl šventosios žemės apleidimo
 

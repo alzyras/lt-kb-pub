@@ -76,6 +76,7 @@ Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miesta
 - id: c-171948
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     II priedas
     Apie N erčios upę

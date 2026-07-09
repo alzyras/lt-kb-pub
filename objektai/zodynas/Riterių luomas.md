@@ -140,6 +140,7 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 - id: c-55818
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kryžiaus karai, kurie XI amžiuje buvo sumaišę protus be­
     veik visoje Europoje, iš pradžių laikyti tik savotiškais žygiais,
@@ -161,6 +162,7 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 - id: c-78590
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jų įtaka
     mūsuose ir Rytuose buvo neapsakoma, o pasekmės davė žmo­

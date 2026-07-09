@@ -82,6 +82,7 @@ Tam įtakos turėjo 1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios l
 - id: c-24610
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios
     organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasau-

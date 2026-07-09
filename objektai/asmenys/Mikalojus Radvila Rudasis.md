@@ -311,6 +311,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 - id: c-42142
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Iš Polocko su savo kariuomene kuni-
     gaikštis P. Šuiskis pajudėjo sausio 23 d.
@@ -337,6 +338,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 - id: c-42143
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     M. Radvila Rudasis galėjo turėti tik nuo
 
@@ -352,6 +354,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 - id: c-105074
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Nenorėdamas leisti maskvėnų pajėgoms
     susijungti, jis nurodė nedelsiant pradėti
@@ -374,6 +377,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 - id: c-105076
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tuomet Vilniaus pirkliai ir gyventojai, prisidengdami pri­
     vilegijomis, ir spyrėsi nemokėti muito. Radvila užsistojo juos,
@@ -402,6 +406,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 - id: c-105077
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Kalvinizmas vėliau pradėjo nykti, tačiau išliko
     iki šių dienų. Apie Biržus gyvenantys evangelikai reformatai yra tiesiogi-
@@ -418,6 +423,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 - id: c-105078
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Užrašas ant laiško: Illustri ac Magnifico Domino
     Nicolao Radivilo Duci in Dubingi et Berze Palatino Vilnensi ac

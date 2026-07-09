@@ -75,6 +75,7 @@ Papildomos aiškios formos neišskirtos.
 - id: c-09588
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Pasitiekus po kelių nedėlių^440 , kaip buvo sutarta, jaunasis sukvietęs savo gentis, susiedus ir
         prietelius, tarp kurių vienas buvo jų vyresniuoju, arba gaspadorium, vadinamas marčelga, nuo to,

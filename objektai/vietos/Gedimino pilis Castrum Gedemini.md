@@ -213,6 +213,7 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
 - id: c-81872
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šitai vyko viešpataujant Lie­
     tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
@@ -231,6 +232,7 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
 - id: c-81873
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     387); anot jos, Ragainės komtūras Fridri­
     chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
@@ -255,6 +257,7 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
 - id: c-81874
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jeigu mes net tarsime, kad ta pilis Vilniuje
     gerokai anksčiau pastatyta, tai Dusburgas, Gedimino
@@ -279,6 +282,7 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
 - id: c-81875
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­
     du gyvavęs dar iki Gedimino laikų. Hartknochas Dusbur-

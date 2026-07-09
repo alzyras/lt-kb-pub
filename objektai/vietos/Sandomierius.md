@@ -158,6 +158,7 @@ media_all_json: |-
 - id: c-32409
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1296 lietuviai įsiveržė į
     Sandomieriaus ir Kujavijos žemes. 1300 jie vėl pasirodė Dobry­
@@ -174,6 +175,7 @@ media_all_json: |-
 - id: c-34032
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1300 jie vėl pasirodė Dobry­
     niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge
@@ -191,6 +193,7 @@ media_all_json: |-
 - id: c-167764
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tęsdamas tėvo nurodytą politiką, Vytenis ne mažiau
     intensyviai iki 1307 puldinėjo Lenkiją. 1296 lietuviai įsiveržė į

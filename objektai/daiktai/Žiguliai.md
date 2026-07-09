@@ -89,6 +89,7 @@ Nenurodyta
 - id: c-41115
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     | Kaip su šautuvais nepastebėtiems atsidurti kitoje
     | Neries pusėje? Vienas iš mūsiškių pasiūlė papra-

@@ -64,6 +64,7 @@ Dusburgietis teigia, kad dzežgonis) Žalgirio mūšio laukas (dab.
 - id: c-59387
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dzežgonis)
 

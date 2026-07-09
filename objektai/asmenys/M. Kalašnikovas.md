@@ -88,6 +88,7 @@ Statybininkų šalmai ir dujokaukės - gautos Vilniaus miesto tarybos | | Lietuv
 - id: c-44441
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Maistą taip pat aukojo gyventojai
     ir maitinimo įmonės. Statybines medžiagas

@@ -61,6 +61,7 @@ IV, Pagal pono Riterio dėstymą ir paaiškinimus (Vorhalle der europäischer V�
 - id: c-177295
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     3 Herodot. Lib. IV, Pagal pono Riterio dėstymą ir paaiškinimus
     (Vorhalle der europäischer Völkergesch.

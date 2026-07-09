@@ -220,6 +220,7 @@ media_all_json: |-
 - id: c-170850
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
     riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
@@ -242,6 +243,7 @@ media_all_json: |-
 - id: c-170851
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata
     trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie­
@@ -262,6 +264,7 @@ media_all_json: |-
 - id: c-170852
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-
     loginės pakraipos politinių grupuočių (neretai pasivadinusių partijomis),

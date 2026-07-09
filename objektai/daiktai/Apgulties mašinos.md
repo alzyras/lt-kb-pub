@@ -104,6 +104,7 @@ Nenurodyta
 - id: c-163160
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     O 1272 m. jis iš žiemgalių atsiėmė porą per sukilimą kri­
     tusių pilių, būtent, Tervetę ir Mežotnę, ir pajungtuosius privertė mo­

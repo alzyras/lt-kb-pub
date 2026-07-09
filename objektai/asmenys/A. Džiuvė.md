@@ -70,6 +70,7 @@ Džiuvė su 3 kuopa žvalgė SudeikiųTalaikių-Kušneriūnų rajoną.
 - id: c-41499
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Birželio 1 d. Zechau, Musteikio ko-
     lonos kariai vykdė žvalgybą. Karin.

@@ -101,6 +101,7 @@ Nenurodyta
 - id: c-172605
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     BLINDÉ, Blinda. Dešiniajame Nemuno krante, žemiau
     Jurbarko, Kalnėnų (Kaliniany) kaime, 1805 metų vieną sek­

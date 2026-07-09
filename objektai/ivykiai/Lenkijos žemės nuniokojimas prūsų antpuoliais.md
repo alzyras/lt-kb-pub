@@ -166,6 +166,7 @@ Nenurodyta
 - id: c-66852
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     164 Rašydamas apie 250 sudegintų parapinių bažnyčių Konrado valdose. Dusburgietis
     perdeda: netiksliai interpretuoja savo šaltinį (SRP, 5, p. 159), matyt, norėdamas padidinti
@@ -180,6 +181,7 @@ Nenurodyta
 - id: c-66853
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Lenkijos žemės nuniokojimą
 

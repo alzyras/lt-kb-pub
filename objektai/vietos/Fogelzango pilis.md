@@ -94,6 +94,7 @@ media_all_json: |-
 - id: c-71239
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
     Čia jie gavo iš Konrado

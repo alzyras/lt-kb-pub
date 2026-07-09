@@ -122,6 +122,7 @@ Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo many
 - id: c-172034
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lettische Grammatik,
     184
@@ -147,6 +148,7 @@ Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo many
 - id: c-172035
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tegu mitologai sako ką nori apie senovės egiptiečių religi­
     ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,

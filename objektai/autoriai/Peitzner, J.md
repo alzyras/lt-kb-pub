@@ -78,6 +78,7 @@ Hruševskoho, I, 1928, Kijiv, 165-168 p. — Peitzner, J.
 - id: c-33103
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — Petkun’, P. : _Schidnia meža Ve-
     lykoho Knjazistva Lytovskoho v 30-ach rokach XV storiččja,_ Juvilejnyj

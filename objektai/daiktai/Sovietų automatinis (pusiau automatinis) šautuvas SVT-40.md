@@ -136,6 +136,7 @@ Nenurodyta
 - id: c-41086
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Skubiu atveju buvo galimybė šiuo ginklu
     šaudyti ir automatine ugnimi, tačiau toks šaudymas buvo labai neefektyvus, nes ginklas buvo

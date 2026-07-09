@@ -197,6 +197,7 @@ media_all_json: |-
 - id: c-171789
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nematyti jokio užrašo.
     1826 metais Lydos apskrityje, netoli Ogrodnikų kaimo, Šal­
@@ -213,6 +214,7 @@ media_all_json: |-
 - id: c-171790
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ragelienė (Ragutienie)
     Dievo Ragučio žynės; vieną užuominą apie jas radau žmo­
@@ -231,6 +233,7 @@ media_all_json: |-
 - id: c-171791
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vienoda jų sandara ir tokia pat radimo vieta įtikina,
     jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
@@ -249,6 +252,7 @@ media_all_json: |-
 - id: c-177135
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai palikimas seniausių šios žemės gyvento­
     jų, kurie dar nemokėjo naudoti geležies. Vilniaus akademijos

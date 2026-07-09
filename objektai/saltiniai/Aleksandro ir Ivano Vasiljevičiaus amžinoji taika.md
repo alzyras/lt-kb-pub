@@ -66,6 +66,7 @@ Nuvykę į Maskvą, pas didįjį kunigaikštį Ivaną VaSiljevičių, jie sudar�
 - id: c-176771
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Nuvykę į Maskvą, pas didįjį kunigaikštį Ivaną Va-
     Siljevičių, jie sudarė su juo amžiną taiką ir, sutvirtin­

@@ -251,6 +251,7 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - id: c-175025
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Buvo sudaužytos gimtųjų dievų statulos, su­
     griautos šventyklos, iškirsti šventieji šilai, įvesta kita
@@ -278,6 +279,7 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - id: c-175026
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ginkluoti krikštyto­
     jai, turėdami laukines širdis ir atlikdami baisius darbus,
@@ -305,6 +307,7 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - id: c-175027
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau jis nesuskubo įgyvendin­
     ti visų savo ketinimų. Iš tikrųjų jis negailėjo darbo, bet
@@ -322,6 +325,7 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - id: c-175346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš tikrųjų jis negailėjo darbo, bet
     nemokėjo juo laimingai naudotis. Prūsų kronikininkai pa­

@@ -165,6 +165,7 @@ media_all_json: |-
 - id: c-44189
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Į šią kry-
     žiaus karo akciją buvo įtraukti ir prieš tuo
@@ -186,6 +187,7 @@ media_all_json: |-
 - id: c-104837
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Be to, dar leidžia kapitulai
     imti kas dešimtą sugautą žuvį ka­

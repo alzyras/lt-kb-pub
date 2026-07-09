@@ -155,6 +155,7 @@ Nenurodyta
 - id: c-63820
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sitai ir buvo ženklas bei požymis,
     rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija. Vis dėlto šis skilimas
@@ -172,6 +173,7 @@ Nenurodyta
 - id: c-63821
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,
     apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi —
@@ -191,6 +193,7 @@ Nenurodyta
 - id: c-63822
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     115. Apie tris saulės spindulius ir kolegijos suskilimą
 

@@ -257,6 +257,7 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
 - id: c-170426
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     BK autoriaus ypatingas dėmesys kovoms su Krymo totoriais,
     pradedant 1502 m., paaiškinamas, be kitko, tuo, kad iki 1502 m.
@@ -275,6 +276,7 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
 - id: c-170427
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Vytauto pasirodymas Dniepro žemupio plotuose, užvaldymas
     anos klajoklių bei nomadų tautų (vengrų, pečeniegų, chazarų, po­
@@ -299,6 +301,7 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
 - id: c-170428
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     44, past. 9.
     33 Ač-Girėjaus valdym o metais Krymo totorių sostinė buvo ne
@@ -316,6 +319,7 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
 - id: c-170649
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     27 Perckopas — slaviškas pavadinimas sąsmaukos, jungiančios
     Krymo pusiasalį su žemynu. Dar senovėje gynybos tikslais ši są­

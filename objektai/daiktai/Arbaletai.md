@@ -116,6 +116,7 @@ Nenurodyta
 - id: c-170014
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
     ir jotvingius. O rytojaus metą prieš vokiečius išjojo

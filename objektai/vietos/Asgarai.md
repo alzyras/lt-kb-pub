@@ -116,6 +116,7 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
 - id: c-175578
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Antroji šiandien vadinama Ašva; ji prasideda taip
     pat Raseinių apskrityje, plaukia pietų link, įteka į Veivir­
@@ -135,6 +136,7 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
 - id: c-175579
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Galbūt Minijos upė senovėje, kai ji įplaukdavo į
     Memelį (§182), labiau tiko laivybai. Dėl netikėtų kliūčių

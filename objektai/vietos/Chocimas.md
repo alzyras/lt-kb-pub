@@ -79,6 +79,7 @@ Jis pastojo turkams kelią Dniestro paupy, ties Chocimu.
 - id: c-02631
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kai 1621 m. Lenkiją užpuolė didžiulė 300.000 turkų kariuo-
     menė, surinkus 40.000 lenkų ir lietuvių, buvo jam pavesta vado-

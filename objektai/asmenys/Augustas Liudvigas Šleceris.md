@@ -63,6 +63,7 @@ Augustas Liudvigas Šleceris tikėjo Litalanu ir Palemonu, buvusi duoklė savaja
 - id: c-176188
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tai,
     kad jis tikėjo Litalanu ir Palemonu, buvusi duoklė sa­

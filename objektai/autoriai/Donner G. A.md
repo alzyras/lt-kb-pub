@@ -64,6 +64,7 @@ Dusburgietis teigia, kad 140 Donner G.
 - id: c-61322
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     140 Donner G. A. Kardinai Wilhelm von Sabina, S. 233—413.
   statusas: verified

@@ -140,6 +140,7 @@ Nenurodyta
 - id: c-63632
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Valdovui Čekijos karaliui išvykus, magistras  ir broliai netruko paruošti visa, kas
     reikalinga  pilių  statybai,  ir,  pasitelkę jiems  ištikimus prūsus, atžygiavo su didele
@@ -160,6 +161,7 @@ Nenurodyta
 - id: c-63633
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     72 (71). Apie Karaliaučiaus, arba Tvankstės, pilies pastatymą
 

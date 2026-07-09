@@ -77,6 +77,7 @@ Juozapas Hačevskis leidinyje „Muzeum Domome“ 1837 m. paskelbė išsamų str
 - id: c-174731
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     2 Thunberg, Podroi. T. IV. S. 402; išsamų straipsnį apie gintarą
     parašė ponas Juozapas Hačevskis (Muzeum Domome. R., 1837).

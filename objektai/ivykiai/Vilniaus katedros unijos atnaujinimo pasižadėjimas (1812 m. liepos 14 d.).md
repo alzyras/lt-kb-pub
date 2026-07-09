@@ -92,6 +92,7 @@ Nenurodyta
 - id: c-02084
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kaip
     tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri

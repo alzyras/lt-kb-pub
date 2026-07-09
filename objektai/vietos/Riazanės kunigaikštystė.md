@@ -104,6 +104,7 @@ Vytautas vystė puolimą į Riazanės kunigaikštystę, gindamas savo pozicijas 
 - id: c-76974
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Riazanės didysis kunigaikš-
     tis Olegas ir kiti „ėjo prieš Lietuvą ir

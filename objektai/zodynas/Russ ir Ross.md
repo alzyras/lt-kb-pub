@@ -241,6 +241,7 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
 - id: c-175055
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     sudaro daugelio žodžių šaknį1, Tiriant lietuvių kalbą, pa­
     vyko rasti tą patį žodį Russ vienoje dainelėje, kuri buvo
@@ -263,6 +264,7 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
 - id: c-175057
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šventajame Rašte, pas pranašą Ezechielį, mokslininkai
     aptinka žodį Ross ar Russ, kurį vieni laiko tam tikros
@@ -284,6 +286,7 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
 - id: c-175058
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tai tarsi natū­
     ralus taip puikiai lenkiškai skambančios Trembeckio pa­

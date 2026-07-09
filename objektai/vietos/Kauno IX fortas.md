@@ -66,6 +66,7 @@ Be to, Kauno IX forte sušaudyti apie 6–8 tūkst.
 - id: c-24165
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuvos žydų (su Vilniaus kraštu). Buvo
     išgelbėti ar išgyveno apie 8 000, dar apie 8–9000 liko gyvi, nes spėjo pa-

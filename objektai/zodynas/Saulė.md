@@ -148,6 +148,7 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
 - id: c-172064
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     185
 
@@ -169,6 +170,7 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
 - id: c-172065
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Saulės rūmai buvo rytuose, kur buvo šventa ir palaiminta
     šalis, lietuvių protėvių tėvynė -  rytų šalis (Aušinimą zemme).
@@ -189,6 +191,7 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
 - id: c-172066
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­
     jai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir

@@ -77,6 +77,7 @@ Forstreuter : Die Bekehrung des Litauerkönigs Gedimin, (žr. : Die Bekehrung Ge
 - id: c-33601
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     2, 3, 1914, 219-255, 257-319 p.—
     Forstbeuter, K. : _Die Bekehrung Gedimins und der Deutsche Orden,_

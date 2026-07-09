@@ -162,6 +162,7 @@ Nenurodyta
 - id: c-02172
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Lenkų reikalaujami, jie sutiko pasirašyti naują aktą,
     normuojantį Lietuvos ir Lenkijos santykius; juo turėjo įvykti
@@ -184,6 +185,7 @@ Nenurodyta
 - id: c-02173
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Akte yra sakoma: Kad būtų viena tauta, viena visuomenė,
     viena brolija **_(fraternitas)_** ir bendri seimai, o tam vienam kūnui —
@@ -201,6 +203,7 @@ Nenurodyta
 - id: c-02174
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Buvo sušaukta nemaža
     bendrų seimų, tačiau jie, nieko neišsprendę, pasibaigdavo gana

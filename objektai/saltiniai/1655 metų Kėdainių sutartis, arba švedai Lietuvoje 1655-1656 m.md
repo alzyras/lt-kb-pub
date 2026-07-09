@@ -84,6 +84,7 @@ Nespausdinta yra likusi Lietuvoje Šapokos habilitacija « 1655 metų Kėdainių
 - id: c-33503
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tuo atžvilgiu Šapoka dar
     labiau šaltiniais pagrindė tezę I. Lappo, su kuriuo nuo savo studijų

@@ -96,6 +96,7 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
 - id: c-67418
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Visi jo artimieji patarėjai taip pat buvo katalikai,
     daugiausia jėzuitai. Didžiausia jo svajonė buvo sunaikinti pro-
@@ -114,6 +115,7 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
 - id: c-67419
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Dėl jo
     tolerancijos, renkant karalium, jį palaikė beveik visi protes-

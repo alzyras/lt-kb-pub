@@ -124,6 +124,7 @@ Gorodokas veikiausiai tapatinamas su Davidgorodoku. Davidgorodokas lokalizuojama
 - id: c-170286
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     27 Ir 28).
     7 1  Gričino pelkės — didžiuliai pelkių plotai j pietus nuo Slucko.

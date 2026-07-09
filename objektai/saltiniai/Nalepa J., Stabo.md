@@ -77,6 +77,7 @@ Dusburgietis teigia, kad stabo — dab.
 - id: c-61824
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nauji vietovardžių tyrimai (ež. Stabo — dab. Kamienne  ir
     kt.) Mėrūniškių regione (į šiaurės vakarus nuo Suvalkų) rodo, kad nusiaubtose savose

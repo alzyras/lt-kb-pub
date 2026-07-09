@@ -74,6 +74,7 @@ Narbutas Kruonį (Kronį), arba Metą, aprašė kaip senovės lietuvių ir kurš
 - id: c-172117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kruonis (Kronis)
     Laiko deivė, valdanti metų laikus. Kitaip vadinosi Meta

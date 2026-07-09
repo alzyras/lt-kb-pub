@@ -81,6 +81,7 @@ Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronik
 - id: c-174521
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sakinys, kuriuo T. Narbutas papildė paragra­
     fą, rengdamas antrąjį leidimą (PEĮ. P. 378—

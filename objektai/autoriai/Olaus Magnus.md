@@ -69,6 +69,7 @@ media_all_json: |-
 - id: c-177239
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     P. 183*- Turima omenyje Olafo Monsono (1490-1558)
     „Šiaurės tautų istorija“ (Olaus Magnus. Gentium

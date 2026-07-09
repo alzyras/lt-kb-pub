@@ -271,6 +271,7 @@ media_all_json: |-
 - id: c-158109
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Item Decima in Wieprze om­
     nis Grani praeter Avenam et Strenam, Sive Columbationem
@@ -303,6 +304,7 @@ media_all_json: |-
 - id: c-158111
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tai­
     gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­
@@ -337,6 +339,7 @@ media_all_json: |-
 - id: c-158112
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Taigi
     mes, Žygimantas, DIEVO malone Lenkijos karalius, didysis
@@ -371,6 +374,7 @@ media_all_json: |-
 - id: c-158113
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Po Aleksandro atėjusiems Lietuvos valdovams teko kuo rim­
     čiausiai pasistengti, kad Lietuvos miestiečių luomui būtų

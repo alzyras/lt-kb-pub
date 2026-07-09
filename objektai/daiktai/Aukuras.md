@@ -305,6 +305,7 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Iš
     visų Gedimino giminės, kunigaikščių jis sudarė lietuviškiausią
@@ -324,6 +325,7 @@ Nenurodyta
 - id: c-55376
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Ties ta
     puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­
@@ -348,6 +350,7 @@ Nenurodyta
 - id: c-55377
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau Vilniaus istorija prasideda tik 1321 metais, kai
     Gediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,
@@ -365,6 +368,7 @@ Nenurodyta
 - id: c-171269
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Aukurai, ragai (Roha)21 2
     Senovės žmonių aukurai -  tai tam tikro aukščio pakiles­
@@ -386,6 +390,7 @@ Nenurodyta
 - id: c-177012
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų
     dievams, -  tai matėme iš straipsnio „Ganiklis“. Apie panašų

@@ -121,6 +121,7 @@ Nenurodyta
 - id: c-169949
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1 1 LDK kariuomenė atžygiavo prie M stislavlio 1386.1V.29.
     1 J Mūšis įvyko prie Sožo intako Vechros, prie kurios stovi

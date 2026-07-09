@@ -161,6 +161,7 @@ Nenurodyta
 - id: c-169075
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pirmiausia
     ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
@@ -190,6 +191,7 @@ Nenurodyta
 - id: c-169076
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pėstininkai, kurie tuo metu iš paskutiniųjų rengėsi
     pulti gynybines sienas ir kuriems buvo visai iš galvos

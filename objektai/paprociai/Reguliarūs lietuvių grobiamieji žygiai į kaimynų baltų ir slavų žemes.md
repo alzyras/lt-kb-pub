@@ -91,6 +91,7 @@ Nenurodyta
 - id: c-12295
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Rusios veržimasis buvo galuti-
     nai atremtas ir XII-XIII a. sandūroje lietuviai tapo aktyviausia jėga

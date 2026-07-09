@@ -79,6 +79,7 @@ media_all_json: |-
 - id: c-40429
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1346 m. balandį įsiveržę į Livoniją lietu-
     viai sunaikino Mežuotnės pilį, nukovė kom-

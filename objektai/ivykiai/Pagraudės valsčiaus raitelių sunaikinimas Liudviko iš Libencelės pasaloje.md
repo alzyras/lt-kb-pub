@@ -142,6 +142,7 @@ Nenurodyta
 - id: c-63745
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kitą
     kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o
@@ -160,6 +161,7 @@ Nenurodyta
 - id: c-63746
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Romainiai, kuris pagal jų papročius buvo laikomas šventuoju543, o visus gyventojus paėmė
     į nelaisvę arba išžudė. Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu. Kitą
@@ -177,6 +179,7 @@ Nenurodyta
 - id: c-63747
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu. Kitą
     kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o

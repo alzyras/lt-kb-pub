@@ -118,6 +118,7 @@ media_all_json: |-
 - id: c-44812
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Migučionių kautynės netoli Onuškio, pasala Kačėnų kaime
     siautėjusiems Daugų stribams, išsiveržimas su minimalias nuostoliais iš
@@ -135,6 +136,7 @@ media_all_json: |-
 - id: c-44813
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1945 m. buvo išrinktas Šarūno rin-
     ktinės vadu. Jam vadovaujant pa-

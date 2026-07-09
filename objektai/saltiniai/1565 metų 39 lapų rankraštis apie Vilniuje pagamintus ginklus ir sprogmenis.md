@@ -176,6 +176,7 @@ Nenurodyta
 - id: c-84155
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     IV KNYGA
     mūsų ponams tarėjams, seniūnams ir pareigūnams, nuošir­
@@ -212,6 +213,7 @@ Nenurodyta
 - id: c-84156
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­
     dinęs ginklus ir pilis) tik Lietuvos provincijoje. Čia tektų pri­
@@ -228,6 +230,7 @@ Nenurodyta
 - id: c-84157
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Salietros ir sieros: 55 centnerius, 23 svarus.
     Įvairių kulkų - 88 352.

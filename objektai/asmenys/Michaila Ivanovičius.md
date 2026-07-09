@@ -73,6 +73,7 @@ Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Iva
 - id: c-169599
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     N u n io k o jęs L ietuvą, B oleslovas n u ­
     sivedė k ariu o m en ę į V itebską. Žygio m etu  paėm ęs į n e ­

@@ -76,6 +76,7 @@ Mūšio išvakarėse 1359 m. Livonijos magistras surengė didelį žygį prieš 
 - id: c-176450
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tačiau tai, be abejo, nebuvo priimtina nei
     Šventosios Romos imperijai, nei Ordinui.

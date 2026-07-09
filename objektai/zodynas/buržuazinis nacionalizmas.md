@@ -126,6 +126,7 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
 - id: c-69200
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Visoje SSRS kalinius ir
     tremtinius pradėta leisti į laisvę. Nors Lietuvos komunistų administracija
@@ -147,6 +148,7 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
 - id: c-166800
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Vengrijos revoliuci-
     jos ir tais pačiais metais Lenkijoje vykusio Poznanės darbininkų sukilimo

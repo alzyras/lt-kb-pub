@@ -153,6 +153,7 @@ Nenurodyta
 - id: c-168881
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Surminas grįžo pas valdovą nugalė­
     toju, visiems nešdamas džiaugsmą, o pats slėpdamas
@@ -186,6 +187,7 @@ Nenurodyta
 - id: c-168882
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Dėl to kryžiuočiai
     skaudžiai kentė maisto stoką, nes kaimuose, neseniai

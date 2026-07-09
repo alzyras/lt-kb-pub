@@ -79,6 +79,7 @@ Narbutas žvaigždininką (Zwajždinikas) sieja su pranašavimu iš žvaigždži
 - id: c-172239
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Natūralu, kad tai buvo
     geriausia dingstis atspėti ateitį ir išaiškinti sapną, taikliausias

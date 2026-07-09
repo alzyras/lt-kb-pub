@@ -297,6 +297,7 @@ media_all_json: |-
 - id: c-169494
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Skir­
     mantas, norėdamas kuo greičiausiai atremti pavojų,
@@ -332,6 +333,7 @@ media_all_json: |-
 - id: c-171460
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Mirė maždaug prieš 1220
     metus. Jos sūnus kunigaikštis Kukovaitis prie Žaslių ežero pa­
@@ -349,6 +351,7 @@ media_all_json: |-
 - id: c-171461
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie tai dar bus mūsų is­
     torijos tęsinyje.
@@ -371,6 +374,7 @@ media_all_json: |-
 - id: c-176567
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Skirmantas nusiuntė savo pasiuntinius pas
     2ivinbudą, Lietuvos didįjį kunigaikštį, prašydamas, kad
@@ -395,6 +399,7 @@ media_all_json: |-
 - id: c-176568
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didysis kunigaikštis Skirmantas iškilmingai pasitiko
     Kukovaitį, Lietuvos didžiojo kunigaikščio Zivinbudo
@@ -421,6 +426,7 @@ media_all_json: |-
 - id: c-176569
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tąsias liepas garbino ir iki mūsų
     dienų jas tebedievina, minėdami tą Pajautą.

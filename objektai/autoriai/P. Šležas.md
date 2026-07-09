@@ -172,6 +172,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     P. Šležas. Vytauto santykiai su Lenkija ....................... 141
     P. Šležas. Vytauto konfliktas su Lenkija dėl karūnacijos ............. 205
@@ -185,6 +186,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 - id: c-30803
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Nuo Vytauto D. jubiliejinių metų (1930) Lietuvos istorijos
     dirvonuose ėmė pasirodyti vad. «jaunųjų istorikų būrelis », pirmieji
@@ -210,6 +212,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 - id: c-30804
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1923. — Sužiedėlis, S. :
     Vytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-

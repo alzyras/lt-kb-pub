@@ -82,6 +82,7 @@ Nenurodyta
 - id: c-177196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Au­
     kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­

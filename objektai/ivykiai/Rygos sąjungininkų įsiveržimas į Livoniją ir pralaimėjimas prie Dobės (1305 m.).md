@@ -94,6 +94,7 @@ Nenurodyta
 - id: c-33428
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bet ir padarę su ordinu paliaubas, rygiečiai toliau pa­
     laikė su lietuviais sąjungą. Kaip Rygos sąjungininkai, šie vėl 1305

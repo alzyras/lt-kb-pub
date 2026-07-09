@@ -78,6 +78,7 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
 - id: c-57653
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     208 Paprastus žmones, prastuomenę D. vadina communis populus  (III, 5, 188,
     249, 259, 291; Jer,— dî gemeine schar) arba ignobiles — nekilmingieji (III, 5, 220).

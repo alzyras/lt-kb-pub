@@ -160,6 +160,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Kol. = Kolankowski, L., Dzieje Wielkiego Księstwa Litewskiego
     za Jagiełłonów. Tom I. 1377—1499. Skład główny-.
@@ -175,6 +176,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     (^3) ) Žiūr. Kolankowski, L., Dzieje Wielkiego Księstwa Litewskiego za Ja­
     giellonów. Tom. 1. 1377—1490. Warszawa, 1930. Termino „diarchija“, kaip la­
@@ -190,6 +192,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     (^1) ) Lenku istorikas Kolankovskis, tiesa, pareiškė nuomone (Kolan­
     kovski, 1, 8 p.), kad visa diarchijos sistema esanti ne susitarimo, o kaip tik

@@ -85,6 +85,7 @@ media_all_json: |-
 - id: c-83866
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Rašyta Vilniaus mieste, 1507 me­
     tų gegužės 1 dieną].

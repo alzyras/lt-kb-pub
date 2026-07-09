@@ -131,6 +131,7 @@ Nenurodyta
 - id: c-62974
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
 
@@ -150,6 +151,7 @@ Nenurodyta
 - id: c-62975
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kita brolių dalis surado tik penkis
     krikščionių vaikus, kuriuos ir išsivedė. Po to broliai iš patikimų šaltinių sužinojo, kad vos

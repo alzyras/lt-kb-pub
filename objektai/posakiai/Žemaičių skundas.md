@@ -122,6 +122,7 @@ Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris 
 - id: c-28654
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo
     memoriale, kuris Konstancoje buvo ištisai paskelbtas, skundėsi
@@ -139,6 +140,7 @@ Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris 
 - id: c-167735
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Su
     pačiais gyventojais kryžiuočiai darė visokius bandymus : tai ėmė

@@ -132,6 +132,7 @@ Nenurodyta
 - id: c-173924
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Imperatorius Au-
     relianas Klaudijus stojo į kovą, galop prie Naisos Dar-
@@ -149,6 +150,7 @@ Nenurodyta
 - id: c-177265
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip ta­
     pęs imperijos piliečiu, Malabatas gavo teisę užimti joje

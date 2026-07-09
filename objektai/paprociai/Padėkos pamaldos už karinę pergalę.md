@@ -140,6 +140,7 @@ Nenurodyta
 - id: c-169240
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Į nelaisvę pakliuvo
     maskvėnų karo vadas Čeliadninas ir dešimt kitų žy­
@@ -161,6 +162,7 @@ Nenurodyta
 - id: c-169241
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Ost­
     rogiškis, sugrįžęs į Vilnių, iš visos širdies padėkojo

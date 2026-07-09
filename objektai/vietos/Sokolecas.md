@@ -79,6 +79,7 @@ Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Brac
 - id: c-168667
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Niekas taip
     D im itru i a tid u o d a  tė-

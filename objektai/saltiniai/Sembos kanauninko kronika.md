@@ -77,6 +77,7 @@ Dusburgietis teigia, kad 393 Kad mūšis įvyko 1263 m., rašoma Sembos kanaunin
 - id: c-61924
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     393  Kad mūšis įvyko 1263 m., rašoma Sembos kanauninko kronikoje (SRP, 1, p.
     282).

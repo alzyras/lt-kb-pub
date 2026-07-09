@@ -75,6 +75,7 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
 - id: c-61060
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tuo tarpu pirmoje pilyje, tai yra Girdavuose, kur
     taip pat buvo laikomos mišios, po visam pasirodė du balandžiai, kurie skraidė  ir

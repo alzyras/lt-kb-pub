@@ -146,6 +146,7 @@ Nenurodyta
 - id: c-169085
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tuo metu jau galima buvo
     manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau
@@ -170,6 +171,7 @@ Nenurodyta
 - id: c-169086
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vasario 6 šie žiauriai nuniokojo Lietuvą, o po
     to Žemaitiją. Vytautas, ligi šiol laikęs savo kariuomenę

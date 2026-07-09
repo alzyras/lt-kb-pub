@@ -83,6 +83,7 @@ Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvaži
 - id: c-170717
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     • Danijos (faktiškai nuo 1412 m.j. Norvegijos ir Švedijos ka­
     raliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranietis (1382—

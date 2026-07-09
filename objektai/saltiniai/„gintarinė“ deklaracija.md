@@ -78,6 +78,7 @@ Labai neaiškiai tuos pat siekimus tada paskelbė ir Vilniaus lietuvių būrys R
 - id: c-02567
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Politinius lietuvių siekimus
     pačioj karo pradžioj pareiškė mūsų atstovai Rusijos Dūmoj, kur

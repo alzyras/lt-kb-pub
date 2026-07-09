@@ -78,6 +78,7 @@ Puantine de Sivrej pirmuosius žmones po Tvano siejo su Pirėnais, o žemės roj
 - id: c-174566
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pagal tas pačias taisykles
     Kur de Zebelen (Court de Gebelins) savo „Monde pri­

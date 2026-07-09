@@ -175,6 +175,7 @@ Nenurodyta
 - id: c-168933
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     2uvus Tochtamyšui, tre­
     čias brolis Jerim Berdis, neišgąsdintas brolio likimo ir
@@ -200,6 +201,7 @@ Nenurodyta
 - id: c-168934
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Nepakęsdami žiauraus Kerim Berdžio viešpatavimo,
     daugybė skitų iš visos šalies suplaukė į Jerim Berdžio
@@ -217,6 +219,7 @@ Nenurodyta
 - id: c-168935
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Prasidėjo mūšis, ilgą laiką pergalė nekrypo nei
     į vieną, nei į kitą pusę, nes abi šalys turėjo tiek pat

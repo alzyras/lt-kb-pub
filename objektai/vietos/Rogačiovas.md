@@ -212,6 +212,7 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
 - id: c-171941
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kad Pavyslio, Padneprio senieji gyventojai
     ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų
@@ -230,6 +231,7 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
 - id: c-175509
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tad šis kraštas turėtų
     būti Rogačiovo apylinkėse ir aukščiau. Buvo atkakliai
@@ -248,6 +250,7 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
 - id: c-175510
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     1810 me­
     tais kaip inžinierius, įpareigotas parinkti tinkamą tvirto­
@@ -273,6 +276,7 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
 - id: c-175511
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Lankydamasis tuose kraštuose, atkreipiau dėmesį į
     tas keistas žemės kalvas. Ištisą vasarą praleidau Roga-

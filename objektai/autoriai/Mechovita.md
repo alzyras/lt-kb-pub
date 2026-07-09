@@ -164,6 +164,7 @@ Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė
 - id: c-174457
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Veikiau reikėtų daryti išva­
     dą, jog buvę keli šios Skomantų giminės kariūnai1. Me-
@@ -180,6 +181,7 @@ Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė
 - id: c-174458
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Nei
     inazovietėms, nei lenkėms, nei rusėms, nei lietuvėms ar
@@ -202,6 +204,7 @@ Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė
 - id: c-174459
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de
     duabus sarmatiis Asiana et Europiana, et de continentis in eis.

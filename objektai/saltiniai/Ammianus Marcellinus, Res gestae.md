@@ -70,6 +70,7 @@ Narbutas Ammianu Marcellinu rėmė nuomonę, kad Lety, arba Lity, prieš Kristau
 - id: c-175331
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Senovės istorikai mano, jog eg­
     zistavo tauta, vadinama Lety, arba Lity (Ammian Marceii. L. XX. P.

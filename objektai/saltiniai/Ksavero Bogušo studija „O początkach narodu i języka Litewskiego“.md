@@ -77,6 +77,7 @@ Narbutas Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę mini ka
 - id: c-173396
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Visiems javams ir žemės ūkio padargams įvardyti yra
     savi lietuviški žodžiai15.

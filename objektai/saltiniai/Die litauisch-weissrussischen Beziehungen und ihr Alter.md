@@ -89,6 +89,7 @@ media_all_json: |-
 - id: c-33553
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tokių nuo Lietuvos pusiau priklausančių žemių, kurios
     sudarė plačią zoną, lietuviai nebeliesdavo. Per jas lietuviai atlik­

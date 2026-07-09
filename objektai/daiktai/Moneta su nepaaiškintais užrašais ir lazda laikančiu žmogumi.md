@@ -87,6 +87,7 @@ Nenurodyta
 - id: c-172543
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Iki šiol negalėjau gauti užrašų paaiškinimo, nors stengiau­
     si ir siunčiau piešinius įvairiems mokovams, lyginau su įvai­

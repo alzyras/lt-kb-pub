@@ -87,6 +87,7 @@ Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingi
 - id: c-175677
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tuo atveju, jei iš sve­
     timos šalies būtų surengtas koks ¡priešiškas žygis į Jot-

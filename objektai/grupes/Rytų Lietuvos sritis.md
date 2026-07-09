@@ -159,6 +159,7 @@ media_all_json: |-
 - id: c-42917
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Po intensyvių tardymų
     bei kankinimų abu sutiko bendradarbiauti
@@ -180,6 +181,7 @@ media_all_json: |-
 - id: c-44844
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Nematydami kitos išeities, bunkeryje
     susisprogdino Rytų Lietuvos srities vadas
@@ -202,6 +204,7 @@ media_all_json: |-
 - id: c-167059
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Išdavikus ly-
     dėjo ir visą operaciją vykdė MGB 298-ojo

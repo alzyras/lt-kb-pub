@@ -161,6 +161,7 @@ media_all_json: |-
 - id: c-168710
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tuo
     dyti savo teises. Po neseniai
@@ -190,6 +191,7 @@ media_all_json: |-
 - id: c-168711
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Panašų atsakymą gavo jie ir iš
     Vytauto. Tačiau čekai neišsižadėjo savo sumanymo,
@@ -207,6 +209,7 @@ media_all_json: |-
 - id: c-168712
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Imperatorius Zigmantas,
     skriausdamas Lenkiją, vis dėlto verčiąs jį neatsisakyti

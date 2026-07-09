@@ -140,6 +140,7 @@ Nenurodyta
 - id: c-55660
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Atmindamas Vilniaus
     gyventojų ištikimybę ir nepalaužtą jų prieraišumą kivirčų
@@ -165,6 +166,7 @@ Nenurodyta
 - id: c-55661
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
     Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­

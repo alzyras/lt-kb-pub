@@ -68,6 +68,7 @@ Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu je, reikia prid�
 - id: c-177163
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     II priedas
     Apie N erčios upę

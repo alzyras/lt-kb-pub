@@ -73,6 +73,7 @@ Odesos universiteto istorikas V. V. Antono­ vičius iš šaltinių bandė tirti
 - id: c-33187
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     XIX amžiui einant į galą rusų universitetų istorikams vis
     daugiau ėmė parupti išsiaišinnti, kas buvo anoji Lietuvos valstybė,

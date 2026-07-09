@@ -71,6 +71,7 @@ Narbutas rašo, kad Hartknochas abejojo, ar prūsai mokėjo gaminti alų iki kry
 - id: c-173360
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Londono A l yra tiesiog ištobulintas šitas
     alus. Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­

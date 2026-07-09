@@ -72,6 +72,7 @@ Teodoro Narbuto pasakojime Pomponijus Mela tvirtino, kad Konstanco ežeras buvo 
 - id: c-174433
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Prie Juodosios
     jūros buvo antų gentis, kurią Peutingerio žemėlapis** va­

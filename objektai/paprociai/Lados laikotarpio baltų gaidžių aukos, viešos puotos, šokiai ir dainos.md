@@ -94,6 +94,7 @@ Nenurodyta.
 - id: c-170787
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuviai laikotarpį nuo gegužės 25 iki birželio 25 dienos
     paskirdavo Ladai. Jai buvo atnašaujami balti gaidžiai, rengtos

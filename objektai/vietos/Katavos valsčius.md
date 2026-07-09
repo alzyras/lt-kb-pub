@@ -126,6 +126,7 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 - id: c-59200
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     461 D.— Catthow, Jer.— Kattouwin. Valsčiaus vardas lyginamas su Katinava (Kalwaitis
     W., Łietuwiszkų., p. 38) resp. Katniava (buv. Kattenau, dab. Zavety), į šiaurės vakarus
@@ -150,6 +151,7 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 - id: c-59201
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     177 (172). Apie Auktuolyčių pilies užkariavimą
 

@@ -246,6 +246,7 @@ Nenurodyta
 - id: c-170041
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Tačiau šios konstitucijos veikimas visa apim-
     timi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-
@@ -273,6 +274,7 @@ Nenurodyta
 - id: c-170042
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Kalbama apie LDK herbą — Vyt). Manoma, kad anksčiausiai,
     bent XIV a. antrojoje pusėje. Vytis buvo Vilniaus žemės arba ku­

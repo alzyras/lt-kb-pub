@@ -115,6 +115,7 @@ Nenurodyta
 - id: c-169137
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vis dėlto kada esti sau­
     gūs tironai, darantys nusikaltimą po nusikaltimo? Ke­
@@ -135,6 +136,7 @@ Nenurodyta
 - id: c-176495
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tuomet Mindaugo žirgininkai — keturi tarnai — ėmė
     galvoti, kaip jiems Treniotą nužudžius. Tasai nuėjo

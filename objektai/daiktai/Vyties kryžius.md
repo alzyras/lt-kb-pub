@@ -96,6 +96,7 @@ Nenurodyta
 - id: c-42573
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     p. 185, „Pirmasis Vyties Kryžiaus apdovanojimas karių, pasižymėjusių fronte 1919 m.“,
 

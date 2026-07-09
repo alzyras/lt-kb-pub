@@ -173,6 +173,7 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
 - id: c-175064
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Bet mes
     negalime sutikti su šia nuomone, nes daug ko negalima
@@ -194,6 +195,7 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
 - id: c-175065
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     P. 3 11. Čia dyk­
     ra — Solitudo, Giria. Pagaliau tegu mokslininkai kaip
@@ -214,6 +216,7 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
 - id: c-175342
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Reikėtų
     atsisakyti šio aiškinimo, nes paminklas daug senesnis už

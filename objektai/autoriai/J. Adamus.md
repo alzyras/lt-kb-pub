@@ -158,6 +158,7 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
 - id: c-32950
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Zajączkowski :** **_Studia nad dziejami Żmudzi wieku XIII,_** **Lwów
     1925;** **_Dzieje Litwy pogańskiej do 1386_** **r., Lwów 1930;** **_Wołyń pod panowa­
@@ -177,6 +178,7 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
 - id: c-32951
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Adamus, J. : _O tytule panującego i paóstwa litewskiego,_ KH, t. 49,
     1930, 313-332 p. — Būtėnas, P. : _Lietuvos sostinė Vilnius,_ Karys, 1973,
@@ -199,6 +201,7 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
 - id: c-32952
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tik Algirdui vėl pasisekė (1353)
     šimtui metų laimėti atskirus metropolitus Lietuvai. Tačiau netu­

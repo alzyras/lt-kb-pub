@@ -84,6 +84,7 @@ Taigi greitai, 1385 metais, mažamečiai Vy­ tauto sūnūs, Jonas ir Jurgis, bu
 - id: c-83719
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kokios bu­
     vo šios sutarties pasekmės? Taigi

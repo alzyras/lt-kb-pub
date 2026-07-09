@@ -98,6 +98,7 @@ Nenurodyta
 - id: c-60344
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     XVI a. 1-oje pusėje S. Grunau rašė, jog Romovėje resp. Romuvoje augęs milžiniškas
     ąžuolas, kurio kamienas buvęs padalytas  į tris lygias dalis, kiekvienoje jų — iškirstas

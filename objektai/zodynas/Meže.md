@@ -143,6 +143,7 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
 - id: c-175066
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­
     ko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­
@@ -160,6 +161,7 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
 - id: c-175345
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Nuo seno čia gyvenę
     žmonės žuvo kariaudami su slavais arba pasitraukė į

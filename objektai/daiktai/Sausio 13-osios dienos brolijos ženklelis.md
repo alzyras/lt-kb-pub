@@ -84,6 +84,7 @@ Nenurodyta
 - id: c-42545
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     p. 251, Sausio 13-osios dienos brolijos (organizacijos, vienijančios Sausio įvykių dalyvius)
     ženklelis, dail. Domantas Vildžiūnas, Karolio Zikaro nuotr.

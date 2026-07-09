@@ -310,6 +310,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
 - id: c-173174
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Visiems javams ir žemės ūkio padargams įvardyti yra
     savi lietuviški žodžiai15.
@@ -332,6 +333,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
 - id: c-173175
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai buvo piktųjų dvasių apgaulė; ty-
     kodamos prie vandens, suvedžiodamos žmones, jos stengėsi
@@ -349,6 +351,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
 - id: c-173176
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dainos.
     177
@@ -371,6 +374,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
 - id: c-173177
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     11. Vasaris (Wassaris) -pavasarinis, arba veikiau Pawassa-
     ris. Kitaip pasak kunigo Sirvydo: Lutis (liūtis) -  lietingas, arba
@@ -385,6 +389,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
 - id: c-173630
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     1 Bogušo disertacija. P. 45; K. Sirvydo žodynas. P. 3 11. Čia dyk­
     ra — Solitudo, Giria.
@@ -398,6 +403,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
 - id: c-173631
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau ši prielaida žlunga, jei atkreipsime dė­
     mesį, jog tikroji Lietuva, nors ją ir laikytų rusų slavų nu­
@@ -414,6 +420,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
 - id: c-176259
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Nors sporadiškai lietuviškų knygų leidimas nenutrūko per visą Ba-
     roko epochą, jų būta gerokai mažiau nei lenkiškų ar lotyniškų. Iškalbin-

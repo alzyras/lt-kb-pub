@@ -170,6 +170,7 @@ Nenurodyta
 - id: c-83006
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau Šv. Petro baž­
     nyčia tikriausiai pastatydinta Vladis­
@@ -190,6 +191,7 @@ Nenurodyta
 - id: c-83007
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Čia pirmiau­
     sia mūsų lietuvių tauta Dievui nu­

@@ -74,6 +74,7 @@ Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir aps
 - id: c-171969
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tikras dalykas yra tik tai, kad Arak-
     so upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip

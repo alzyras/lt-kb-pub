@@ -133,6 +133,7 @@ Nenurodyta
 - id: c-44899
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1920 m. vasario 22-23 d. Kaune kilo bolše-
     vikų sukurstytas maištas, jo pergalė būtų įrodžiusi Lenkijos tarptautinę
@@ -153,6 +154,7 @@ Nenurodyta
 - id: c-44900
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1920 m. pradžioje lenkai pradėjo telkti dideles pajėgas palei de-
     markacijos liniją su Lietuva. 1920 m. vasario 22-23 d. Kaune kilo bolše-

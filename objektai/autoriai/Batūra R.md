@@ -129,6 +129,7 @@ Dusburgietis teigia, kad batūra R datuojamas ir 1263 m.) organizavo Mindaugas, 
 - id: c-87581
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Minėtieji Numa ir
       520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos
@@ -146,6 +147,7 @@ Dusburgietis teigia, kad batūra R datuojamas ir 1263 m.) organizavo Mindaugas, 
 - id: c-87582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie daugy­
                                   bės krikščionių žūtį

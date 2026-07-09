@@ -89,6 +89,7 @@ LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo dip
 - id: c-21990
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     F. Ruzvelto išleistas įsakymas, kuriuo įšaldy-
     tos JAV bankuose laikytos Baltijos valstybių

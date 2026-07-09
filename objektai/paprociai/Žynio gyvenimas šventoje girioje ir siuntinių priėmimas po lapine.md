@@ -83,6 +83,7 @@ Nenurodyta
 - id: c-10058
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Tas kūrėjų kūrėjas svetimų
         siuntinių^968 , nuo tolimų tolimesnių kraštų atėjusių jo teirautis, neprileido prie savęs, bet per savo tarnus,

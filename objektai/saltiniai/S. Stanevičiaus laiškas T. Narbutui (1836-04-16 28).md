@@ -86,6 +86,7 @@ Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose rašytu laišku Teodor
 - id: c-174736
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip tvirtina ponas Simonas
     Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio au­

@@ -131,6 +131,7 @@ Nenurodyta
 - id: c-169092
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tą pačią naktį Jogaila, pamynęs draugystės bei
     giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
@@ -161,6 +162,7 @@ Nenurodyta
 - id: c-176086
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Deja, Jogailos širdis, vis labiau tūžtanti ir keršto
     trokštanti, nenurimo. Jis įsakė ratu nukankinti Vidi-

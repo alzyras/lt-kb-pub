@@ -64,6 +64,7 @@ p. 95, „LIETUVOS KARIUOMENE XVI A.“ Lina Vidauskyte, Andžej Geglis, Karolis
 - id: c-45002
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     p. 95, „LIETUVOS KARIUOMENE XVI A.“ Lina Vidauskyte, Andžej Geglis, Karolis Zikaras.
     p. 98, „HUSARŲ ORGANIZACIJA XVII A.“, Andžej Geglis, Karolis Zikaras.

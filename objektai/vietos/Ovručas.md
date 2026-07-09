@@ -201,6 +201,7 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Šį kartą susirėmimų buvo išvengta: viskas pasibaigė
     Vytauto pagrasinimu. Tik 1394 metais jis puolė Vladimiro že­
@@ -217,6 +218,7 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
 - id: c-168436
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Išsiuntęs kariuomenę į žiemos stovyklą,
     pats žiemą praleido Breste, gal norėdamas, kaip ki­
@@ -264,6 +266,7 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
 - id: c-170575
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir kai totoriai pribėgo Ceprą, bemaž visi upėje ir
     pelkėje prigėrė; taip daug totorių ir jų arklių buvo

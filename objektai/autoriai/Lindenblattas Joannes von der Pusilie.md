@@ -158,6 +158,7 @@ media_all_json: |-
 - id: c-84006
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     45
     Lindenblatto kronikos leidėjai
@@ -174,6 +175,7 @@ media_all_json: |-
 - id: c-84007
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     33
     Lindenblatt Jahrbücher etc., p. 76,
@@ -191,6 +193,7 @@ media_all_json: |-
 - id: c-84008
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Olesnickis,
     užbėgdamas kryžiuočiams už akių, buvo priverstas paau­

@@ -120,6 +120,7 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
 - id: c-173272
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
     jų visiškai negalima pripažinti teisingais. Ponas Foigtas trokš­
@@ -136,6 +137,7 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
 - id: c-177049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tie­
     sa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,

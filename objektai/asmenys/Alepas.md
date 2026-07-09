@@ -336,6 +336,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 - id: c-170890
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tada būtų pridėtos
     žyniavimo pradžios, mirties datos bei kitos smulkmenos, su­
@@ -357,6 +358,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 - id: c-170891
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Paga­
     liau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
@@ -381,6 +383,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 - id: c-170892
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Todėl vyriausiųjų žy­
     nių sąrašo autentiškumas nekelia įtarimo. Paskutinis Prūsijos
@@ -404,6 +407,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 - id: c-170894
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tačiau dievai beveik niekad nepriimdavo šių maldavimų
     ir aukų, kol pagaliau man pasakė: „Nesame pajėgūs tai pada­
@@ -426,6 +430,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 - id: c-173529
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pagyvenęs su atgaila, netru­
     kus pasimirė kaip krikščionis14.
@@ -446,6 +451,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 - id: c-173530
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ma­
     tyt, autorius turėjo rankoje istorijos šaltinį, iš kurio pasisėmė

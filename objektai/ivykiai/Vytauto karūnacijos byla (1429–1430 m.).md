@@ -271,6 +271,7 @@ Nenurodyta
 - id: c-04918
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Kada jau tarp Lenkijos ir Lietuvos sklido karo gandas, lenkai,
     nebegalėdami Vytauto sulaikyti nuo vainiko — nes ir vainikavimo
@@ -289,6 +290,7 @@ Nenurodyta
 - id: c-67061
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Vytautui tai davė progos Jogailą kaltinti, jog jis
     jau visai patekęs savo patarėjų įtakon, nenorįs jų pašalinti ir nesi­
@@ -309,6 +311,7 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Tad norisi manyti, kad tokiam Vytauto atšalimui reikia ieškoti
     gilesnių priežasčių, kaip, pav., jo siekime karūnuotis Lenkijos
@@ -330,6 +333,7 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Bet ir
     šį kartą Vytautas, nežiūrint net gilios jo senatvės, dar smar­
@@ -353,6 +357,7 @@ Nenurodyta
 - id: c-67067
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tuo metu susirinkę Vilniuje daug kunigaikščių ir kitų svečių
     laukė IX.8 d. iškilmės ir Vytauto triumfo. Lenkai dar labiau su­
@@ -369,6 +374,7 @@ Nenurodyta
 - id: c-167961
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Štai todėl karalius po senato posėdžio, net neatsi­
     sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.

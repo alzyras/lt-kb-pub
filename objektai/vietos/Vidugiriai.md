@@ -155,6 +155,7 @@ media_all_json: |-
 - id: c-43983
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     „Vidugirių kaimą pasiekėme po pietų. Čia radome ką tik
     atvykusius iš Eglainės 6 pėst. [pulko] Pilėnų Kunigaikščio
@@ -169,6 +170,7 @@ media_all_json: |-
 - id: c-45404
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     | mir bataliono kariai sustoję žiūrėjo į seniai bematy-
     | tąjį 1 batalioną. Tuojau pasirodė ir pulko vadas pulkininkas
@@ -188,6 +190,7 @@ media_all_json: |-
 - id: c-45405
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1 batalionas irgi
     buvo nuvestas pailsėti pievoj.“ |

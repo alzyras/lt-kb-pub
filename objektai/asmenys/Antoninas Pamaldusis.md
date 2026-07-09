@@ -64,6 +64,7 @@ Antonino Pamaldžiojo romėniškas sidabrinis pinigas leidinyje pateiktas kaip 1
 - id: c-173013
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Sidabrinis pinigas su lietuviškais atvaizdais
     13pav. Sidabrinė moneta su tokiais pat piešiniais

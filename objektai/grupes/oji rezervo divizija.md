@@ -75,6 +75,7 @@ Vienas rusų štabo karininkas stebėjosi, kodėl sukilėliai nesurengė puolimo
 - id: c-77343
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Vangus sukilėlių kariuo-
     menės artėjimas Vilniaus link leido rusams

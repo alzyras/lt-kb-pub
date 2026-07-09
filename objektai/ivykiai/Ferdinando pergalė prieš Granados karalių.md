@@ -99,6 +99,7 @@ Nenurodyta
 - id: c-63573
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių
 

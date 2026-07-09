@@ -79,6 +79,7 @@ media_all_json: |-
 - id: c-33696
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^300) n skyrius: valstybės iškilimas
     kowa ku uczczeniu rocznicy I Statutu Litewskiego, Vilnius 1935, 214-

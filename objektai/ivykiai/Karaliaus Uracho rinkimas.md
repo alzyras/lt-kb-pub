@@ -85,6 +85,7 @@ Nenurodyta
 - id: c-01876
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Norėdama Lietuvos valstybę išgelbėti iš tos
     būklės, Taryba nusprendė pavesti ją vienam iš valdančiųjų Vo-

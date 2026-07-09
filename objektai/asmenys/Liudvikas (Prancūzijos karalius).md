@@ -175,6 +175,7 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 - id: c-60681
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie viešpaties erškėčių vainiko perkėlimą
 
@@ -196,6 +197,7 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 - id: c-60682
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     83. Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
 

@@ -69,6 +69,7 @@ media_all_json: |-
 - id: c-176778
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Čia, veikiausiai, kalbama apie Deržislovą (Dzleržek) Rytvianskį,
     tačiau Krokuvos kašteliono vietą, pačią aukščiausią Lenkijoje, jis

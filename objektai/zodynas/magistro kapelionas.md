@@ -72,6 +72,7 @@ Dusburgietis teigia, kad kronikos autorius, politiniai ir ideologiniai uždavini
 - id: c-59547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kronikos autorius, politiniai ir ideologiniai uždaviniai
 

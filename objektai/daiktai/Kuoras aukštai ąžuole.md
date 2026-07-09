@@ -99,6 +99,7 @@ Nenurodyta
 - id: c-60324
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pats matyk
     didelius dievo ženklus ir galingus jo stebuklus. Septyni Teutonų ordino broliai su keliais

@@ -120,6 +120,7 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
 - id: c-82542
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­
     mės valdų savininkams metus klajoklišką gyvenimo būdą,
@@ -142,6 +143,7 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
 - id: c-82543
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kitaip klostėsi Ispanijoje,
     kur po maurų išvarymo Kastilijos bajorija į naujai pastatytus

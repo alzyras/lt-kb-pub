@@ -82,6 +82,7 @@ Nenurodyta
 - id: c-177204
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šios rūšies paminklai buvo labiausiai naikinami Lietuvai
     priimant krikščionių tikėjimą; ypač atvertėjai -  kryžiuočių ir

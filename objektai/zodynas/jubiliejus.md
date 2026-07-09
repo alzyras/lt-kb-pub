@@ -69,6 +69,7 @@ Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais meta
 - id: c-59538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     88. Apie jubiliejaus metų indulgenciją
 

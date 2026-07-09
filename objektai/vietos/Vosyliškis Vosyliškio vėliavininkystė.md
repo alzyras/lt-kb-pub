@@ -77,6 +77,7 @@ Narbutas nurodo prie galbūt XV a. pirmosios pusės dokumento radęs antspaudą,
 - id: c-171971
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Panaši į tą lazdą, kurią turėjo vyriausiasis ku­
     405

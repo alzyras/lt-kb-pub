@@ -2040,6 +2040,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - id: c-31253
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Įvairūs lenkų autoriai į jį pažiurėjo kaip
     į tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar
@@ -2058,6 +2059,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - id: c-42906
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Mūšis
     1348 m. vasario 2 d. kautynės ko gero
@@ -2081,6 +2083,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - id: c-42907
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
     Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš
@@ -2105,6 +2108,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Salzbachą su keliais tūkstančiais kariuomenės;
     prisijungė prie Vytauto su savo pulkais ir Tochtamyšas. Tuo
@@ -2123,6 +2127,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - id: c-107971
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tarė­
     jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą
@@ -2160,6 +2165,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - id: c-107974
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Šio pokario metais Stryjkovskis ir jo kronika yra vėl sulaukę
     plataus susidomėjimo. Įvairūs lenkų autoriai į jį pažiurėjo kaip
@@ -2177,6 +2183,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - id: c-107975
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Nuga-
     lėjo tie, kurie „pradų“ diegimo praktikos nepatikėjo vietos gyventojams,
@@ -2198,6 +2205,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - id: c-167941
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Erdvilui mirus, Naugarduko kunigaikštystę valdyti
     žemių. Polocko rusai savo valstybės valdymą buvo
@@ -2217,6 +2225,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - id: c-175247
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     217
 
@@ -2240,6 +2249,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - id: c-175886
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Lietuvos
     istorijos tyrinėjimas perėjo į ru-
@@ -2265,6 +2275,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - id: c-176065
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Galop nugalėję lietuviai išvijo barbarus iš
     stovyklos: galybė priešų krito mūšyje, kur kas dau­

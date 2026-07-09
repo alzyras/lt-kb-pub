@@ -63,6 +63,7 @@ media_all_json: |-
 - id: c-177285
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kor ypač didelė
     1 Vorhalle europäischer Völkergesch.

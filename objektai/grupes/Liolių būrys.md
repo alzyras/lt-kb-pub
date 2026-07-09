@@ -68,6 +68,7 @@ Atsitraukimą dengti savanoriškai stojo Liolių būrys, vadovaujamas Liudo Jank
 - id: c-42843
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Baigiantis šoviniams, kpt. J. Čeponis įsakė
     atsitraukti. Atsitraukimą dengti savanoriškai stojo Liolių būrys, vadovau-

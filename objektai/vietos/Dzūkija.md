@@ -86,6 +86,7 @@ Be to, šios kautynės sunkiomis žiemos sąlygomis suteikė nejkainojamos patir
 - id: c-45090
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     pajėgos ir jas remiantys kolaborantai su-
     vokė, kad negali jaustis saugūs, net ir stam-

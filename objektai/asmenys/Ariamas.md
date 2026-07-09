@@ -80,6 +80,7 @@ Narbutas pasakoja, kad Rytų valdovo įsakymu Kapadokijos valdytojas Ariamas su 
 - id: c-174251
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Bet persų pasiuntiniai buvo išsiųsti atgal
     su panieka; į prašymą karalaitės rankos atsakyta nei­

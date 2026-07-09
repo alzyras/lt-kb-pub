@@ -29,19 +29,19 @@ tags:
 amziai:
   - 'X'
   - 'XIV'
-media_total_count: '44'
-media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/1/11/1944_Wilno_500.jpg'
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3A1944_Wilno_500.jpg'
+media_total_count: '15'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/a/a6/Vilnius_1576.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AVilnius_1576.jpg'
 media_primary_directness: 'direct'
 media_primary_relation_type: 'map_of'
 media_primary_json: |-
-  {"mediaId":"m-94fd2a20587753b8e26f8501","title":"1944 Wilno 500.jpg","caption":"Mapa Polski i krajow osciennych, 1 : 500 000","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1944","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1944_Wilno_500.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/11/1944_Wilno_500.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+  {"mediaId":"m-d9c7a19da6f6d56ef839a3f8","title":"Vilnius 1576.jpg","caption":"Map of Vilnius in 1576","creator":"German cartographer and church diplomat G. Braun (1541-1622) and his assistants","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"Drawn 1576; published in 1581","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_1576.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Vilnius_1576.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-94fd2a20587753b8e26f8501","title":"1944 Wilno 500.jpg","caption":"Mapa Polski i krajow osciennych, 1 : 500 000","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1944","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1944_Wilno_500.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/11/1944_Wilno_500.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-a0ae7b10271a983ecfd4ce0e","title":"Alberta Historical MD of Vilna No 575.svg","caption":"A series of maps of Alberta's historic municipal districts, before reform and amalgamation in the 1930s through 1960s. Referenced from old census publications, Municipal Affairs annual reports, and maps hosted by UAlberta's Peel Prairie Provinces. This is a historical pastiche and depicts every municipality that incorporated before the reforms. The province's entire landmass was (rather optimistically) subdivided into hypothetical \"improvement districts\", but these are not shown.","creator":"Awmcphee","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2021-12-11","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlberta_Historical_MD_of_Vilna_No_575.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/11/Alberta_Historical_MD_of_Vilna_No_575.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fbb8a1c1f04d30147e94e750","title":"Belarusians - on Ethnic Map of European Russia by Aleksandr Rittich - 1875 AD. Vilna region.jpg","caption":"a part of \"Ethnographic Map of European Russia\" (St. Petersburg, 1875) by Aleksandr Fyodorovich Rittikh","creator":"Aleksandr Fyodorovich Rittikh (1831—1914?)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1875","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABelarusians_-_on_Ethnic_Map_of_European_Russia_by_Aleksandr_Rittich_-_1875_AD._Vilna_region.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Belarusians_-_on_Ethnic_Map_of_European_Russia_by_Aleksandr_Rittich_-_1875_AD._Vilna_region.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-634b3748d8954dfb60295da0","title":"CAN AB 0332 Vilna VILLAGE Map - Clean.svg","caption":"Automatically generated series of street maps depicting Alberta urban communities. Municipal boundaries: AltaLIS open data accessed May 25, 2019. Road network: Statistics Canada NRN 2018. Water features, forest cover, and contour lines: Natural Resources Canada CanVec 50k series. Building footprints and park coverage: OpenStreetMap data accessed August 14, 2019. Generated August 15, 2019. This graphic was created with QGIS","creator":"awmcphee","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2019-08-16","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACAN_AB_0332_Vilna_VILLAGE_Map_-_Clean.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d2/CAN_AB_0332_Vilna_VILLAGE_Map_-_Clean.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-128fb5156f313444738e28ce","title":"CAN AB 0332 Vilna VILLAGE Map.svg","caption":"Automatically generated series of street maps depicting Alberta urban communities. Municipal boundaries: AltaLIS open data accessed May 25, 2019. Road network: Statistics Canada NRN 2018. Water features, forest cover, and contour lines, Natural Resources Canada CanVec 50k series. Building footprints and park coverage: OpenStreetMap data accessed August 14, 2019. Generated August 15, 2019. This graphic was created with QGIS","creator":"awmcphee","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2019-08-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACAN_AB_0332_Vilna_VILLAGE_Map.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3d/CAN_AB_0332_Vilna_VILLAGE_Map.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-76b91a8443de6fb0b1fa592b","title":"Civitates orbis terrarum, 1581. Vilna. 27 die dir garde.jpg","caption":"A cropped image from the map of Vilnius from Civitates orbis terrarum , displaying object No. 27 \"die dir garde\" in isolation.","creator":"German cartographer and church diplomat G. Braun (1541-1622) and his assistants","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"Drawn 1576; published in 1581","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACivitates_orbis_terrarum%2C_1581._Vilna._27_die_dir_garde.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Civitates_orbis_terrarum%2C_1581._Vilna._27_die_dir_garde.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5902bbd8ffc83383af159f5a","title":"Geležinkelis Vilnius Marcinkonys.svg","caption":"Vilniaus–Marcinkonių geležinkelio žemėlapis","creator":"Powermelon","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2015-12-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGele%C5%BEinkelis_Vilnius_Marcinkonys.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Gele%C5%BEinkelis_Vilnius_Marcinkonys.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-bcadc5fb3af9c00176bb4710","title":"Gmina rejonowa Wilno.mapa lokalizacyjna.png","caption":"Location map of Lithuania","creator":"Vilniaus_rajono_zemelapis.png : Tocekas Lithuania_location_map.svg : NordNordWest derivative work: Mixx321 ( talk )","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2012-01-12 22:41","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGmina_rejonowa_Wilno.mapa_lokalizacyjna.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Gmina_rejonowa_Wilno.mapa_lokalizacyjna.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fc8bf2d86ffbd844788f3718","title":"Map of Vilna Ghetto.png","caption":"Map of Vilna Ghetto (png). Legend: Olive green area = small ghetto (liquidated in October 1941) Darker gray are = larger ghetto (liquidated in September 1943) Blue area = enlargement of the ghetto in September 1942 Yellow Star of David = Judenrat building Black # sign = ghetto gates Dot with a cross = Christian church House with a Star of David = Synagogue House symbol = Town Hall Points of interest inside the larger ghetto: Blue dot = Jewish hospital Purple dot = Ghetto theater Dark red dot = Ghetto library Pink dot = Ghetto prison Green dot = headquarters of FPO, Jewish resistance organization Orange dot = the larger of the two yeshivas in the ghetto and Torah center","creator":"Renata3","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2017-07-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Vilna_Ghetto.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Map_of_Vilna_Ghetto.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-247b4f830176fce8c37589e1","title":"Map of Vilna Ghetto.svg","caption":"Map of Vilna Ghetto. For full description, see File:Map of Vilna Ghetto.png","creator":"Renata3","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2017-07-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Vilna_Ghetto.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Map_of_Vilna_Ghetto.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8895ea393ec133b2d85523cf","title":"Map of Vilna Namestnichestvo 1796 (small atlas).jpg","caption":"Small atlas of the Russian Empire (1796). Map of Vilna Namestnichestvo (map 21).","creator":"publisher:Sytin's print shop","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1796","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Vilna_Namestnichestvo_1796_%28small_atlas%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Map_of_Vilna_Namestnichestvo_1796_%28small_atlas%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4ab39a9dd2e46fac5bf35113","title":"Ober Ost administrative divisions after Wilna-Suwalki merger 1 May 1916.jpg","caption":"Map of the administrative divisions of the German military administration Ober Ost after the merger of the \"Wilna\" and \"Suwalki\" administrations into a single \"Wilna-Suwalki\" unit as of 1 May 1916.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2015","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AOber_Ost_administrative_divisions_after_Wilna-Suwalki_merger_1_May_1916.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/83/Ober_Ost_administrative_divisions_after_Wilna-Suwalki_merger_1_May_1916.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0c9ebbc7ef5d3ac66378db52","title":"P30 S40 Wilno 1935.jpg","caption":"WIG map, scale 1:100 000, page P30 S40","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1935","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AP30_S40_Wilno_1935.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/P30_S40_Wilno_1935.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-de0ab001c36d76858910c3e9","title":"Plan topographique de Vilna - dessiné par J. Narbouth - btv1b8440688k.jpg","caption":"Sujet : Vilnius Couverture : Lituanie Langue : français Éditeur : [s.n.]","creator":"Narbouth, J.. Auteur du texte","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2 nd millennium date QS:P571,+1500-00-00T00:00:00Z/6","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APlan_topographique_de_Vilna_-_dessin%C3%A9_par_J._Narbouth_-_btv1b8440688k.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/87/Plan_topographique_de_Vilna_-_dessin%C3%A9_par_J._Narbouth_-_btv1b8440688k.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0a2a8668261fbfc6a9b83239","title":"Synagogue of Lubavitcher Hasidism Vilna (15095852286).jpg","caption":"Synagogue of Lubavitcher Hasidim. Vilna. Vilna Street, private house number 21. The Lubavitcher Hasidim are adherents of a Hasidic movement known as Chabad (also known as Lubavitch and Chabad-Lubavitch). The word “Chabad” is a Hebrew acronym for “Chochmah, Binah, Da’at” which translates to “Wisdom, Understanding, Knowledge.” This movement was founded in Liozna in 1775 (this town was in the Grand Duchy of Lithuania at the time, and is now in Belarus) by the Orthodox Rabbi Schneur Zalman. Today it is headquartered in the Crown Heights neighborhood of Brooklyn, New York. This book stamp is from a book looted by the Nazis and sorted by Colonel Seymour Pomrenze, one of “the Monuments Men,” at the Offenbach Archival Depot. There are two scrapbooks of archival markings from the books sorted at the Offenbach Depot in the Seymour Pomrenze Collection held by the American Jewish Historical Society (Call number P-933) There is a finding aid for the collection here The digitized scrapbooks are available here and here . For more information on this project check the Center’s blog: 16thstreet.tumblr.com/tagged/Offenbach-Depot Dr. Mitch Fraas, Acting Director of the Digital Humanities Forum at the University of Pennsylvania Libraries' Special Collections Center is working on a similar project for the German book stamps based on NARA microfilm of the volumes the American Jewish Historical Society currently holds. See viewshare.org/views/mfraas/offenbach-bookplates/ The Center for Jewish History would like to acknowledge the following: The American Jewish Historical Society, who graciously allowed the use of their archival materials and digital content; Mitch Fraas, Acting Director of the Digital Humanities Forum at the University of Pennsylvania Libraries' Special Collections Center, for his data and technical assistance in this project; David Rosenberg, Reference Services Research Coordinator, and Melanie Meyers, Senior Reference Services Librarian for Special Collections, for managing and creating the digital map; and Reference Services Intern Ilya Slavutskiy for his work on translating and mapping. For copyright information, click here","creator":"Center for Jewish History, NYC","provider":"commons","providerLabel":"Wikimedia Commons","license":"No restrictions","rightsNote":"No known copyright restrictions","dateDisplay":"2014-07-20 13:11:24","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASynagogue_of_Lubavitcher_Hasidism_Vilna_%2815095852286%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/50/Synagogue_of_Lubavitcher_Hasidism_Vilna_%2815095852286%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8623d8cb81d95f292ca29741","title":"UAB \"Vilniaus prekyba\" ir kitų susijusių įmonių veiklos žemėlapis.png","caption":"UAB \"Vilniaus prekyba\" ir kitų susijusių įmonių veiklos žemėlapis","creator":"Wikipedia readerLT","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2016-03-24","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUAB_%22Vilniaus_prekyba%22_ir_kit%C5%B3_susijusi%C5%B3_%C4%AFmoni%C5%B3_veiklos_%C5%BEem%C4%97lapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c1/UAB_%22Vilniaus_prekyba%22_ir_kit%C5%B3_susijusi%C5%B3_%C4%AFmoni%C5%B3_veiklos_%C5%BEem%C4%97lapis.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5f290d8ed4a670e43185472d","title":"Vilna Governorate Map (1897).jpg","caption":"Vilna (Vilnius) Governorate map from Brokhaus and Efron Encyclopedic Dictionary","creator":". The original uploader was СафроновАВ at Russian Wikipedia .","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"19 th century date QS:P,+1850-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_Governorate_Map_%281897%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Vilna_Governorate_Map_%281897%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-98e05f2ae66bdeea3de74381","title":"Vilna Lituaniae metropolis - btv1b53178841j (1 of 2).jpg","caption":"Sujet : Plans de ville Cartouches (ornement) Vilnius Personnages Échelle(s) : [Sans échelle (exprimé)] Référence bibliographique : 4715 Couverture : Lituanie E 20°19' / N 54°40' Langue : français latin allemand Éditeur : [s.n.]","creator":"Braun, Georg (1541-1622). Éditeur scientifique Hogenberg, Frans (1539?-1590?). Graveur Van Belle, Jérôme. Traducteur","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1645 date QS:P571,+1645-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/60/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-eb45745ac724947284669a13","title":"Vilna Lituaniae metropolis - btv1b53178841j (2 of 2).jpg","caption":"Sujet : Plans de ville Cartouches (ornement) Vilnius Personnages Échelle(s) : [Sans échelle (exprimé)] Référence bibliographique : 4715 Couverture : Lituanie E 20°19' / N 54°40' Langue : français latin allemand Éditeur : [s.n.]","creator":"Braun, Georg (1541-1622). Éditeur scientifique Hogenberg, Frans (1539?-1590?). Graveur Van Belle, Jérôme. Traducteur","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1645 date QS:P571,+1645-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_Lituaniae_metropolis_-_btv1b53178841j_%282_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%282_of_2%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e53f67f7bffa477fe2125389","title":"Vilna in Russian Empire (1914).svg","caption":"Locator map of XY (see filename) province in Russian Empire (1914), extracted from File:Subdivisions of the Russian Empire in 1914.svg","creator":"Milenioscuro","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2019-12-24","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_in_Russian_Empire_%281914%29.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Vilna_in_Russian_Empire_%281914%29.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1cf69545bb7bea149127c57b","title":"Vilna region transfer to Lithuania 10 October 1939 map.jpg","caption":"Map of the transfer of the city of Vilna and part of the Vilna region to the Republic of Lithuania under the Soviet–Lithuanian Treaty of 10 October 1939. Shows the territory transferred to Lithuania.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2014","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_region_transfer_to_Lithuania_10_October_1939_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vilna_region_transfer_to_Lithuania_10_October_1939_map.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0efaad06ba00ce92f567f5a8","title":"Vilniaus miesto zemelapis.png","caption":"Vilniaus miesto žemėlapis.","creator":"Tocekas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2011-03-02","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_miesto_zemelapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/21/Vilniaus_miesto_zemelapis.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3770e87e89c2fa15cf48c623","title":"Vilniaus rajono savivaldybė.svg","caption":"Location map of Vilnius District Municipality, Lithuania","creator":"Obivan Kenobi","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2022-08-13","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_rajono_savivaldyb%C4%97.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Vilniaus_rajono_savivaldyb%C4%97.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1295616d70b8a9855dea70b1","title":"Vilniaus rajono zemelapis.png","caption":"Vilniaus rajono žemėlapis.","creator":"Tocekas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2011-02-06","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_rajono_zemelapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/31/Vilniaus_rajono_zemelapis.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4279286d288a6ba1598e86c7","title":"Vilniaus seniunijos.png","caption":"Vilniaus seniūnijų žemėlapis","creator":"Bearas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2018-12-31","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_seniunijos.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b1/Vilniaus_seniunijos.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-dc3fe0a168d8d707651d48cf","title":"Vilnius - map by Braun Hogenberg (34065617).jpg","caption":"Map of Vilnius in 1576","creator":"Georg Braun","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"16","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_-_map_by_Braun_Hogenberg_%2834065617%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Vilnius_-_map_by_Braun_Hogenberg_%2834065617%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5c3330fe5500bb781a535344","title":"Vilnius - map by Braun Hogenberg (middle size) (34065617).jpg","caption":"Map of Vilnius in 1576","creator":"Georg Braun","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"16","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_-_map_by_Braun_Hogenberg_%28middle_size%29_%2834065617%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vilnius_-_map_by_Braun_Hogenberg_%28middle_size%29_%2834065617%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d9c7a19da6f6d56ef839a3f8","title":"Vilnius 1576.jpg","caption":"Map of Vilnius in 1576","creator":"German cartographer and church diplomat G. Braun (1541-1622) and his assistants","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"Drawn 1576; published in 1581","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_1576.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Vilnius_1576.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-654d51c18bcc72bb19969a80","title":"Vol III (59) Vilna Litvaniae (Vilnius). (IA dr vol-iii-59-vilna-litvaniae-vilnius-12126364).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~300776~90071972 \" rel=\"ugc nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2212126.364%22\" rel=\"ugc nofollow\"&gt;12126.364&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2212126.000%22 \" rel=\"ugc nofollow\"&gt;12126.000&lt;/a&gt;. In this last edition of Volume III, van der Krogt 41:1.3 (1623), the preliminary matter after the title page is dropped. The Civitates Orbis Terrarum was the first atlas of world cities and one of the most important books published in the late 16th century. Although led by Braun and Hogenberg, the books were created by a large team of writers, engravers, and artists. R.V. Tooley writes: \"The Civitates is one of the great books of the World... it was the first serious attempt to give graphic representations of the main cities of the World, with a wealth of factual detail. In the main, the buildings in each view are shown in elevation, and while the ordinary buildings are stylized, the principal buildings are reproduced from actual drawings on the spot, and these, and the main streets, can be recognized today. Further, the editors gave additional factual information as a deliberately planned policy, such as the heraldic arms of the city, and the nature of the surrounding countryside, whether wooded or arable, grazing land, vineyards, or gardens. The importance of waterways is stressed by the careful delineation of stone bridges, wooden pontoons, flat-bottomed ferries, moles, wharves and jetties; the ports with ocean-going craft, the inland waters with river traffic. Varieties of land travel are depicted, pedestrians, horsemen, wagons, coaches, and palanquins. Small vignettes illustrate the trade, occupations and habits of the locality, agriculture, paper-making and textiles. The law is represented by various forms of punishment, gibbets, wheels, floggings etc. A distinctive feature of the plates is the insertion of large figures in the foreground to illustrate local costume. Those figures are out of proportion necessarily. The general multiplication of detail slightly offends certain commentators who fail to appreciate the purpose of the editors. Their primary aim was not to produce well-balanced landscapes, but to give as much information as possible in a pleasing visual form, in reality a kind of super guide book. This was done so magnificently that the result was an art as decorative as it was informative. The whole forms a wonderful compendium of life in Europe in the sixteenth century. And as city growth in early times, with a few obvious exceptions, was more or less static, even further it gives a visual printed record of mediaeval Europe, and is one of the most valuable sources remaining to the student and historian of these periods.\" (R.V. Tooley, preface to the reproduction edition of Civitates Orbis Terrarum, World Publishing, 1966) Koeman B&amp;H 1-6; van der Krogt 41:1.1 (1640). This is van der Krogt's XVIII edition, c. 1640, the last edition of six volumes. Van der Krogt dates the individual volumes as 1 (c. 1640, 11th ed.), 2 (c. 1640, 9th ed.), 3 (c. 1623, 7th ed.), 4 (c. 1635, 7th ed.), 5 (c. 1640, 5th ed.), 6 (c. 1635, 3rd ed.). All six volumes are printed by Peter von Brachel between 1823 and 1640, with the texts reset by him and the plates used generally from first or second editions. We date the volumes, texts and plates separately, using Van der Krogt's listings. There are 546 plans/views of cities on 363 plates. The title for the series of six volumes is taken from the first volume which is general practice. The other five volumes are titled individually. The original publication dates are vol I, 1572; vol II, 1575; vol III, 1581; vol IV, c.1588; vol V, c.1598; vol VI, 1617. Van der Krogt Vol IV-2: 4715, st. 1 Subjects:","creator":"Braun, Georg, 1541-1622 Hogenberg, Franz, 1539-1590 Novellanus, Simon, d. 1590 Hoefnagel, Joris, 1542-1600","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-26 19:48:52","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVol_III_%2859%29_Vilna_Litvaniae_%28Vilnius%29._%28IA_dr_vol-iii-59-vilna-litvaniae-vilnius-12126364%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Vol_III_%2859%29_Vilna_Litvaniae_%28Vilnius%29._%28IA_dr_vol-iii-59-vilna-litvaniae-vilnius-12126364%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a672994e5be28e5e8be5af39","title":"WIG Mapa Operacyjna Polski - 37 Wilno 1930.jpg","caption":"Operational map of Poland and neighbouring countries, region Wilno. Scale of 1:300000.","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1930","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWIG_Mapa_Operacyjna_Polski_-_37_Wilno_1930.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a4/WIG_Mapa_Operacyjna_Polski_-_37_Wilno_1930.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-87a10f107e92a00093602e46","title":"Wilno - mapa topograficzna WIG (1928-35).png","caption":"Map of Wilno/Vilnius (Polish WIG map, 1:100 000, 1928-35) with modern district borders","creator":"Aotearoa at Polish Wikipedia","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"17 October 2007 (original upload date)","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWilno_-_mapa_topograficzna_WIG_%281928-35%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Wilno_-_mapa_topograficzna_WIG_%281928-35%29.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-665a320b89fbe535bc5c5c26","title":"Wilno Voivodeship in the Second Polish Republic (1938).png","caption":"Locator map of Wilno Voivodeship (1926–1939) in the Second Polish Republic","creator":"Cukrakalnis","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-07-03","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWilno_Voivodeship_in_the_Second_Polish_Republic_%281938%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Wilno_Voivodeship_in_the_Second_Polish_Republic_%281938%29.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b92841ddb35211dc03b67def","title":"Co jest na niebie i na ziemi 1915 (78613654).jpg","caption":"Adres wydawniczy : Wilno : J. Zawadzki, 1915 Opis fizyczny : 54 s., 3 k. mapy. : il. ; 20 cm","creator":"Helena Romer-Ochenkowska","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2023-10-13 22:22:30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACo_jest_na_niebie_i_na_ziemi_1915_%2878613654%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Co_jest_na_niebie_i_na_ziemi_1915_%2878613654%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-60afbe4ab18ae7c09efb0d04","title":"Co jest na niebie i na ziemi 1915 (78613661).jpg","caption":"Adres wydawniczy : Wilno : J. Zawadzki, 1915 Opis fizyczny : 54 s., 3 k. mapy. : il. ; 20 cm","creator":"Helena Romer-Ochenkowska","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2023-10-13 22:22:37","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACo_jest_na_niebie_i_na_ziemi_1915_%2878613661%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Co_jest_na_niebie_i_na_ziemi_1915_%2878613661%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-44d797c02317d22b893e7611","title":"Co jest na niebie i na ziemi 1915 (78613667).jpg","caption":"Adres wydawniczy : Wilno : J. Zawadzki, 1915 Opis fizyczny : 54 s., 3 k. mapy. : il. ; 20 cm","creator":"Helena Romer-Ochenkowska","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2023-10-13 22:22:42","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACo_jest_na_niebie_i_na_ziemi_1915_%2878613667%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Co_jest_na_niebie_i_na_ziemi_1915_%2878613667%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f639fee97ed79afea6bf7e6d","title":"Grand Duchy of Lithuania Napoleonic administration 1 July 1812 map.jpg","caption":"Map of the administrative entity \"Grand Duchy of Lithuania\" established by decree of Napoleon on 1 July 1812. Shows the territories of Vilna, Grodno and Minsk governorates and the Bialystok region, as well as the structure of civil administration within the Napoleonic system.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"20","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGrand_Duchy_of_Lithuania_Napoleonic_administration_1_July_1812_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bb/Grand_Duchy_of_Lithuania_Napoleonic_administration_1_July_1812_map.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-151f5234c4c8a830eb980938","title":"Kolej Warszawsko-Petersburska - mapa.jpg","caption":"Z planem, widokami Wilna i Mappą kolei żelaznych. s.1.","creator":"Adam Honory Kirkor","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1862","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKolej_Warszawsko-Petersburska_-_mapa.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/07/Kolej_Warszawsko-Petersburska_-_mapa.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-bb3b2d06918bcc3018f4b8f3","title":"Map of the Vilija River by Szantyr (1857).tiff","caption":"Map of the Viliya (Neris) River from its source to the first trading post in Kostyki, by Jerzy Szantyr. Created based on the results of the 1857 hydrographic expedition led by Count Konstanty Tyszkiewicz. The map consists of 18 parts mounted on canvas. Published in Vilnius.","creator":"Creator:Jerzy Szantyr","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1857 date QS:P571,+1857-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_the_Vilija_River_by_Szantyr_%281857%29.tiff","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Map_of_the_Vilija_River_by_Szantyr_%281857%29.tiff","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e3f168ebf029249320f333f4","title":"N.Sansonas d'Abbevillis, Lietuvos dalies žemėlapis 1665 m. - Breslaujos pavietas.png","caption":"Lietuvos dalies žemėlapis 1665 m. (Vilniaus ir Trakų vaivadijos)","creator":"http://maps4u.lt/lt/maps.php?img=Partie_de_Lithuanie_Wilna_Troki_1669&amp;w=600&amp;h=400&amp;zoom=&amp;cat=11","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1665 date QS:P,+1665-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AN.Sansonas_d%27Abbevillis%2C_Lietuvos_dalies_%C5%BEem%C4%97lapis_1665_m._-_Breslaujos_pavietas.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3f/N.Sansonas_d%27Abbevillis%2C_Lietuvos_dalies_%C5%BEem%C4%97lapis_1665_m._-_Breslaujos_pavietas.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-432e81c41c74d2eb887c1b3b","title":"N.Sansonas d'Abbevillis, Lietuvos dalies žemėlapis 1665 m., Vilkmergės pavietas.png","caption":"Lietuvos dalies žemėlapis 1665 m. (Vilniaus ir Trakų vaivadijos)","creator":"Nicolas Sanson","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1665","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AN.Sansonas_d%27Abbevillis%2C_Lietuvos_dalies_%C5%BEem%C4%97lapis_1665_m.%2C_Vilkmerg%C4%97s_pavietas.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Sansonas_d%27Abbevillis%2C_Lietuvos_dalies_%C5%BEem%C4%97lapis_1665_m.%2C_Vilkmerg%C4%97s_pavietas.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4d346a3002635bd8d8a63493","title":"Ober Ost administrative divisions October 1915 map.jpg","caption":"Map of the administrative divisions of the German military administration Ober Ost as of October 1915. Shows the districts of Courland, Lithuania, Vilna, Suwalki, Grodno and Bialystok, highlighted in different colours.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2015","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AOber_Ost_administrative_divisions_October_1915_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Ober_Ost_administrative_divisions_October_1915_map.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7f591623b7ff9d1554d90ab4","title":"Ober Ost administrative divisions with modern borders October 1915 map.jpg","caption":"Map of the administrative divisions of the German military administration Ober Ost as of October 1915 with modern state borders overlaid. Shows the districts of Courland, Lithuania, Vilna, Suwalki, Grodno and Bialystok.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2015","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AOber_Ost_administrative_divisions_with_modern_borders_October_1915_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Ober_Ost_administrative_divisions_with_modern_borders_October_1915_map.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-012fe13b2e313849b68088fa","title":"Podzial wojewodztwa wilenskiego 1937.png","caption":"Map of Wilno Voivodeship , 1937.","creator":"Graffer","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2007-07-25","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APodzial_wojewodztwa_wilenskiego_1937.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/84/Podzial_wojewodztwa_wilenskiego_1937.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-9f7bed9e86a5e2051bd852c4","title":"Map of Lithuania (Carte de Lithuanie), with the territory occupied by Poland, ca 1930s.jpg","caption":"Map of Lithuania (Carte de Lithuanie), with the territory occupied by Poland, ca 1930s","creator":"unknown","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"ca 1930s","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Lithuania_%28Carte_de_Lithuanie%29%2C_with_the_territory_occupied_by_Poland%2C_ca_1930s.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Map_of_Lithuania_%28Carte_de_Lithuanie%29%2C_with_the_territory_occupied_by_Poland%2C_ca_1930s.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-d9c7a19da6f6d56ef839a3f8","title":"Vilnius 1576.jpg","caption":"Map of Vilnius in 1576","creator":"German cartographer and church diplomat G. Braun (1541-1622) and his assistants","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"Drawn 1576; published in 1581","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_1576.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Vilnius_1576.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-76b91a8443de6fb0b1fa592b","title":"Civitates orbis terrarum, 1581. Vilna. 27 die dir garde.jpg","caption":"A cropped image from the map of Vilnius from Civitates orbis terrarum , displaying object No. 27 \"die dir garde\" in isolation.","creator":"German cartographer and church diplomat G. Braun (1541-1622) and his assistants","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"Drawn 1576; published in 1581","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACivitates_orbis_terrarum%2C_1581._Vilna._27_die_dir_garde.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Civitates_orbis_terrarum%2C_1581._Vilna._27_die_dir_garde.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fc8bf2d86ffbd844788f3718","title":"Map of Vilna Ghetto.png","caption":"Map of Vilna Ghetto (png). Legend: Olive green area = small ghetto (liquidated in October 1941) Darker gray are = larger ghetto (liquidated in September 1943) Blue area = enlargement of the ghetto in September 1942 Yellow Star of David = Judenrat building Black # sign = ghetto gates Dot with a cross = Christian church House with a Star of David = Synagogue House symbol = Town Hall Points of interest inside the larger ghetto: Blue dot = Jewish hospital Purple dot = Ghetto theater Dark red dot = Ghetto library Pink dot = Ghetto prison Green dot = headquarters of FPO, Jewish resistance organization Orange dot = the larger of the two yeshivas in the ghetto and Torah center","creator":"Renata3","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2017-07-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Vilna_Ghetto.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Map_of_Vilna_Ghetto.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-247b4f830176fce8c37589e1","title":"Map of Vilna Ghetto.svg","caption":"Map of Vilna Ghetto. For full description, see File:Map of Vilna Ghetto.png","creator":"Renata3","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2017-07-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Vilna_Ghetto.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Map_of_Vilna_Ghetto.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-de0ab001c36d76858910c3e9","title":"Plan topographique de Vilna - dessiné par J. Narbouth - btv1b8440688k.jpg","caption":"Sujet : Vilnius Couverture : Lituanie Langue : français Éditeur : [s.n.]","creator":"Narbouth, J.. Auteur du texte","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2 nd millennium date QS:P571,+1500-00-00T00:00:00Z/6","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APlan_topographique_de_Vilna_-_dessin%C3%A9_par_J._Narbouth_-_btv1b8440688k.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/87/Plan_topographique_de_Vilna_-_dessin%C3%A9_par_J._Narbouth_-_btv1b8440688k.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0a2a8668261fbfc6a9b83239","title":"Synagogue of Lubavitcher Hasidism Vilna (15095852286).jpg","caption":"Synagogue of Lubavitcher Hasidim. Vilna. Vilna Street, private house number 21. The Lubavitcher Hasidim are adherents of a Hasidic movement known as Chabad (also known as Lubavitch and Chabad-Lubavitch). The word “Chabad” is a Hebrew acronym for “Chochmah, Binah, Da’at” which translates to “Wisdom, Understanding, Knowledge.” This movement was founded in Liozna in 1775 (this town was in the Grand Duchy of Lithuania at the time, and is now in Belarus) by the Orthodox Rabbi Schneur Zalman. Today it is headquartered in the Crown Heights neighborhood of Brooklyn, New York. This book stamp is from a book looted by the Nazis and sorted by Colonel Seymour Pomrenze, one of “the Monuments Men,” at the Offenbach Archival Depot. There are two scrapbooks of archival markings from the books sorted at the Offenbach Depot in the Seymour Pomrenze Collection held by the American Jewish Historical Society (Call number P-933) There is a finding aid for the collection here The digitized scrapbooks are available here and here . For more information on this project check the Center’s blog: 16thstreet.tumblr.com/tagged/Offenbach-Depot Dr. Mitch Fraas, Acting Director of the Digital Humanities Forum at the University of Pennsylvania Libraries' Special Collections Center is working on a similar project for the German book stamps based on NARA microfilm of the volumes the American Jewish Historical Society currently holds. See viewshare.org/views/mfraas/offenbach-bookplates/ The Center for Jewish History would like to acknowledge the following: The American Jewish Historical Society, who graciously allowed the use of their archival materials and digital content; Mitch Fraas, Acting Director of the Digital Humanities Forum at the University of Pennsylvania Libraries' Special Collections Center, for his data and technical assistance in this project; David Rosenberg, Reference Services Research Coordinator, and Melanie Meyers, Senior Reference Services Librarian for Special Collections, for managing and creating the digital map; and Reference Services Intern Ilya Slavutskiy for his work on translating and mapping. For copyright information, click here","creator":"Center for Jewish History, NYC","provider":"commons","providerLabel":"Wikimedia Commons","license":"No restrictions","rightsNote":"No known copyright restrictions","dateDisplay":"2014-07-20 13:11:24","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASynagogue_of_Lubavitcher_Hasidism_Vilna_%2815095852286%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/50/Synagogue_of_Lubavitcher_Hasidism_Vilna_%2815095852286%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-98e05f2ae66bdeea3de74381","title":"Vilna Lituaniae metropolis - btv1b53178841j (1 of 2).jpg","caption":"Sujet : Plans de ville Cartouches (ornement) Vilnius Personnages Échelle(s) : [Sans échelle (exprimé)] Référence bibliographique : 4715 Couverture : Lituanie E 20°19' / N 54°40' Langue : français latin allemand Éditeur : [s.n.]","creator":"Braun, Georg (1541-1622). Éditeur scientifique Hogenberg, Frans (1539?-1590?). Graveur Van Belle, Jérôme. Traducteur","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1645 date QS:P571,+1645-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/60/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-eb45745ac724947284669a13","title":"Vilna Lituaniae metropolis - btv1b53178841j (2 of 2).jpg","caption":"Sujet : Plans de ville Cartouches (ornement) Vilnius Personnages Échelle(s) : [Sans échelle (exprimé)] Référence bibliographique : 4715 Couverture : Lituanie E 20°19' / N 54°40' Langue : français latin allemand Éditeur : [s.n.]","creator":"Braun, Georg (1541-1622). Éditeur scientifique Hogenberg, Frans (1539?-1590?). Graveur Van Belle, Jérôme. Traducteur","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1645 date QS:P571,+1645-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_Lituaniae_metropolis_-_btv1b53178841j_%282_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%282_of_2%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1cf69545bb7bea149127c57b","title":"Vilna region transfer to Lithuania 10 October 1939 map.jpg","caption":"Map of the transfer of the city of Vilna and part of the Vilna region to the Republic of Lithuania under the Soviet–Lithuanian Treaty of 10 October 1939. Shows the territory transferred to Lithuania.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2014","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_region_transfer_to_Lithuania_10_October_1939_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vilna_region_transfer_to_Lithuania_10_October_1939_map.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0efaad06ba00ce92f567f5a8","title":"Vilniaus miesto zemelapis.png","caption":"Vilniaus miesto žemėlapis.","creator":"Tocekas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2011-03-02","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_miesto_zemelapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/21/Vilniaus_miesto_zemelapis.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4279286d288a6ba1598e86c7","title":"Vilniaus seniunijos.png","caption":"Vilniaus seniūnijų žemėlapis","creator":"Bearas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2018-12-31","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_seniunijos.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b1/Vilniaus_seniunijos.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-dc3fe0a168d8d707651d48cf","title":"Vilnius - map by Braun Hogenberg (34065617).jpg","caption":"Map of Vilnius in 1576","creator":"Georg Braun","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"16","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_-_map_by_Braun_Hogenberg_%2834065617%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Vilnius_-_map_by_Braun_Hogenberg_%2834065617%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5c3330fe5500bb781a535344","title":"Vilnius - map by Braun Hogenberg (middle size) (34065617).jpg","caption":"Map of Vilnius in 1576","creator":"Georg Braun","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"16","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_-_map_by_Braun_Hogenberg_%28middle_size%29_%2834065617%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vilnius_-_map_by_Braun_Hogenberg_%28middle_size%29_%2834065617%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-654d51c18bcc72bb19969a80","title":"Vol III (59) Vilna Litvaniae (Vilnius). (IA dr vol-iii-59-vilna-litvaniae-vilnius-12126364).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~300776~90071972 \" rel=\"ugc nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2212126.364%22\" rel=\"ugc nofollow\"&gt;12126.364&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2212126.000%22 \" rel=\"ugc nofollow\"&gt;12126.000&lt;/a&gt;. In this last edition of Volume III, van der Krogt 41:1.3 (1623), the preliminary matter after the title page is dropped. The Civitates Orbis Terrarum was the first atlas of world cities and one of the most important books published in the late 16th century. Although led by Braun and Hogenberg, the books were created by a large team of writers, engravers, and artists. R.V. Tooley writes: \"The Civitates is one of the great books of the World... it was the first serious attempt to give graphic representations of the main cities of the World, with a wealth of factual detail. In the main, the buildings in each view are shown in elevation, and while the ordinary buildings are stylized, the principal buildings are reproduced from actual drawings on the spot, and these, and the main streets, can be recognized today. Further, the editors gave additional factual information as a deliberately planned policy, such as the heraldic arms of the city, and the nature of the surrounding countryside, whether wooded or arable, grazing land, vineyards, or gardens. The importance of waterways is stressed by the careful delineation of stone bridges, wooden pontoons, flat-bottomed ferries, moles, wharves and jetties; the ports with ocean-going craft, the inland waters with river traffic. Varieties of land travel are depicted, pedestrians, horsemen, wagons, coaches, and palanquins. Small vignettes illustrate the trade, occupations and habits of the locality, agriculture, paper-making and textiles. The law is represented by various forms of punishment, gibbets, wheels, floggings etc. A distinctive feature of the plates is the insertion of large figures in the foreground to illustrate local costume. Those figures are out of proportion necessarily. The general multiplication of detail slightly offends certain commentators who fail to appreciate the purpose of the editors. Their primary aim was not to produce well-balanced landscapes, but to give as much information as possible in a pleasing visual form, in reality a kind of super guide book. This was done so magnificently that the result was an art as decorative as it was informative. The whole forms a wonderful compendium of life in Europe in the sixteenth century. And as city growth in early times, with a few obvious exceptions, was more or less static, even further it gives a visual printed record of mediaeval Europe, and is one of the most valuable sources remaining to the student and historian of these periods.\" (R.V. Tooley, preface to the reproduction edition of Civitates Orbis Terrarum, World Publishing, 1966) Koeman B&amp;H 1-6; van der Krogt 41:1.1 (1640). This is van der Krogt's XVIII edition, c. 1640, the last edition of six volumes. Van der Krogt dates the individual volumes as 1 (c. 1640, 11th ed.), 2 (c. 1640, 9th ed.), 3 (c. 1623, 7th ed.), 4 (c. 1635, 7th ed.), 5 (c. 1640, 5th ed.), 6 (c. 1635, 3rd ed.). All six volumes are printed by Peter von Brachel between 1823 and 1640, with the texts reset by him and the plates used generally from first or second editions. We date the volumes, texts and plates separately, using Van der Krogt's listings. There are 546 plans/views of cities on 363 plates. The title for the series of six volumes is taken from the first volume which is general practice. The other five volumes are titled individually. The original publication dates are vol I, 1572; vol II, 1575; vol III, 1581; vol IV, c.1588; vol V, c.1598; vol VI, 1617. Van der Krogt Vol IV-2: 4715, st. 1 Subjects:","creator":"Braun, Georg, 1541-1622 Hogenberg, Franz, 1539-1590 Novellanus, Simon, d. 1590 Hoefnagel, Joris, 1542-1600","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-26 19:48:52","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVol_III_%2859%29_Vilna_Litvaniae_%28Vilnius%29._%28IA_dr_vol-iii-59-vilna-litvaniae-vilnius-12126364%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Vol_III_%2859%29_Vilna_Litvaniae_%28Vilnius%29._%28IA_dr_vol-iii-59-vilna-litvaniae-vilnius-12126364%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-87a10f107e92a00093602e46","title":"Wilno - mapa topograficzna WIG (1928-35).png","caption":"Map of Wilno/Vilnius (Polish WIG map, 1:100 000, 1928-35) with modern district borders","creator":"Aotearoa at Polish Wikipedia","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"17 October 2007 (original upload date)","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWilno_-_mapa_topograficzna_WIG_%281928-35%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Wilno_-_mapa_topograficzna_WIG_%281928-35%29.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-94fd2a20587753b8e26f8501","title":"1944 Wilno 500.jpg","caption":"Mapa Polski i krajow osciennych, 1 : 500 000","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1944","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1944_Wilno_500.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/11/1944_Wilno_500.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-a0ae7b10271a983ecfd4ce0e","title":"Alberta Historical MD of Vilna No 575.svg","caption":"A series of maps of Alberta's historic municipal districts, before reform and amalgamation in the 1930s through 1960s. Referenced from old census publications, Municipal Affairs annual reports, and maps hosted by UAlberta's Peel Prairie Provinces. This is a historical pastiche and depicts every municipality that incorporated before the reforms. The province's entire landmass was (rather optimistically) subdivided into hypothetical \"improvement districts\", but these are not shown.","creator":"Awmcphee","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2021-12-11","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlberta_Historical_MD_of_Vilna_No_575.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/11/Alberta_Historical_MD_of_Vilna_No_575.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fbb8a1c1f04d30147e94e750","title":"Belarusians - on Ethnic Map of European Russia by Aleksandr Rittich - 1875 AD. Vilna region.jpg","caption":"a part of \"Ethnographic Map of European Russia\" (St. Petersburg, 1875) by Aleksandr Fyodorovich Rittikh","creator":"Aleksandr Fyodorovich Rittikh (1831—1914?)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1875","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABelarusians_-_on_Ethnic_Map_of_European_Russia_by_Aleksandr_Rittich_-_1875_AD._Vilna_region.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Belarusians_-_on_Ethnic_Map_of_European_Russia_by_Aleksandr_Rittich_-_1875_AD._Vilna_region.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-634b3748d8954dfb60295da0","title":"CAN AB 0332 Vilna VILLAGE Map - Clean.svg","caption":"Automatically generated series of street maps depicting Alberta urban communities. Municipal boundaries: AltaLIS open data accessed May 25, 2019. Road network: Statistics Canada NRN 2018. Water features, forest cover, and contour lines: Natural Resources Canada CanVec 50k series. Building footprints and park coverage: OpenStreetMap data accessed August 14, 2019. Generated August 15, 2019. This graphic was created with QGIS","creator":"awmcphee","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2019-08-16","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACAN_AB_0332_Vilna_VILLAGE_Map_-_Clean.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d2/CAN_AB_0332_Vilna_VILLAGE_Map_-_Clean.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-128fb5156f313444738e28ce","title":"CAN AB 0332 Vilna VILLAGE Map.svg","caption":"Automatically generated series of street maps depicting Alberta urban communities. Municipal boundaries: AltaLIS open data accessed May 25, 2019. Road network: Statistics Canada NRN 2018. Water features, forest cover, and contour lines, Natural Resources Canada CanVec 50k series. Building footprints and park coverage: OpenStreetMap data accessed August 14, 2019. Generated August 15, 2019. This graphic was created with QGIS","creator":"awmcphee","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2019-08-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACAN_AB_0332_Vilna_VILLAGE_Map.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3d/CAN_AB_0332_Vilna_VILLAGE_Map.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-76b91a8443de6fb0b1fa592b","title":"Civitates orbis terrarum, 1581. Vilna. 27 die dir garde.jpg","caption":"A cropped image from the map of Vilnius from Civitates orbis terrarum , displaying object No. 27 \"die dir garde\" in isolation.","creator":"German cartographer and church diplomat G. Braun (1541-1622) and his assistants","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"Drawn 1576; published in 1581","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACivitates_orbis_terrarum%2C_1581._Vilna._27_die_dir_garde.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Civitates_orbis_terrarum%2C_1581._Vilna._27_die_dir_garde.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5902bbd8ffc83383af159f5a","title":"Geležinkelis Vilnius Marcinkonys.svg","caption":"Vilniaus–Marcinkonių geležinkelio žemėlapis","creator":"Powermelon","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2015-12-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGele%C5%BEinkelis_Vilnius_Marcinkonys.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Gele%C5%BEinkelis_Vilnius_Marcinkonys.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-bcadc5fb3af9c00176bb4710","title":"Gmina rejonowa Wilno.mapa lokalizacyjna.png","caption":"Location map of Lithuania","creator":"Vilniaus_rajono_zemelapis.png : Tocekas Lithuania_location_map.svg : NordNordWest derivative work: Mixx321 ( talk )","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2012-01-12 22:41","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGmina_rejonowa_Wilno.mapa_lokalizacyjna.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Gmina_rejonowa_Wilno.mapa_lokalizacyjna.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fc8bf2d86ffbd844788f3718","title":"Map of Vilna Ghetto.png","caption":"Map of Vilna Ghetto (png). Legend: Olive green area = small ghetto (liquidated in October 1941) Darker gray are = larger ghetto (liquidated in September 1943) Blue area = enlargement of the ghetto in September 1942 Yellow Star of David = Judenrat building Black # sign = ghetto gates Dot with a cross = Christian church House with a Star of David = Synagogue House symbol = Town Hall Points of interest inside the larger ghetto: Blue dot = Jewish hospital Purple dot = Ghetto theater Dark red dot = Ghetto library Pink dot = Ghetto prison Green dot = headquarters of FPO, Jewish resistance organization Orange dot = the larger of the two yeshivas in the ghetto and Torah center","creator":"Renata3","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2017-07-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Vilna_Ghetto.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Map_of_Vilna_Ghetto.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-247b4f830176fce8c37589e1","title":"Map of Vilna Ghetto.svg","caption":"Map of Vilna Ghetto. For full description, see File:Map of Vilna Ghetto.png","creator":"Renata3","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2017-07-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Vilna_Ghetto.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Map_of_Vilna_Ghetto.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8895ea393ec133b2d85523cf","title":"Map of Vilna Namestnichestvo 1796 (small atlas).jpg","caption":"Small atlas of the Russian Empire (1796). Map of Vilna Namestnichestvo (map 21).","creator":"publisher:Sytin's print shop","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1796","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Vilna_Namestnichestvo_1796_%28small_atlas%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Map_of_Vilna_Namestnichestvo_1796_%28small_atlas%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4ab39a9dd2e46fac5bf35113","title":"Ober Ost administrative divisions after Wilna-Suwalki merger 1 May 1916.jpg","caption":"Map of the administrative divisions of the German military administration Ober Ost after the merger of the \"Wilna\" and \"Suwalki\" administrations into a single \"Wilna-Suwalki\" unit as of 1 May 1916.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2015","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AOber_Ost_administrative_divisions_after_Wilna-Suwalki_merger_1_May_1916.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/83/Ober_Ost_administrative_divisions_after_Wilna-Suwalki_merger_1_May_1916.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0c9ebbc7ef5d3ac66378db52","title":"P30 S40 Wilno 1935.jpg","caption":"WIG map, scale 1:100 000, page P30 S40","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1935","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AP30_S40_Wilno_1935.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/P30_S40_Wilno_1935.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-de0ab001c36d76858910c3e9","title":"Plan topographique de Vilna - dessiné par J. Narbouth - btv1b8440688k.jpg","caption":"Sujet : Vilnius Couverture : Lituanie Langue : français Éditeur : [s.n.]","creator":"Narbouth, J.. Auteur du texte","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2 nd millennium date QS:P571,+1500-00-00T00:00:00Z/6","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APlan_topographique_de_Vilna_-_dessin%C3%A9_par_J._Narbouth_-_btv1b8440688k.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/87/Plan_topographique_de_Vilna_-_dessin%C3%A9_par_J._Narbouth_-_btv1b8440688k.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0a2a8668261fbfc6a9b83239","title":"Synagogue of Lubavitcher Hasidism Vilna (15095852286).jpg","caption":"Synagogue of Lubavitcher Hasidim. Vilna. Vilna Street, private house number 21. The Lubavitcher Hasidim are adherents of a Hasidic movement known as Chabad (also known as Lubavitch and Chabad-Lubavitch). The word “Chabad” is a Hebrew acronym for “Chochmah, Binah, Da’at” which translates to “Wisdom, Understanding, Knowledge.” This movement was founded in Liozna in 1775 (this town was in the Grand Duchy of Lithuania at the time, and is now in Belarus) by the Orthodox Rabbi Schneur Zalman. Today it is headquartered in the Crown Heights neighborhood of Brooklyn, New York. This book stamp is from a book looted by the Nazis and sorted by Colonel Seymour Pomrenze, one of “the Monuments Men,” at the Offenbach Archival Depot. There are two scrapbooks of archival markings from the books sorted at the Offenbach Depot in the Seymour Pomrenze Collection held by the American Jewish Historical Society (Call number P-933) There is a finding aid for the collection here The digitized scrapbooks are available here and here . For more information on this project check the Center’s blog: 16thstreet.tumblr.com/tagged/Offenbach-Depot Dr. Mitch Fraas, Acting Director of the Digital Humanities Forum at the University of Pennsylvania Libraries' Special Collections Center is working on a similar project for the German book stamps based on NARA microfilm of the volumes the American Jewish Historical Society currently holds. See viewshare.org/views/mfraas/offenbach-bookplates/ The Center for Jewish History would like to acknowledge the following: The American Jewish Historical Society, who graciously allowed the use of their archival materials and digital content; Mitch Fraas, Acting Director of the Digital Humanities Forum at the University of Pennsylvania Libraries' Special Collections Center, for his data and technical assistance in this project; David Rosenberg, Reference Services Research Coordinator, and Melanie Meyers, Senior Reference Services Librarian for Special Collections, for managing and creating the digital map; and Reference Services Intern Ilya Slavutskiy for his work on translating and mapping. For copyright information, click here","creator":"Center for Jewish History, NYC","provider":"commons","providerLabel":"Wikimedia Commons","license":"No restrictions","rightsNote":"No known copyright restrictions","dateDisplay":"2014-07-20 13:11:24","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASynagogue_of_Lubavitcher_Hasidism_Vilna_%2815095852286%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/50/Synagogue_of_Lubavitcher_Hasidism_Vilna_%2815095852286%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8623d8cb81d95f292ca29741","title":"UAB \"Vilniaus prekyba\" ir kitų susijusių įmonių veiklos žemėlapis.png","caption":"UAB \"Vilniaus prekyba\" ir kitų susijusių įmonių veiklos žemėlapis","creator":"Wikipedia readerLT","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2016-03-24","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUAB_%22Vilniaus_prekyba%22_ir_kit%C5%B3_susijusi%C5%B3_%C4%AFmoni%C5%B3_veiklos_%C5%BEem%C4%97lapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c1/UAB_%22Vilniaus_prekyba%22_ir_kit%C5%B3_susijusi%C5%B3_%C4%AFmoni%C5%B3_veiklos_%C5%BEem%C4%97lapis.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5f290d8ed4a670e43185472d","title":"Vilna Governorate Map (1897).jpg","caption":"Vilna (Vilnius) Governorate map from Brokhaus and Efron Encyclopedic Dictionary","creator":". The original uploader was СафроновАВ at Russian Wikipedia .","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"19 th century date QS:P,+1850-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_Governorate_Map_%281897%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Vilna_Governorate_Map_%281897%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-98e05f2ae66bdeea3de74381","title":"Vilna Lituaniae metropolis - btv1b53178841j (1 of 2).jpg","caption":"Sujet : Plans de ville Cartouches (ornement) Vilnius Personnages Échelle(s) : [Sans échelle (exprimé)] Référence bibliographique : 4715 Couverture : Lituanie E 20°19' / N 54°40' Langue : français latin allemand Éditeur : [s.n.]","creator":"Braun, Georg (1541-1622). Éditeur scientifique Hogenberg, Frans (1539?-1590?). Graveur Van Belle, Jérôme. Traducteur","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1645 date QS:P571,+1645-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/60/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-eb45745ac724947284669a13","title":"Vilna Lituaniae metropolis - btv1b53178841j (2 of 2).jpg","caption":"Sujet : Plans de ville Cartouches (ornement) Vilnius Personnages Échelle(s) : [Sans échelle (exprimé)] Référence bibliographique : 4715 Couverture : Lituanie E 20°19' / N 54°40' Langue : français latin allemand Éditeur : [s.n.]","creator":"Braun, Georg (1541-1622). Éditeur scientifique Hogenberg, Frans (1539?-1590?). Graveur Van Belle, Jérôme. Traducteur","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1645 date QS:P571,+1645-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_Lituaniae_metropolis_-_btv1b53178841j_%282_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%282_of_2%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e53f67f7bffa477fe2125389","title":"Vilna in Russian Empire (1914).svg","caption":"Locator map of XY (see filename) province in Russian Empire (1914), extracted from File:Subdivisions of the Russian Empire in 1914.svg","creator":"Milenioscuro","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2019-12-24","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_in_Russian_Empire_%281914%29.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Vilna_in_Russian_Empire_%281914%29.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1cf69545bb7bea149127c57b","title":"Vilna region transfer to Lithuania 10 October 1939 map.jpg","caption":"Map of the transfer of the city of Vilna and part of the Vilna region to the Republic of Lithuania under the Soviet–Lithuanian Treaty of 10 October 1939. Shows the territory transferred to Lithuania.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2014","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_region_transfer_to_Lithuania_10_October_1939_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vilna_region_transfer_to_Lithuania_10_October_1939_map.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0efaad06ba00ce92f567f5a8","title":"Vilniaus miesto zemelapis.png","caption":"Vilniaus miesto žemėlapis.","creator":"Tocekas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2011-03-02","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_miesto_zemelapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/21/Vilniaus_miesto_zemelapis.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3770e87e89c2fa15cf48c623","title":"Vilniaus rajono savivaldybė.svg","caption":"Location map of Vilnius District Municipality, Lithuania","creator":"Obivan Kenobi","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2022-08-13","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_rajono_savivaldyb%C4%97.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Vilniaus_rajono_savivaldyb%C4%97.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1295616d70b8a9855dea70b1","title":"Vilniaus rajono zemelapis.png","caption":"Vilniaus rajono žemėlapis.","creator":"Tocekas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2011-02-06","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_rajono_zemelapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/31/Vilniaus_rajono_zemelapis.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4279286d288a6ba1598e86c7","title":"Vilniaus seniunijos.png","caption":"Vilniaus seniūnijų žemėlapis","creator":"Bearas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2018-12-31","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_seniunijos.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b1/Vilniaus_seniunijos.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-dc3fe0a168d8d707651d48cf","title":"Vilnius - map by Braun Hogenberg (34065617).jpg","caption":"Map of Vilnius in 1576","creator":"Georg Braun","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"16","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_-_map_by_Braun_Hogenberg_%2834065617%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Vilnius_-_map_by_Braun_Hogenberg_%2834065617%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5c3330fe5500bb781a535344","title":"Vilnius - map by Braun Hogenberg (middle size) (34065617).jpg","caption":"Map of Vilnius in 1576","creator":"Georg Braun","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"16","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_-_map_by_Braun_Hogenberg_%28middle_size%29_%2834065617%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vilnius_-_map_by_Braun_Hogenberg_%28middle_size%29_%2834065617%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d9c7a19da6f6d56ef839a3f8","title":"Vilnius 1576.jpg","caption":"Map of Vilnius in 1576","creator":"German cartographer and church diplomat G. Braun (1541-1622) and his assistants","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"Drawn 1576; published in 1581","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_1576.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Vilnius_1576.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-654d51c18bcc72bb19969a80","title":"Vol III (59) Vilna Litvaniae (Vilnius). (IA dr vol-iii-59-vilna-litvaniae-vilnius-12126364).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~300776~90071972 \" rel=\"ugc nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2212126.364%22\" rel=\"ugc nofollow\"&gt;12126.364&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2212126.000%22 \" rel=\"ugc nofollow\"&gt;12126.000&lt;/a&gt;. In this last edition of Volume III, van der Krogt 41:1.3 (1623), the preliminary matter after the title page is dropped. The Civitates Orbis Terrarum was the first atlas of world cities and one of the most important books published in the late 16th century. Although led by Braun and Hogenberg, the books were created by a large team of writers, engravers, and artists. R.V. Tooley writes: \"The Civitates is one of the great books of the World... it was the first serious attempt to give graphic representations of the main cities of the World, with a wealth of factual detail. In the main, the buildings in each view are shown in elevation, and while the ordinary buildings are stylized, the principal buildings are reproduced from actual drawings on the spot, and these, and the main streets, can be recognized today. Further, the editors gave additional factual information as a deliberately planned policy, such as the heraldic arms of the city, and the nature of the surrounding countryside, whether wooded or arable, grazing land, vineyards, or gardens. The importance of waterways is stressed by the careful delineation of stone bridges, wooden pontoons, flat-bottomed ferries, moles, wharves and jetties; the ports with ocean-going craft, the inland waters with river traffic. Varieties of land travel are depicted, pedestrians, horsemen, wagons, coaches, and palanquins. Small vignettes illustrate the trade, occupations and habits of the locality, agriculture, paper-making and textiles. The law is represented by various forms of punishment, gibbets, wheels, floggings etc. A distinctive feature of the plates is the insertion of large figures in the foreground to illustrate local costume. Those figures are out of proportion necessarily. The general multiplication of detail slightly offends certain commentators who fail to appreciate the purpose of the editors. Their primary aim was not to produce well-balanced landscapes, but to give as much information as possible in a pleasing visual form, in reality a kind of super guide book. This was done so magnificently that the result was an art as decorative as it was informative. The whole forms a wonderful compendium of life in Europe in the sixteenth century. And as city growth in early times, with a few obvious exceptions, was more or less static, even further it gives a visual printed record of mediaeval Europe, and is one of the most valuable sources remaining to the student and historian of these periods.\" (R.V. Tooley, preface to the reproduction edition of Civitates Orbis Terrarum, World Publishing, 1966) Koeman B&amp;H 1-6; van der Krogt 41:1.1 (1640). This is van der Krogt's XVIII edition, c. 1640, the last edition of six volumes. Van der Krogt dates the individual volumes as 1 (c. 1640, 11th ed.), 2 (c. 1640, 9th ed.), 3 (c. 1623, 7th ed.), 4 (c. 1635, 7th ed.), 5 (c. 1640, 5th ed.), 6 (c. 1635, 3rd ed.). All six volumes are printed by Peter von Brachel between 1823 and 1640, with the texts reset by him and the plates used generally from first or second editions. We date the volumes, texts and plates separately, using Van der Krogt's listings. There are 546 plans/views of cities on 363 plates. The title for the series of six volumes is taken from the first volume which is general practice. The other five volumes are titled individually. The original publication dates are vol I, 1572; vol II, 1575; vol III, 1581; vol IV, c.1588; vol V, c.1598; vol VI, 1617. Van der Krogt Vol IV-2: 4715, st. 1 Subjects:","creator":"Braun, Georg, 1541-1622 Hogenberg, Franz, 1539-1590 Novellanus, Simon, d. 1590 Hoefnagel, Joris, 1542-1600","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-26 19:48:52","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVol_III_%2859%29_Vilna_Litvaniae_%28Vilnius%29._%28IA_dr_vol-iii-59-vilna-litvaniae-vilnius-12126364%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Vol_III_%2859%29_Vilna_Litvaniae_%28Vilnius%29._%28IA_dr_vol-iii-59-vilna-litvaniae-vilnius-12126364%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a672994e5be28e5e8be5af39","title":"WIG Mapa Operacyjna Polski - 37 Wilno 1930.jpg","caption":"Operational map of Poland and neighbouring countries, region Wilno. Scale of 1:300000.","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1930","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWIG_Mapa_Operacyjna_Polski_-_37_Wilno_1930.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a4/WIG_Mapa_Operacyjna_Polski_-_37_Wilno_1930.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-87a10f107e92a00093602e46","title":"Wilno - mapa topograficzna WIG (1928-35).png","caption":"Map of Wilno/Vilnius (Polish WIG map, 1:100 000, 1928-35) with modern district borders","creator":"Aotearoa at Polish Wikipedia","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"17 October 2007 (original upload date)","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWilno_-_mapa_topograficzna_WIG_%281928-35%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Wilno_-_mapa_topograficzna_WIG_%281928-35%29.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-665a320b89fbe535bc5c5c26","title":"Wilno Voivodeship in the Second Polish Republic (1938).png","caption":"Locator map of Wilno Voivodeship (1926–1939) in the Second Polish Republic","creator":"Cukrakalnis","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2022-07-03","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWilno_Voivodeship_in_the_Second_Polish_Republic_%281938%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Wilno_Voivodeship_in_the_Second_Polish_Republic_%281938%29.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b92841ddb35211dc03b67def","title":"Co jest na niebie i na ziemi 1915 (78613654).jpg","caption":"Adres wydawniczy : Wilno : J. Zawadzki, 1915 Opis fizyczny : 54 s., 3 k. mapy. : il. ; 20 cm","creator":"Helena Romer-Ochenkowska","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2023-10-13 22:22:30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACo_jest_na_niebie_i_na_ziemi_1915_%2878613654%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Co_jest_na_niebie_i_na_ziemi_1915_%2878613654%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-60afbe4ab18ae7c09efb0d04","title":"Co jest na niebie i na ziemi 1915 (78613661).jpg","caption":"Adres wydawniczy : Wilno : J. Zawadzki, 1915 Opis fizyczny : 54 s., 3 k. mapy. : il. ; 20 cm","creator":"Helena Romer-Ochenkowska","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2023-10-13 22:22:37","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACo_jest_na_niebie_i_na_ziemi_1915_%2878613661%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Co_jest_na_niebie_i_na_ziemi_1915_%2878613661%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-44d797c02317d22b893e7611","title":"Co jest na niebie i na ziemi 1915 (78613667).jpg","caption":"Adres wydawniczy : Wilno : J. Zawadzki, 1915 Opis fizyczny : 54 s., 3 k. mapy. : il. ; 20 cm","creator":"Helena Romer-Ochenkowska","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2023-10-13 22:22:42","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACo_jest_na_niebie_i_na_ziemi_1915_%2878613667%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Co_jest_na_niebie_i_na_ziemi_1915_%2878613667%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f639fee97ed79afea6bf7e6d","title":"Grand Duchy of Lithuania Napoleonic administration 1 July 1812 map.jpg","caption":"Map of the administrative entity \"Grand Duchy of Lithuania\" established by decree of Napoleon on 1 July 1812. Shows the territories of Vilna, Grodno and Minsk governorates and the Bialystok region, as well as the structure of civil administration within the Napoleonic system.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"20","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGrand_Duchy_of_Lithuania_Napoleonic_administration_1_July_1812_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bb/Grand_Duchy_of_Lithuania_Napoleonic_administration_1_July_1812_map.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-151f5234c4c8a830eb980938","title":"Kolej Warszawsko-Petersburska - mapa.jpg","caption":"Z planem, widokami Wilna i Mappą kolei żelaznych. s.1.","creator":"Adam Honory Kirkor","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1862","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKolej_Warszawsko-Petersburska_-_mapa.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/07/Kolej_Warszawsko-Petersburska_-_mapa.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-bb3b2d06918bcc3018f4b8f3","title":"Map of the Vilija River by Szantyr (1857).tiff","caption":"Map of the Viliya (Neris) River from its source to the first trading post in Kostyki, by Jerzy Szantyr. Created based on the results of the 1857 hydrographic expedition led by Count Konstanty Tyszkiewicz. The map consists of 18 parts mounted on canvas. Published in Vilnius.","creator":"Creator:Jerzy Szantyr","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1857 date QS:P571,+1857-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_the_Vilija_River_by_Szantyr_%281857%29.tiff","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Map_of_the_Vilija_River_by_Szantyr_%281857%29.tiff","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e3f168ebf029249320f333f4","title":"N.Sansonas d'Abbevillis, Lietuvos dalies žemėlapis 1665 m. - Breslaujos pavietas.png","caption":"Lietuvos dalies žemėlapis 1665 m. (Vilniaus ir Trakų vaivadijos)","creator":"http://maps4u.lt/lt/maps.php?img=Partie_de_Lithuanie_Wilna_Troki_1669&amp;w=600&amp;h=400&amp;zoom=&amp;cat=11","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1665 date QS:P,+1665-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AN.Sansonas_d%27Abbevillis%2C_Lietuvos_dalies_%C5%BEem%C4%97lapis_1665_m._-_Breslaujos_pavietas.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3f/N.Sansonas_d%27Abbevillis%2C_Lietuvos_dalies_%C5%BEem%C4%97lapis_1665_m._-_Breslaujos_pavietas.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-432e81c41c74d2eb887c1b3b","title":"N.Sansonas d'Abbevillis, Lietuvos dalies žemėlapis 1665 m., Vilkmergės pavietas.png","caption":"Lietuvos dalies žemėlapis 1665 m. (Vilniaus ir Trakų vaivadijos)","creator":"Nicolas Sanson","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1665","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AN.Sansonas_d%27Abbevillis%2C_Lietuvos_dalies_%C5%BEem%C4%97lapis_1665_m.%2C_Vilkmerg%C4%97s_pavietas.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Sansonas_d%27Abbevillis%2C_Lietuvos_dalies_%C5%BEem%C4%97lapis_1665_m.%2C_Vilkmerg%C4%97s_pavietas.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4d346a3002635bd8d8a63493","title":"Ober Ost administrative divisions October 1915 map.jpg","caption":"Map of the administrative divisions of the German military administration Ober Ost as of October 1915. Shows the districts of Courland, Lithuania, Vilna, Suwalki, Grodno and Bialystok, highlighted in different colours.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2015","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AOber_Ost_administrative_divisions_October_1915_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Ober_Ost_administrative_divisions_October_1915_map.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7f591623b7ff9d1554d90ab4","title":"Ober Ost administrative divisions with modern borders October 1915 map.jpg","caption":"Map of the administrative divisions of the German military administration Ober Ost as of October 1915 with modern state borders overlaid. Shows the districts of Courland, Lithuania, Vilna, Suwalki, Grodno and Bialystok.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2015","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AOber_Ost_administrative_divisions_with_modern_borders_October_1915_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Ober_Ost_administrative_divisions_with_modern_borders_October_1915_map.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-012fe13b2e313849b68088fa","title":"Podzial wojewodztwa wilenskiego 1937.png","caption":"Map of Wilno Voivodeship , 1937.","creator":"Graffer","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2007-07-25","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APodzial_wojewodztwa_wilenskiego_1937.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/84/Podzial_wojewodztwa_wilenskiego_1937.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-9f7bed9e86a5e2051bd852c4","title":"Map of Lithuania (Carte de Lithuanie), with the territory occupied by Poland, ca 1930s.jpg","caption":"Map of Lithuania (Carte de Lithuanie), with the territory occupied by Poland, ca 1930s","creator":"unknown","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"ca 1930s","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Lithuania_%28Carte_de_Lithuanie%29%2C_with_the_territory_occupied_by_Poland%2C_ca_1930s.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Map_of_Lithuania_%28Carte_de_Lithuanie%29%2C_with_the_territory_occupied_by_Poland%2C_ca_1930s.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-d9c7a19da6f6d56ef839a3f8","title":"Vilnius 1576.jpg","caption":"Map of Vilnius in 1576","creator":"German cartographer and church diplomat G. Braun (1541-1622) and his assistants","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"Drawn 1576; published in 1581","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_1576.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Vilnius_1576.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-76b91a8443de6fb0b1fa592b","title":"Civitates orbis terrarum, 1581. Vilna. 27 die dir garde.jpg","caption":"A cropped image from the map of Vilnius from Civitates orbis terrarum , displaying object No. 27 \"die dir garde\" in isolation.","creator":"German cartographer and church diplomat G. Braun (1541-1622) and his assistants","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"Drawn 1576; published in 1581","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACivitates_orbis_terrarum%2C_1581._Vilna._27_die_dir_garde.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Civitates_orbis_terrarum%2C_1581._Vilna._27_die_dir_garde.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fc8bf2d86ffbd844788f3718","title":"Map of Vilna Ghetto.png","caption":"Map of Vilna Ghetto (png). Legend: Olive green area = small ghetto (liquidated in October 1941) Darker gray are = larger ghetto (liquidated in September 1943) Blue area = enlargement of the ghetto in September 1942 Yellow Star of David = Judenrat building Black # sign = ghetto gates Dot with a cross = Christian church House with a Star of David = Synagogue House symbol = Town Hall Points of interest inside the larger ghetto: Blue dot = Jewish hospital Purple dot = Ghetto theater Dark red dot = Ghetto library Pink dot = Ghetto prison Green dot = headquarters of FPO, Jewish resistance organization Orange dot = the larger of the two yeshivas in the ghetto and Torah center","creator":"Renata3","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2017-07-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Vilna_Ghetto.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Map_of_Vilna_Ghetto.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-247b4f830176fce8c37589e1","title":"Map of Vilna Ghetto.svg","caption":"Map of Vilna Ghetto. For full description, see File:Map of Vilna Ghetto.png","creator":"Renata3","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2017-07-15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Vilna_Ghetto.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Map_of_Vilna_Ghetto.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-de0ab001c36d76858910c3e9","title":"Plan topographique de Vilna - dessiné par J. Narbouth - btv1b8440688k.jpg","caption":"Sujet : Vilnius Couverture : Lituanie Langue : français Éditeur : [s.n.]","creator":"Narbouth, J.. Auteur du texte","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2 nd millennium date QS:P571,+1500-00-00T00:00:00Z/6","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APlan_topographique_de_Vilna_-_dessin%C3%A9_par_J._Narbouth_-_btv1b8440688k.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/87/Plan_topographique_de_Vilna_-_dessin%C3%A9_par_J._Narbouth_-_btv1b8440688k.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0a2a8668261fbfc6a9b83239","title":"Synagogue of Lubavitcher Hasidism Vilna (15095852286).jpg","caption":"Synagogue of Lubavitcher Hasidim. Vilna. Vilna Street, private house number 21. The Lubavitcher Hasidim are adherents of a Hasidic movement known as Chabad (also known as Lubavitch and Chabad-Lubavitch). The word “Chabad” is a Hebrew acronym for “Chochmah, Binah, Da’at” which translates to “Wisdom, Understanding, Knowledge.” This movement was founded in Liozna in 1775 (this town was in the Grand Duchy of Lithuania at the time, and is now in Belarus) by the Orthodox Rabbi Schneur Zalman. Today it is headquartered in the Crown Heights neighborhood of Brooklyn, New York. This book stamp is from a book looted by the Nazis and sorted by Colonel Seymour Pomrenze, one of “the Monuments Men,” at the Offenbach Archival Depot. There are two scrapbooks of archival markings from the books sorted at the Offenbach Depot in the Seymour Pomrenze Collection held by the American Jewish Historical Society (Call number P-933) There is a finding aid for the collection here The digitized scrapbooks are available here and here . For more information on this project check the Center’s blog: 16thstreet.tumblr.com/tagged/Offenbach-Depot Dr. Mitch Fraas, Acting Director of the Digital Humanities Forum at the University of Pennsylvania Libraries' Special Collections Center is working on a similar project for the German book stamps based on NARA microfilm of the volumes the American Jewish Historical Society currently holds. See viewshare.org/views/mfraas/offenbach-bookplates/ The Center for Jewish History would like to acknowledge the following: The American Jewish Historical Society, who graciously allowed the use of their archival materials and digital content; Mitch Fraas, Acting Director of the Digital Humanities Forum at the University of Pennsylvania Libraries' Special Collections Center, for his data and technical assistance in this project; David Rosenberg, Reference Services Research Coordinator, and Melanie Meyers, Senior Reference Services Librarian for Special Collections, for managing and creating the digital map; and Reference Services Intern Ilya Slavutskiy for his work on translating and mapping. For copyright information, click here","creator":"Center for Jewish History, NYC","provider":"commons","providerLabel":"Wikimedia Commons","license":"No restrictions","rightsNote":"No known copyright restrictions","dateDisplay":"2014-07-20 13:11:24","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASynagogue_of_Lubavitcher_Hasidism_Vilna_%2815095852286%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/50/Synagogue_of_Lubavitcher_Hasidism_Vilna_%2815095852286%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-98e05f2ae66bdeea3de74381","title":"Vilna Lituaniae metropolis - btv1b53178841j (1 of 2).jpg","caption":"Sujet : Plans de ville Cartouches (ornement) Vilnius Personnages Échelle(s) : [Sans échelle (exprimé)] Référence bibliographique : 4715 Couverture : Lituanie E 20°19' / N 54°40' Langue : français latin allemand Éditeur : [s.n.]","creator":"Braun, Georg (1541-1622). Éditeur scientifique Hogenberg, Frans (1539?-1590?). Graveur Van Belle, Jérôme. Traducteur","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1645 date QS:P571,+1645-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/60/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-eb45745ac724947284669a13","title":"Vilna Lituaniae metropolis - btv1b53178841j (2 of 2).jpg","caption":"Sujet : Plans de ville Cartouches (ornement) Vilnius Personnages Échelle(s) : [Sans échelle (exprimé)] Référence bibliographique : 4715 Couverture : Lituanie E 20°19' / N 54°40' Langue : français latin allemand Éditeur : [s.n.]","creator":"Braun, Georg (1541-1622). Éditeur scientifique Hogenberg, Frans (1539?-1590?). Graveur Van Belle, Jérôme. Traducteur","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1645 date QS:P571,+1645-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_Lituaniae_metropolis_-_btv1b53178841j_%282_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%282_of_2%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1cf69545bb7bea149127c57b","title":"Vilna region transfer to Lithuania 10 October 1939 map.jpg","caption":"Map of the transfer of the city of Vilna and part of the Vilna region to the Republic of Lithuania under the Soviet–Lithuanian Treaty of 10 October 1939. Shows the territory transferred to Lithuania.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2014","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_region_transfer_to_Lithuania_10_October_1939_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vilna_region_transfer_to_Lithuania_10_October_1939_map.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0efaad06ba00ce92f567f5a8","title":"Vilniaus miesto zemelapis.png","caption":"Vilniaus miesto žemėlapis.","creator":"Tocekas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2011-03-02","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_miesto_zemelapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/21/Vilniaus_miesto_zemelapis.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4279286d288a6ba1598e86c7","title":"Vilniaus seniunijos.png","caption":"Vilniaus seniūnijų žemėlapis","creator":"Bearas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2018-12-31","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_seniunijos.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b1/Vilniaus_seniunijos.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-dc3fe0a168d8d707651d48cf","title":"Vilnius - map by Braun Hogenberg (34065617).jpg","caption":"Map of Vilnius in 1576","creator":"Georg Braun","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"16","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_-_map_by_Braun_Hogenberg_%2834065617%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Vilnius_-_map_by_Braun_Hogenberg_%2834065617%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5c3330fe5500bb781a535344","title":"Vilnius - map by Braun Hogenberg (middle size) (34065617).jpg","caption":"Map of Vilnius in 1576","creator":"Georg Braun","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"16","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_-_map_by_Braun_Hogenberg_%28middle_size%29_%2834065617%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vilnius_-_map_by_Braun_Hogenberg_%28middle_size%29_%2834065617%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-654d51c18bcc72bb19969a80","title":"Vol III (59) Vilna Litvaniae (Vilnius). (IA dr vol-iii-59-vilna-litvaniae-vilnius-12126364).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~300776~90071972 \" rel=\"ugc nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2212126.364%22\" rel=\"ugc nofollow\"&gt;12126.364&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2212126.000%22 \" rel=\"ugc nofollow\"&gt;12126.000&lt;/a&gt;. In this last edition of Volume III, van der Krogt 41:1.3 (1623), the preliminary matter after the title page is dropped. The Civitates Orbis Terrarum was the first atlas of world cities and one of the most important books published in the late 16th century. Although led by Braun and Hogenberg, the books were created by a large team of writers, engravers, and artists. R.V. Tooley writes: \"The Civitates is one of the great books of the World... it was the first serious attempt to give graphic representations of the main cities of the World, with a wealth of factual detail. In the main, the buildings in each view are shown in elevation, and while the ordinary buildings are stylized, the principal buildings are reproduced from actual drawings on the spot, and these, and the main streets, can be recognized today. Further, the editors gave additional factual information as a deliberately planned policy, such as the heraldic arms of the city, and the nature of the surrounding countryside, whether wooded or arable, grazing land, vineyards, or gardens. The importance of waterways is stressed by the careful delineation of stone bridges, wooden pontoons, flat-bottomed ferries, moles, wharves and jetties; the ports with ocean-going craft, the inland waters with river traffic. Varieties of land travel are depicted, pedestrians, horsemen, wagons, coaches, and palanquins. Small vignettes illustrate the trade, occupations and habits of the locality, agriculture, paper-making and textiles. The law is represented by various forms of punishment, gibbets, wheels, floggings etc. A distinctive feature of the plates is the insertion of large figures in the foreground to illustrate local costume. Those figures are out of proportion necessarily. The general multiplication of detail slightly offends certain commentators who fail to appreciate the purpose of the editors. Their primary aim was not to produce well-balanced landscapes, but to give as much information as possible in a pleasing visual form, in reality a kind of super guide book. This was done so magnificently that the result was an art as decorative as it was informative. The whole forms a wonderful compendium of life in Europe in the sixteenth century. And as city growth in early times, with a few obvious exceptions, was more or less static, even further it gives a visual printed record of mediaeval Europe, and is one of the most valuable sources remaining to the student and historian of these periods.\" (R.V. Tooley, preface to the reproduction edition of Civitates Orbis Terrarum, World Publishing, 1966) Koeman B&amp;H 1-6; van der Krogt 41:1.1 (1640). This is van der Krogt's XVIII edition, c. 1640, the last edition of six volumes. Van der Krogt dates the individual volumes as 1 (c. 1640, 11th ed.), 2 (c. 1640, 9th ed.), 3 (c. 1623, 7th ed.), 4 (c. 1635, 7th ed.), 5 (c. 1640, 5th ed.), 6 (c. 1635, 3rd ed.). All six volumes are printed by Peter von Brachel between 1823 and 1640, with the texts reset by him and the plates used generally from first or second editions. We date the volumes, texts and plates separately, using Van der Krogt's listings. There are 546 plans/views of cities on 363 plates. The title for the series of six volumes is taken from the first volume which is general practice. The other five volumes are titled individually. The original publication dates are vol I, 1572; vol II, 1575; vol III, 1581; vol IV, c.1588; vol V, c.1598; vol VI, 1617. Van der Krogt Vol IV-2: 4715, st. 1 Subjects:","creator":"Braun, Georg, 1541-1622 Hogenberg, Franz, 1539-1590 Novellanus, Simon, d. 1590 Hoefnagel, Joris, 1542-1600","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-26 19:48:52","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVol_III_%2859%29_Vilna_Litvaniae_%28Vilnius%29._%28IA_dr_vol-iii-59-vilna-litvaniae-vilnius-12126364%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Vol_III_%2859%29_Vilna_Litvaniae_%28Vilnius%29._%28IA_dr_vol-iii-59-vilna-litvaniae-vilnius-12126364%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-87a10f107e92a00093602e46","title":"Wilno - mapa topograficzna WIG (1928-35).png","caption":"Map of Wilno/Vilnius (Polish WIG map, 1:100 000, 1928-35) with modern district borders","creator":"Aotearoa at Polish Wikipedia","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"17 October 2007 (original upload date)","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWilno_-_mapa_topograficzna_WIG_%281928-35%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Wilno_-_mapa_topograficzna_WIG_%281928-35%29.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
 ---
 # Vilnius
 
@@ -20016,6 +20016,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-05676
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     XVI amž. plačioji Lietuvos metraščio
     redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo
@@ -20037,6 +20038,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-05677
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo
     į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be
@@ -20056,6 +20058,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-05679
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     čiai jį jau pripažino nuo 1390 m. Nors 1392 m. dokumentuose nie­
     kur nepaminėta, bet Vytautas tada turėjo gauti ir Vilnių^24. Dlu­
@@ -20074,6 +20077,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Nepatenkinti
     lietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos
@@ -20097,6 +20101,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-32530
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Nespausdinta yra likusi Lietuvoje Šapokos habilitacija « 1655
     metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m. »,kuri
@@ -20119,6 +20124,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-32531
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (atspaudai iš
     Praeities t. 1-3).
@@ -20139,6 +20145,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-32534
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Gražia legenda yra apipintas Vilniuje valstybės sostinės
     įkūrimas^14. Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­
@@ -20158,6 +20165,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-32538
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Kai 1382.VI.
     12 d. iš Vitebsko atvyko į Vilnių Jogaila, Hanulis jam įteikė pilies
@@ -20174,6 +20182,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Tuojau po 1377 metų Vytauto sėkmingo žygio baigė savo amžių
     didysis Lietuvos kunigaikštis Algirdas. Didžiojo kunigaikščio
@@ -20195,6 +20204,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Kaip Lietuvos metraštis sako, Kęstutis, palikęs Vytau­
     tą Vilniuje, pats išsirengė sudrausti nepaklusnaus kunigaikščio.
@@ -20216,6 +20226,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Susišaukęs savo šalinin­
     kus nutarė slapčia užimti Vilnių. Bet jų sumanymas liko iš­
@@ -20234,6 +20245,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Tuo pačiu bus aptarta ir tų santykių forma,
     kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
@@ -20255,6 +20267,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-44003
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Paimtos 7 livonie-
     čių vėliavos, kurios buvo nugabentos į
@@ -20272,6 +20285,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-44008
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tais pa-
     čiais metais Rusija pasiuntė savo gausią kariuomenę į Lietuvą. Nors
@@ -20292,6 +20306,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-44010
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Šios Sapiegų kariuomenės
     dalies gynyba neleido respubliko-
@@ -20321,6 +20336,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-44012
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lietuvos pajėgos
     Vilniaus puolime balandžio 23 d. daly-
@@ -20344,6 +20360,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-44013
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Vėliau Vilnių nuo rusų puolimo gynė
     gen. mjr. Jono Mejeno divizija, kurią sudarė
@@ -20392,6 +20409,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-44014
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tačiau sprendžiant iš 1792 m. dokumentuose aptinkamų žinių, kartais
     Prūsijoje būdavo įsigyjama ne ypač geros kokybės šautuvų. Mėginta šautuvus gaminti Gardine,
@@ -20423,6 +20441,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-44015
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     |
     | Kovo mėnesį vieną dieną pradėta organizuoti rinktinė iš Kauno ir Aukštosios Panemunės |
@@ -20441,6 +20460,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-44018
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     — 1919 m. balandžio 16-17 lenkai užėmė Lydą E). Balandžio
     19-21 d. po sunkių kovų lenkai užėmė Vilnių ir išstūmė bolševikus iš
@@ -20458,6 +20478,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-46800
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Vilnius pasidarė didelis rytų Europos miestas. Žo-
     džiu, Vytautas padėjo pamatus naujajai Lietuvai. Tik, deja,
@@ -20472,6 +20493,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-46803
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kunigaikštienė Ele-
     na tapo abiejų pusių politinių sumetimų auka. Pirmiausia jos
@@ -20494,6 +20516,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-46806
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tada ir ponai prisi-
     statė Vilniuje daugybę rūmų. Tais laikais Vilnius pasidarė vienas
@@ -20511,6 +20534,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-46808
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kol buvo gyvas Zigmantas II Senasis, niekas nedrįso Lie-
     tuvoje atvirai skelbti protestantizmo. 1538 m. Abraomas Kul-
@@ -20529,6 +20553,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-46809
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Lietuvoje protestantų galva ir uoliausias protestantizmo
     skleidėjas pasidarė artimiausias Zigmanto Augusto patarėjas
@@ -20547,6 +20572,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-46812
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Pagaliau laimėjo lietuviai
     ir karalius; lenkai irgi sutiko apsidėti mokesčiais. Lietuva noriai
@@ -20568,6 +20594,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-46813
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Len-
     kai ir šitam seime nenorėjo
@@ -20592,6 +20619,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-46814
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Todėl Vilniaus vyskupas
     Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo
@@ -20610,6 +20638,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-46815
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Todėl kai 1578 m. Vilniaus
     jėzuitai per vysk. Protasevičių ir J. Radvilą paprašė jį leisti
@@ -20627,6 +20656,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165169
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko
     liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun-
@@ -20646,6 +20676,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165170
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1919 m. balandžio pradžioje Lietuvos karinė vado-
     vybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti
@@ -20666,6 +20697,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165171
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Buvo juk to­
     kia visuotinė pirmykščių krikščionių
@@ -20694,6 +20726,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165172
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Bolševikų pa-
     jėgos šiame rajone buvo išsklaidytos ir sutelktos kitose ilgo fronto
@@ -20717,6 +20750,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165173
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vygan­
     das  tačiau byloja: Steterunt V septi­
@@ -20748,6 +20782,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165174
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Gedimi­
     no viešpatavimas Lietuvai anuomet buvo tokia pat epocha,
@@ -20774,6 +20809,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Netgi pats, 1535 metais būdamas Vilniuje, važi­
     nėjo už miesto apžiūrėti tos versmės ir įsitikinti, jog ji
@@ -20794,6 +20830,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Miestiečiai prie jų
     dieną ir naktį turėjo eiti sargybą, jiems buvo suteikta laisvė
@@ -20815,6 +20852,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165177
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     294
 
@@ -20838,6 +20876,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165178
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Žygimanto Augusto laikai Vilniui buvo aukso amžius, o
     jo mirtis - visuotinio sielvarto ir sunkios netekties diena. Čia
@@ -20856,6 +20895,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Vytautas Didysis, ėmęs valdyti Lietuvą, taip pat pasidarė
     didelis žemvaldys, paveldėdamas didž. kunigaikščiui priklau­
@@ -20875,6 +20915,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165180
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Vilnius tuo metu turėjo 155 tūkst. gyventojų (prieš Pirmąjį pasaulinį karą
     jau 200 tūkst.), Kaunas – daugiau kaip 70 tūkst. gyventojų.
@@ -20888,6 +20929,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165182
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šiuo raštu skelbiame visiems ir
     kiekvienam, kam dabar ar ateityje bus pravartu žinoti. Kad
@@ -20916,6 +20958,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165183
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Užnugaryje buvę Sapiegas rėmę
     bajorų pašauktiniai pasitraukė iš
@@ -20937,6 +20980,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165186
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     XVI a. vidu-
     ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
@@ -20970,6 +21014,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165187
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jaunavedžiai
     gyveno Vilniuje. Čia jis kurį laiką dirbo Edukacinėje teismo ko­
@@ -20987,6 +21032,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165188
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Tačiau kartu litvakais imta vadinti žydus, kuriems
     būdinga savita gyvensena, išlikusi ir po LDK sunaikinimo.
@@ -21006,6 +21052,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165190
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     VILNIAUS Ml L  STO ISTORIJA / TOMAS
     daugiau galimybių stebėti jų gynybą ir užbėgti už akių jų
@@ -21034,6 +21081,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165191
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vis dėlto Jaunutis išsigelbėjo pabėgda­
     mas kartu su jam palankiu broliu Narimantu, Pinsko
@@ -21057,6 +21105,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165192
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Iš pradžių aneksuotoje teritorijoje pradėtos kurti dvi gubernijos, tačiau
     tepraėjus tik metams sujungtos į vieną Lietuvos vardu (Litovskaja guber-
@@ -21076,6 +21125,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165193
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     O svarbiausia, jog 1560 metais Lietuvos Didžiosios Kuni­
     gaikštystės Ponų Tarybos seime, vykusiame Vilniuje, kara­
@@ -21095,6 +21145,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165194
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     1316–1341
     Gediminaičių dinastijai vardą davusio Gedimino valdymas.
@@ -21113,6 +21164,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165196
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pirmąjį Vilniaus paminėjimą, pirmą autentišką
     paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
@@ -21141,6 +21193,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165197
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
     plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
@@ -21161,6 +21214,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165198
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Prasi-
     dėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai
@@ -21177,6 +21231,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165199
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pranciškaus
     vienuolius, kunigus, į Vilnių tas pats
@@ -21211,6 +21266,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165200
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju
 
@@ -21233,6 +21289,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165201
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Matydamas šitai, lietuvių vadas din­
     go kryžiuočiams iš akių, o magistras su visa kariauna
@@ -21254,6 +21311,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165203
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     ## Puslapis 314
 
@@ -21276,6 +21334,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165204
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Dar
     niūrokas tuomet, bet visais laikais kerintis gražiu krašto­
@@ -21297,6 +21356,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165205
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šis teisingu­
     mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
@@ -21322,6 +21382,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165206
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šiuo raštu
     skelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar
@@ -21369,6 +21430,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165207
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     lonistus. Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-
     ji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių
@@ -21388,6 +21450,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165209
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Betgi toje epochoje, kai naujos civilizacijos
     spinduliai Lietuvos žemėje buvo tik pradėję blykčioti, kai,
@@ -21425,6 +21488,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165211
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Vokie-
     tija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabar-
@@ -21451,6 +21515,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165212
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     72
 
@@ -21480,6 +21545,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165213
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pavyzdžiui,
     1838 m. aiškinosi rusų valdžiai Varšuvoje: „Leidžiant Vilniaus
@@ -21501,6 +21567,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165217
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pagaliau vaitas
     įrodė, kad paimtos rusų prekės ne tik
@@ -21534,6 +21601,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165218
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Kai
     šis kariavo su nepaklusniu sūnėnu, Vilniuje, kuris buvo paliktas
@@ -21551,6 +21619,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165219
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šio antspaudo niekintojus šiuo savo laišku pasmerkiame
     kaip bjaurius tikėjimo ardytojus, eretikus, melagius ir jokios
@@ -21569,6 +21638,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165221
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     1859 m. išleistame vadove po Vilnių autorius Adomas Ho­
     norijus Kirkoras su pasitenkinimu pastebėjo, kad jo mylimas
@@ -21587,6 +21657,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165222
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Chron. prus. p. 400.
     48
@@ -21612,6 +21683,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165223
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šiuo raštu skelbiame visiems, kam da­
     bar ar ateityje kokiu nors būdu derės tai žinoti. Kad mus
@@ -21643,6 +21715,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165224
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Taigi
     davėme ir dovanojome, ir šiuo mūsų raštu duodame ir dova­
@@ -21680,6 +21753,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165226
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     286
 
@@ -21705,6 +21779,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165229
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šitaip nuteikus jau linkstančius į
     kitatikystę Vilniaus gyventojų protus, apie 1555 metus sos­
@@ -21723,6 +21798,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165230
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     – atvykėliai iš SSRS. Rusų tautybės gyventojams keltis į
     naujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas
@@ -21746,6 +21822,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165231
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1362 m. krito svarbiausia Nemuno
     gynybinės sistemos pilis - Kaunas. Per 20 metų kryžiuočiai su-
@@ -21763,6 +21840,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165232
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     284
 
@@ -21791,6 +21869,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165233
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Jaunutis stovėjo nuošaliai nuo visų tų svarbių valstybės rūpes­
     čių. Juos į savo rankas perėmė paskutinieji du pasilikę pagonys,
@@ -21808,6 +21887,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165234
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Be to, bajorų pravoslavų teisės
     buvo sulygintos su bajorų katalikų teisėmis; pravoslavams be-
@@ -21826,6 +21906,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165235
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šio karaliaus laikais Vilnius buvo aprūpintas geriausiais
     amatininkais iš Krokuvos, kurie, apsigyvenę mieste, daug
@@ -21853,6 +21934,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165236
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau pavasarį
     sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė
@@ -21871,6 +21953,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165237
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kazimiero mirtis —  Didysis kunigaikštis
     Aleksandras suteikia Vilniui naujų privilegijų —  Jo vedybos su
@@ -21906,6 +21989,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165238
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pagaliau nemažai įvairių tenykš­
     čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­
@@ -21928,6 +22012,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165239
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Be to, etnografi-
     nės Lietuvos miestuose didžiausia tautinė grupė buvo žydai, o gatvėse po
@@ -21949,6 +22034,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165241
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tad šių, mūsų valdų, ir dvarų, taip pat
     ir kito judamo ir nejudamo turto, kurį turime ir valdome,
@@ -21977,6 +22063,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165242
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Ati­
     teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
@@ -21996,6 +22083,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165243
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jau apsipratęs su
     16
@@ -22027,6 +22115,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165244
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     PATS ALEKSANDRAS,
     DIEVO MALONE DIDYSIS LIETUVOS,
@@ -22048,6 +22137,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165245
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau netrukus į Vilnių at­
     vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio
@@ -22070,6 +22160,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165246
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Veržli Vytauto prigimtis neleido jam ilgai išbūti už­
     siėmus taikiais reikalais; amžinos kovos su Rusios kunigaikš­
@@ -22096,6 +22187,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165247
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     XIX a. pradžioje Vilniaus intelektualams gelbėjant parengta visos Ru-
     sijos švietimo reforma, orientuojantis į veikusį LLV Edukacinės komisijos
@@ -22116,6 +22208,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165248
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Vytauto tolerancija patiko tautinėms mažumoms –
     juk jis pasikvietė totorius į Lietuvą, o žydams suteikė tokių privilegijų, ko-
@@ -22136,6 +22229,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165250
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     354
 
@@ -22201,6 +22295,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165251
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     —  • —
     215
@@ -22238,6 +22333,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165252
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     278
 
@@ -22266,6 +22362,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165253
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Todėl normaliai kraštui plėtotis ir kilti sąlygos buvo palankios.
     Bet vis dėlto labai mažai buvo rūpintasi savo kultūros kėlimu.
@@ -22285,6 +22382,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165255
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jogaila taip pat
     nesvyravo, ar jam, tikram broliui, pavesti savo valdžią Lie­
@@ -22305,6 +22403,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165256
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
     lo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus
@@ -22337,6 +22436,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165257
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiau-
     liuose, sukilėlių vadu tapo Jokūbas Jasinskis. Sukilėliai balandį išvadavo
@@ -22355,6 +22455,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165259
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Žemdirbiams, norintiems atvykti į mūsų karalystę ir čia
     pasilikti, duodame [žemę] bei suteikiame [privilegiją] de­
@@ -22382,6 +22483,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165260
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Todėl ir Lietuvos XVII–XVIII a. istoriją apibūdi-
     name Baroko epochos sąvoka, suteikdami jai tokį patį turinį, kokį Vakarų
@@ -22402,6 +22504,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165261
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
     sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-
@@ -22423,6 +22526,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165262
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     I. 7
     p. 11, apie Antakalnį pasakodamas, Tas Vilniaus, kaip jis atrodęs Vladis-
@@ -22454,6 +22558,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165263
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Jogaila
     ordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal­
@@ -22472,6 +22577,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165264
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vytautas Berenis
     Mykolas Balinskis -
@@ -22495,6 +22601,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165265
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Taigi ta vietovė, žinia, jei ji buvo parinkta to­
     kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­
@@ -22522,6 +22629,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165266
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šio dalyko patikimumui dabartinį raštą
     savo ranka pasirašėme ir liepėme mūsų antspaudą prika­
@@ -22555,6 +22663,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165267
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šiuo atžvilgiu jam pasisekė. Gimęs Lenkijos-Lie­
     tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
@@ -22577,6 +22686,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165268
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
     vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
@@ -22595,6 +22705,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165269
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos
     sukūrimo. Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
@@ -22614,6 +22725,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165270
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Prasidėjo neramumai Lenkijoje, 1863 m. sukilimas. Po sukilimo
     vykusios represijos sustabdė istoriko planų įgyvendinimą, nors
@@ -22631,6 +22743,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165271
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Ši organizacija iki Lietuvos nepriklausomybės atkūrimo
     turėjo atlikti nelegalios Lietuvos vyriausybės funkcijas, vadovauti pasi-
@@ -22648,6 +22761,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165272
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šven­
     tasis ekumeninis Tridento Sinodas nusprendė, kad norint
@@ -22682,6 +22796,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165273
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
     taip gana ilgam sudrumstęs namų ramybę, privertė lenkus
@@ -22708,6 +22823,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165274
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Be to, miesto palivarkus imta
     saugoti nuo kariškių spaudimo bei žemietijos valdininkų
@@ -22727,6 +22843,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165275
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Stanislovo garbei („kad abi lygiateisės tautos
     turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje,
@@ -22746,6 +22863,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Tai atsitiko 1429 m. Lucke^1 ).
 
@@ -22762,6 +22880,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165278
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Epochos simboline
     pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.
@@ -22783,6 +22902,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165279
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Štai net 1781 m. kronika iš Karaliaučiaus karališkosios bibliotekos lotyniškojo teksto
     buvo išversta  į vokiečių kalbą (kaip ir originale čia randame ne tik patį Dusburgiečio
@@ -22801,6 +22921,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165281
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vytauto
     viešpatavimo laikams einant į pabaigą, šis kunigaikštis, to­
@@ -22821,6 +22942,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165283
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
     vuočiai. Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus
@@ -22840,6 +22962,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165284
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Jėgos buvo
     nelygios, todėl numatyta, kad besipriešinanti kariuomenė turi trauktis
@@ -22859,6 +22982,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165286
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-
     tarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines
@@ -22879,6 +23003,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165287
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     — • —
     275
@@ -22906,6 +23031,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165289
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Sutartyje SSRS patvirtino, kad išlieka visos 1920 m. sutarties są-
     lygos. Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos intere-
@@ -22923,6 +23049,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165290
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vilnius, drau­
     ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
@@ -22945,6 +23072,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165291
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     IV KNYGA
     mūsų ponams tarėjams, seniūnams ir pareigūnams, nuošir­
@@ -22981,6 +23109,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165292
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau daugiausia įtakos amatininkų gerovei ir tobulėji­
     mui turėjo didžiosios ginklų liejyklos įkūrimas prie Vilniaus
@@ -23002,6 +23131,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165294
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tad galėjo čia
     pirmiau būti skandinavų nausėdijos, taigi Vilniaus pradžia
@@ -23023,6 +23153,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165296
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tačiau protestantizmas
     galėjo klestėti tik jų dvaruose:
@@ -23044,6 +23175,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165297
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus
     Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras.
@@ -23068,6 +23200,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165299
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau, kad dėl Vilniaus miesto
     gyventojų, priklausančių visokiems ponams, įvairumo, ne­
@@ -23117,6 +23250,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165301
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     12), nes Trakuose buvo jo šalininkų. Įveikti tačiau Vilnių, kur
     Vytautas palaikytojų neturėjo, nepasisekė. Bet ir Trakai greit buvo
@@ -23133,6 +23267,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165303
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Kazimiero
     kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota
@@ -23149,6 +23284,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165304
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­
     patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų
@@ -23173,6 +23309,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165305
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     1415 m. Naugarduke sušaukęs LDK stačiatikių
     vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
@@ -23195,6 +23332,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165306
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     116
 
@@ -23219,6 +23357,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165307
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     J. K. Glaubi-
     cas suformavo baroko architektūrinio stiliaus atmainą, neturinčią analogo –
@@ -23234,6 +23373,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165308
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Smig-
     288
@@ -23261,6 +23401,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165310
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pirmiausia karaliaus dėmesį patraukė Švč. Trejybės prie­
     glauda (špitolė), mieste garsi savo labdaringa veikla. 1545
@@ -23279,6 +23420,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Tuokart jis pasirodė savarankiškas lie­
     tuvių kariuomenės vadas. Kada Kryžiuočių Ordino maršalka
@@ -23300,6 +23442,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165315
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Per pusantrų metų Sąjūdžio atliktais darbais lietuvių tauta žengė
     platų žingsnį Lietuvos nepriklausomybės atkūrimo link.
@@ -23320,6 +23463,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165316
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Re­
     gis, iš jo kilusi Hanulu giminė, kurių
@@ -23348,6 +23492,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165317
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     nizacinis komitetas (Mykolas Biržiška, Petras Klimas, A. Smetona, kun.
     Juozas Stankevičius ir Jurgis Šaulys) į konferencijos dalyvių sąrašą atrinko
@@ -23367,6 +23512,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165319
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Netekusi Vilniaus, Lietuva atsisuko į
     Mažąją Lietuvą. Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
@@ -23383,6 +23529,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165320
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Atrodo, kad tais metais bu­
     vo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­
@@ -23409,6 +23556,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165321
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruo-
     se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje
@@ -23430,6 +23578,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165323
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Lietuvoje, priešingai,
     dar nebuvo jokių miestų, o ir pats feodalizmas dėl išskaidytų ku­
@@ -23449,6 +23598,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165324
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.)
     pilies bažnyčioje. Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris
@@ -23463,6 +23613,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165325
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Miesto teisė, po kurios skraiste Yilniaus gyventojai naudo­
     josi savo nuosavybe ir tam tikromis laisvėmis, kai kada bu­
@@ -23493,6 +23644,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165326
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Nepaliovė Vilnius buvęs šalies sostine ir nuola­
     tine aukščiausiojo Lietuvos valdovo buveine38. Jos gyvento­
@@ -23511,6 +23663,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165327
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Vėliau laisvę atgavęs, Andrius žuvo Vytauto pusėje 1399 m. besi­
     kaudamas su totoriais prie Vorsklos.
@@ -23530,6 +23683,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165328
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Vil-
     niuje pastatyta ir „atstatyta“ (tose vietose, kur jos buvo iki XVII a.) apie
@@ -23545,6 +23699,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165330
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuvos gotikinė architektūra perėmė pagrindi-
     nius šio stiliaus bruožus – aukštas erdves (Vilniaus Bernardinų bažny-
@@ -23560,6 +23715,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165331
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jeigu mes net tarsime, kad ta pilis Vilniuje
     gerokai anksčiau pastatyta, tai Dusburgas, Gedimino
@@ -23584,6 +23740,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165332
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau šis tiek netikėtas,
     tiek sėkmingas susirėmimas magistrui nuėjo perniek. Iš­
@@ -23604,6 +23761,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165335
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau šis Statutas tarnavo išim­
     tinai tik šlėktų luomui, nes miestui kuo iškilmingiausiai bu­
@@ -23626,6 +23784,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165336
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vis dėlto Algirdo valdymo pa­
     baigoje Vilnius neišvengė seniai jam grėsusio pavojaus. Pra­
@@ -23650,6 +23809,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165339
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Gediminas, supamas tokių įvairių kaimyninio val­
     dymo elementų, savo valstybėje turėdamas net dvi skirtin­
@@ -23674,6 +23834,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165340
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Sąmokslininkai 1432 m. rugpjūčio
     31 d. naktį užpuolė Švitrigailą Ašmenos
@@ -23700,6 +23861,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165342
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Po kanonizacijos (1604) šv. Kazimieras tapo svarbiau-
     siu Lietuvos bei Vilniaus globėju ir pagrindiniu šventuoju, o Kaziuko mu-
@@ -23716,6 +23878,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165344
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Bet šis žygis greitai baigėsi dėl didžiojo
     magistro visiško nuolankumo Žygimantui Augustui ir pri­
@@ -23739,6 +23902,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165345
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     17
 
@@ -23765,6 +23929,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165346
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­
     kilmingai įvesdintas išlaisvino karalius nuo varginančio
@@ -23828,6 +23993,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165347
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Ši trokštama žinia jau merdintį
     Aleksandrą pasiekė Vilniuje. Nors visą gyvenimą nebuvo
@@ -23859,6 +24025,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165349
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jėzuitų apsigyvenimas Vil­
     niuje jau Stepono Batoro laikais pakirto protestantų įtaką
@@ -23880,6 +24047,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165351
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šio išmintingo karaliaus nuopel­
     nas - vietinio Lietuvos ūkio pradmenys bei tvarka jos sosti­
@@ -23900,6 +24068,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165352
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Visa tai vyko žiemos pabaigo­
     je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
@@ -23919,6 +24088,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165353
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Berlynas ir Mas-
     kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,
@@ -23945,6 +24115,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165354
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Ryškiausiai dviejų visuomenių – pagoniškos ir stačiatikiškos – suartėji-
     mas turėjo būti matomas valstybės sostinėje Vilniuje. Tai atsispindi senojo
@@ -23960,6 +24131,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165355
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kilmingi žuvusieji buvo atvežti ir palai-
     doti Vilniuje. Čia, valdovui grįžus, įvyko
@@ -23980,6 +24152,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165356
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tuo metu poreikis turėti savą gynybą ir per ne­
     paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
@@ -24004,6 +24177,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165357
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     80
@@ -24021,6 +24195,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165358
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Stanislo­
     vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­
@@ -24043,6 +24218,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165359
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Mir­
     damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­
@@ -24071,6 +24247,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165361
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     14. Valerijonas Protasevičius Šuškovskis, pirma Vilniaus
     dekanas, paskui Lietuvos didysis raštininkas, po to Lucko
@@ -24091,6 +24268,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165363
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau mūšio metu į me­
     dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
@@ -24116,6 +24294,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165364
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vieno­
     je Vytauto privilegijoje, suteiktoje
@@ -24151,6 +24330,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165365
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Daug jų vyko
     pačiame Vilniuje35, o vienas, 1464 metų, įsimintinas įstaty­
@@ -24173,6 +24353,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165366
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Naujoji mokykla vadinosi Academia et Universitas Vilnensis
     Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
@@ -24192,6 +24373,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Juose buvo daugiausia
     įsigalėję vokiečių pirkliai, turėdami čia savo kontoras. Lankė
@@ -24208,6 +24390,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165368
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lenkijos valia vykusiuose rinkimuose gen. Liucijano
     Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
@@ -24227,6 +24410,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165370
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pagaliau čia, Vilniuje,
     šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
@@ -24250,6 +24434,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165371
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Datum et
     actum Vilnae die 11 Januarii anno 1582
@@ -24280,6 +24465,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165372
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Be to, iš jo laiško, rašyto po­
     piežiui, matyti turėjus norų priimti
@@ -24304,6 +24490,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165373
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Iki XV a. pabaigos gynybinės sienos saugojo
     tik Vilniaus pilis, miestas buvo neapsaugotas. Kai Krymo totorių antpuoliai ėmė
@@ -24332,6 +24519,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165374
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Iš daugelio didžiųjų kunigaikščių privilegijų ir ediktų ma­
     tyti, kad čia gerokai sumažėjo gyventojų, pastatai apleisti,
@@ -24352,6 +24540,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165375
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Dabar tik kai
     kuriuos miestus palyginsime su Vil­
@@ -24382,6 +24571,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165376
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vilnius, tiesa, turėdamas tvirtovėse labai stip­
     rias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­
@@ -24402,6 +24592,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165377
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų
     Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradė-
@@ -24418,6 +24609,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165378
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
     Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
@@ -24437,6 +24629,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165379
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Ten lietuviams studentams
     daug įtakos turėjo Lietuvos praeitimi dideliai susižavėjęs ir jau
@@ -24454,6 +24647,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165380
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Idėja skynėsi kelią ne tik Europo-
     je – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje
@@ -24477,6 +24671,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165381
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Wilno 1740 in 8vo, skyr. I. Esą
     pirmasis toje vietovėje įkurdinęs gy­
@@ -24512,6 +24707,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165382
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     28
     Das Cromehus arba Kromhus - senuo­
@@ -24534,6 +24730,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165384
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Dailės ir vaizduojamojo me-
     no bei architektūros srityje taip
@@ -24555,6 +24752,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Iš kur jis atsiradęs, tai gal vėliau
     daugiau paaiškės.
@@ -24589,6 +24787,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165386
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vienas tik Sudimantas, lietuvių vadas, sučiuptas per
     puolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­
@@ -24620,6 +24819,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165388
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Biblioteka pakeliui iš jų buvo atimta ir grąžinta, bet
     vis dėlto daug kas buvo išvežta, o kai kas tenai tebėra dar ir
@@ -24638,6 +24838,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165390
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Rašyta Krokuvoje, Viešpaties gimimo metais
     1532, lapkričio mėnesio 27 dieną, šeštajame indikte.
@@ -24660,6 +24861,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165391
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Yra
     žinoma, kad Gediminas turėjo su Volgos totorių chanu Uzbeku rimtai skaitytis.
@@ -24677,6 +24879,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165392
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     210
 
@@ -24703,6 +24906,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165393
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tuo metu
     Vilniuje veikė kelios masonų ložės. 1816 m. ložės Uolusis Lietu­
@@ -24723,6 +24927,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165394
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kitais metais jis buvo išvaduotas dviejų jam palan­
     kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
@@ -24741,6 +24946,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165395
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Reg­
     ni Vero nostri anno primo [Tad Jūsų Didenybė tegu ne tik kad
@@ -24768,6 +24974,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165396
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Rogėse pasislėpusiems žmonėms pavyko patekti į
     pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­
@@ -24790,6 +24997,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165397
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuviai atmetė
     bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
@@ -24814,6 +25022,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165398
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     „Tad tenai Gedimi­
     nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
@@ -24853,6 +25062,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165399
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     III KNYGA
     Iki tol (1492 m.) didžiųjų Lietuvos kunigaikščių Vilniui
@@ -24880,6 +25090,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165401
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vytautas, vienintelio
     troškimo apimtas, sukviečia pas save įžymiausius šiaurės
@@ -24910,6 +25121,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165403
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Išėjęs iš politinės krizės, Jogaila tuojau ėmė vykdyti vieną
     reikšmingą Kriavo pažadų punktą — 1386 m. gale jis vyko Lietuvos
@@ -24929,6 +25141,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165404
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tik prisimetė esąs paklusnus karaliui kaip savo viršesniam
     valdovui; vis dėlto nesantaikos vengė: vienijosi su Lenkija, bet
@@ -24949,6 +25162,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165405
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Ta pačia privilegija, kuria Vilniui buvo
     duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­
@@ -24974,6 +25188,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165409
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     PIRMOSIOS
     KNYGOS
@@ -25006,6 +25221,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165410
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lietuvos metraščio liudijimu, „Lietuva
     pasodino didįjį kunigaikštį Žygimantą
@@ -25027,6 +25243,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165412
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
     sykiu su pranciškonais daug prisidėjo tą tikėjimą įtvirtinant
@@ -25059,6 +25276,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165414
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Ir jų pagrindiniu dėmesio objektu, su keletą
     išimčių, buvo anie romantikų išgarbintieji Lietuvos galybės laikai.
@@ -25080,6 +25298,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165416
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     8, p. 490; Rotundą vadina: vir ju- jį garbino Janickis. Petras Roizijus,
     281
@@ -25106,6 +25325,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165417
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento
     Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų
@@ -25121,6 +25341,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165418
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Mat, didžiajam kunigaikščiui gy-
     venant Krokuvoje, lenkai, jį veikdami, galėjo kištis į Lietuvos
@@ -25137,6 +25358,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165419
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tuo tarpu karalius, regėdamas didįjį kunigaikštį kasdien
     silpstantį ir būdamas tikras, kad šis jau galutinai atsisakė
@@ -25157,6 +25379,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165421
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vilniaus vaitui............Kreipėsi į mus Vilniaus miesto
     burmistrai ir tarybos nariai ir visi miestiečiai, skųsdamiesi
@@ -25180,6 +25403,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165422
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Apie 250 tūkst.
     žmonių gyveno Lietuvos Užnemunėje. Vilnius tuomet turėjo apie 25 tūkst.
@@ -25197,6 +25421,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165423
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių. Kilmingieji bajorai
     krikštytis kviesti į Vilnių su šeimomis ir kiekvienas atskirai pašlakstytas
@@ -25211,6 +25436,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165424
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Todėl 1569 m. Vilniuje vyskupo kvietimu pasiro-
     dę jėzuitai gavo lėšų savo kolegijai, ateityje buvo numatę ją pertvarky-
@@ -25225,6 +25451,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165425
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     J. Dlugošas
     mini, kad priešas, jau manęs esąs saugus,
@@ -25246,6 +25473,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165426
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Per 15 metų po Algirdo mirties, ypač vidaus kovų dešimtme­
     tyje (1382-92), Lietuvoje buvo įvykę žymių pasikeitimų. Bet tuo
@@ -25265,6 +25493,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165427
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Lietuvos
     istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­
@@ -25305,6 +25534,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165428
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1506 m. vasarą totoriai įsiveržė į LDK valdas
     gerai nusiteikę. Prieš metus įvykęs jų žygis
@@ -25325,6 +25555,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165429
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     —  •  —
     137
@@ -25354,6 +25585,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165430
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuo būdu 1544 m. Zigmantas Augustas apsigyveno
     Vilniuje, kaip didysis Lietuvos kunigaikštis, ir jam atiteko
@@ -25371,6 +25603,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165431
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Todėl belieka pasiti­
     kėti vieninteliu plačiu šaltiniu apie krikštą, būtent, Dlugošo kro­
@@ -25390,6 +25623,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165433
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Nustatyta, kad vietos bajorai
     gali dirbti vietos administracijos įstaigose tik tada, kai 10 metų atidirbs
@@ -25410,6 +25644,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165434
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Per itin galingas Švitrigailos sąjungas radosi di­
     desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
@@ -25430,6 +25665,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165435
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Po pirmųjų SD einzatskomandų akcijų 1941 m. rugpjūčio pradžioje
     95 proc. Lietuvos žydų dar buvo gyvi. Tačiau 1941 m. liepą reichskomi-
@@ -25447,6 +25683,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165437
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.
     Nors jie dažniausiai siejami tik su pirmu Vilniaus paminėjimu rašto šal-
@@ -25463,6 +25700,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165439
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Toje teritorijoje gyveno lenkai,
     lietuviai, latviai ir baltarusiai. Dar nesusigaudę kur pateko, vokiečiai Vil-
@@ -25479,6 +25717,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165440
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Prieš mūšį
     1564 m. pradžioje, iš Maskvos į Vilnių dar
@@ -25505,6 +25744,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165441
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus
     lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o
@@ -25520,6 +25760,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165443
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
     to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
@@ -25541,6 +25782,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165445
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Atvykę taip pat Rygos miesto pasiun­
     tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
@@ -25564,6 +25806,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165446
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kartu su juo yra siunčiamas ir mūsų
     priskirtas vertėjas Asianas Abrahimovičius, taigi prašome Jū­
@@ -25584,6 +25827,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165447
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Napoleonas leido Vilniuje
     įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė
@@ -25602,6 +25846,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165448
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     1579 m. spalio 29 d.
     popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
@@ -25620,6 +25865,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165449
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Negalėjo šios sutarties ignoruoti ir Vakarų valstybės.
     Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko
@@ -25641,6 +25887,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165452
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Dlu­
     gošas jį pavadino «Lietuvos žemės valdytoju », o žymus ordino
@@ -25660,6 +25907,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165453
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Tačiau tai ir vieni, ir kiti darė savanaudiškai, nenu-
     matydami bendros strateginės partnerystės.
@@ -25678,6 +25926,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165454
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Todėl suprantama, kad po visų karų krašto ūkis
     buvo labai sunaikintas ir negreit tegalėjo atsigauti. Miestai
@@ -25695,6 +25944,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165455
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Lietuviai romantikai su pagrindu didžiavosi laikais, kai Lie­
     tuva plačiai išplėtė savo valstybingumą aname rytiniame šone iki
@@ -25719,6 +25969,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165456
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Z. I v i n s k i s, 1933 m. rudenį perėmęs po A. Aleknos mirties
     vakuojančią visuotinės istorijos katedrą Teologijos-Filosofijos fa­
@@ -25741,6 +25992,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165457
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Sūnaus brendimo ir mokslo metai praėjo Vil­
     niuje. Baigęs gimnaziją, 1812 m. rugsėjo 22 d. jis įstojo į Vilniaus
@@ -25758,6 +26010,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165458
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Po susitikimo Paryžiuje su Lenkijos užsie-
     nio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną
@@ -25776,6 +26029,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-165459
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bet
     buvo atsiradę iškilesnių istorikų, kurie davė mokslinių, ar pusiau
@@ -25795,6 +26049,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Vyguntas, būdamas
     Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos
@@ -25815,6 +26070,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-167200
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Po mūšio galutinai
     įsigalėjo nuomonė, kad rusai atvirame
@@ -25836,6 +26092,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-167261
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kai kurie miestai tvarkėsi bendruomeninio val­
     dymo pavyzdžiu, bet visas kraštas, tempdamas kietą Kap-
@@ -25859,6 +26116,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-167262
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jurgio vėliava puolė į mūšį Ordino
     riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­
@@ -25883,6 +26141,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168540
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kol jis pats gyveno
     Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,
@@ -25909,6 +26168,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168541
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Todėl, neilgai laukęs, nutarė pulti
     priešą, kol dar tas kaip reikiant nesutvirtino stovyklos.
@@ -25933,6 +26193,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168542
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Po
     poros metų A. Kojelavičius pasiunčiamas į Nesvyžiaus
@@ -25949,6 +26210,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168543
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mūsų laikus jis
     pasiekė taip viskuo garsėdamas, kad su įžymiaisiais
@@ -25972,6 +26234,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168544
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pasiuntinys elgėsi išdidžiai ir atšiauriai: mat ne
     tiek karą skelbė, kiek grasino visokeriopomis bėdo­
@@ -25993,6 +26256,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168545
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Palankumą krikščionybei jis, be to, parodė,
     žiauriai tuo metu atkeršydamas už krikščionių šventi­
@@ -26029,6 +26293,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168546
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mat tuo metu
     paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,
@@ -26053,6 +26318,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168547
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Reikią dar kelių valan­
     dų galutinai susitarti, o kadangi jau temsta, reikėtų
@@ -26077,6 +26343,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168548
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mat nei geros savijautos,
     nei pasitikėjimo duotu žodžiu negali būti tada, kai,
@@ -26108,6 +26375,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168549
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Todėl kuo greičiausiai patraukė su savo
     vyrais prie tvirtovių, be jokio vargo užėmė beveik ne­
@@ -26128,6 +26396,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168550
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
     pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
@@ -26154,6 +26423,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168551
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Lenkams rodėsi įtartinas šitoks netikėtas Vytauto nuo­
     lankumas, todėl dabar, kaip ir anksčiau, ryžtingai ne­
@@ -26178,6 +26448,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168552
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Patekęs į tokią ne­
     aiškią padėtį, jis, be galo išsi­
@@ -26211,6 +26482,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168553
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Štai todėl,
     pasitaręs su Lietuvos senatu, Kazimieras išsiuntė į Len­
@@ -26232,6 +26504,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168554
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Įžeistos širdys
     visur pradėjo matyti įžeidinėjimą ir godžiai klausytis
@@ -26267,6 +26540,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168555
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Žmonės pa­
     sakojo, kad šimtą tūkstančių žmonių, jaunų ir stiprių,
@@ -26286,6 +26560,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168557
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kai Vasilijaus legatai patvirtino šį susi­
     tarimą karaliaus bei senato
@@ -26316,6 +26591,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168558
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Galop jis pa­
     prašė leisti laisvai sugrįžti į Maskvą tiems pirkliams
@@ -26341,6 +26617,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168559
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Stanislovo bazilikoje. Tuo
     tarpu Lietuvą užgriuvo siaubingas badas, o Volynę nu­
@@ -26363,6 +26640,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168560
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Nauji tikybiniai įsitikinimai laisvai plito po didikų
     bei bajorų dvarus, nuolatos pripilamų taurių kurstomi,
@@ -26383,6 +26661,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-168561
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Patyrinėjęs, ką šiuo reikalu
     mano lenkai, ir sužinojęs, jog jiems visai nerūpi Livo­
@@ -26408,6 +26687,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-170611
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir sutarė dieną, kurią jie turės būti prie
     Vilniaus.
@@ -26425,6 +26705,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-170612
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Kunigaikštis Jogaila ir kunigaikštis Vy­
     tautas, jų tėvams dar gyviems esant, buvo labai su­
@@ -26446,6 +26727,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-170613
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Daugelį kitų kunigaikščių ir bajorų paėmė gyvus: ku­
     nigaikštį Simoną, Jaunučio sūnų I S , Smolensko kuni­
@@ -26468,6 +26750,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-170614
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     . 8 1
     Jo sūnus Mykoliukas, tai išgirdęs, užsidarė Trakų
@@ -26487,6 +26770,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-170615
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Netrukus iš Volynės atvyko kunigaikščiai Sanguš-
     kos1  ir visi kiti Volynės kunigaikščiai bei bajorai ir
@@ -26518,6 +26802,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-170616
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O paskui, po vestuvių, Maskvos pasiuntiniai, di­
     džiai pagerbti ir gausiai apdovanoti, buvo išleisti at­
@@ -26541,6 +26826,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-170617
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     . 2 0
 
@@ -26570,6 +26856,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-170618
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­
     gų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­
@@ -26603,6 +26890,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-170619
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų
     LDK žemių seimas Vilniuje, 1492.VII.18.
@@ -26616,6 +26904,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-170620
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     ”  Maskvos kunigaikštytė Elena atvyko | Vilnių I495.II.IS ir
     tų pačių dienų Vilniaus katedroje įvyko jos jungtuvės su Lietuvos
@@ -26630,6 +26919,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-171748
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Išsamesnėms krašto praeities studijoms istoriką galė­
     jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
@@ -26650,6 +26940,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-171749
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vilniuje buvo rengiamas spaudai XVI a. kroniki­
     ninko Motiejaus Strijkovskio veikalas. Vilniaus universiteto
@@ -26666,6 +26957,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-171750
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Rusijos valdžia
     Saurų dvarą sekvestravo. Knygas, archyvus, muziejaus ekspo­
@@ -26683,6 +26975,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-171751
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Strijkov­
     skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­
@@ -26701,6 +26994,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-171752
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     149
 
@@ -26722,6 +27016,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-171753
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tą vardą Stenderis išveda
     iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-
@@ -26738,6 +27033,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-171754
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Gyvatė (Giwojte)
     Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
@@ -26756,6 +27052,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-171755
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Burtininkių visuomet į
     naudą išeidavo šios rūšies fetišų vartojimas.
@@ -26774,6 +27071,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-171756
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     To­
     kie yra praamžių padavimai. XIII amžiuje, vyriausiesiems žy­
@@ -26791,6 +27089,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-171757
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     242
 
@@ -26810,6 +27109,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-171758
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Skulptorių ir dailininkų stoką atstojo vaiz­
     243
@@ -26829,6 +27129,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-171759
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     304
 
@@ -26855,6 +27156,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-173540
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Anksčiau sakėme, kad žyniai stebėdavo dangaus kūnų ju­
     dėjimą, norėdami padalyti laiką į atkarpas, bet kadangi su jų
@@ -26877,6 +27179,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-173541
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     310
 
@@ -26898,6 +27201,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-173542
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuvos didžiojo kunigaikščio Gedimino kapas yra
     prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
@@ -26922,6 +27226,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-173543
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pagaliau panašių atradimų retumas mūsų krašte verčia
     daryti išvadą, kad mirusiųjų kūnai būdavo deginami retai ar­
@@ -26942,6 +27247,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-173544
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     VI lentelė, 40-asis piešinys. Senasis Vilniaus miesto her­
     bas. Čia yra tiesiog pavaizduotas milžinas Alcis, apie kurį jau
@@ -26960,6 +27266,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-173545
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O  z ¿ęM fniA ieor'
 
@@ -26981,6 +27288,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-173546
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Iš tikrųjų tais me­
     tais vyko Lenkijos seimas Piotrkove, trukęs ilgai
@@ -27003,6 +27311,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-175544
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i
     Roztrząsania Naukowe“ puslapiuose anonimiškumas buvo
@@ -27021,6 +27330,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-175545
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kaip buvo įsišaknijęs tikėjimas žalčiais, kaip dievais-globė-
     jais, užtenka pateikti pavyzdį iš jėzuitų pastebėjimų XVII am­
@@ -27038,6 +27348,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-175546
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Rankoje turiu nuorašą Švitrigailos
     privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
@@ -27059,6 +27370,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-175981
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Daugelis brangeny-
     bių buvo išvežta į Maskvą ir į Švediją. Rusai iš Vilniaus į
@@ -27077,6 +27389,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-175982
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tam pa-
     čiam reikalui jėzuitai buvo atkviesti ir į Lietuvą. Čia jie pir-
@@ -27093,6 +27406,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-176155
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Galop lenkai
     sutiko, kad Aleksandras būtų palaidotas Vilniuje, šv.
@@ -27107,6 +27421,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-176324
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Planinės
     ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus
@@ -27125,6 +27440,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-176862
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau atsižvelgdami į tai, jog jis tikriausiai
     buvo vienuolis, menkai nutuokęs apie jam svetimo krašto
@@ -27148,6 +27464,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-176863
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Antakalnis yra pava­
     dintas arba nuo žodžių: ant-to-Kal-
@@ -27183,6 +27500,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-176864
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Amžinam šio dalyko patikimumui šį mūsų
     raštą savo ranka pasirašėme ir įsakėme patvirtinti antspau­
@@ -27211,6 +27529,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-176865
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šiuo raštu skel­
     biame tokią mūsų valią, kuriai jei kas išdrįstų nepaklusti, tą
@@ -27232,6 +27551,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-176866
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     366
 
@@ -27260,6 +27580,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-176867
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jį laikysime maištininku ir mūsų įstatymų nie­
     kintoju ir bausime arba pagal statutą ir šios kunigaikštystės
@@ -27278,6 +27599,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-176868
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     -- •
     418
@@ -27319,6 +27641,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-176869
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Die 19 9 bris [lapkričio 17 dieną] Vilniuje sumokėjau 185
     raud. auks. po 44 gr. 2 den, po to juos pakeičiau kiekvienam
@@ -27334,6 +27657,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - id: c-177334
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Atvirkščiai,
     visi prieinami tyrinėjimai rodo, kad toji tauta skyrėsi nuo lietuvių.

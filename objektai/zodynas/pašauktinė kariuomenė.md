@@ -171,6 +171,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 - id: c-76010
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Artilerija
     to meto Lietuvos kariuomenėje dar nevai-
@@ -197,6 +198,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 - id: c-76011
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Iš kitos pusės, nesant masinės reguliarios
     kariuomenės, bajorų pašauktinės kariuo-
@@ -219,6 +221,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 - id: c-76013
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lietuvos kariuomenė
 

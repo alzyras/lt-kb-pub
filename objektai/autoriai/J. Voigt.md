@@ -106,6 +106,7 @@ Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
 - id: c-30597
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Iš senesniųjų isto­
     rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­

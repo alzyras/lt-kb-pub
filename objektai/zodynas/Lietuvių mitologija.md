@@ -136,6 +136,7 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
 - id: c-172045
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­
     ti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­
@@ -161,6 +162,7 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
 - id: c-172046
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     85
 

@@ -77,6 +77,7 @@ Velioną (Wellona) Narbutas apibūdina kaip amžinybės, amžinos vilties ir bū
 - id: c-172075
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Veliona (Wellona)
     Tai buvo garsi amžinybės, amžinos vilties, būsimo pomirti­

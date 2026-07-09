@@ -74,6 +74,7 @@ Dusburgietis teigia, kad zachara-Wawrzyńczyk M.
 - id: c-62008
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Zachara-Wawrzyńczyk M. Geneza legendy o rzymskim pochodzeniu Litwinów.—
     Zeszyty historyczne, Warszawa, 1963, 3, s. 5—35.

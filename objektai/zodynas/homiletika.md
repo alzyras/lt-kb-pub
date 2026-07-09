@@ -74,6 +74,7 @@ Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir semi
 - id: c-176015
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Muravjovas, iš visur išstumdamas len-
 

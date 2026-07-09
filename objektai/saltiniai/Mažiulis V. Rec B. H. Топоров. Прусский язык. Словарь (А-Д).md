@@ -67,6 +67,7 @@ Dusburgietis teigia, kad mažiulis V.
 - id: c-61803
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Mažiulis V. Rec: B. H. Топоров. Прусский язык. Словарь (А-Д). —Baltistica, 1979,
     15 (2), р. 146—149.

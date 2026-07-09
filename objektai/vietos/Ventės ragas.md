@@ -107,6 +107,7 @@ kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį S
 - id: c-77119
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Livonijos magistras surengė didelį
     žygį prieš lietuvius į Papilės žemę. 1360 m.

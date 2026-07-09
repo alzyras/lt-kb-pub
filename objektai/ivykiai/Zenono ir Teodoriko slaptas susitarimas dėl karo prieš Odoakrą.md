@@ -143,6 +143,7 @@ Nenurodyta
 - id: c-173938
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     325
     Rytų imperatorius, silpstant jo galiai, blaškėsi pavy­
@@ -167,6 +168,7 @@ Nenurodyta
 - id: c-173939
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Nors Teodorikas gerai
     perprato ketinimus visuomet klastingo Zenono, kuris jau

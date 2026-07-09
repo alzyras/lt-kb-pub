@@ -79,6 +79,7 @@ Pati re­ forma nepasisekė, nes Vygunto mirtis (1392 m. birželio 28 d.) suard�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Iš to matyt, kad Skirgaila sužinojo aukščiau
     minėtą projektą, kuriam jis skubinos užbėgti už akių. Pati re­

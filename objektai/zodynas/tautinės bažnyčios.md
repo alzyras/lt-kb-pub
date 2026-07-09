@@ -101,6 +101,7 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
 - id: c-03423
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Dėl to kartais esti ir nesu-
     sipratimų. Taip antai, kai kur lietuvių laisvamanių ir griežtesnių-
@@ -118,6 +119,7 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
 - id: c-175911
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Apskaičiuoja-
     ma, kad bažnyčių ir klebonijų pastatymas lietuviams yra atsėjęs

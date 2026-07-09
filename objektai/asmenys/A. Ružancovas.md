@@ -76,6 +76,7 @@ Ružancovo vadovaujama „Jiezno ypatingoji rinktinė“, sudaryta iš 3 kuopų 
 - id: c-44250
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Vasario 11 d. Jiezne buvusias bolše-
     vikų pajėgas papildė 7-ojo šaulių pulko

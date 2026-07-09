@@ -114,6 +114,7 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
 - id: c-59504
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     XIII ir XIV a. pradžios dokumentuose ir kronikose terminu žemė (plačiąja prasme)
     vadinamos visos prūsų žemės (1243 m.— terra Pruscie — PUB, 1, Nr. 144, p. 109 ir kt.;
@@ -134,6 +135,7 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
 - id: c-59505
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     189 2 D.— in XI partes, Jer.— in eilf teil, tačiau toliau D. jau vartoja terminą terra
     (terre Galindie — III, 4  ir kt.). Terminu terra (žemė) Dusburgietis paprastai vadina

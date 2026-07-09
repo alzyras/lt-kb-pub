@@ -69,6 +69,7 @@ Enciklopedinis rašytojas, Romos imperijos karininkas Plinijus Se­ nesnysis (23
 - id: c-33670
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Ir
     romėnų autorių žinios apie Europos rytus dar buvo miglotos.

@@ -90,6 +90,7 @@ A. Veryha-Darevskis šiame šaltinyje minimas kaip veikalo „Lietuvos mokesčia
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     (^1) ) Dūmas — atskiras ūkis, turįs vieną kaminą ar aukštini, pro kur
     išeidavo dūmai. Red.

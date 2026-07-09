@@ -158,6 +158,7 @@ Nenurodyta
 - id: c-172671
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tą
     patį dalyką plačiai dėstė mokslininkai Van-Dalė (Van-Dale)lr
@@ -181,6 +182,7 @@ Nenurodyta
 - id: c-177037
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Londono A l yra tiesiog ištobulintas šitas
     alus. Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­
@@ -197,6 +199,7 @@ Nenurodyta
 - id: c-177038
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai buvo skystas javų kruopų
     nuoviras, paskanintas midumi, tam tikrų žolių šaknimis ir kva­

@@ -95,6 +95,7 @@ Religinę ir baudžiamąją prasmę turintis panegirinis ar demonizuojantis epit
 - id: c-170075
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     I. APIE ATILĄ IR JO  2IAURUMĄ
     <40t-siais' viešpaties metais pasirodė Atila2 , pra­

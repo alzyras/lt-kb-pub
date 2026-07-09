@@ -140,6 +140,7 @@ PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravus�
 - id: c-42033
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Maksimaliai išvystyti sėkmę puolimo metu
     partizanams sutrukdė menka daugelio
@@ -162,6 +163,7 @@ PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravus�
 - id: c-167133
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Puolimo sėkmę nulėmė išnaudotas ne-
     tikėtumo faktorius, Vanagas vėliau įtarė,

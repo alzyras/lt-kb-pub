@@ -69,6 +69,7 @@ Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją i
 - id: c-177187
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kuo la­
     biau tauta buvo linkusi į perdėtą pamaldumą, tuo labiau ji

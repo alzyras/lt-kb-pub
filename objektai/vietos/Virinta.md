@@ -74,6 +74,7 @@ Giedraičius gynęs 2-asis pulkas buvo priverstas atsitraukti į ŠešuolėsViri
 - id: c-167201
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Užėmę Kurklius, lenkai veržėsi Vidiškių
     ir Ukmergės link. Giedraičius gynęs

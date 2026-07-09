@@ -617,6 +617,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - id: c-24404
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Iš tikrųjų šioje sąjungoje vyravo
     Lenkija. Aukščiausia (šalia valdovo) valdžios institucija – bendras Sei-
@@ -634,6 +635,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - id: c-105859
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Il KNYGA
     IV
@@ -661,6 +663,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - id: c-105860
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Ibid. Capit VIII, p. 51. Martinas
     Galias pasakoja, kad Poznanė duo­
@@ -682,6 +685,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - id: c-105861
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Varšuva 1933.
     PamZH = Pamiętnik (IV, V, VI) Powszechnego Zjazdu Historyków
@@ -698,6 +702,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - id: c-105862
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tad jau
     nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
@@ -720,6 +725,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - id: c-105863
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Woyt Wileński, i Albertus Przetocki: ar­
     cis Vilnensis Procurator [Nepaprasta­
@@ -749,6 +755,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - id: c-105865
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos
     ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino
@@ -770,6 +777,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - id: c-105868
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jau jam valdant Krušvica, Poznanė ir kiti
     b)
@@ -797,6 +805,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - id: c-168459
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pa­
     sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o
@@ -816,6 +825,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - id: c-177372
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     RAU = Rozprawy Akademji Umiejętności, Wydział filozoficzno-
     historyczny, leidžiamas PAU Krokuvoje.

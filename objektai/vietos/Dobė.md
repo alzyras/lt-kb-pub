@@ -84,6 +84,7 @@ Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiem�
 - id: c-33829
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Per trumpą laiką (nuo 1253 m.) kryžiuočiai Žemaičiuose ir jų
     pasienyje beveik kasmet turėjo naujų teritorinių laimėjimų ir aplink

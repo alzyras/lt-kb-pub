@@ -60,6 +60,7 @@ media_all_json: |-
 - id: c-176471
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     P. 131, „HUSARAI“, Lietuvos kariuomenė svetimšalių akimis xvI-xVIII a., p. 104-107.
   statusas: verified

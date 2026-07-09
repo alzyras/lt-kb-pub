@@ -69,6 +69,7 @@ Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios
 - id: c-03184
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     **Karalienė Bona.** Kai Zigmantas jau buvo palaužtas sunkios
     valdymo naštos, valstybėje didžiausią įtaką įgijo gobši intri-

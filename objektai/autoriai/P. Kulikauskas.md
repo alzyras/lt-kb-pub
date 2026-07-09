@@ -77,6 +77,7 @@ Kulikauskas, pateikęs duomenų apie seniausiai Lietuvoje augintus javus (AkMD, 
 - id: c-33092
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1956. — (”) _Žalvario amžius ir Ankstyvasis
     geležies amžius,_ LE, t. 15, 274-282 p. — Jablonskytė-Rimantienė, R. :

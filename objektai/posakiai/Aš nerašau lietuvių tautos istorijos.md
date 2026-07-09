@@ -79,6 +79,7 @@ Narbutas tiesiogiai sako, kad nerašo lietuvių tautos istorijos.
 - id: c-174989
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taigi skaitome: „Aš
     nerašau lietuvių tautos istorijos, nes neįstengčiau susi­

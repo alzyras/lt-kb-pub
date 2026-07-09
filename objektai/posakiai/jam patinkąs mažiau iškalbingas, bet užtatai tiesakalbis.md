@@ -112,6 +112,7 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
     dažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro
@@ -137,6 +138,7 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Kai
     kartą jam kažkas priminė jo didelį duosnumą dalinant toto­

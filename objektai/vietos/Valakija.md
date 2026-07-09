@@ -171,6 +171,7 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
 - id: c-106104
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Bet tai nė akimirkai nesustab­
     dė tarp Lenkijos ir Lietuvos prasidėjusių vaidų. Galingą są­
@@ -187,6 +188,7 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
 - id: c-106105
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lengvieji
     raitininkai, tokie kaip kazokai ar vidutiniai (pe-

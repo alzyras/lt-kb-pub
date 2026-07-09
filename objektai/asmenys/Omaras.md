@@ -76,6 +76,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - id: c-61029
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     78. Apie šventosios žemės reikalus
 

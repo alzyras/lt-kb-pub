@@ -69,6 +69,7 @@ Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją
 - id: c-21805
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Lietuvos teritorijos), gynybinis karinis kompleksas
     reikalavo kvalifikuotos darbo jėgos. Ją ruošė totaliai kontroliuojama švieti-

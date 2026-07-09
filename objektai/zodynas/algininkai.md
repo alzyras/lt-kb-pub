@@ -218,6 +218,7 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
 - id: c-168724
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tuo tarpu vienas netikėtas įvy­
     kis sukėlė dar didesnį abipusį įtarumą ir nepasitikėjimą.
@@ -242,6 +243,7 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
 - id: c-168725
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tuo tarpu Glinskis su savo ir maskvėnų pulkais už­
     puolė Minską, bet visos jo pastangos nuėjo perniek,
@@ -267,6 +269,7 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
 - id: c-168726
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šis tau­
     rus ginčas nutrūko ne todėl, kad buvo susitarta, bet
@@ -288,6 +291,7 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
 - id: c-170468
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     APIE PEREKOPO TOTORIŲ SIAUTĖJIMĄ PO SLUCKO IR
     NAUGARDUKO KRAŠTUS, TAIP PAT APIE LIETUVOS IR

@@ -112,6 +112,7 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
 - id: c-33620
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Pradėjus leisti originalius tekstus buvo galima sistemingiau
     tirti savo krašto praeitį. Plačiai užgriebdamas ir Lietuvos istoriją,
@@ -131,6 +132,7 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
 - id: c-174808
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tiesą sakant, senovės ty­
     rinėtojai teigia, jog minėti agatirai gyveno Marus, arba

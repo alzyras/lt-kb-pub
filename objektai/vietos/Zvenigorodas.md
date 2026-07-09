@@ -80,6 +80,7 @@ Tų metų rudenį Vytauto nurodymu Skirgaila, žygiuodamas iš Kijevo į pietus,
 - id: c-45451
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Taip Vytautas sustiprino Lietuvos
     pozicijas saugodamasis galimos

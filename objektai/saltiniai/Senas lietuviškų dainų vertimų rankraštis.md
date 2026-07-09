@@ -66,6 +66,7 @@ Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, mote
 - id: c-177248
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kaip ir alus, midus įeida­
     vo į Siaurės Europos tautų apeigas6; jo pavadinimas visose ci­

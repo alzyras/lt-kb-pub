@@ -81,6 +81,7 @@ Jono Kuklierio kūno 1920 m.
 - id: c-44383
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     | mir bataliono kariai sustoję žiūrėjo į seniai bematy-
     | tąjį 1 batalioną. Tuojau pasirodė ir pulko vadas pulkininkas

@@ -71,6 +71,7 @@ Kadangi Lietuvos atstovai, LDK kanclerio Jono Goštauto va dovaujami, griežtai 
 - id: c-176772
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Kadangi Lietuvos atstovai, LDK kanclerio Jono Goštauto va­
     dovaujami, griežtai priešinosi lenkams, reikalaujantiem s pilnutinai

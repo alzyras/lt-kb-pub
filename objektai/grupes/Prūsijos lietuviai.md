@@ -160,6 +160,7 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
 - id: c-172348
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
     čerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­
@@ -178,6 +179,7 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
 - id: c-176981
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O dėl Saulės vedybų su Mėnesiu, tai turime išlikusią Prū­
     sijos lietuvių dainą, kurioje yra senųjų padavimų pėdsakų, ne
@@ -198,6 +200,7 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
 - id: c-176982
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O į klausimą, kada apsi­
     vilkti baltus vestuvinius drabužius, motina atsako: tą dieną,

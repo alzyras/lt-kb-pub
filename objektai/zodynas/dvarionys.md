@@ -81,6 +81,7 @@ Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasi
 - id: c-170504
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     APIE PEREKOPO TOTORIŲ SIAUTĖJIMĄ PO SLUCKO IR
     NAUGARDUKO KRAŠTUS, TAIP PAT APIE LIETUVOS IR

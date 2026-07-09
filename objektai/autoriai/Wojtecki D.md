@@ -78,6 +78,7 @@ Dusburgietis teigia, kad l., Die Eroberung..., 3, p. 3; Wojtecki D., Studien...,
 - id: c-61451
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     314 Sembos puolimas datuojamas dvejopai: 1252—1253 m. žiema (Ewald A. L., Die
     Eroberung..., 3, p. 3; Wojtecki D., Studien..., p. 147) ir 1253—1254 m. žiema, tiksliau—

@@ -137,6 +137,7 @@ Nenurodyta
 - id: c-169111
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Po magistro ir
     kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš­
@@ -166,6 +167,7 @@ Nenurodyta
 - id: c-169112
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Maskvėnai, į šį žygį patraukę
     su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė

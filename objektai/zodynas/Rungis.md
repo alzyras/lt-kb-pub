@@ -70,6 +70,7 @@ Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiem
 - id: c-172216
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Rungis (Rungis)
     Malūnininkų prisijaukintas dievaitis, kuris jiems atneša grū­

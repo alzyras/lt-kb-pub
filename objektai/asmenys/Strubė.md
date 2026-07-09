@@ -76,6 +76,7 @@ Teodoro Narbuto vertinimu, Strubė, kildindamas rusų tautą iš labai tolimos s
 - id: c-174203
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Vadinasi, privalome pasiteisinti dėl to priekaišto, kurį
     galima ¡būtų mums padaryti. Įkarščio ir nuoširdaus noro,

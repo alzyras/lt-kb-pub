@@ -81,6 +81,7 @@ nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietu
 - id: c-24253
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare mi-
     nios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie

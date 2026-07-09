@@ -72,6 +72,7 @@ Narbutas kritikuoja Depingą, kad šis be pagrįstų įrodymų Gotijai priskyrė
 - id: c-174267
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios
     pakrantės ligi Dauguvos žemupio. Tokios nuomonės yra

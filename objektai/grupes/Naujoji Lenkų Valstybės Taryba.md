@@ -74,6 +74,7 @@ Tuo tarpu Vokietija ir Austrija Vengrija 1916 metais lapkričio 5 dieną paskelb
 - id: c-176033
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tačiau nė vienas lietuvis nesutiko įeiti į to-
     kią tarybą.

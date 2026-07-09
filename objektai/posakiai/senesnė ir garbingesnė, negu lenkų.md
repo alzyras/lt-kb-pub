@@ -90,6 +90,7 @@ Poleminė kilmės ir prestižo viršenybės formulė.
 - id: c-170073
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ta pati prob­
     lematika vystoma ir Bychovco kronikos originaliuo­

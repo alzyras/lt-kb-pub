@@ -144,6 +144,7 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
 - id: c-61148
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pirmykštės (gentinės) Sūduvos siaurąja prasme, egzistavusios šalia Dainavos, Jotvingijos,
     Poleksijos, ieškoma apie Sūduonią, Šešupės aukštupyje (Nalepa J., Jaćwięgowe, p, 41—
@@ -160,6 +161,7 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
 - id: c-61149
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nauji vietovardžių tyrimai (ež. Stabo — dab. Kamienne  ir
     kt.) Mėrūniškių regione (į šiaurės vakarus nuo Suvalkų) rodo, kad nusiaubtose savose
@@ -175,6 +177,7 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
 - id: c-61150
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kalbama, matyt, apie 1278—1279 m. antpuolį (Būga K., 2, p. 103; 3, p. 136,
     145, 152; Kamiński A., Jaćwież..., p. 105— 106; Nalepa J., Przyczynek do znajomości...,

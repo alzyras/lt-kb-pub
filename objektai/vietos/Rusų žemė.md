@@ -236,6 +236,7 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
 - id: c-170348
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     vai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti
     seimą Parčeve. Tą pačią žiemą didysis kunigaikštis
@@ -262,6 +263,7 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
 - id: c-170349
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Man tai buvo
     labai skaudu. Dėl to aš skundžiausi dažnai kunigaikš­
@@ -283,6 +285,7 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
 - id: c-176655
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Paskui atvyko kunigaikštis Algirdas prie Vilniaus
     pas mūsų tėvą, ir mūsų tėvas, atsižvelgdamas į amžių,

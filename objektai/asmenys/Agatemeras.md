@@ -85,6 +85,7 @@ Narbutas Agatemerą pateikia kaip senovės graikų rašytojų pavyzdį, maniusi�
 - id: c-175356
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Senovės graikų rašytojai, pavyzdžiui, Agatemeras2,
     manė esant žemę apvalią, o jos viduryje buvus Graikiją.

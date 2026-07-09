@@ -97,6 +97,7 @@ Nenurodyta
 - id: c-169233
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Greitai užpuolęs ir užėmęs Oršą, jis patraukė
     į Drucką. Drucko kunigaikščiai, pirmųjų Rusios valdo­

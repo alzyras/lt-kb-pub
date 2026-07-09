@@ -150,6 +150,7 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
 - id: c-55576
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tai buvęs Vilniaus Universiteto profeso­
     rius, o dabar Kijeve vadovaujantis Teisės katedrai, Ignacas Dani­
@@ -177,6 +178,7 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
 - id: c-78479
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Įgudęs lietuvių istorijos žinovas Ig­
     nacas Onacevičius su retai sutinkamu palankumu atidavė man

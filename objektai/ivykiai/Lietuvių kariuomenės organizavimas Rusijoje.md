@@ -111,6 +111,7 @@ Nenurodyta
 - id: c-66875
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Iš
     tikrųjų lietuviams karininkams buvo pasisekę suorganizuoti net
@@ -131,6 +132,7 @@ Nenurodyta
 - id: c-66876
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     **Lietuvių kariuomenės organizavimas Rusijoje.** Kilus Ru-
     sijoj revoliucijai ir pakrikus armijai, lietuviai, kaip ir dau-

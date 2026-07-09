@@ -81,6 +81,7 @@ Narbutas savo senosios lietuvių religijos vaizdinyje prie dievų, deivių, pusd
 - id: c-172245
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nekritiškai naudodamasis senaisiais rašytiniais šaltiniais,
     juos papildydamas savo rekonstruotais (sukurtais) faktais ir

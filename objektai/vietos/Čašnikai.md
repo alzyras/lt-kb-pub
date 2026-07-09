@@ -75,6 +75,7 @@ media_all_json: |-
 - id: c-45452
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     sio 26 d. Žygyje gavęs žinių apie tai, kad lie-
     tuviai ruošiasi jam užkirsti kelią, P. Šuiskis

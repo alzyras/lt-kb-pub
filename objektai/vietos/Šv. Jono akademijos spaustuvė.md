@@ -141,6 +141,7 @@ Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskut
 - id: c-82106
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­
     mą su sklypu, savo paskutinę valią pareikšdamas, užrašė
@@ -169,6 +170,7 @@ Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskut
 - id: c-82107
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Taigi:
     180

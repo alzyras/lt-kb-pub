@@ -662,6 +662,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Abu ma­
     gistrai (Livonijos ir Prūsų) su didžiaisiais Lietuvos kunigaikš­
@@ -686,6 +687,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-46484
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Senasis
     jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugar-
@@ -707,6 +709,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-89183
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
     bandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­
@@ -732,6 +735,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-89184
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     X, p. 112.
     I1l
@@ -758,6 +762,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-89185
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kęstutis tuojau patikėjo žinia, nes jau ir pats įtarė
     Jogailą. Vytautas, kartu augęs ir draugavęs su Jogaila, nenorėjo
@@ -774,6 +779,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-89186
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Nors Lenkija ir Vladislovas su šituo lietuvių žygiu ir ne-
     sutiko, tačiau Lietuva be jokio ryšio su Lenkija išgyveno net
@@ -792,6 +798,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-168306
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Iš pradžių nuve­
     dė kariuomenę prie Drohičino; sutikęs čia stiprų pasi­
@@ -831,6 +838,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-168307
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kurie, prisi-
     džiovinę medžių lapų ir juos
@@ -867,6 +875,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-170520
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didysis kunigaikštis Erdvilą įsi­
     rengė čionai sostinę ir ėmė vadintis Naugarduko di­
@@ -885,6 +894,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-170521
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O paskui didysis kunigaikštis Kazimieras atvyko
     į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,
@@ -908,6 +918,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-175420
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ne
     viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,
@@ -930,6 +941,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-175923
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Vytautas, kartu augęs ir draugavęs su Jogaila, nenorėjo
     tuo tikėti. Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas

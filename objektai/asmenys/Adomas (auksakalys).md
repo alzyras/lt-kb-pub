@@ -67,6 +67,7 @@ Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 1
 - id: c-83881
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Be to, buvo keturi sidabriniai dubenys, užstatyti pas
     auksakalį Adomą a die 16 May ad diem 18 Aug. [nuo gegu­

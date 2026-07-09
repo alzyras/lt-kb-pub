@@ -112,6 +112,7 @@ Nenurodyta
 - id: c-66691
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuo būdu didelė dalis ba-
     jorijos paskelbė karalium Fridriką Augustą. Prancūziškoji par-
@@ -129,6 +130,7 @@ Nenurodyta
 - id: c-66692
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Elekcija po Jono Sobieskio buvo viena iš nešvariausių vi-
     soje Respublikos istorijoje: joje viską lėmė papirkimai. Iš

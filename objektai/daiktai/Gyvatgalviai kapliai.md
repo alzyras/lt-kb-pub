@@ -93,6 +93,7 @@ Nenurodyta
 - id: c-85387
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     11 Kalbant apie IX—XIII a. prūsus  ir vakarinius lietuvius tarp Vyslos  ir Nemuno,
     kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR

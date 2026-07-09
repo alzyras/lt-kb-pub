@@ -73,6 +73,7 @@ Pašuto, V.
 - id: c-33690
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — (”) PaRL. — Pašuto, V. T. : _Očerki
     po istorii Galicko-Volynskoj Rusi,_ Moskva 1950. — (”) _O vozniknovenii

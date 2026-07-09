@@ -89,6 +89,7 @@ Taigi: 180 ## Puslapis 197 Il KNYGA 1631 metais Akademijos kolegija, Dievo Kūno
 - id: c-84413
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Taigi:
     180

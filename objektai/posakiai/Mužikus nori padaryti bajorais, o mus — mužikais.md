@@ -91,6 +91,7 @@ media_all_json: |-
 - id: c-67248
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Jame buvo nuostatų, palengvinančių valstiečių būklę
     ir paimančių juos įstatymo globon. Kadangi projektas buvo
@@ -109,6 +110,7 @@ media_all_json: |-
 - id: c-67249
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Vienas artimiausiųjų jo
     bendradarbių buvo Lietuvos vicekancleris Jokimas Chreptavi-

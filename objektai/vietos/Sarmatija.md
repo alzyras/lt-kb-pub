@@ -130,6 +130,7 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
 - id: c-175563
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Po to
     tas pats geografas vardija tos pačios jūros, kurią vadina
@@ -151,6 +152,7 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
 - id: c-175564
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Palyginus vienus įrodymus su kitais, atrodo, jog
     gintaringą prūsų pakrantę kažkada išties sudarė salos.

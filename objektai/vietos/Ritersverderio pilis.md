@@ -67,6 +67,7 @@ Tačiau jam buvo leista gyventi prie pat Kauno, vietoj senojo Marijenverderio pa
 - id: c-176007
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Šį kartą Vytautui ordinas jau nebedavė valdyti jokios pilies.
     Tačiau jam buvo leista gyventi prie pat Kauno, vietoj

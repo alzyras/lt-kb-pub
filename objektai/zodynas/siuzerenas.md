@@ -75,6 +75,7 @@ Kuriuo tikslu buvo rodomas toks pa­ lankumas šiam naujam kandidatui į lenkų 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Šį sumanymą, kaip sako
     Prochaska, smarkiai rėmęs ir Vytautas; jis priėmė jauną Fridri­

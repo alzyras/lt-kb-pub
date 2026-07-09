@@ -72,6 +72,7 @@ pradžioje buvo sukurta ratukinė-kibirkštinė spyna.
 - id: c-44213
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Siekdamas atsivi-
     lioti švedų pajėgas, Lietuvos

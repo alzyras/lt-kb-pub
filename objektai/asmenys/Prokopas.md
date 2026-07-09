@@ -117,6 +117,7 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     netekusi po Melno taikos savo reikšmės, o Vytautas nutraukė
     ryšius su čekais, atšaukdamas į Lietuvą Kaributą ir patardamas
@@ -136,6 +137,7 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
 - id: c-171493
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
     jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­

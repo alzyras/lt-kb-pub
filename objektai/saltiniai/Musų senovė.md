@@ -78,6 +78,7 @@ media_all_json: |-
 - id: c-173433
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuvos bajorai buvo laikomi su­
     14 J. Spudulio laiškai A. Dambrauskui-Jakštui // Musų senovė. -

@@ -72,6 +72,7 @@ Ziesemer, Karaliau­ čiaus ir Dancigo archyvų žinovas, ypač atsidėjęs voki
 - id: c-33204
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Kiti svarbus mūsų istorijai vokiečių anksčiau leisti žur­
     nalai : AF, AM, HGbll, MiLG, kartu su lietuviais leistas MLLG.

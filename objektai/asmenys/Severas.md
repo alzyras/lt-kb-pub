@@ -81,6 +81,7 @@ Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškė
 - id: c-174346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Įvairiose šalyse atsirado
     įvairių imperatorių ir barbarų karaliukų. Imperatoriaus

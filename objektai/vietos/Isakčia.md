@@ -70,6 +70,7 @@ Kažkur prie šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam
 - id: c-177328
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     39
     Po kurio laiko, 514 metais prieš Kristaus gimimą, kai

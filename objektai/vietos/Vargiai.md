@@ -80,6 +80,7 @@ Dusburgietis teigia, kad wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.
 - id: c-59376
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vaplaukis (Woyploc, Woplaukin, dab. Wopławki)
        Vargiai (Wargen, Wargin; gyvenvietė, dab. Kotelnikovas)

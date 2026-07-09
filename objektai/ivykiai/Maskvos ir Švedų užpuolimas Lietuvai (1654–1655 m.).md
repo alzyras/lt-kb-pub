@@ -91,6 +91,7 @@ Nenurodyta
 - id: c-01985
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Bet XVII amžiuje, kai, pradedant Vladis-
     lovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie

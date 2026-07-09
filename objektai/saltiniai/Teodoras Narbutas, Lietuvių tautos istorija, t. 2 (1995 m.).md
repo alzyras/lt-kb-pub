@@ -107,6 +107,7 @@ Nenurodyta
 - id: c-174873
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     T A U T O S  V E R S M I Ų  B E I E Š K A N T
     Tai bendra mūsų, rašančiųjų,

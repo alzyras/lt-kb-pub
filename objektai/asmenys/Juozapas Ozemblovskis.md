@@ -66,6 +66,7 @@ Litografas Juozapas Ozemblovskis padarė piešinį monetos, kuri vietoj pažadė
 - id: c-173048
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šis peterburgiš-
     kio literato prašymu monetą turėjęs perduoti

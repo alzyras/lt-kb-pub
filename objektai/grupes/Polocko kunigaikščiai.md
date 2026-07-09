@@ -71,6 +71,7 @@ Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui neb
 - id: c-170711
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1 9  Žinia, kad, mirus Ginvilos palikuoniui Glebu!, nebeliko Po­
     locko kunigaikščių, nepagrįsta. Pagal rusų metraščius ir Henriko

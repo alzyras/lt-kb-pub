@@ -4433,6 +4433,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163829
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tas valdovas po pergalingų žygių, tikriausiai todėl, kad
     kryžiuočiai tolydžio artinosi, nuo Rytų atsigręžė į Vakarus
@@ -4458,6 +4459,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163830
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Todėl trečiasis Livonijos
     vyskupas, Albertas (1199—1229 m.), ėmė organizuoti gin-
@@ -4476,6 +4478,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163833
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Livonijos prijungimas
     Livonijos būklė XVI amžiuje.** Livonijos valstybė nebuvo
@@ -4495,6 +4498,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163834
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Batoro laikais. Tik labai suma-
     žėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji
@@ -4512,6 +4516,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163835
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Žinoma, kad
     1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per
@@ -4531,6 +4536,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163836
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     J. Sobieskio pradėtą
     karą su Turkija ir jam net pavyko atsi-
@@ -4552,6 +4558,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163837
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     3, p. 141.
     210
@@ -4580,6 +4587,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163839
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     ## Puslapis 40
 
@@ -4604,6 +4612,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163840
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
     dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
@@ -4625,6 +4634,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163841
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lenkijai suartėjus su
     čekų husitais, Ordinui kilo didelė grėsmė.
@@ -4645,6 +4655,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163842
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tuo metu pačiai Lietuvai grėsė pavojus
     iš Švedijos - švedai 1621 m. užėmė didelę
@@ -4678,6 +4689,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163844
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Dar niekas nenutuokė juos buvus
     kunigaikščio gudrybe ir apgaule, ypač, kai greitai kitas išti­
@@ -4707,6 +4719,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163847
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Mindaugo krikštas nepa-
     šalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Že-
@@ -4726,6 +4739,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163848
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Apgailestautina, kad
     vidaus kova pareikalavo tiek daug jėgų ir
@@ -4746,6 +4760,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163849
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Caras tuo tarpu sugalvojo lengvesnį būdą Livonijai įgyti.
     Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį
@@ -4765,6 +4780,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163850
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vygan­
     das  tačiau byloja: Steterunt V septi­
@@ -4798,6 +4814,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163851
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     ## Puslapis 115
 
@@ -4821,6 +4838,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163853
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     valdovui Zigmantui Vazai kovoti su maiš-
     tininkais. Tuo pasinaudojo Švedijos ka-
@@ -4845,6 +4863,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163854
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiš-
     kė pretenzijas į Švedijos sostą. Kova dėl Livonijos daugiausia buvo suin-
@@ -4861,6 +4880,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163855
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tik paėmę Kauną, Nemuno žemu­
     pyje privertę lietuvius pasitraukti nuo krantų, juose prisistatę savo
@@ -4881,6 +4901,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163856
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Augus-
     tas II pripažino Prūsijos kunigaikštystės
@@ -4905,6 +4926,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163859
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     O vasaros žygis buvo ruošiamas apie rug­
     piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
@@ -4925,6 +4947,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163861
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Vienos
     bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
@@ -4941,6 +4964,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163862
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vis dėlto nereikėtų manyti, kad Vilnius
     ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
@@ -4970,6 +4994,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163864
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Pagaliau įsimaišė Pran-
     cūziją, kuri norėjo Gustavą Adolfą įtraukti į einantį Vokie-
@@ -4986,6 +5011,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163866
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Juk jei visas kraštas, didesne dalimi anuomet dar laukinis,
     svetimšaliams pirkliams galėjo būti pelno šaltinis, tai jo sos­
@@ -5009,6 +5035,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163867
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Et si autem ipsi quoq.
     in ea sententia extitimus, omni ratione, ut nobis providendum
@@ -5042,6 +5069,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163870
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1608 m. rudenį numalšinus rokošą Len-
     kijos karalystėje, Jonas Karolis Chodke-
@@ -5064,6 +5092,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163875
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos
     mėnesiais prieš atlydį. O vasaros žygis buvo ruošiamas apie rug­
@@ -5081,6 +5110,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163877
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     27; История
     Эстонской ССР, l, с. 160—161), kai Danijos karaliaus Valdemaro II valdžia plito vokiečių
@@ -5095,6 +5125,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163880
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Yra tikra tiek,
     jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
@@ -5111,6 +5142,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163881
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     XIII a. antrojoje pusėje čia buvo kovos su rytinėmis prūsų žemėmis centrai.
     Karaliaučius, be to, buvo svarbus komunikacijos mazgas kelyje į Livoniją. Čia, be abejo,
@@ -5127,6 +5159,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163883
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vys-
     kupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o
@@ -5146,6 +5179,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163884
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Arch., apud
     V o i g t, V, p. 364, taip pat, tik pa­
@@ -5179,6 +5213,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163886
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Apsirūpinus ar­
     tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
@@ -5201,6 +5236,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163887
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Kai kurie jo kronikoje naudoti ir išversti šaltiniai nė­
     ra išlikę iki mūsų dienų. Šitaip pagal Stryjkovskį buvo restauruoti
@@ -5217,6 +5253,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163889
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Dinaburgo komtūras praneša Livonijos magistrui, kad
     Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką;
@@ -5234,6 +5271,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163890
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Paimtas su žmona ir vaikais, kuni­
     gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur
@@ -5263,6 +5301,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163891
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Lietuvos sienos Vazų laikais
 
@@ -5282,6 +5321,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163894
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Smig-
     288
@@ -5309,6 +5349,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163897
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Didysis kunigaikštis pra­
     neša, kad jo pageidavimu „garbin-
@@ -5332,6 +5373,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163899
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Taip buvo pasidalytas jau už-
     imtas kraštas, taip buvo sutarta dalytis ir visa, kas dar bus nu-
@@ -5350,6 +5392,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163900
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Iš Rusios,
     Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę
@@ -5376,6 +5419,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163901
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     283 (276). Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
              kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno
@@ -5397,6 +5441,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163902
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
     Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-
@@ -5421,6 +5466,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163904
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Susidarius grėsmingai si-
     tuacijai, Abiejų Tautų Res-
@@ -5447,6 +5493,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163906
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Livonijos žemės atvertimą į tikėjimą
 
@@ -5462,6 +5509,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163907
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam
     tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
@@ -5477,6 +5525,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163908
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tai buvo ne garsusis prancūzų mar­
     šalas Boucicaut, bet jo sūnus: juk D e
@@ -5510,6 +5559,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163909
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
     Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
@@ -5529,6 +5579,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-168382
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kitais metais
     Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę
@@ -5554,6 +5605,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-168383
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
     latos siaubė Mindaugo karvedžiai, ten vyko kovos prie
@@ -5591,6 +5643,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-168384
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mat tuo metu
     paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,
@@ -5615,6 +5668,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-168385
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Norėdamas vis dėlto atsi­
     lyginti priešui už tą antpuolį, jis, kuo greičiausiai su­
@@ -5641,6 +5695,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-168386
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Smo-
     lenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė
@@ -5664,6 +5719,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-168388
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tos pačios priežastys sukėlė neramumus Livonijoje.
     Į Liuterio sektą perėjo Livo-
@@ -5689,6 +5745,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-168389
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Numalšinęs Livoniją ir iš­
     siuntęs į Maskvą Palenkės
@@ -5715,6 +5772,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-168390
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Be to, išskyrė pinigų dvejų metų karo išlaidoms pa­
     dengti. Seimo darbe dalyvavo ir ordino magistras Ket-
@@ -5746,6 +5804,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-171654
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Henriko Latvio kronikos prierašuose, arba pastabose, ku­
     rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias
@@ -5763,6 +5822,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-171655
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dar negalime nepaminėti smulkmenų, bylojančių apie Že­
     maitijoje įsišaknijusį apeiginį dievų garbinimą. Ten jis buvo pa­
@@ -5780,6 +5840,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-171656
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Taigi, jei tiek Prūsijoje, tiek ir
     Lietuvoje buvo Romovė arba daug tokių šventovių, jei iš tik­
@@ -5807,6 +5868,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-171657
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
     tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
@@ -5830,6 +5892,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-175465
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
     gyventi žmonės septintojo dangaus- rato pabaigoje, — čia
@@ -5851,6 +5914,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-175466
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ten jis buvo pastebėtas pra­
     ėjus daugiau nei pusantro šimto metų po krikščionybės įvedimo.
@@ -5867,6 +5931,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-175952
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Lietuviai savo valstybės
     žemes rūpestingai saugojo ir nie-
@@ -5891,6 +5956,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-175953
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     **Maskvos susilpnėjimas.** Šitomis paliaubomis pasibaigė
     ilgai traukęsi karai su Maskva dėl Livonijos. Livonija nuo
@@ -5906,6 +5972,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-176145
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Ir vieni, ir kiti puikiai atliko pavestus užda­
     vinius.
@@ -5929,6 +5996,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-177371
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Nors Stryjkovskio istorija « neatitiko visiems moks­
     liniams bei literatūriniams humanistinės istoriografijos kriteri­

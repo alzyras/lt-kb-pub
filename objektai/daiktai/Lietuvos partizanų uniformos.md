@@ -90,6 +90,7 @@ Nenurodyta
 - id: c-42526
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Bunkeryje buvo visi tie trylika vyrų - visi aukšti kaip ąžuo-
     lai, visi gražūs, visi vilkėjo lietuviškas uniformas. [...] O paskui atkreipiau dėmesį į rankovių antsiuvus. [...]. Ir atpažinau savo pačios

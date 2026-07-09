@@ -117,6 +117,7 @@ Narbutas nurodo, kad kunigas Sirvydas savo žodyne Vilijos upę lotyniškai vadi
 - id: c-173361
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai buvo piktųjų dvasių apgaulė; ty-
     kodamos prie vandens, suvedžiodamos žmones, jos stengėsi
@@ -134,6 +135,7 @@ Narbutas nurodo, kad kunigas Sirvydas savo žodyne Vilijos upę lotyniškai vadi
 - id: c-173362
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dainos.
     177

@@ -74,6 +74,7 @@ Narbutas laikė labiau tikėtina, kad Jonas Friderikas Rivijus kai kuriuos kroni
 - id: c-172952
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Neįkainojamas Lietuvos
     istorijos paminklas. Sunku atspėti, ar tai Rivijus iš tikrųjų turėjo ran­

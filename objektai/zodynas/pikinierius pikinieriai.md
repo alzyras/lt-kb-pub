@@ -71,6 +71,7 @@ Svetimšalių autoramento „vokiškojo“ tipo pėstininkas-ietininkas (pikinie
 - id: c-45540
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Svetimšalių autoramento „vokiškojo“ tipo pėstinin-
     kas-ietininkas (pikinierius). Svetimšalių autoramento

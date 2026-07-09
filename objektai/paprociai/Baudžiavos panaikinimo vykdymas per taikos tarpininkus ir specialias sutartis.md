@@ -117,6 +117,7 @@ Nenurodyta
 - id: c-67107
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Visą reformą pagal
     manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti
@@ -135,6 +136,7 @@ Nenurodyta
 - id: c-67108
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Vykdant reformą
     taip pat turėjo atsirasti bežemių: mat, buvo nustatyta, kad

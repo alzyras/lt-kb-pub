@@ -97,6 +97,7 @@ Nenurodyta
 - id: c-169167
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tad šis, norėdamas apginti savo teises į Ru­
     sią, nutarė, jog pirmiausia būtina kariauti su lietuviais.

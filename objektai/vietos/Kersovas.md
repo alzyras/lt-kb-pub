@@ -75,6 +75,7 @@ Dusburgietis teigia, kad dar apie tą patį: apie aštuonių šimtų lietuvių �
 - id: c-59329
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     196 (191). Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį
 

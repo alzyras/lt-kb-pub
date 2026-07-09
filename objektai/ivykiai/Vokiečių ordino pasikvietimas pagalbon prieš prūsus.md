@@ -82,6 +82,7 @@ Nenurodyta
 - id: c-02098
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Aisčių kraštai tuomet labai nukentėdavo. Bet, surinkę jėgų, ais-
     čiai jiems skaudžiai atkeršydavo. Po ilgų kovų, XIII amž. pra-

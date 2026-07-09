@@ -98,6 +98,7 @@ Petras Miškovskis nuo 1499.V. buvo Belzo vaivada.
 - id: c-170260
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     | M askvą išvyko 1503 m. vasario mėn.
     pradžioje, atvyko 1503 m. kovo 4 d. Talkos derybos prasidėjo

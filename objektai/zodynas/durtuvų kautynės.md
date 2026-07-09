@@ -69,6 +69,7 @@ Jie, susispaude į krūvą, atstatė durtuvus ir laukė.
 - id: c-77326
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Šie, pamatę, kad mūsų vyrų tik
     dvylika, metėsi į ataką, bet mūsų vyrai nenusigando ir nepakriko. Jie,

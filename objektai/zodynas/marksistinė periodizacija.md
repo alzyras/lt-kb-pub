@@ -160,6 +160,7 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
 - id: c-06417
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pa­
     gal ją, I-sis Lietuvos TSR istorijos tomas apima feodalizmo epochą
@@ -180,6 +181,7 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
 - id: c-06418
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Pritaikydami ir Lietuvos istorijos laukui komunistinės istorio­
     grafijos nomenklatūrą, tarybiniai istorikai čia tematė du ryškius
@@ -200,6 +202,7 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
 - id: c-06419
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Šitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo
     marksistinėje teorijoje ir Lietuvos istorijos skirstymo atveju norėjo

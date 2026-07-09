@@ -98,6 +98,7 @@ Nenurodyta
 - id: c-33431
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo
     pradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė

@@ -189,6 +189,7 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos
     ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­
@@ -205,6 +206,7 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
 - id: c-89256
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     vežė didžiomis upėmis, beje: Isla, Nemunu, Daugava, Niperiu, Tripente, Tyrule, savo prekę į svečias šalis, vienok sako buvus ir žemės kelią į Rymą per tas pilis: Askaukalį (Osielską), Setidavą (Cydovą gret Gniezno), Kalisiją (Kališą), Arsenijų (Marseniną ties Seradze), Karhoduną (Čarnovicą ties Krokuva), Asanką (Senąjį Sandeką), Setu ją...
   citata_rodoma: "vežė didžiomis upėmis, beje: Isla, Nemunu,\nDaugava, Niperiu, Tripente, Tyrule, savo prekę į svečias šalis, vienok sako buvus ir žemės kelią į Rymą\nper tas pilis: Askaukalį (Osielską), Setidavą (Cydovą gret Gniezno), Kalisiją (Kališą), Arsenijų\n(Marseniną ties Seradze), Karhoduną (Čarnovicą ties Krokuva), Asanką (Senąjį Sandeką), Setu ją"

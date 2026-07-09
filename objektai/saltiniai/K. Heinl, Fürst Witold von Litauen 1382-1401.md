@@ -78,6 +78,7 @@ Heinl : Fürst Witold von Litauen 1382-1401, 1925, 61 p. (^13) KolLJ, I, 51 p.
 - id: c-33604
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^10) **CEV, 18 (nr. 53).**
     (^11) **SRP, II, 713 p.**

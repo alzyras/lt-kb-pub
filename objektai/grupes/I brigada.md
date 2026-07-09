@@ -84,6 +84,7 @@ Lietuvių pajėgos Veikiančioji Lietuvos kariuomenė buvo pertvarkyta į dvi br
 - id: c-44743
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     jant vyriausiajam Lietuvos kariuome-
     nės vadui generolui Silvestrui Žukauskui,

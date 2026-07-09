@@ -153,6 +153,7 @@ Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne ka
 - id: c-83497
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tai ir yra priežastis, kad jūsų kilnybei šiuo laišku pareiš­
     kiame, jog mūsų pirmtakas karalius Mindaugas su visa sa­
@@ -185,6 +186,7 @@ Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne ka
 - id: c-83498
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Viename jų, skirtame popiežiui ir kardinolams, Gediminas
     prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta

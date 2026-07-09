@@ -113,6 +113,7 @@ Nenurodyta
 - id: c-172782
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­
     tuvių genties tautos žinojo trizną. Tai buvo apeigos, atlieka­
@@ -129,6 +130,7 @@ Nenurodyta
 - id: c-177032
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuvoje gyveno garsi
     Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-

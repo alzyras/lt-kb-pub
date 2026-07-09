@@ -194,6 +194,7 @@ Bielskas apibūdinamas kaip Palenkės miestas. Bielskas lokalizuojamas prie Balt
 - id: c-170264
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Bielskas — kalbamu m elu Palenkės, o dabar Lenkijos Bielsk-
     Podlaski miestas (prie Baltosios, Narevo intako, | pietus nuo Bal­
@@ -214,6 +215,7 @@ Bielskas apibūdinamas kaip Palenkės miestas. Bielskas lokalizuojamas prie Balt
 - id: c-170514
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     M atyt, jis parašytas paties BK autoriaus iš įvairių
     šaltinių.

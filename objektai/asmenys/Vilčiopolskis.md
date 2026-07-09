@@ -83,6 +83,7 @@ Jonas Neliubovičius mūrinį namą su sklypu par­ davė Vilniaus kanauninkui V
 - id: c-83862
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jonas Neliubovičius mūrinį namą su sklypu par­
     davė Vilniaus kanauninkui Vilčiopolskiui.

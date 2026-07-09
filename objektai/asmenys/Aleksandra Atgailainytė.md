@@ -71,6 +71,7 @@ Apie KGB-MGB provokaciją pasakoja Prisikėlimo apygardos partizanė Aleksandra 
 - id: c-41279
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Apie KGB-MGB provokaciją pasakoja Prisikėlimo apygardos par-
     tizanė Aleksandra Atgailainytė. Ji buvo suimta, po bevaisių tar-

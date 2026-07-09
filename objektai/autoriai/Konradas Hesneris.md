@@ -76,6 +76,7 @@ Konradas Hesneris Narbuto pastaboje įvardijamas kaip šveicarų gydytojas, gamt
 - id: c-174533
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ypač žymus jo veikalas-dialogas
     „Geografika“.

@@ -89,6 +89,7 @@ Nenurodyta
 - id: c-172624
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pasak kitų
     tyrinėtojų, tas stabas turėjo vaizduoti Žalčių karalių (Žalcziu

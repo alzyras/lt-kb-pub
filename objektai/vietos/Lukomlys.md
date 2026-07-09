@@ -74,6 +74,7 @@ Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai 
 - id: c-45196
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Iš Polocko su savo kariuomene kuni-
     gaikštis P. Šuiskis pajudėjo sausio 23 d.

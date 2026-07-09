@@ -88,6 +88,7 @@ Notandum [pa­ žymėtina], kurios pro contigenti lucro [iš gaunamo pelno] skir
 - id: c-82582
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Nėra jokių kitų įsipareigojimų, išskyrus visuomenei tei­
     kiamą naudą ir paskutiniojoje privilegijoje išsakytą sąlygą,

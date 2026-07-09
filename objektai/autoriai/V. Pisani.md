@@ -82,6 +82,7 @@ Pisani, V.: II paganesimo balto-slavo, Storia delle religioni, red. G.
 - id: c-33178
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — (”) _Der Eid des Keistutis im Jahre 1351,_ Sitzungsber. d.
     Altertumsgesell. Prussia, t. 16, 1893, 104-112 p. — Navickaitė, O. :

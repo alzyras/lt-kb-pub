@@ -71,6 +71,7 @@ Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino 
 - id: c-44524
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Partizanai, buvę
     šiame bunkeryje, girdėjo visą praėjusią dieną

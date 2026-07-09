@@ -139,6 +139,7 @@ Tai buvo žmogus, kurį dar Algirdas dėl didelių gabumų iš kepėjo sūnaus i
 - id: c-82616
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     33
 
@@ -159,6 +160,7 @@ Tai buvo žmogus, kurį dar Algirdas dėl didelių gabumų iš kepėjo sūnaus i
 - id: c-170475
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     4 0  M ikalojus M ikalojaitis Radvila (Jaunasis) — tai Vilniaus vai­
     vados M ikalojaus Radvilos Senojo (žr. past. 42) sūnus. 1487—

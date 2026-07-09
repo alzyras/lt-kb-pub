@@ -74,6 +74,7 @@ suvažiavimas Gnievkove, kur dalyvavo ir Martyno V legatas, Milano arkiv.
 - id: c-33850
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Ginčui besitęsiant, popiežius ir imperatorius ėmė siūlyti savo
     tarpininkavimą. 1419 m. gegužės mėn. suvažiavimas Gnievkove,

@@ -241,6 +241,7 @@ Nenurodyta
 - id: c-172484
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Toliau autorius pateikia kai kurių lietuvių mitologijos sri-
     393
@@ -271,6 +272,7 @@ Nenurodyta
 - id: c-172485
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Jeigu Apvaizda nori atsilyginti
     tautoms, suteikdama joms laimės dovaną, ji duoda joms šven­
@@ -293,6 +295,7 @@ Nenurodyta
 - id: c-172486
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pasakiau „stebuklingu būdu“, kadangi apaš­
     tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
@@ -316,6 +319,7 @@ Nenurodyta
 - id: c-172487
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     III. Aiškesnė istorija -  nuo Mindaugo (1240 metų) iki 1386
     metų. Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių

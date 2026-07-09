@@ -66,6 +66,7 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- t
 - id: c-69275
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Pirmiausia tai buvo vokiškojo ir katalikiškojo
     pasaulio dalies pripažinimas Lietuvos valstybės. Lig tol į lie-

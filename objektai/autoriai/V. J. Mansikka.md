@@ -77,6 +77,7 @@ Mansikka, V.
 - id: c-33169
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     LP, I, 1, 1940, 319-322 p.). — Mansikka,
     V. J. : _Die Religion der Ostslaven,_ I. _Quellen,_ Helsinki, 1922. — Mažiu­

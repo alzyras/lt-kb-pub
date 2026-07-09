@@ -88,6 +88,7 @@ Nenurodyta
 - id: c-172574
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Mano pieštas natūralaus dydžio piešinys pateikiamas 1 lentelė­
     je 3-iajame piešinyje su visais medaliono sužalojimais. Vaizduo­

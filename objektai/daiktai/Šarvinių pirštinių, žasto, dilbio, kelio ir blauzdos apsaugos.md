@@ -89,6 +89,7 @@ Nenurodyta
 - id: c-42591
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Taip buvo delsiama, kol atvyko
     visoje Ordoje garsus kunigaikštis - emyras

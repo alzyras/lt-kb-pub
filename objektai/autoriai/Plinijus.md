@@ -464,6 +464,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173259
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     100
 
@@ -485,6 +486,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Reikėtų surasti vidurį tarp tų dviejų
     kraštutinumų.
@@ -503,6 +505,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173660
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Apie šią tautą senovės ty­
     rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
@@ -524,6 +527,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173661
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Vėliau kalbėsime apie šio astronomo
     keliones, o dabar pasakysime tik tiek, jog visas jo apra­
@@ -545,6 +549,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173662
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ta­
     citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
@@ -564,6 +569,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173663
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pagaliau, papildydamas aprašymą, cituoju tą
     patį autorių: Welti, Hossii ir Karbony, — tai toliau į
@@ -581,6 +587,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173664
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tie medžiai,
     neteisingai laikomi medį mėgdžiojančiomis iškasenomis,
@@ -600,6 +607,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173666
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Sala, kurią Plinijus vadina Baltija, remdamasis visais
     Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
@@ -618,6 +626,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173667
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­
     ga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine
@@ -641,6 +650,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-174785
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Galbūt ir
     lietuvių kalba jie vadinosi skiriais, nes esama panašiai

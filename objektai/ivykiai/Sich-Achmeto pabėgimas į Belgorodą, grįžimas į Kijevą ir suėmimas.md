@@ -184,6 +184,7 @@ Nenurodyta
 - id: c-169984
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     "  A ntrą kartą grjžąs i Kijevą Aukso ordos chanas Slch-Ach-
     metas buvo suimtas ir laikomas Lietuvoje, Vilniaus Aukštojoje. T ra­
@@ -202,6 +203,7 @@ Nenurodyta
 - id: c-169985
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     С  Петербург, 1884, р. 516).
     п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą

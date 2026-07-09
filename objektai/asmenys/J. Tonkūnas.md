@@ -74,6 +74,7 @@ J. Tonkūnas minimas kaip švietimo ministeris, rūpinęsis veikalo bendradarbi�
 - id: c-00116
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Norėtumėm pareikšti viltį, kad vadovėlis nors iš dalies pa-
     tenkins gyvą visuomenės ir mokyklos reikalą, o kartu ir padė-

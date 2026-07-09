@@ -128,6 +128,7 @@ Nenurodyta
 - id: c-83189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Bet Vytauto privilegija negalio­
     jo žydų kitai sektai, vadinamai ka­

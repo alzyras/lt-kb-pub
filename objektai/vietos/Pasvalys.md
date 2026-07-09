@@ -170,6 +170,7 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
 - id: c-156401
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuo tarpu Zigmantas Augustas, matydamas irstan-
     čią ordino valstybę, ryžosi ją paimti į savo valdžią, nes kitaip
@@ -188,6 +189,7 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
 - id: c-166461
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuo metu Rygoje buvo užmuštas
     Lietuvos pasiuntinys; tad kaip tik pasitaikė gera proga įsikišti
@@ -205,6 +207,7 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
 - id: c-168443
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Į pagalbą atskubėjo Jurgis bei
     Simonas, Slucko kunigaikščiai, atsivedę keturis tūks­

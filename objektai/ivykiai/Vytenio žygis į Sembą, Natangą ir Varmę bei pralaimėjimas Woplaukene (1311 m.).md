@@ -96,6 +96,7 @@ Nenurodyta
 - id: c-33446
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Lietuviai ne kartą puldinėjo Sembą. Pats
     Vytenis 1311 plėšė Sembą ir Natangą, paskui Varmę, bet Woplau­

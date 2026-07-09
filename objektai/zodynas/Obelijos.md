@@ -126,6 +126,7 @@ Narbutas Obelijomis vadina senąsias vietas Tikrojoje Lietuvoje, kur būdavo ded
 - id: c-172122
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­
     dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
@@ -149,6 +150,7 @@ Narbutas Obelijomis vadina senąsias vietas Tikrojoje Lietuvoje, kur būdavo ded
 - id: c-172123
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Viskas, ką tiktoje vietoje
     galėjau ištyrinėti, mane įtikina, jog visų žymių žmonių kūnų, įvai­

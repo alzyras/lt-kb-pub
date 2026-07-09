@@ -79,6 +79,7 @@ Ir didysis kunigaikštis Kazimieras priėmė volyniečius, ir su visais tais Lie
 - id: c-176664
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Netrukus iš Volynės atvyko kunigaikščiai Sanguš-
     kos1  ir visi kiti Volynės kunigaikščiai bei bajorai ir

@@ -124,6 +124,7 @@ media_all_json: |-
 - id: c-33468
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Kad kiltys savo vardus gaudavo nuo upių, patvirtina eilė pavyz­
     džių, tačiau lietuvių atveju nieko aiškaus negalima pasakyti.
@@ -143,6 +144,7 @@ media_all_json: |-
 - id: c-33469
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1253 m. užra­
     šyta _«_ Datum in Le _tt_ owia in curia nostra », panašiai ir 1260 m. :

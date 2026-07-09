@@ -77,6 +77,7 @@ Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai ra�
 - id: c-172427
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     1.
     Seniausias žinomas šito šaltinis yra Simonas Grunau,

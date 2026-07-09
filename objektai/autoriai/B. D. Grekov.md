@@ -77,6 +77,7 @@ Grekov, B.
 - id: c-32902
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     —Filevič, I. L. : _Bor’ba Pol’ši i Litvy-Rusi za Galicko-
     Vladimirskoje nasledije,_ Peterburg 1890. — Grekov, B. D. i Jakubov _­_

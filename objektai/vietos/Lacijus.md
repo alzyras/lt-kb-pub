@@ -76,6 +76,7 @@ Narbutas senovės Lacijuje užsimezgusią romėnų karalystę aiškina kaip Apva
 - id: c-171902
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tačiau pernelyg didelis graikų nepastovumas -  didelė yda
     šalia tų gražių privalumų -  lėmė daug pasaulietinių ir religi­

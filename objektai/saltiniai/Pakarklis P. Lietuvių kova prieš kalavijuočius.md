@@ -76,6 +76,7 @@ Dusburgietis teigia, kad pakarklis P.
 - id: c-61844
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pakarklis P. Lietuvių kova prieš kalavijuočius — Panevėžys, 1945.
 

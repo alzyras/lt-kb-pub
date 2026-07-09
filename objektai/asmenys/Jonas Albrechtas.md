@@ -85,6 +85,7 @@ Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gau
 - id: c-83693
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vėliau jo pamaldumą pripažino
     Romos Bažnyčios galva, suteikė jam Šventojo vardą ir šlo­

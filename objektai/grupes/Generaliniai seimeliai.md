@@ -65,6 +65,7 @@ Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą.
 - id: c-176030
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Mat, anks-
     čiau Lenkija buvo susi-

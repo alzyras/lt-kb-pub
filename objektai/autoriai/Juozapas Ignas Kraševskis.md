@@ -116,6 +116,7 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
 - id: c-174557
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Oficialūs atgarsiai į T. Narbuto „Lie­
     tuvių mitologiją“ pasirodė netrukus, t. y. tais pačiais
@@ -134,6 +135,7 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
 - id: c-176802
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Nepaisant gana kritiško požiūrio į
     istorijos šaltinius, M. Balinskio Vilniaus istorija neprilygo J. I. Kra­

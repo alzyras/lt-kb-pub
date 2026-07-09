@@ -83,6 +83,7 @@ Pičeta : Agrarnaja reforma Sigizmundą Avgusta v Litovsko-russkom gosudarstve (
 - id: c-30929
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — Jo darbą
     tęsė V. Pičeta :** **_Agrarnaja reforma Sigizmundą Avgusta v Litovsko-russkom

@@ -79,6 +79,7 @@ Smotričė yra kairysis Dnestro intakas.
 - id: c-170358
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Smotričė — Dnestro (UTSR) kairysis intakas.
     7 Smotričius — sena Podolės gyvenvietė, minima jau  XII a.,

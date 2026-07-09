@@ -215,6 +215,7 @@ Nenurodyta
 - id: c-04909
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Mindaugui buvo savotiška laimė, kad Tautvilas krikštijosi pas
     Rygos arkivyskupą, kuriam nebenorėjo paklusti Livonijos ordinas.
@@ -235,6 +236,7 @@ Nenurodyta
 - id: c-04910
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Įtikinęs Mindaugą, žadėjusį užrašyti žemių, jog
     būtinai jam reikia krikštytis^87 , magistras su juo padarė taiką.
@@ -252,6 +254,7 @@ Nenurodyta
 - id: c-31354
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Ar Min­
     daugą krikštui ruošė tas pats Livonijos ordino kunigas Kristijonas,
@@ -274,6 +277,7 @@ Nenurodyta
 - id: c-70280
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Čia ji pradedama dviejų
     šimtmečių (XII-XIII) sąvartoje.
@@ -295,6 +299,7 @@ Nenurodyta
 - id: c-70281
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Atkeldami tikrojo Lietuvos krikšto datą į mindauginius laikus,
     t. y. 136 m. anksčiau, be kitko, tos tezės gynėjai nurodo ir į lietu­

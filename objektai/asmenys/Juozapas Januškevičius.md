@@ -80,6 +80,7 @@ Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo
 - id: c-173047
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
     ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­

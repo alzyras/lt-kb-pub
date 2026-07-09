@@ -113,6 +113,7 @@ Nenurodyta
 - id: c-60332
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
 

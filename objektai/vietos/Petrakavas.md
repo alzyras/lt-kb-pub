@@ -82,6 +82,7 @@ Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo.
 - id: c-170331
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Len­
     kai buvo pasirinkę Pamario kunigaikštį, vardu Fridri­

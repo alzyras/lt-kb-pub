@@ -87,6 +87,7 @@ Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro
 - id: c-167472
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Galop prūsai klasta jį
     apsupo ir galybe smūgių nubloškė nuo žirgo. Kai šitai išvydo, brolis Hermanas, minėtojo

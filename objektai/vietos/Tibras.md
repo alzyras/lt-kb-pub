@@ -79,6 +79,7 @@ Dusburgietis teigia, kad apie Mikalojų III, popiežių, bei karalių Rudolfą i
 - id: c-59369
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Mikalojų III, popiežių, bei karalių Rudolfą ir apie Tibro potvynį
 

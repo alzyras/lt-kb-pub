@@ -112,6 +112,7 @@ Be to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­ čių funda
 - id: c-82280
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Po šios
     džiugios naujienos buvo įvairiausiai

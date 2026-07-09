@@ -112,6 +112,7 @@ Nenurodyta
 - id: c-09975
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     tūlose vietose pas žemaičius šiandien tebėra sakoma: „Karūžasis^880 , – sako, – lazdą parnešė“
         arba: „Kaip aš neklausysiu lazdos savo vyresnybės.“ Šiandien lenkai tyčiodamies senu įpročiu
@@ -128,6 +129,7 @@ Nenurodyta
 - id: c-09976
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Jis pats retai, o rasi ir niekados nedavė įsakymų svietui, bet siuntė per savo kunigus,
         žygovais^877 vadinamus, kuriems pavedė savo valdžią, įduodamas lietos, arba ūkės^878 , lazdą,

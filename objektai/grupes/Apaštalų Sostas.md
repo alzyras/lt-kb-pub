@@ -187,6 +187,7 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
 - id: c-156501
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     374
 
@@ -222,6 +223,7 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
 - id: c-156502
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     IV KNYGA
     duonos formos miesto tarnams ir pareigūnams grasino kal­
@@ -256,6 +258,7 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
 - id: c-156504
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Taigi mes, pamatę [abiejų] pusių
     raštus ir privilegijas, juos kruopščiai apsvarstę, pasitarę su

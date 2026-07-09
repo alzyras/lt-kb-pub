@@ -88,6 +88,7 @@ Leidinio įvade anoniminė 1835 m. recenzija vadinama bene reikšmingiausia ir y
 - id: c-173192
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pirmoji buvo anoni­
     miška, o antroji priklausė Juozapo Ignoto Kraševskio

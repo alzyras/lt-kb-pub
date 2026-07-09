@@ -448,6 +448,7 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-173961
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     O iš čia didelė tauta ėmė lietis į
     visus kraštus; iš eilės Europos vakarai, šiaurė, rytai bei
@@ -471,6 +472,7 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-173963
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Atvykusių iš Skandinavijos gotų galia toly­
     džio vis didėjo, iš gimtosios žemės kėlėsi vis nauji gy­
@@ -494,6 +496,7 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-173964
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Apie šią tautą senovės ty­
     rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
@@ -515,6 +518,7 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-173965
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Apie estus nėra žinių nuo Tacito
     laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
@@ -537,6 +541,7 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-173966
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kaip slavai atsirado ‘šiose lygumose arba kaip
     ir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.
@@ -560,6 +565,7 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-173967
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kadangi Rusios tema mūsų
     jau pakankamai išnagrinėta, nelaikydami jos atsikira pro­
@@ -586,6 +592,7 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-173968
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pagaliau ir ¡pats Naruševičius, žinojęs
     tuos pačius ir, ko gero, dar ir kitus mums nežinomus įro­
@@ -609,6 +616,7 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-173969
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     281
     Latvijos dalys. Agazirai, Agazziry. Senovės tyrinėto­
@@ -626,6 +634,7 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-174836
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Šias ir kitas mus mažiau
     dominančias smulkmenas teigia Klaudianas*, Prokopi-

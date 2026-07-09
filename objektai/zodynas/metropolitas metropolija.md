@@ -131,6 +131,7 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
 - id: c-82518
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Širdgėlos ir senatvės kamuojamas, praradęs bet kokią viltį
     159
@@ -159,6 +160,7 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
 - id: c-82519
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vienas didžiausių
     ir opiausių nepatogumų buvo Mask­

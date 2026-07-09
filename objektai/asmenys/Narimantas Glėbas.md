@@ -70,6 +70,7 @@ media_all_json: |-
 - id: c-176755
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     • Narimantas Glėbas — antrasis Gedimino sūnus. Pinsko bei Tu-
     rovo kunigaikštystes prie Pripetės Narimantas, veikiausiai, gavo

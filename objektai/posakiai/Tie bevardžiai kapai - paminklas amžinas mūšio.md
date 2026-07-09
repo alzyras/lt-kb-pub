@@ -74,6 +74,7 @@ fevaf 143 Kritusius mūšy karius laukuose liepia palaidot, Tie bevardžiai kapa
 - id: c-44963
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Rodėsi, jau ne kova čia vyksta, bet baisios skerdynės.
     Raiteliai bėga pirmi, pavadžiais suraginę žirgus,

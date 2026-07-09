@@ -184,6 +184,7 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
 - id: c-60628
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Galop broliai susikovė su Ragavos pilėnais ir, dievui
     leidus, daugybę jų nužudė, o jų nelaisvėn paimtą vadą išsivedė; tas vadas, norėdamas
@@ -206,6 +207,7 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
 - id: c-60630
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nutyli lenkų feodalinės ekspansijos  į prūsų žemes
     bandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo
@@ -228,6 +230,7 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
 - id: c-60631
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis
     plėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę

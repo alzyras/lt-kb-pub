@@ -138,6 +138,7 @@ Nenurodyta
 - id: c-13593
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Ar iš tikrųjų Vytauto epochai gali
     būti priskirtos pirmosios pabūklų liejyklos^5 ir bažnytinių varpų,

@@ -80,6 +80,7 @@ media_all_json: |-
 - id: c-02677
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     20 d., kaip
     diskusijų pagrindas, susidėjo iš 15 punktų. Svarbiausieji to projekto

@@ -87,6 +87,7 @@ Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių apraš
 - id: c-173273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tik­
     riausiai T. Narbutas šią informaeiją paėmė iš ke­

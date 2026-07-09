@@ -77,6 +77,7 @@ Nar buto vertimas į lenkų kalbą, nes tuo metu buvo pa plitęs Pranciškaus Dm
 - id: c-173332
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Tai galėtų būti ir paties T. Nar­
     buto vertimas į lenkų kalbą, nes tuo metu buvo pa­

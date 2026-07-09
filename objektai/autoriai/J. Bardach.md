@@ -75,6 +75,7 @@ Bardach, J.
 - id: c-32956
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1932. — Bardach, J. : _Akt w Krewie,_ jo knygoje _Studia z ustroju i
     prawa Wielkiego Księstwa Litewskiego XIV-XVII w.,_ Warszawa 1970,

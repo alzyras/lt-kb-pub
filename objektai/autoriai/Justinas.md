@@ -77,6 +77,7 @@ Tačiau skitų likučiai tikrąja šio pavadinimo prasme išliko Rytuose iki II 
 - id: c-177277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau jie pakentė tai neilgai, nes istorijoje ran­
     dame prisiminimų apie skitų genčių susidūrimą su Pi­

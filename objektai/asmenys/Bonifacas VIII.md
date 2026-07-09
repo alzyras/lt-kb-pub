@@ -266,6 +266,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60532
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
 
@@ -284,6 +285,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60533
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
     imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
@@ -301,6 +303,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     83. Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
 
@@ -318,6 +321,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60535
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį
 
@@ -341,6 +345,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60536
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
 

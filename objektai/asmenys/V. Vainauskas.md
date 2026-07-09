@@ -117,6 +117,7 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
 - id: c-44552
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Prieš vakarą į pagalbą lietu-
     viams atvyko vokiečių batalionas, gink-
@@ -140,6 +141,7 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
 - id: c-44553
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     miestą, raudonarmiečiai nusprendė apeiti
     kimą keliu Kėdainiai-Kaunas ir nutraukti

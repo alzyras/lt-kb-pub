@@ -76,6 +76,7 @@ Sil­ pno charakterio karalius negalėjo veiksmingai pasipriešinti turčių vyr
 - id: c-82578
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Nors Lietuvos sostinė ir gavo naudos susijusios su preky­
     ba bei saugumu, bet akivaizdaus pagerėjimo valdant miestą

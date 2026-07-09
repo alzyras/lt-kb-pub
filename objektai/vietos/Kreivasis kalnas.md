@@ -97,6 +97,7 @@ Kreivasis, arba Pilkasis, kalnas tapatinamas su Trijų Kryžių kalnu. Kalnas lo
 - id: c-170305
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tačiau seniau­
     sieji Žemutinės pilies įtvirtinim ai ligi Šiol tebera neištirti ir jų  pa-

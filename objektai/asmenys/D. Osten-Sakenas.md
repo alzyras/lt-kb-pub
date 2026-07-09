@@ -166,6 +166,7 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
 - id: c-41887
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Gen. ltn. D. Osten-Sakenas dešiniajame
     gynybos sparne puolimui išrikiavo ka-
@@ -181,6 +182,7 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
 - id: c-41888
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Distanciniame
     vamzdelyje išgręžta
@@ -213,6 +215,7 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
 - id: c-44317
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Pabūklo vamzdis
 

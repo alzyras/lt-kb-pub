@@ -70,6 +70,7 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
 - id: c-61912
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Samalavičius S., Ambramauskas S. Naujas XIII a. šaltinis apie baltus.— Kultūros
     barai, 1984, Nr. 6, p. 62—64.

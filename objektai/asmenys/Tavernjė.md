@@ -80,6 +80,7 @@ Narbutas nurodo, kad Tavernjė čerkesų ir kumanų totorių papročiuose rado t
 - id: c-173097
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Senovės germanai ją vadino H erta, tai yra Motina žeme.
     Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas

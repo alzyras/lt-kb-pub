@@ -100,6 +100,7 @@ Nenurodyta
 - id: c-63219
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Vilhelmo, Olandijos grafo, išrinkimą Romos karaliumi
 

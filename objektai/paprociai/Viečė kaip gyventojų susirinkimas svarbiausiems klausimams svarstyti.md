@@ -78,6 +78,7 @@ Nenurodyta
 - id: c-176696
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Tačiau tiesioginių žinių apie paties Polocko puolimą ki­
     tuose patikimuose šaltiniuose nėra.

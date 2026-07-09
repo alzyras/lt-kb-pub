@@ -69,6 +69,7 @@ Keliautojas ir pirklys iš arabiškos Ispanijos, žydas Ibrahim ibn Jakub, per v
 - id: c-94016
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     « Bavarijos Geografui » prūsai buvo žinomi « Bruci »
     vardu. Keliautojas ir pirklys iš arabiškos Ispanijos, žydas Ibrahim

@@ -73,6 +73,7 @@ Dusburgietis teigia, kad kuzavinis К.
 - id: c-61748
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kuzavinis К. Prūsų kalba.—V., 1964.
   statusas: verified

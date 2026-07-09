@@ -183,6 +183,7 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
 - id: c-169310
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Porą kartų pa-
     Puola,
@@ -211,6 +212,7 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
 - id: c-169311
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Alek­
     sandras Vytautas su žmona
@@ -245,6 +247,7 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
 - id: c-169312
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vis dėlto neil­
     gai jis džiaugėsi naujomis

@@ -94,6 +94,7 @@ Nenurodyta
 - id: c-01929
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tik kai apie 1652 m. hetmonas
     Jonušas Radvila Kėdainiuose įkūrė specialią lietuviškoms

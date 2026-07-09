@@ -72,6 +72,7 @@ Pomponijus Mela, pasak Narbuto, nedviprasmiškai tvirtino, kad Konstanco ežeras
 - id: c-174390
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Strabonas kalba apie belgų venedus šian­
     dieniuose Nyderlanduose. Melą Pomponijus nedvipras­

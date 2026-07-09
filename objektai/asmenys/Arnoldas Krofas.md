@@ -74,6 +74,7 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
 - id: c-60872
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
     pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,

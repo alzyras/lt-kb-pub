@@ -107,6 +107,7 @@ Nenurodyta
 - id: c-66868
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Įvedant rusiškas raides, buvo norima atitraukti lietuvius nuo
     lenkų ir priartinti prie rusų. Bet kaip prieš visas, taip ypač
@@ -124,6 +125,7 @@ Nenurodyta
 - id: c-66869
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Muravjovas bus žodžiu įsakęs. Tik jo įpėdinis Kaufmanas
     1865 m. rugsėjo mėn. 6 d. išleido specialų įsakymą, kuriuo už-

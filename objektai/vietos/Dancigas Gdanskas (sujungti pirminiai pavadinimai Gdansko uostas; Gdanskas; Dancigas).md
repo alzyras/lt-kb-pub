@@ -171,6 +171,7 @@ Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pa
 - id: c-81988
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Nes, tarp kitko, mūsų mi­
     rusio šlovingo atminimo valdovo dvaro yra sulaikyta penki
@@ -202,6 +203,7 @@ Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pa
 - id: c-81989
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tik tada Švitrigaila
     energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
@@ -223,6 +225,7 @@ Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pa
 - id: c-81990
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Radvila užsistojo juos,
     prašydamas karaliaus šiuos muitus atidėti iki būsimo sei­

@@ -80,6 +80,7 @@ media_all_json: |-
 - id: c-175646
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Beveik tuo pat metu Norike kilo kažkokie neramumai,
     kurie ir atviliojo ten herulus. 477 metais jie sudegino gar­

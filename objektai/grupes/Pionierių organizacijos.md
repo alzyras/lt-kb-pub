@@ -139,6 +139,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 - id: c-22693
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
     dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.
@@ -156,6 +157,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 - id: c-22694
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Ją ruošė totaliai kontroliuojama švieti-
     mo sistema, o nepaklusnieji buvo baudžiami. Mokytojai verčiami studijuoti
@@ -175,6 +177,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 - id: c-166561
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Universitete ir aukštosiose mokyklose iš kitų respublikų atsiųsti specialistai
     dėstė tik rusiškai. Mokiniai buvo verčiami stoti į pionierių ir komjaunimo

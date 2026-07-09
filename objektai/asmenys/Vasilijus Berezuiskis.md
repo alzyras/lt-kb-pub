@@ -76,6 +76,7 @@ Ant Volokolamsko tilto buvo mirtinai (lietuvio ietimi) sužeistas kunigaikštis 
 - id: c-41467
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lapkričio 26-ąją Algirdo pajėgos ap-
     supo Volokolamską. Mūšis tęsėsi dvi die-

@@ -67,6 +67,7 @@ Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.
 - id: c-69228
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tie generaliniai seimeliai neišnyko nė įvedus bend-
     rą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį

@@ -106,6 +106,7 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
 - id: c-45480
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     nugabenti prireikė specialaus traukinio.
     Radviliškyje buvo paimta: 7 lauko pa-

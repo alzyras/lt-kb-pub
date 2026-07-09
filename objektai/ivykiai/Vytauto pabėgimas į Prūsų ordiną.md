@@ -133,6 +133,7 @@ Nenurodyta
 - id: c-169923
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir po duo­
     to žodžio suėmė jie mūsų tėvą ir jį nužudė. Ir mano

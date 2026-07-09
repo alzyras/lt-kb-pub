@@ -172,6 +172,7 @@ Nenurodyta
 - id: c-168889
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vasilijus pareiškė, kad tikrai trok­
     štąs taikos, bet atsisakė tuo tikslu siųsti legatus. Jis
@@ -190,6 +191,7 @@ Nenurodyta
 - id: c-168890
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Be to, sutarė teismų reikalus sutvarkyti iki
     garsios Rusioje palaimintosios mergelės globėjos šven­
@@ -210,6 +212,7 @@ Nenurodyta
 - id: c-168891
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Valachai buvę tik todėl pri­
     658

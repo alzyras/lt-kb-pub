@@ -73,6 +73,7 @@ Dusburgietis teigia, kad lietuvos TSR urbanistikos paminklai.— Kn.
 - id: c-61778
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Lietuvos TSR urbanistikos paminklai.— Kn. 4 / A. Miškinis, A. Tyla.—V, 1981.
   statusas: verified

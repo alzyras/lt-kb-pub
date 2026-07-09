@@ -99,6 +99,7 @@ Vilniaus miesto amatų cechų visuma.
 - id: c-55864
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Mes su
     savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­

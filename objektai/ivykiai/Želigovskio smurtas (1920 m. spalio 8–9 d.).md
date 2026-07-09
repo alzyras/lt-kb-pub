@@ -133,6 +133,7 @@ Nenurodyta
 - id: c-02137
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Lenkija, nebegalėdama
     niekuo pateisinti tokio savo elgesio, pramanė „sukilimo" pa-
@@ -155,6 +156,7 @@ Nenurodyta
 - id: c-02138
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Suvalkų sutarties parašai.
     govskio vedamos, puolė Vilnių nuo Lydos pusės ir jį užėmė

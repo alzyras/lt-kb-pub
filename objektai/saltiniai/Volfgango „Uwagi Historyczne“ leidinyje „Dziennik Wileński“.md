@@ -88,6 +88,7 @@ Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius V
 - id: c-84475
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kaip matyti iš Metrikos sąrašo, Lie­
     tuvos Metrikoje buvo: Listy na plac

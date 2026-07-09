@@ -87,6 +87,7 @@ Nenurodyta
 - id: c-172513
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kai XI amžiuje rusinai
     pradėjo užkariavimo žygius į Lietuvą net iki tų Neries krantų,

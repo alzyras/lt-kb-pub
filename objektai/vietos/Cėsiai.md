@@ -88,6 +88,7 @@ Livonijos ordino kariuomenė 1433 m. liepos mėn. išžygiavo iš Cėsių niokot
 - id: c-170285
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     33 Livonijos ordino kariuomenė, išžygiavusi iš Cėsių 1433 m
     liepos mėn. niokoti Lietuvos, užtruko žygyje 11 savaičių. Magistras

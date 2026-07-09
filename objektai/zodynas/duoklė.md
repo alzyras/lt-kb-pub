@@ -189,6 +189,7 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
 - id: c-168743
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Galop nugalėję lietuviai išvijo barbarus iš
     stovyklos: galybė priešų krito mūšyje, kur kas dau­
@@ -219,6 +220,7 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
 - id: c-170470
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Pskoviečiai, nebenorėdami,
     kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
@@ -250,6 +252,7 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
 - id: c-170471
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir didysis kunigaikštis Vytautas
     paskyrė jiems vietininku savo svainį, kunigaikštį Si­

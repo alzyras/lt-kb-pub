@@ -81,6 +81,7 @@ Lietuviškuoju manicheizmu Narbutas vadina tarytum naują Lietuvos bajorų sekt�
 - id: c-172044
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Toliau autorius pa­
     sakoja, kad šie Rytų bažnyčios atskalūnai, nuo seno gyvenan­

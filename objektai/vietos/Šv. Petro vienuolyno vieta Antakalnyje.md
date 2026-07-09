@@ -71,6 +71,7 @@ Narbutas mini padavimą, kad Vilniaus Antakalnyje, dabartinio Šv. Petro vienuol
 - id: c-171976
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Bet kai kas painioja šią patrauklią dievybę su deive Lie­
     tuva.

@@ -97,6 +97,7 @@ Nenurodyta
 - id: c-67006
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Ypač
     nukentėjo Ašmena. Užėmę miestelį, rusai išplėšė ne tik gyven-

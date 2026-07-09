@@ -71,6 +71,7 @@ Dusburgietis teigia, kad tai rodo Vygrių krašto vietovardžiai (Falk K.-O., Wo
 - id: c-87588
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     517 D. teiginys, kad Sūduva (taip pat  ir kitos Ordino nusiaubtos žemės) likusios
     negyvenamos, vargu ar  teisingas.  Jotvingių  dalis  turėjo gyventi  ir  toliau sunkiai

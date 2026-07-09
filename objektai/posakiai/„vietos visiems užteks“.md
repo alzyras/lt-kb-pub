@@ -73,6 +73,7 @@ Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks
 - id: c-23686
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Tačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas
     A. Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems

@@ -96,6 +96,7 @@ Nenurodyta
 - id: c-28832
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Vyskupui jis pastoviai 1421.VI.22 d. užrašė įvairiuose valsčiuose
     žemių su valstiečiais ir su žvejybos teisėmis (Biržulio, Lukšto,

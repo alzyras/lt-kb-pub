@@ -225,6 +225,7 @@ media_all_json: |-
 - id: c-157317
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Napiers-
     k i s, išleidęs tik dokumentų rinkinio
@@ -249,6 +250,7 @@ media_all_json: |-
 - id: c-157319
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Strijkovskis, 1. 406, pri­
     simena dar vieną Gedimino dukrą,
@@ -285,6 +287,7 @@ media_all_json: |-
 - id: c-157320
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     (Žr. Preussens aeltere Geschichte, Band
     II, p. 353) - atsiskleidžia šio išskirti­
@@ -313,6 +316,7 @@ media_all_json: |-
 - id: c-157321
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau Foigtas
     naujausios Prūsijos istorijos (Ge­

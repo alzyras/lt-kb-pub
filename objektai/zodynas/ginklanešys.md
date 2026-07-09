@@ -246,6 +246,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - id: c-159329
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     235 (228). Apie Ragainės ir Skalvių pilių pastatymą
 
@@ -268,6 +269,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - id: c-159331
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
 
@@ -290,6 +292,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - id: c-159332
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie sūduvių pabėgimą
 
@@ -314,6 +317,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - id: c-159333
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Skalvių pilies puolimą 1293
 

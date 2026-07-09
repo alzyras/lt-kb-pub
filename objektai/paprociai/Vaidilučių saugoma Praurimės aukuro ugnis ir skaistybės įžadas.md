@@ -147,6 +147,7 @@ Nenurodyta
 - id: c-172826
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Duomenų apie tai mums
     paliko Strijkovskis.
@@ -170,6 +171,7 @@ Nenurodyta
 - id: c-172827
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dabar, kai rašau,
     beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­

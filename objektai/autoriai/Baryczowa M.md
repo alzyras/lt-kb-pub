@@ -80,6 +80,7 @@ Dusburgietis teigia, kad baryczowa M.
 - id: c-61306
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     75 Pasakodamas apie Vytenį, jis tvirtina rašąs kaip Petras Dusburgietis, senas Prūsų
     istorijos rašytojas, bet iš tolesnio teksto matyti, kad apie Dusburgietį jis bus girdėjęs per

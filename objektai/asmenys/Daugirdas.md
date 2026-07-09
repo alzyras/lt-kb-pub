@@ -142,6 +142,7 @@ Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vil
 - id: c-169463
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Nu­
     žudę kunigaikštį, bokšte iškėlė vėliavą, laisvės bei sau­
@@ -168,6 +169,7 @@ Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vil
 - id: c-169464
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tiems, kurių ištikimybę bei narsumą patyrė per
     ankstesnius karus, suteikė visokiausių pareigybių, no­

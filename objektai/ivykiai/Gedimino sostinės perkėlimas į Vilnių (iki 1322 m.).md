@@ -166,6 +166,7 @@ Nenurodyta
 - id: c-91571
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo
     į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be
@@ -184,6 +185,7 @@ Nenurodyta
 - id: c-91572
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun
     jau buvo perkėlęs savo sostinę^15. Kai rytiniame savo šone Lietuva
@@ -199,6 +201,7 @@ Nenurodyta
 - id: c-167708
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Gediminas Vilniun
     jau buvo perkėlęs savo sostinę^15. Kai rytiniame savo šone Lietuva

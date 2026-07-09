@@ -67,6 +67,7 @@ media_all_json: |-
 - id: c-34183
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     buvo puošiamas lyg šukomis pabrauktais trumpais brūkšniais.
     Ši kultūra, dėl tų sukinių keramikos ornamentų, todėl dar vadinama

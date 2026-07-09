@@ -118,6 +118,7 @@ Teodoro Narbuto vertinimu, Vasilijus Tatiščevas Giurgevo ieškojo kairiajame D
 - id: c-174483
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be to, tvirto­
     vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
@@ -139,6 +140,7 @@ Teodoro Narbuto vertinimu, Vasilijus Tatiščevas Giurgevo ieškojo kairiajame D
 - id: c-174484
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Jei jo prielaida teisinga,
     o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo,

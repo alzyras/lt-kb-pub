@@ -231,6 +231,7 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
 - id: c-28435
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Senojoje
     Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo
@@ -248,6 +249,7 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
 - id: c-168455
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     3 „Lietuvos istorijos" I tome A. Kojelavičius daugelyje atvejų
     neskyrė Polesės (lenk. Polesie) nuo kaimynystėje buvusios Palenkės
@@ -264,6 +266,7 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
 - id: c-175492
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Toks klastingas elgesys ir drąsūs puldinėji­
     mai iš pasalų supykdė lenkus taip, kad, įveikę kliūtis, jie
@@ -287,6 +290,7 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
 - id: c-175493
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau jotvingiai
     paniekino nelaisvę ir leidosi visi iškapojami.

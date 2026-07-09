@@ -126,6 +126,7 @@ Nenurodyta
 - id: c-172763
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­
     viai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­
@@ -146,6 +147,7 @@ Nenurodyta
 - id: c-172764
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pas krašto valdovus siųsdavo pasiuntinius;
     šie visuomet būdavo taikos pasiuntiniai. Jie išsiskirdavo jiems

@@ -293,6 +293,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
 - id: c-60547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dėl to magistras pasiuntė brolį Henriką Cutsvertą ir 29 brolius su
     1200 vyrų, turėjusių jam pastoti kelią. Šie, nužygiavę  į dykras, plytinčias tarp dviejų
@@ -308,6 +309,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
 - id: c-60548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     užpuolė. Šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką
     Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi. Vis dėlto
@@ -324,6 +326,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
 - id: c-60549
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     247 (240). Apie Aukaimio valsčiaus nusiaubimą
 
@@ -346,6 +349,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
 - id: c-60550
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis
     įsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.
@@ -367,6 +371,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
 - id: c-60551
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai
     rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę
@@ -386,6 +391,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
 - id: c-168073
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pasivijęs jį, atsitraukiantį su dideliu grobiu,
     Jazbutas įniko persekioti už-

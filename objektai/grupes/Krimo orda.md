@@ -64,6 +64,7 @@ Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po t
 - id: c-65736
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Bet nuo 1466 m. ėmęs valdyti Mengli-Girėjas, užsi-
     gavęs, kad Kazimieras užmezgė ryšius su didžiausiu jo priešu —

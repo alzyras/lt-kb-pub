@@ -177,6 +177,7 @@ Nenurodyta
 - id: c-168912
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Jų atsimetimą nuo
     prosenelių tikėjimo karalius Augustas slėpė net ir
@@ -202,6 +203,7 @@ Nenurodyta
 - id: c-168913
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Šis veiksmas didžiai įžeidė Romos popiežių,
     kuris, Augustui tuokiantis su Kotryna, leido jam ne­
@@ -228,6 +230,7 @@ Nenurodyta
 - id: c-168914
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Aiškiai šitokius ir kitokius daly­
     kus atskleidė imperatoriaus pasiuntinys, Pečo vyskupas,

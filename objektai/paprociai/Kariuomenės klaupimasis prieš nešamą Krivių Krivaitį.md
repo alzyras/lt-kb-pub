@@ -86,6 +86,7 @@ Nenurodyta
 - id: c-172804
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kai su­
     šaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;

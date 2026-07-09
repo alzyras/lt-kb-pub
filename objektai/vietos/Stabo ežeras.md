@@ -111,6 +111,7 @@ Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinbe
 - id: c-59362
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Spąsčių kalnas
     Spitenbergas (Spittenbergk, Spittinberc)
@@ -129,6 +130,7 @@ Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinbe
 - id: c-167591
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sniardwy), ež.
     Spąsčių kalnas

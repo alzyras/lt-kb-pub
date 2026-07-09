@@ -126,6 +126,7 @@ Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestu
 - id: c-82243
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     4
     Vilnia, arba Vilnelė, anuomet, atite­
@@ -152,6 +153,7 @@ Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestu
 - id: c-82244
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šalimais jo apvalus bokštas, iš plytų
     ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai

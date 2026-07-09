@@ -64,6 +64,7 @@ Vartojamos formos: `liuosais`, `liuosybę`.
 - id: c-09701
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     pagal žmogaus būdą visi žmonės liuosais^47 turėjo gyventi, vienok didžturčiai visados neturtinguosius vergė; todėl, norėdami viens kitam jau savo tikėjimą antmesti^48 , jau liuosybę^49 išplėšti, tankiai tankesniai liejo kraują latakais su tokiu įnirtimu, jog nuveiktieji palikini neprieteliams^50 savo turtingus namus, vaisingus kraštus ir didelius lobius išsidangino jau į versmes ir balas, jau į tyrus dėl to vien, idant tenai galėtų kaip tinkami dievą garbinti ir liuosais gyventi.
   statusas: verified

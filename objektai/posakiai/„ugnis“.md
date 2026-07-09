@@ -62,6 +62,7 @@ Kariai, laukiantys komandos „ugnis“.
 - id: c-40876
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kariai, laukiantys komandos
     „ugnis“. Jiems bus įsakyta

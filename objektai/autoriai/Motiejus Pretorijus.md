@@ -253,6 +253,7 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173212
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Latviuose tai buvo žynys ir pranašautojas. Paimdavo į
     saują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31
@@ -276,6 +277,7 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Daugeliu požiūrių
     šios žynės buvo Antikos bakchančių pamėgdžiojimas.
@@ -294,6 +296,7 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173642
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pavadinimą gavo nuo Jesse, ar­
     ba Wesseke, upės, prie kurios ir buvo jos žemės; šios sri­
@@ -314,6 +317,7 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173643
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tai, žinoma, vien panašumai, kuriuos
     pastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,
@@ -333,6 +337,7 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173644
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Gar­
     siausia šios provincijos tvirtovė buvo Sasava, stovėjusi

@@ -152,6 +152,7 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 - id: c-44286
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Merlino dalinio kariais ir ne-
     įvertino situacijos. Sukilėliai
@@ -175,6 +176,7 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 - id: c-44287
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Rusai forsavo upelį, su-
     kilėlių laikytą nepereinamu, ir
@@ -198,6 +200,7 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 - id: c-44288
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     sintus dalgius ir durtuvus. Batalionų vadais
 

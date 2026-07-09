@@ -89,6 +89,7 @@ Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraiči
 - id: c-168676
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Negaliu patikėti, kad
     jis iš tiesų nebūtų kreipęs nė kruopelytės dėmesio į

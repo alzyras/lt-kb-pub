@@ -96,6 +96,7 @@ Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausom
 - id: c-45497
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
     kariauti Nepriklausomybės kovose prieš bolševikus, atremda-

@@ -80,6 +80,7 @@ Karalius už nuopelnus da­ lijo bajorams statydintis žemės sklypus, priklausa
 - id: c-82583
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Sutartis, Vilniuje sudaryta su Pskovu, likusiu Kazimiero
     globoje, gerokai praplėtė prekybinius šio turtingo miesto

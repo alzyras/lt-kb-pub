@@ -70,6 +70,7 @@ Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.
 - id: c-01600
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Bajorijos atsiunčiamoms de-
     legacijoms jis nieko tikro nežadėjo, nes dar tebebuvo neaiški

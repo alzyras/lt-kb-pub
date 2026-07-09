@@ -79,6 +79,7 @@ Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik amžiumi vėliau,
 - id: c-83615
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik
     amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­

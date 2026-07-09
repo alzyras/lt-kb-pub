@@ -79,6 +79,7 @@ Kiparsky, V.: Baltische Sprachen und Völ­ ker, Baltische Lande, I, 1939, 48-59
 - id: c-33173
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — Johansen, P. :
     _Kurlands Bewohner zu Anfang der historischen Zeit_ , Baltische Lande,

@@ -295,6 +295,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 - id: c-46455
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Jų kiekvienas
     pavietas turėjo tokių pat, kaip ir visa valstybė: čia buvo ir
@@ -318,6 +319,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 - id: c-49105
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
     Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
@@ -336,6 +338,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 - id: c-168296
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Niekas taip
     D im itru i a tid u o d a  tė-
@@ -361,6 +364,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 - id: c-168297
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Štai todėl, norėdamas išvengti gink­
     luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats
@@ -394,6 +398,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 - id: c-170515
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir kunigaikštis Alek­
     sandras siunčia broliui į pagalbą savo maršalą, Lydos

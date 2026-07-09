@@ -75,6 +75,7 @@ media_all_json: |-
 - id: c-01308
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Žemaičių tautiškojo ir kultūriškojo judėjimo centras buvo
     vyskupo Juozo Arnulfo Giedraičio rezidencija — Alsė-

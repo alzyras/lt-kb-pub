@@ -81,6 +81,7 @@ media_all_json: |-
 - id: c-75341
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     aiškinami lotyniškai, o tik paskui lietuviškai. K.  Sirvydo lietuviški pa-
     mokslai, vėlesni giesmynai (Saliamono Slavočinskio „Giesmės“ 1646 m.)

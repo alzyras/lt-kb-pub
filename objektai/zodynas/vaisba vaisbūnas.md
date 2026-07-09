@@ -67,6 +67,7 @@ Todėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia prekybą
 - id: c-46256
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Pažymėtina, kad „visbiečiai" ir „pirkliai" senovės lietuviams buvo
     vienareikšmės sąvokos. Kitokių pirklių jie, matyt, nė nepažino. To-

@@ -136,6 +136,7 @@ Nenurodyta
 - id: c-160252
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Bet veikiai kunigaikščiams reikėjo
     grįžti namo, nes Polocko kunigaikštis Andrius drauge su Livo-
@@ -157,6 +158,7 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Jogailą ir Karūną, ir prieš juos nekilti^1 ). Tokią ištikimybės prie­
     saiką tuo laiku iš viso buvo padarytos trys^2 ).

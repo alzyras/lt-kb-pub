@@ -64,6 +64,7 @@ p. 119, „MORTYROS IR PATRANKOS TRAJEKTORIJOS“, Andžej Geglis, dail.
 - id: c-43287
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     p. 119, „MORTYROS IR PATRANKOS TRAJEKTORIJOS“, Andžej Geglis, dail. Andžej Geglis.
   statusas: verified

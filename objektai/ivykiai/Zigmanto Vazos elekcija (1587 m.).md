@@ -116,6 +116,7 @@ Nenurodyta
 - id: c-67075
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Į elekcijos seimą 1587 m. Za-
     moiskis ir jo priešininkai suvažiavo su dideliais kariuomenės
@@ -133,6 +134,7 @@ Nenurodyta
 - id: c-67077
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Pirmasis kandidatas į sostą dabar buvo imperatoriaus Ru-
     dolfo brolis Maksimilijonas, kurį rėmė ir Lietuvos didikai.

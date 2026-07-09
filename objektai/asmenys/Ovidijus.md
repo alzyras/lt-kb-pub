@@ -126,6 +126,7 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
 - id: c-174186
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Iš tų senovės istorikų pateiktų žinių pa­
     aiškėja, ta tiesa, jog jotvingiai buvo sarmatą* kilmės
@@ -146,6 +147,7 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
 - id: c-174187
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo

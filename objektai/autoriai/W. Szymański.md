@@ -75,6 +75,7 @@ Szymański, W.
 - id: c-33202
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — Pobłocki, L. : _Kritische Beiträge zur ältesten Geschichte Litauens,_ atsp.
     iš AM, XVII, 1870. — Szymański, W. : _Kontakty handlowe Wielkopolski

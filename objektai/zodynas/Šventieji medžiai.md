@@ -111,6 +111,7 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
 - id: c-172079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Nepalyginti labiau medžius aukštino ir garbino stabmel­
     džiai; jie pripažindavo šventais ne tik pavienius medžius, bet
@@ -128,6 +129,7 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
 - id: c-177090
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šios meilės vaisius buvo dvejetas įpėdinių.
     Lietuvių religija medžių atžvilgiu mokė tokio pat pamal­

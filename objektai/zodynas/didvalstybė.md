@@ -159,6 +159,7 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
 - id: c-24804
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Tiesa, Lietuvoje formavosi individualus ūkis, o tai – Vakarų civi-
     lizacijos pagrindas, to nebuvo Rytų Europoje. Be to, ten, kur nereikėjo
@@ -176,6 +177,7 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
 - id: c-24805
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Būtent karybos srityje Lietuva padarė pirmąjį poveikį kaimynams –
     nuo Maskvos iki Čekijos žinomas ir naudojamas savitas „lietuviškas“
@@ -195,6 +197,7 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
 - id: c-176277
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Kryžiaus karai prieš Lietuvą iš dalies paaiški-
     na Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų

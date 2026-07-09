@@ -73,6 +73,7 @@ Dienos pabaigoje, pasinaudoję tamsa dalis partizanų Jokubavo mišku sugebėjo 
 - id: c-45113
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tai vienoje, tai kitoje miško vietoje
     vyko atkaklios kautynės. Dienos pabaigoje,

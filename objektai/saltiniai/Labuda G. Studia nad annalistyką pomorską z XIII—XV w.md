@@ -74,6 +74,7 @@ Dusburgietis teigia, kad labuda G.
 - id: c-61756
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Labuda G. Studia nad annalistyką pomorską z XIII—XV w.— Zapiski Towarzystwa
     Naukowego w Toruniu, Toruń, 1955, t. 20, z. 1—4, s. 101—138.

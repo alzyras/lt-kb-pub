@@ -167,6 +167,7 @@ media_all_json: |-
 - id: c-83491
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     354
 
@@ -230,6 +231,7 @@ media_all_json: |-
 - id: c-83492
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Todėl, jo pageidavimu, jam leidome kurį laiką pagy­
     venti Vilniaus mieste, kol jų malonybės tarybos ponai visi čia,

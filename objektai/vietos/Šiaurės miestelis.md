@@ -67,6 +67,7 @@ Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti 
 - id: c-176445
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Antroji gynėjų grupė
     toje sumaištyje turėjo prasiskverbti pro sovietų apsupimo žiedą ir, sovietams pajudė-

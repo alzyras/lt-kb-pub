@@ -66,6 +66,7 @@ Dusburgietis teigia, kad po to veržliai ir žiauriai užgriuvo kito vasalo, rit
 - id: c-60890
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     link Eimsučio pilies447 ir ją po veržlaus antpuolio užėmė, nukaudamas 40 vyrų, paliktų
     jos saugoti. Po to veržliai ir žiauriai užgriuvo kito vasalo, riterio, vardu Cipelis, pilį448 ir,

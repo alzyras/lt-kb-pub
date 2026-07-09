@@ -111,6 +111,7 @@ media_all_json: |-
 - id: c-83854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Prie liudytojų, tuo metu su mumis buvusių:
     su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba

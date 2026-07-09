@@ -67,6 +67,7 @@ Narbutas rašė, kad daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kai
 - id: c-172138
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šitų būtybių
     dažnai šaukiamasi maldose, ir pats medis gerbiamas dėl savo

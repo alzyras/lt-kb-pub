@@ -81,6 +81,7 @@ Varčios miške, tarp Alovės ir Daugų mstl.
 - id: c-40372
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     DAINAVOS APYGARDA DIDZIOSIOS KOVOS APYGARDA
 

@@ -102,6 +102,7 @@ Vilniaus religinė miesto brolija.
 - id: c-55858
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams
     su suteiktais arkipresbiterių titulais, kuriems į pagalbą bu­

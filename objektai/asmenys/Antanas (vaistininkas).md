@@ -66,6 +66,7 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
 - id: c-83884
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     18 dienos] už tris šimtus flor. Nuo to
     20 flor. palūkanų. Taip pat buvo trys sidabriniai dubenys

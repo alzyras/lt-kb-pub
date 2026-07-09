@@ -149,6 +149,7 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
 - id: c-170296
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didysis kunigaikštis Skirmantas, surinkęs visas sa­
     vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
@@ -171,6 +172,7 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
 - id: c-170526
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir sekančiais metais tas chanas su daugeriopomis
     sutelktomis jėgomis bei totorių ordomis patraukė į Ru­

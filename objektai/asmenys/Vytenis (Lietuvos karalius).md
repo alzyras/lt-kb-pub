@@ -129,6 +129,7 @@ media_all_json: |-
 - id: c-41223
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Valdant Gediminui
     Lietuva ėmė sparčiai plėstis į rytus
@@ -156,6 +157,7 @@ media_all_json: |-
 - id: c-41224
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     „Pukuveras, Lietuvos karalius, tais pačiais
     metais pasiuntė savo sūnų Vytenį su didele

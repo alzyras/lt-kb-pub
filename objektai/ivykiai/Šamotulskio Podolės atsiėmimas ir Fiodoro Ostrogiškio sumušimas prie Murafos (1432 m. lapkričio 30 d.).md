@@ -192,6 +192,7 @@ Nenurodyta
 - id: c-168862
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Fiodoras, su leng­
     vąja rusų, valachų bei skitų raitija labiau linkęs pa­
@@ -223,6 +224,7 @@ Nenurodyta
 - id: c-168863
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Len­
     kams beliko įveikti Murafos upę, tekančią tankiomis
@@ -249,6 +251,7 @@ Nenurodyta
 - id: c-168864
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Lapkričio 30 d. jie kovojo
     maždaug už keturiasdešimties mylių nuo Lvovo. Tuo

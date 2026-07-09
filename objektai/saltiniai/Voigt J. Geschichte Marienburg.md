@@ -68,6 +68,7 @@ Dusburgietis teigia, kad voigt J.
 - id: c-61984
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Voigt J. Geschichte Marienburg.— Königsberg, 1824.
   statusas: verified

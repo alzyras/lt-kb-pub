@@ -73,6 +73,7 @@ Dusburgietis teigia, kad kšivickis L.
 - id: c-61751
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kšivickis L. Žemaičių senovė.—Kaunas—Marijampolė, 1928.
   statusas: verified

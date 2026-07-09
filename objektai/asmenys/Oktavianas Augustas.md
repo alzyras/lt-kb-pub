@@ -117,6 +117,7 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
 - id: c-174182
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taip ir baigėsi tą sykį dvie­
     jų tautų tarpusavio karai3. Iš tiesų chronologai nesutaria
@@ -136,6 +137,7 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
 - id: c-174847
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Be šių įrodymų, turime ir seno­
     vės autorių paliktų, ir naujų laikų tyrimais patvirtintų

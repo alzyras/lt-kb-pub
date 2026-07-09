@@ -76,6 +76,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-176037
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lap-
     kričio 21 d. iki 1564 m. vasario 22 d. (lietuviams išvažiavus, lenkų

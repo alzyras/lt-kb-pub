@@ -67,6 +67,7 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
 - id: c-22687
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė
     „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus. pa-

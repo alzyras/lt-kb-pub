@@ -89,6 +89,7 @@ Narbutas nurodo, kad Gvaželutis gimė 1295 metais kaip Vytenio ir jo antrosios 
 - id: c-173037
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     214
 

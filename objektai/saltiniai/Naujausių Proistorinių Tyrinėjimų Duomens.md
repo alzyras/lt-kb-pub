@@ -78,6 +78,7 @@ media_all_json: |-
 - id: c-33672
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1 (iki 1356 m.),
     Karaliaučius-Marburgas 1889-1969. (Pirmieji 2 tomai Aale-

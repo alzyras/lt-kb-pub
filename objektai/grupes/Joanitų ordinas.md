@@ -270,6 +270,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - id: c-70501
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Pr. Eylau, dab. Bagrationovskas)
 
@@ -294,6 +295,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - id: c-70502
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Nors
     apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai
@@ -331,6 +333,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - id: c-70504
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tad popiežius, išklausęs šią
     pasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties
@@ -355,6 +358,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - id: c-70505
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Iš pradžių tokios brolijos
     globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
@@ -374,6 +378,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - id: c-70506
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
       Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino

@@ -90,6 +90,7 @@ dr. Jonas Arvasevičius Korektorė Ieva Puluikienė Fotografė Giedrė Maksimovi
 - id: c-44611
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     UDK 355-48(474.5)(091)
 

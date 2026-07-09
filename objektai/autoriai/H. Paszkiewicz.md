@@ -105,6 +105,7 @@ Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (19
 - id: c-30519
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^2) **PSRL, 17, 77, 90, 148, 162 p.**
     (^3) **O. Halecki : HaU, I, 95-97 p. — L. Kolankowski : KolLJ, I, 1930,

@@ -208,6 +208,7 @@ media_all_json: |-
 - id: c-90810
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Galima spėti, kad Jogaila matomai ieškojo Lietuvai
     naudingo sąlyčio su lotyniško krikšto Europa. Nors valstybėje
@@ -227,6 +228,7 @@ media_all_json: |-
 - id: c-90813
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^264) **n** skyrius: valstybės iškilimas
     Teognosto Rusios metropolitu Algirdo laikais buvo atkaklus lietuvių
@@ -247,6 +249,7 @@ media_all_json: |-
 - id: c-90814
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Nors valstybėje
     didelį autoritetą ir politiškai karinį patyrimą turįs Kęstutis tebe­
@@ -266,6 +269,7 @@ media_all_json: |-
 - id: c-90816
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Liublino unijos dėsniai. Unijos akto § 3-me išreikšta
     visa jo autorių lenkų idėja: „Didžioji Lietuvos kunigaikštystė
@@ -285,6 +289,7 @@ media_all_json: |-
 - id: c-175853
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tokie buvo unijos akto nuostatai, įtraukti į jį, lenkams
     reikalaujant. Lietuviams reikalaujant, Lietuvai buvo paliktas

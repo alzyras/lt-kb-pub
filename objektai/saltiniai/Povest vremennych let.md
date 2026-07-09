@@ -113,6 +113,7 @@ PVL = Povest’ vremennych let, cast’ pervaja. Štai, XII amž. pradžioje sur
 - id: c-29626
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     PVL = Povest’ vremennych let, cast’ pervaja. Tekst i perevod.
     Leningradas 1951.
@@ -126,6 +127,7 @@ PVL = Povest’ vremennych let, cast’ pervaja. Štai, XII amž. pradžioje sur
 - id: c-29627
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Štai, XII amž. pradžioje surašyta
     «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m.

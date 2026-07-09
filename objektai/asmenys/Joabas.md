@@ -79,6 +79,7 @@ Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, 
 - id: c-60967
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     19. Apie Baigos pilį
 

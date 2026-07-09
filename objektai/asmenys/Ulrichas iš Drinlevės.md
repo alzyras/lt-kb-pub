@@ -108,6 +108,7 @@ Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulric
 - id: c-167520
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie 55 lietuvių žūtį 1319 metais
 

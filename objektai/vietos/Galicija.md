@@ -76,6 +76,7 @@ Galicijoje.
 - id: c-02681
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Galų gale nei Lietuvoje nei Lenkijoje nelaimėjo nei unitai
     nei pravoslavai. Kai rusai užėmė kraštą, tai unija buvo smurtu

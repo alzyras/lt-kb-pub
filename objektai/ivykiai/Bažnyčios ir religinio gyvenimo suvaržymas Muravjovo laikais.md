@@ -170,6 +170,7 @@ Nenurodyta
 - id: c-66703
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Pirmiausia buvo uždrausta
     statyti naujas ir remontuoti senas bažnyčias,
@@ -190,6 +191,7 @@ Nenurodyta
 - id: c-66705
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Be to, Muravjovas ėmė tikrinti, kurios bažnyčios buvo įsi-
     vėlusios į sukilimą. Tokių buvo surasta 32, ir jos visos
@@ -209,6 +211,7 @@ Nenurodyta
 - id: c-66706
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Žemaičių vyskupystės centras tuo tarpu buvo Varniai.
     Kad lengviau būtų prižiūrėti vyskupą ir kapitulą, buvo įsakyta
@@ -226,6 +229,7 @@ Nenurodyta
 - id: c-66707
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Užkliuvo Muravjovui ir Lietuvos kaimuose bei pakelėse stovį
     kryžiai. Esą, kunigai tyčia jų daugybę pristatą, norėdami

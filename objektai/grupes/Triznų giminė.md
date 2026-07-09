@@ -120,6 +120,7 @@ Narbutas nurodė, kad Lietuvoje gyveno garsi Triznų giminė. Narbutas išnašoj
 - id: c-172391
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     368
 
@@ -143,6 +144,7 @@ Narbutas nurodė, kad Lietuvoje gyveno garsi Triznų giminė. Narbutas išnašoj
 - id: c-172392
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Net buvo ap­
     23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-

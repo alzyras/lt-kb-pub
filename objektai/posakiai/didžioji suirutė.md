@@ -81,6 +81,7 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
 - id: c-02325
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     su Lietuva, tačiau jam jau nebeteko kariauti, nes netrukus
     (1584 m.) jis mirė. Po jo, 15 metų buvo caru jokiems dideliems

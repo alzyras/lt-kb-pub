@@ -119,6 +119,7 @@ Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki 
 - id: c-168787
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Galimas daiktas, alanai, arba herulai (kurie,
     istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
@@ -151,6 +152,7 @@ Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki 
 - id: c-176041
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Italai rodėsi esą tokie gabūs ir veikė taip sumaniai,
     kad jų vidaus padėtis tapo gana tvirta, o tarp sąjun­

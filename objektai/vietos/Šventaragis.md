@@ -108,6 +108,7 @@ Mat Šventaragis, būdama gyvas, kartą medžioklės metu pateko į be galo žav
 - id: c-176161
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Pir­
     miausia savo mirusiam tėvui, kaip to buvo nurodyt i
@@ -131,6 +132,7 @@ Mat Šventaragis, būdama gyvas, kartą medžioklės metu pateko į be galo žav
 - id: c-176162
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Žyniams uždėjo pareigą kurstyti, kaip reikalavo pa­
     pročiai, ąžuolinėmis ir pušinėmis malkomis amžinąją

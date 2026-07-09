@@ -101,6 +101,7 @@ Nenurodyta
 - id: c-176463
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kai dar lenkų kariuomenė traukėsi
     spaudžiama bolševikų, o lietuviai atsiimi-

@@ -78,6 +78,7 @@ Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir
 - id: c-168683
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Žiau­
     riai nusiaubė Lipną ir Ripiną. Kai pasidavė Bobrovnikai

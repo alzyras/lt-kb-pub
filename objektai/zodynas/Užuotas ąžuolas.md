@@ -161,6 +161,7 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
 - id: c-172008
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
     bių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­
@@ -180,6 +181,7 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
 - id: c-172009
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vis dėlto galimas
     daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl
@@ -202,6 +204,7 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
 - id: c-172010
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
     jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame

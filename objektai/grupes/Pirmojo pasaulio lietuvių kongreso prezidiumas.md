@@ -73,6 +73,7 @@ Pirmojo pasaulio lietuvių kongreso prezidiumas.
 - id: c-72135
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Pirmojo pasaulio lietuvių kongreso prezidiumas.
     (Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune. Tarp kitko jis

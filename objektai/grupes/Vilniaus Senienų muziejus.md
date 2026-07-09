@@ -168,6 +168,7 @@ Mokslinė ir kultūros institucija.
 - id: c-55457
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.
     Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
@@ -186,6 +187,7 @@ Mokslinė ir kultūros institucija.
 - id: c-78306
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
     mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­

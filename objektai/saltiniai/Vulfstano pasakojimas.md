@@ -165,6 +165,7 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
 - id: c-175829
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     238 D — stagnum Drusine, Jer — Drûsin; XIII a. vidurio dokumentuose — Drusnie,
     Drusa ir pan. (PUB, 1, 1, p. 108, 132); terra Drusen — žemė, kurioje pastatytas Elbingas
@@ -181,6 +182,7 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
 - id: c-175830
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Paga­
     liau atrodo, kad kai kurie iš tų pilkapių būdavo naudojami
@@ -202,6 +204,7 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
 - id: c-175831
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie vieną stebuklą
 

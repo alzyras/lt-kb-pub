@@ -69,6 +69,7 @@ media_all_json: |-
 - id: c-84003
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tas daly­
     kas Łuk. D a w i d, T. V, p. 208-

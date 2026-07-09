@@ -92,6 +92,7 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
 - id: c-09774
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Užvis jog šaldrų^709 ir prašaleičių, atklydusių į savo kraštą, kurie norėjo savo nuomonę apie dievą jiems įbrukti ir tikybą naują įkurti, tuos, kaipo norinčius sau valdžią įgyti ir svietą nuvergti, be meilės galavo.
   statusas: verified
@@ -105,6 +106,7 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
 - id: c-09775
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Antrosios žinyčios, prašaleičių raštuose Romove vadinamos, toksai yra aprašas. Didelėj lygmėj
         pagiry stovėjęs nuo amžių aukštas ir didžiai drūktas ąžuolas, tuointimpos^770 žaliuojąs, beje,

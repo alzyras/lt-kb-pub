@@ -80,6 +80,7 @@ Biartmaras Teodoro Narbuto pasakojime buvo Flamoro įpėdinis, paveldėjęs gars
 - id: c-174258
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Bet, atsižvelgiant į tai, ką jau ne sykį anks­
     čiau kalbėjome apie Aldesko upę ir apie tą miestą (§ 155),

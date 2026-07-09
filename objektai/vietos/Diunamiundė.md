@@ -122,6 +122,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
 - id: c-59170
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     100. Apie tai, kaip buvo nupirkta Diunamiundės pilis
 
@@ -142,6 +143,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
 - id: c-59171
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     599 D.— Dunemunde; vėliau vok. Dünemünde, dab. Veca Daugavgryva; XIII a. Ordino
     statytas įtvirtintas vienuolynas buvo XIV a. pradžioje perstatytas  į pilį (Tuulse A., Die

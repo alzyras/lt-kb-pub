@@ -166,6 +166,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 - id: c-24765
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Taip juos traktavo ir Rusijos imperijos valdžia.
     1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopi-
@@ -183,6 +184,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 - id: c-24767
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą
     Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė poli-
@@ -202,6 +204,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 - id: c-166797
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopi-
     no paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią

@@ -92,6 +92,7 @@ Nenurodyta
 - id: c-175778
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Romos senatas patvirtino Ro­
     mulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro­

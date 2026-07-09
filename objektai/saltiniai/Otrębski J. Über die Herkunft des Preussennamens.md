@@ -74,6 +74,7 @@ Dusburgietis teigia, kad otrębski J.
 - id: c-61841
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Otrębski J. Über die Herkunft des Preussennamens.— Lingua Posnaniensis, Poznań,
     1955, t. 5, s. 76—78.

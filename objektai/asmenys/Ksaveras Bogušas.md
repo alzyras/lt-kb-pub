@@ -409,6 +409,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 - id: c-172882
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     108
 
@@ -430,6 +431,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 - id: c-172884
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Bandymas kurti gryna lietuvių kalba:
     Ovidijaus „Metamorfozių“ fragmentas (II knygos 1-30 ei­
@@ -449,6 +451,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 - id: c-172885
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Čia ir skambumas, ilgumas, ir tas kerintis
     kalbos grožis, kurio nesugebėtų pamėgdžioti jokia iš dabar gy­
@@ -467,6 +470,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 - id: c-173796
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Daug kartų autoriai, kurie ra­
     šė apie šias šalis ir tautas, nesigilindami į konkrečius pa­
@@ -490,6 +494,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 - id: c-173797
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     95
     Pastabos. Mūsų mokslininkas, lietuvių istorijos tyri­
@@ -509,6 +514,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 - id: c-173798
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tai geriausiai ir paaiškina, ir įtikina, jog tie
     Belgorodo totoriai buvo mūsų neseniai aprašytų polovie-
@@ -528,6 +534,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 - id: c-173799
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Smalsus tyrinėtojas ras tam dar išsamiau iš­
     nagrinėtų įrodymų ir pavyzdžių Hartknocho darbuose3.
@@ -549,6 +556,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 - id: c-173800
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tuo­
     met šis mokytas vyras gal būtų apsiribojęs savo pirmu
@@ -571,6 +579,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 - id: c-177110
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Visiems javams ir žemės ūkio padargams įvardyti yra
     savi lietuviški žodžiai15.

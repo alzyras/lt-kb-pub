@@ -73,6 +73,7 @@ Kalbėtojas drąsino karius, kad prieš rusų kariauną bereikia vieno smūgio i
 - id: c-168848
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tegu jie užmetą žvilgsnį į
     ginklus ir rankas, kurios, jo vedamos, sėkmingai lie­

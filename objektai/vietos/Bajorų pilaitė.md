@@ -81,6 +81,7 @@ media_all_json: |-
 - id: c-168639
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mat Algirdas ir Kęs­
     tutis, suprasdami, jog ši prie pat Kauno esanti pilis —

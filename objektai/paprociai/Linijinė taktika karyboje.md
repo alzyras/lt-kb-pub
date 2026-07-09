@@ -180,6 +180,7 @@ Nenurodyta
 - id: c-12409
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     XVII a. antroji pusė bei visas xviii a. tai linijinės taktikos epocha
     karyboje. Nuo xvut a. pradžios batalionus imta rikiuoti į keturias
@@ -195,6 +196,7 @@ Nenurodyta
 - id: c-12410
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Linijinei taktikai netikdavo bet kokia vietovė, ji turėjo būti gan
     lygi. Pėstininkams judant skleistinėse rikiuotėse miškinga arba rai-
@@ -212,6 +214,7 @@ Nenurodyta
 - id: c-12411
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Puolimo metu ilgos linijos artėdavo prie priešo pozicijų. Suėjus į
     efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiuoti
@@ -234,6 +237,7 @@ Nenurodyta
 - id: c-12413
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kariai šaudydavo nesitaikydami, tiesiog nu-
     kreipdami šautuvus į priešą. Taikytis buvo be-

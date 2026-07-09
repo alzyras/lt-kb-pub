@@ -198,6 +198,7 @@ Nenurodyta
 - id: c-174960
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Il­
     gai nedelsdami, jie perėjo smėlėtas Nemuno pakrantes,
@@ -222,6 +223,7 @@ Nenurodyta
 - id: c-174961
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Rosės pavadinimo kilmė. Nekartosime to, ką jau sa­
     kėme daugelyje šio veikalo vietų, — kad lietuvių tauta
@@ -247,6 +249,7 @@ Nenurodyta
 - id: c-175304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Čia
     atsivėrė vietovė, kur galima buvo saugiai įsikurti prie

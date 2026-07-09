@@ -138,6 +138,7 @@ media_all_json: |-
 - id: c-176713
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Abu kunigaikščiavo
     ne vienerius metus.
@@ -159,6 +160,7 @@ media_all_json: |-
 - id: c-176714
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir kai jo sūnus Ri­
     mantas išaugo į savo metus, jo tėvas Traidenis atidavė
@@ -179,6 +181,7 @@ media_all_json: |-
 - id: c-176715
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir kai Traidenis
     nesisaugodamas ėjo iš pirties, tie jo vyrai klastingai

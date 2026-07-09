@@ -150,6 +150,7 @@ Nenurodyta
 - id: c-55708
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jokio atskiro turto, kaip valdų ar piniginių sumų, Aka­
     demija neturi, išskyrus tai, kad nuo kai kurių kolegijai užra­
@@ -174,6 +175,7 @@ Nenurodyta
 - id: c-78385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Iš Joniškio - neturtingiems studentams kasdien Olia Cha-
     ritatis [labdaringi pietūs] ir duonos kepalas.

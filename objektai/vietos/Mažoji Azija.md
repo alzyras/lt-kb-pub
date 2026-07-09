@@ -202,6 +202,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
 - id: c-153796
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Kita ordino narių dalis jau kūrė Vengrijoj savo
     atskirą valstybę. Mažojoj Azijoj tuo būdu buvo likusi tik nedidelė
@@ -218,6 +219,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
 - id: c-153797
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Ordinas buvo vokiečių imperatorių bei kunigaikščių remia-
     mas ir labai greit pralobo. Jis įsigijo daugybę turtų ne tik Mažojoj
@@ -234,6 +236,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
 - id: c-166443
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Bet toto-
     riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
@@ -255,6 +258,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
 - id: c-175469
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tad savaime peršasi nuo­
     monė, jog tie, kurie patraukė į šiaurę, kažkur suskilus

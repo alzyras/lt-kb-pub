@@ -102,6 +102,7 @@ Nenurodyta
 - id: c-170038
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1 1  Po šio žodžio BK rankraštyje buvo spraga, kurią T. Narbutas
     pažymėjo daugtaškiu. M. Strijkovskis savo kronikoje (1766 m. lei­

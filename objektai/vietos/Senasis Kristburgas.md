@@ -110,6 +110,7 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - id: c-59264
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kirsburgas (vėliau — Alt Christburg, dab. Stary Dzierzgoń) — senas pamedėnų centras.
     Išlikęs piliakalnis (MGP, p. 53, Nr. 15), pylimu įtvirtintas I tūkst. viduryje, kryžiuočių
@@ -124,6 +125,7 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - id: c-59265
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     58 (57). Apie vienos pilies užkariavimą ir apie Kristburgo pilį
 

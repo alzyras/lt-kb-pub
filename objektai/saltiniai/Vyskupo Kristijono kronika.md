@@ -170,6 +170,7 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
 - id: c-173385
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     432
 
@@ -195,6 +196,7 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
 - id: c-173386
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Žinią apie vyriausiuosius žy­
     nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
@@ -222,6 +224,7 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
 - id: c-173387
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vilniaus miesto senovinis herbas
     41 pav. Prūsų tautinė vėliava, vaizduojanti tris dievus -  Poklių,

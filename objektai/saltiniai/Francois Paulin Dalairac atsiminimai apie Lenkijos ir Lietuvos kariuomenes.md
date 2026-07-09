@@ -121,6 +121,7 @@ Cituojama „Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kari
 - id: c-43246
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     „Karūnos, kaip ir Lietuvos, kariuomenė yra padalyta į dvi dalis: vieną sudaro vien ka-
     valerija ir šalies vyrai, išskirstyti į laisvas ir ordonanso vėliavas, panašias į Prancūzijos

@@ -254,6 +254,7 @@ media_all_json: |-
 - id: c-81867
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     1577 metų gruodžio 19 dienos, o pirmesne 1539
     metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­
@@ -280,6 +281,7 @@ media_all_json: |-
 - id: c-81868
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jonas Neliubovičius mūrinį namą su sklypu par­
     davė Vilniaus kanauninkui Vilčiopolskiui.
@@ -298,6 +300,7 @@ media_all_json: |-
 - id: c-81870
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Mūrinius namus, kurie buvo skirti tos koplyčios paja­
     moms, privilegijomis nuo mokesčių atleido Lenkijos kara­
@@ -328,6 +331,7 @@ media_all_json: |-
 - id: c-81871
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Apraeveniendo tad possessioni baž­
     nyčios ir turtų, tasai pat šviesusis kunigas Ancypa, Švento

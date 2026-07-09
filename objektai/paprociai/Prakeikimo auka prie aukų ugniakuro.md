@@ -80,6 +80,7 @@ Nenurodyta
 - id: c-172813
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     16. Prakeikimo auka būdavo atnašaujama tuomet, kai žy­
     nys ką nors prakeikdavo ir ištremdavo iš šalies. Tuomet prie au­

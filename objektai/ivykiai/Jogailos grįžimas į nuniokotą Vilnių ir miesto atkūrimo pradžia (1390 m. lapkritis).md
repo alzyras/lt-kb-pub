@@ -159,6 +159,7 @@ Nenurodyta
 - id: c-55670
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390
     metų pabaigoje, kai karalius Vladislovas Jogaila, nors jau
@@ -182,6 +183,7 @@ Nenurodyta
 - id: c-55671
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Nemažos
     maisto ir drabužių atsargos, karaliaus atsigabentos iš Len­

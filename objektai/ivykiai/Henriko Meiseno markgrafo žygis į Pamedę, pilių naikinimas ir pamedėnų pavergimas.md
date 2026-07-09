@@ -208,6 +208,7 @@ Nenurodyta
 - id: c-66764
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie daugelio pilių sunaikinimą ir pamedėnų pavergimą
 
@@ -243,6 +244,7 @@ Nenurodyta
 - id: c-66766
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Meiseno markgrafo atvykimą
 

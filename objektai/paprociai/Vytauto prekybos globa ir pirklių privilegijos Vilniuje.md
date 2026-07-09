@@ -143,6 +143,7 @@ Nenurodyta
 - id: c-83216
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Veržli Vytauto prigimtis neleido jam ilgai išbūti už­
     siėmus taikiais reikalais; amžinos kovos su Rusios kunigaikš­
@@ -169,6 +170,7 @@ Nenurodyta
 - id: c-83217
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­
     odą, toli buvo nukeltos valstybės sienos, jo narsa sutramdyti

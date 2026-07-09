@@ -84,6 +84,7 @@ as Šia 1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę, sugriovė „
 - id: c-44080
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     as
     Šia

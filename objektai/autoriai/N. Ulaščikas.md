@@ -141,6 +141,7 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
 - id: c-169798
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Siame Bychovco kronikos leidinyje iš M. Strijkovs­
     kio kronikos buvo įdėta pradžia, praleistos paraščių
@@ -165,6 +166,7 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
 - id: c-169799
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Pagal PSRL paskelbtą tekstą Bychovco kronika buvo
     trečią kartą paskelbta 1966 m., N. Ulaščiko išversta

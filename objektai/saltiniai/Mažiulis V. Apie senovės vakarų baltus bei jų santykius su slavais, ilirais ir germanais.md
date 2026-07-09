@@ -75,6 +75,7 @@ Dusburgietis teigia, kad mažiulis V.
 - id: c-61796
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Mažiulis V. Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais
     —Iš lietuvių etnogenezės, V., 1981, p. 5—11.

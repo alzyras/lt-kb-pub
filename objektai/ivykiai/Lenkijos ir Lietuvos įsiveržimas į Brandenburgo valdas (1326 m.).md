@@ -133,6 +133,7 @@ Nenurodyta
 - id: c-85327
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     1326 m. Lenkijos  ir Lietuvos kariuomenė įsiveržė  į Brandenburgo valdas, pasiekė
     Frankfurtą prie Oderio (III, 361). Tvirtindama savo pozicijas prieš Kryžiuočių ordiną,
@@ -148,6 +149,7 @@ Nenurodyta
 - id: c-85328
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kijevo
     patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos

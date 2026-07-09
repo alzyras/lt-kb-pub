@@ -68,6 +68,7 @@ Pats Traidenis, kaip in Mindaugas, Eiliuotinėje Livonijos kronikoje yra vadinam
 - id: c-34160
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Traidenio laikais Lietuva vėl atgavo savo ankstybesnį svorį,
     kuris buvo sumažėjęs tuoj po Mindaugo mirties. Pats Traidenis, kaip

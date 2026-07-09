@@ -76,6 +76,7 @@ liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS [7] Rugpjūčio 8 d. Aug
 - id: c-45017
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Lietuvos kariuomenės 1920 m. liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS
 

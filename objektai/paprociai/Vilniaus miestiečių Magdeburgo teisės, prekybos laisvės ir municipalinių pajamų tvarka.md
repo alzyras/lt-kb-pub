@@ -299,6 +299,7 @@ Nenurodyta
 - id: c-83110
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Dar būdamas
     didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­
@@ -322,6 +323,7 @@ Nenurodyta
 - id: c-83111
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kadangi pilietinis karas po Vytauto Didžiojo mir­
     ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto
@@ -355,6 +357,7 @@ Nenurodyta
 - id: c-83112
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šis teisingu­
     mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
@@ -380,6 +383,7 @@ Nenurodyta
 - id: c-83113
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Privilegijose Žygimantas pareiškė, kad
     atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­
@@ -412,6 +416,7 @@ Nenurodyta
 - id: c-83114
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     III KNYGA
     Iki tol (1492 m.) didžiųjų Lietuvos kunigaikščių Vilniui

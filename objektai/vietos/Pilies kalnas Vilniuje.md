@@ -76,6 +76,7 @@ Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies 
 - id: c-171933
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pagaliau panašių atradimų retumas mūsų krašte verčia
     daryti išvadą, kad mirusiųjų kūnai būdavo deginami retai ar­

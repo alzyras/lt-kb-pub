@@ -159,6 +159,7 @@ Nenurodyta
 - id: c-83153
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Strijkovskis, 1.465, o juo sekda­
     mas ir K o j e 1  a v i č i u s, p. 361,
@@ -191,6 +192,7 @@ Nenurodyta
 - id: c-167211
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Trejetą šimtų narsių ir ištikimų
     jam riterių iš Žemaitijos išsiuntė

@@ -375,6 +375,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 - id: c-165127
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Beveik tuo
     pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką
@@ -391,6 +392,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 - id: c-166946
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Čia gotika tapo
     net ir stačiatikių ar būsimųjų graikų katalikų cerkvių stiliumi.
@@ -410,6 +412,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 - id: c-168116
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kai Ivanas svarstė su
     pasiuntiniais minėtus dalykus, jo pulkai jau buvo pa­
@@ -439,6 +442,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 - id: c-168118
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vis dėlto
     vienas kitas slaptai perbėgo į lietuvių stovyklą, be ki­
@@ -463,6 +467,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 - id: c-168119
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Paskui jį puolė visi kiti pulkai, o pir­
     miausia lenkų didikų Jono Zborovskio, Lauryno Miš-
@@ -482,6 +487,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 - id: c-168120
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Į nelaisvę pakliuvo
     maskvėnų karo vadas Čeliadninas ir dešimt kitų žy­
@@ -503,6 +509,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 - id: c-176120
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Išvengė nelaisvės ar
     mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va­
@@ -527,6 +534,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 - id: c-176566
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir didysis kunigaikštis Aleksandras, maty­
     damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­

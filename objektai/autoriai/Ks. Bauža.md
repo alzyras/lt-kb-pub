@@ -72,6 +72,7 @@ Bauža. Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti sa
 - id: c-01323
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     **Bauža** savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpi-
     nanti savo kalba, kad nekurianti savos literatūros. Esą, nenorį lie-

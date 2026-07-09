@@ -89,6 +89,7 @@ Nenurodyta
 - id: c-176180
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Abiejų tautų
     priesaika turinti sustiprinti amžinąją taiką. Kai, sutik­

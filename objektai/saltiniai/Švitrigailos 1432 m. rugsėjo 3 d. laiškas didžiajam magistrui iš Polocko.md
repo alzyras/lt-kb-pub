@@ -89,6 +89,7 @@ Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš 
 - id: c-84490
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jur­
     gio paveikslo ir 1.1. Antrasis laiškas

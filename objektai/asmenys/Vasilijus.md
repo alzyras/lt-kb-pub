@@ -267,6 +267,7 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - id: c-169338
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Surengęs stovykloje kareiviškas pamaldas ir pa­
     dėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis
@@ -287,6 +288,7 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - id: c-169339
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­
     nislovo Daugirdo, susitarė su
@@ -312,6 +314,7 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - id: c-169340
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kad šitokiam tvirtini­
     mui nėra jokio pagrindo, tarpininkai puikiausiai ži­
@@ -340,6 +343,7 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - id: c-176127
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Štai todėl, rūpestingai pagydy­
     tą ir atgavusį jėgas, jį pasiuntė atgal pas Pisoną. Tuo
@@ -357,6 +361,7 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - id: c-176629
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didžiajai kunigaikštienei Onai 1 5  mirus, didysis ku­
     nigaikštis Algirdas vedė Tverės didžiojo kunigaikščio

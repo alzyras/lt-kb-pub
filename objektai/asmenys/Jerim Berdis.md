@@ -67,6 +67,7 @@ media_all_json: |-
 - id: c-169407
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kerim Berdis, sutelkęs stiprią kariuome­
     nę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo

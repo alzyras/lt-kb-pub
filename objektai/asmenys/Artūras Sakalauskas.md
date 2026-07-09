@@ -158,6 +158,7 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
 - id: c-41844
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Prasidėjus perversmui Maskvoje, suaktyvėjo sovietų kariškių vei-
     kimas Lietuvoje. Iš parengiamųjų veiksmų tapo aišku, kad rengia-
@@ -177,6 +178,7 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
 - id: c-44289
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     p. 263, Artūras Sakalauskas - paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris, KAM.
     p. 263, Ant barikadų, juosusių AT, atsirado įvairių užrašų, palaikančių Lietuvos laisvės siekius
@@ -192,6 +194,7 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
 - id: c-44290
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1991 m. vasaros pabaigoje įtampa vėl ėmė augti ir tai buvo su-
     siję su įvykiais pačioje Rusijoje. Konservatyvūs ssRs komunistai

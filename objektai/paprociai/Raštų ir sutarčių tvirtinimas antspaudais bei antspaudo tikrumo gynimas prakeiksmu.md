@@ -136,6 +136,7 @@ Nenurodyta
 - id: c-83225
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Po šių paaiškinimų apie antspaudą visuose trijuose
     laiškuose yra ypatingas prakeiksmas tų, kurie nepatikėtų jį
@@ -154,6 +155,7 @@ Nenurodyta
 - id: c-83226
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Visiems svetimšaliams yrs atviri pas
     mus vedantys keliai, be jokių muitų ir mokesčių, per Ma­

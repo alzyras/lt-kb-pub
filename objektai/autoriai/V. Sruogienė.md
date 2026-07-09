@@ -69,6 +69,7 @@ Sruogienė, V.
 - id: c-33179
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — Puzyna, J. : Korjat i Korjatowicze , AW, t. 7, 1930,
     425-455 p. (papildymai ten pat t. 11,1936, 61-97 p.). — (”) Nary munt Gie-

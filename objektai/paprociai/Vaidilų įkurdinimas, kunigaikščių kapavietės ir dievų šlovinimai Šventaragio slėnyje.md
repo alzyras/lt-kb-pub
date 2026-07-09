@@ -146,6 +146,7 @@ Nenurodyta
 - id: c-83284
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tad
     kad ir kurią iš visų tų legendų pripažintume esant tikro-

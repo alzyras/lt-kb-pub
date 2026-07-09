@@ -150,6 +150,7 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
 - id: c-70832
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Juo buvo patvirtintas Vytauto sava-
     rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
@@ -168,6 +169,7 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
 - id: c-70835
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Todėl šis susitarimas yra vadinamas Vilniaus
     Radomo susitarimu. Juo buvo patvirtintas Vytauto sava-
@@ -187,6 +189,7 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
 - id: c-175866
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų
     jo sūnums sostą. Lenkų bajorai, už tai išsireikalavę iš Jogailos

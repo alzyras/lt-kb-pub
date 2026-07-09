@@ -120,6 +120,7 @@ Nenurodyta
 - id: c-172698
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     109
 
@@ -141,6 +142,7 @@ Nenurodyta
 - id: c-177041
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuviai teikė jam garbę, laikydami žalčius ir maitindami
     juos pienu; su juo buvo susiję šiurkštūs ir tamsūs prietarai. Jis

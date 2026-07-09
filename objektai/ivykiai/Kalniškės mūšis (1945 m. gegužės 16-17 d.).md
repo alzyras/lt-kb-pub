@@ -173,6 +173,7 @@ Nenurodyta
 - id: c-43049
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     ne tik jėgos, pritrūko ir šaudmenų. Bai-
     giantis šaudmenims buvo priimtas spren-
@@ -190,6 +191,7 @@ Nenurodyta
 - id: c-43050
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušelė“. Bet pats
     Neifalta-Lakūnas tikrai nežuvo, kaip kad daug kur rašoma. „Lakūną“ po Kalniškės mūšio

@@ -130,6 +130,7 @@ Nenurodyta
 - id: c-05238
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Prieš įsistiprinant Pabaltijyje bronzos amžiui (1600-500 m. pr.
     Kr.)^9 , kai neolito šimtmečiais vario dirbiniai jau mažais kiekiais
@@ -145,6 +146,7 @@ Nenurodyta
 - id: c-65516
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     **Lietuvos žalvario (bronzos) amžiaus dirbiniai:**
     1 — 10 kirviai, 11 — 13 kalavijai, 14, 19—21 iečių galai, 15—21 papuošalai,

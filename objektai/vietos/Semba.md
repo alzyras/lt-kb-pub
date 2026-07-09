@@ -1359,6 +1359,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-32417
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bet (1410.VIII.)
     Livonijos kariuomenė laivais atvyko Sembon.
@@ -1372,6 +1373,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-166234
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     387); anot jos, Ragainės komtūras Fridri­
     chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
@@ -1396,6 +1398,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-166237
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     12
 
@@ -1434,6 +1437,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-167193
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kovo viduryje „lietuviai iš Žemaitijos
     užkariavo Klaipėdos miestą“ ir jį sudegino kartu su trimis gre-
@@ -1450,6 +1454,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-167194
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Prailgus budėti,
     tikėdami, kad lietuviai bus pasitraukę, jie
@@ -1468,6 +1473,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-167583
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     70 (69). Apie karo su sembais rezultatų atspėjimą
 
@@ -1489,6 +1495,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-167584
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie sembų pavergimą
 
@@ -1510,6 +1517,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-167585
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Sembos žemės nusiaubimą
 
@@ -1530,6 +1538,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-167586
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
                                mą
@@ -1551,6 +1560,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-167587
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sitai padaręs,
     magistras kitą dieną su savo kariuomene įsibrovė  į Sūduvos valsčių, vardu Kimenava,
@@ -1569,6 +1579,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-167588
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     237 (230). Apie Sembos žemės nusiaubimą
 
@@ -1588,6 +1599,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-167765
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Drauge buvo ir Algirdas su savo būriais. Nuterioję
     Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­
@@ -1603,6 +1615,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-168491
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     105
 
@@ -1627,6 +1640,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-168492
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     ## Puslapis 106
 
@@ -1649,6 +1663,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-168493
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Iš rusų šaltinių žinome, kad tais
     pačiais metais buvo Rusioje užkariautas Polockas, ta­
@@ -1677,6 +1692,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-175525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     123
     Kai 1253 metų pradžioje susiklostė draugiški Pamario
@@ -1699,6 +1715,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-175526
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Vadinasi, reikia sutikti su senovės autorių nuomone, jog
     tai — medžių sakai. Syvai, kurie kažkada sunkėsi iš ypa­
@@ -1724,6 +1741,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-175527
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tad Nemuno žemupio pakrantes visų pirma de­
     ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
@@ -1744,6 +1762,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-175528
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kvedliriburgo kronika mini prieš 1009 metus ru­
     sus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos
@@ -1764,6 +1783,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - id: c-175529
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
     40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­

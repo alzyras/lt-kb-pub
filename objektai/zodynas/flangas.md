@@ -116,6 +116,7 @@ Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol 
 - id: c-44167
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kova su priešo sunkiąja kavalerija lietu-
     viams kainavo daug aukų. Lietuvių atžvil-
@@ -137,6 +138,7 @@ Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol 
 - id: c-45516
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Kryžiuočiai, pamanę, jog mūšis laimė-
     tas, užtraukė pergalės giesmę „Kristus

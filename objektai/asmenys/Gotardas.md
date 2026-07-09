@@ -91,6 +91,7 @@ Mazovijos kunigaikščio Konrado laikais Uchanės grafas Gotardas, Lukošiaus s�
 - id: c-174287
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Ma­
     tyti, jog lietuvių padedami jie išsivadavo iš svetimųjų

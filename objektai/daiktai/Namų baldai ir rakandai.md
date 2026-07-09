@@ -88,6 +88,7 @@ Nenurodyta
 - id: c-56473
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Lygia dalia dailidavo sau patys namų baldus, beje: kubilus, bosus, verpeles^572 , aktainius^573 , legeres^574 , rakandas, pintines, kurvius, rėčius, kretilus, sietus, sėtuves, minkytuvius, lovius, raugtines, kipius^575 , geldas, muldas, taip pat ir kitą būtos padargą sau tiekė: plėškes^576 , apnasrius^577 , brizgilus, strungus^578 , tinklus, krytis, kampus^579 , venterius, riužius, kinkymus, pavalkus, kamantus, ienas, – trumpai sakant, visa, ko vien butai reikiant, vis sau patys savo prasma dirbo.
   citata_rodoma: "Lygia dalia dailidavo sau patys namų baldus, beje: kubilus, bosus, verpeles^572 , aktainius^573 , legeres^574 , rakandas, pintines, kurvius, rėčius, kretilus, sietus, sėtuves, minkytuvius, lovius, raugtines, kipius^575 , geldas, muldas, taip pat ir kitą būtos padargą sau tiekė: plėškes^576 , apnasrius^577 , brizgilus, strungus^578 , tinklus, krytis, kampus^579 , venterius, riužius, kinkymus, pavalkus, kamantus, ienas, – trumpai sakant, visa, ko vien butai reikiant, vis sau patys savo prasma dirbo."

@@ -311,6 +311,7 @@ Nenurodyta
 - id: c-169954
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1 1  Kalbama apie Jurgi, Mstislavlio kunigaikšti, Jogailos brolio
     Simono Lengvenio Algirdaičlo Ir Maskvos didžiojo kunigaikščio Di-
@@ -332,6 +333,7 @@ Nenurodyta
 - id: c-169955
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     ’ Pabėgus 1432.IX I nakl| ii Ašmenos. Švitrigaila buvo Po­
     locke jau  IX.3.
@@ -346,6 +348,7 @@ Nenurodyta
 - id: c-169956
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     3 3  Molodečnas — BTSR miestas (110 km j rytus nuo Vilniaus,
     apie 30 km | rytus nuo Krėvos).
@@ -371,6 +374,7 @@ Nenurodyta
 - id: c-169957
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Iš tikrųjų jis
     iškilo I Lietuvos valdovus per ginkluotų perversmų, kuri 1432 m.
@@ -399,6 +403,7 @@ Nenurodyta
 - id: c-169958
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     31.
     3 0  Mykolas Jonaitis Alšėniškis d ar buvo gyvas žymiai vėliau

@@ -72,6 +72,7 @@ Narbutas nurodo, kad Hageno dar neišleistame veikale chemiškai įrodinėta, jo
 - id: c-174762
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pastarojo dar
     neišleistame veikale chemiškai įrodyta, jog jis priklauso

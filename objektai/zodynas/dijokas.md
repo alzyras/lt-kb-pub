@@ -87,6 +87,7 @@ Maskvos didžiojo kunigaikščio Ivano Vasiljevičiaus pasiuntinių grupėje su 
 - id: c-170500
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Lietuvos didy­
     sis kunigaikštis Aleksandras nusiuntė į Maskvą, pas

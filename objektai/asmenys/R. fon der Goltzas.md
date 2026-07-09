@@ -115,6 +115,7 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
 - id: c-42198
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     == 1919 m. pradžioje Vokietijos karinė vadovybė vokiečių
     pajėgų Baltijos šalyse vadu paskyrė gen. R. fon der Goltzq.
@@ -132,6 +133,7 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
 - id: c-44494
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     1919 m. spalio 12 d. gen. R. von der Goltzas buvo pakeis-
     tas gen. W. Eberhardtu. Dalis vokiečių grįžo į Vokietiją, ta-

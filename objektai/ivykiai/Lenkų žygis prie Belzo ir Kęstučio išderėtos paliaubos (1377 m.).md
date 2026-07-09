@@ -147,6 +147,7 @@ Nenurodyta
 - id: c-169099
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Netoli Sandomiro (čia susirinko visi
     kovon pašaukti bajorai) padalijo karius žygio voro­
@@ -173,6 +174,7 @@ Nenurodyta
 - id: c-169100
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Surado išeitį iš bemaž
     beviltiškos padėties Kęstutis,

@@ -137,6 +137,7 @@ Molodečnas yra miestas apie 110 km į rytus nuo Vilniaus ir apie 30 km į rytus
 - id: c-170319
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     VIII. 18.
     3 3  Molodečnas — BTSR miestas (110 km j rytus nuo Vilniaus,
@@ -152,6 +153,7 @@ Molodečnas yra miestas apie 110 km į rytus nuo Vilniaus ir apie 30 km į rytus
 - id: c-170320
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir vasario 15 d. su­
     sijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­

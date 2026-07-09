@@ -92,6 +92,7 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
 - id: c-166384
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Krašto valdymo reformos panaikinus baudžiavą
 

@@ -60,6 +60,7 @@ Taip pat buvo įtvirtinta karinė teritorinė pasipriešinimo judėjimo struktū
 - id: c-40558
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Taip pat buvo įtvirtinta karinė teritorinė
     pasipriešinimo judėjimo struktūra. Smulkiausias partizanų vie-

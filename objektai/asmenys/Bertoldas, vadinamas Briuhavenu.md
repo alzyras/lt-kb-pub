@@ -291,6 +291,7 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60508
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie
                                             jo gyvenimą
@@ -313,6 +314,7 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60509
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     243 (236). Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
 
@@ -332,6 +334,7 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60510
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     1298 viešpaties
     metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur
@@ -358,6 +361,7 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     235 (228). Apie Ragainės ir Skalvių pilių pastatymą
 
@@ -380,6 +384,7 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60512
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis
     įsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.
@@ -401,6 +406,7 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     pavadino tuo pačiu vardu. Minėtas  brolis Bertoldas,  šitai sužinojęs, atžygiavo su
     tūkstančiu Sembos vyrų  ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai

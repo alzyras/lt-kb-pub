@@ -206,6 +206,7 @@ Nenurodyta
 - id: c-85362
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Dėl to,
     brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių
@@ -236,6 +237,7 @@ Nenurodyta
 - id: c-85363
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Sventopelko ir brolių susitaikymą
 
@@ -268,6 +270,7 @@ Nenurodyta
 - id: c-85365
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     277 Taika sudaryta 1243 m. pavasarį (Ewald A. L., Die Eroberung..., 2, p. 99; Kujot
     S., Dzieje Prus..., 1, p. 713).

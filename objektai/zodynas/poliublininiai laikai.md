@@ -119,6 +119,7 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
 - id: c-32678
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Istorikams tad, vystant savą istoriografiją, pirmiausia
     rūpėjo « surasti lietuvius Lietuvos istorijoje »^86. Ypač jų reikėjo
@@ -135,6 +136,7 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
 - id: c-34172
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Atidavęs savo duoklę dviem straipsniais «jaunųjų istorikų bū­
     relio » rinkinyje apie Vytautą D., labiausiai Šapoka tyrinėjo valsty­

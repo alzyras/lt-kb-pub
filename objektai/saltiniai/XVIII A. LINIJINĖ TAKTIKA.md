@@ -70,6 +70,7 @@ p- 139, „XVIII A.
 - id: c-43305
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     p- 139, „XVIII A. LINIJINĖ TAKTIKA“, Andžej Geglis, dail. Andžej Geglis.
   statusas: verified

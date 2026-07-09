@@ -73,6 +73,7 @@ Dusburgietis teigia, kad kazlauskas J.
 - id: c-61729
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Kazlauskas J. Prūsai ir jų raštai.— Pergalė. 1967, Nr. 4, p. 161—162.
   statusas: verified

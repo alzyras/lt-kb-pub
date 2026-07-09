@@ -88,6 +88,7 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
 - id: c-167426
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Niekad arba beveik niekad netruko čia
     maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar

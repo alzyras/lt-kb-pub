@@ -70,6 +70,7 @@ Nors Stryjkovskio istorija « neatitiko visiems moks­ liniams bei literatūrini
 - id: c-34154
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     mas jo darbą pagrindan M. J. Tichomirovo mokinys A. Rogovas
     parašė plačią studiją apie rusų ir lenkų kultūrinius ryšius renesanso

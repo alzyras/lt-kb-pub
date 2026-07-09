@@ -371,6 +371,7 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 - id: c-170431
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Daug kartų iš naujo
     imdavo garbinti stabus tie, kurių šeimoms pradžią yra
@@ -395,6 +396,7 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 - id: c-170432
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Platesnysis Lietuvos metraščių sąvadas, vadinamas
     „Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kroni­
@@ -418,6 +420,7 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 - id: c-170433
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Tačiau
     rusėnų kilmės giminės (Chodkevičiai ar Sapiegos) net kurdavo legendas
@@ -438,6 +441,7 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 - id: c-171490
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie tai dar reikia skaityti straipsnyje apie Lietuvos
     herbus.
@@ -458,6 +462,7 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 - id: c-171491
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Prie Sredniko miestelio, lie­
     tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
@@ -478,6 +483,7 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 - id: c-176123
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Galimas daiktas, alanai, arba herulai (kurie,
     istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
@@ -510,6 +516,7 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 - id: c-176124
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Lietuviai, suža­
     vėti jų dorybių, ėmė svetimšalius ne tik mylėti bei

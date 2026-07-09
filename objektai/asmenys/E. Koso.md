@@ -69,6 +69,7 @@ Rusų gynybos centrinius įtvirtinimus atakavo 7-asis lenkų pėstininkų pulkas
 - id: c-41527
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Rusų gynybos centrinius įtvirtinimus
     atakavo 7-asis lenkų pėstininkų pulkas,

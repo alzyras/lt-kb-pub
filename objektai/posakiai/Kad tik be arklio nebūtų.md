@@ -102,6 +102,7 @@ media_all_json: |-
 - id: c-31433
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Saviesiems (tik ne svetimiesiems) jis buvo
     gan griežtas, ir, šalia iš paviršiaus lengvabūdiško jo švaistymosi,

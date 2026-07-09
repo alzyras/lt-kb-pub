@@ -84,6 +84,7 @@ Tad, pasirodykime laisvės verti ir tą dieną, kada kovos pradžia atrodys SAVA
 - id: c-44396
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tauta, kuri priešo neerzinimo sumetimais
     neišdrįsta reikiamu momentu griebtis karo,

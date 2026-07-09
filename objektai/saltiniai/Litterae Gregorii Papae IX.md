@@ -70,6 +70,7 @@ Narbutas nurodo, kad Hartknochas kaip įrodymą pateikia „Litterae Gregorii Pa
 - id: c-173428
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kad nuramintume žmoniškumo gynėjus, turime
     16

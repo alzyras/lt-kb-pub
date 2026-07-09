@@ -207,6 +207,7 @@ Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lie
 - id: c-171812
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     V priedas
     A pie Biarmijos raidyną
@@ -239,6 +240,7 @@ Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lie
 - id: c-171813
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Apie juos senovės Graikijos
     geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
@@ -264,6 +266,7 @@ Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lie
 - id: c-171814
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     435
 

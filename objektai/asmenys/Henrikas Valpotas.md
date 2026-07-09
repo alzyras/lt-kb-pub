@@ -145,6 +145,7 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
 - id: c-60773
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Paėmus Akoną, tas pats brolis
     Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,
@@ -178,6 +179,7 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
 - id: c-60774
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     2. Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­
                                                  trą

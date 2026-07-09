@@ -94,6 +94,7 @@ Nenurodyta
 - id: c-05663
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Berods, Vytauto laikais buvo dar
     mūrais sustiprinta Medininkų pilis. Jo valdymo pradžioje turėjo

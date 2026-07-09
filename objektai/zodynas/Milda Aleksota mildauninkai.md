@@ -115,6 +115,7 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
 - id: c-172198
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Milda (Milda)
     Meilės ir piršlybų deivė, kitaip Aleksotą (Alexota). Kroni­
@@ -134,6 +135,7 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
 - id: c-172199
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji
     deivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­

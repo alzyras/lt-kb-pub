@@ -67,6 +67,7 @@ Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kn
 - id: c-177227
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Po ketverto metų Žemaičių vyskupas Melchioras
     Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­

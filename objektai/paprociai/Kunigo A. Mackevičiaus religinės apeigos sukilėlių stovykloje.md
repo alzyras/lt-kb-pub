@@ -180,6 +180,7 @@ Nenurodyta
 - id: c-43169
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Šiems tikslams įgyvendinti už Anykščių
     esančio Andrioniškio miške prie Teresboro
@@ -200,6 +201,7 @@ Nenurodyta
 - id: c-44948
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Joje vykdė naujokų ap-
     mokymus, formavo naujus ir reorganizavo
@@ -219,6 +221,7 @@ Nenurodyta
 - id: c-44949
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Tuo metu visoje Europoje sklido pa-
     vergtų tautų laisvės idėjos. Išsivadavimo

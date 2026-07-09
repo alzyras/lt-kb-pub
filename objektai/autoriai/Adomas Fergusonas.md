@@ -88,6 +88,7 @@ Nenurodyta
 - id: c-170734
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Vilniuje buvo rengiamas spaudai XVI a. kroniki­
     ninko Motiejaus Strijkovskio veikalas. Vilniaus universiteto

@@ -73,6 +73,7 @@ Narbutas Piotrą Kunasowiczių Sahaidaczny mini kaip kazokų atamaną, kurio tė
 - id: c-173081
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Slynksnis-Perlevenu (Slynxnis-Perlewenu)
     Bendras namų dievaitis, namų ir žemdirbio nuosavybės glo­

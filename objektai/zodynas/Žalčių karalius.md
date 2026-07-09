@@ -134,6 +134,7 @@ Narbutas, remdamasis L. A. Jucevičiumi, pasakoja, kad uždegus iš žalčio tau
 - id: c-175117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuviai turi apie žalčius daugybę pasakojimų ir padavimų,
     kuriuos visus čia išpasakoti reikėtų daug laiko. Tačiau tarp jų
@@ -153,6 +154,7 @@ Narbutas, remdamasis L. A. Jucevičiumi, pasakoja, kad uždegus iš žalčio tau
 - id: c-175118
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     pastraipos
     tęsinys/

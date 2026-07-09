@@ -79,6 +79,7 @@ Prie kulkosvaidžio pritvirtintas užrašas: „Kulkosvydis, iš kurio šaudydam
 - id: c-41613
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Prie kulkosvaidžio pritvirtintas užrašas:
     „Kulkosvydis, iš kurio šaudydamas

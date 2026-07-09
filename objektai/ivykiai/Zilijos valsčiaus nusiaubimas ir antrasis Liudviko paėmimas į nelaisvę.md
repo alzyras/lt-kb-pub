@@ -132,6 +132,7 @@ Nenurodyta
 - id: c-60091
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­
                             dvikas antrą kartą pakliuvo į nelaisvę
@@ -159,6 +160,7 @@ Nenurodyta
 - id: c-60092
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Sunkiai
     šiame žygyje sužeistas brolis Liudvikas iš Libencelės buvo pusgyvis paliktas sniegynuose.

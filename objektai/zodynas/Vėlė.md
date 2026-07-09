@@ -102,6 +102,7 @@ Vartojamos formos: `vėlės`.
 - id: c-09767
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Pagal jų nuomonę dorieji žmonės lig palaidojus stačiai ėję į dangų, bet nedorieji, kurie piktai elgęsi ant svieto, ir nelaikšiai^699 , kurie sau gyvybą nelaiku atėmę, tiems mirus, jų dūšios ėjusios į gyvulių ir kitų gyvių kūnus arba į medžius, ežerus ir upes, kurios tenai kentėjusios neturtą ir badą lig rako, nuo dievo joms paženklinto, kuriam atėjus, galėjusios išeiti iš to kūno ir apsireikšti gentims ar svetimiems, palikdamos kokį noris jiems ženklą, kartais daiktą, su savim palaidotą, kartais įkirsdamos į slenkstį arba į vartus. Tokioj dingsty mokėję žyniai, taip vadinami kunigai, išsijautoti^700 nuo vėlės, ko ji reikalavusi dėl savo išganymo; vadino tokias dūšias vėlėmis nuo to,
   statusas: verified

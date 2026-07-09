@@ -69,6 +69,7 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. A. Žemaičio vadovaujamą
 - id: c-41792
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
     Netoli Birštono Zaskevičiaus
     kariai susitiko karin. A. Žemaičio va-

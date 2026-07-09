@@ -69,6 +69,7 @@ Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padali
 - id: c-176002
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Rusų įvestoji tvarka
 

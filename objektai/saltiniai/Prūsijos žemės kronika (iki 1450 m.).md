@@ -84,6 +84,7 @@ Dusburgietis teigia, kad „Senųjų Prūsijos analų“ pagrindu, papildant juo
 - id: c-61896
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     „Senųjų Prūsijos analų“ pagrindu, papildant juos kitais šaltiniais, sudaryti taip pat
     Torunės analai (originalios žinios prasideda XIV a. pradžia, įvykiai pratęsti iki 1410 m.)102

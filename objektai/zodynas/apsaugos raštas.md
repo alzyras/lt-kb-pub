@@ -116,6 +116,7 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Galų gale po ilgo delsimo, 1383 metų vasarą turėjo
     įvykti Ordino magistro ir Jogailos susivažiavimas. Gavęs Jogai­
@@ -137,6 +138,7 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Taip pat į
     Ordino paklausimą dėl Lietuvos krikšto Jogaila visai nekreipė
