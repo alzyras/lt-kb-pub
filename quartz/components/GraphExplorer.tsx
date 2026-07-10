@@ -111,7 +111,11 @@ export default (() => {
           <label><input type="radio" name="depth" value="3" /><span>3</span></label>
           <label><input type="radio" name="depth" value="-1" /><span>Visas</span></label>
         </fieldset>
-        <div class="graph-explorer-focus-counts"><span data-focus-visible></span><span data-focus-total></span></div>
+        <div class="graph-explorer-focus-counts">
+          <span data-focus-neighbours></span>
+          <span data-focus-direct></span>
+          <span data-focus-subgraph></span>
+        </div>
       </section>
 
       <section class="graph-explorer-stage">

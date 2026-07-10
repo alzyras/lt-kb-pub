@@ -67,6 +67,43 @@ export type GraphState = {
 export type RuntimeNode = TopologyNode & { id: string; px: number; py: number; hop: number }
 export type RuntimeEdge = TopologyEdge & { source: RuntimeNode; target: RuntimeNode }
 export type VisibleGraph = { nodes: RuntimeNode[]; edges: RuntimeEdge[]; focus: RuntimeNode | null }
+export type FocusGraphSummary = {
+  directEdges: number
+  linkedObjects: number
+  possibleDirectEdges: number
+  subgraphEdges: number
+  subgraphNodes: number
+}
+
+export function summarizeFocusedGraph(graph: VisibleGraph): FocusGraphSummary {
+  if (!graph.focus) {
+    return {
+      directEdges: 0,
+      linkedObjects: 0,
+      possibleDirectEdges: 0,
+      subgraphEdges: graph.edges.length,
+      subgraphNodes: graph.nodes.length,
+    }
+  }
+
+  const focusId = graph.focus.id
+  const directEdges = graph.edges.filter((edge) => edge.from === focusId || edge.to === focusId)
+  const linkedObjects = new Set(
+    directEdges.map((edge) => (edge.from === focusId ? edge.to : edge.from)),
+  ).size
+  const possibleDirectEdges = Object.values(graph.focus.relationCounts ?? {}).reduce(
+    (sum, count) => sum + count.in + count.out,
+    0,
+  )
+
+  return {
+    directEdges: directEdges.length,
+    linkedObjects,
+    possibleDirectEdges,
+    subgraphEdges: graph.edges.length,
+    subgraphNodes: graph.nodes.length,
+  }
+}
 
 function parseNumber(value: string | null, fallback: number): number {
   const parsed = Number(value)

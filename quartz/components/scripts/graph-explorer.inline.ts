@@ -7,6 +7,7 @@ import {
   cloneGraphState,
   parseGraphState,
   serializeGraphState,
+  summarizeFocusedGraph,
   type GraphState,
   type GraphTopology,
   type RuntimeEdge,
@@ -127,7 +128,7 @@ function relationBreakdown(node: TopologyNode, graph: VisibleGraph, topology: Gr
     const shownIn = graph.edges.filter((edge) => edge.kind === kind && edge.to === node.slug).length
     return `<button type="button" class="graph-relation-count ${active ? "is-active" : ""}" data-panel-relation="${escapeHtml(kind)}"><span>${escapeHtml(spec.label)}</span><b>${shownOut} / ${count.out}</b><small>${escapeHtml(spec.inverseLabel)}</small><b>${shownIn} / ${count.in}</b></button>`
   }).filter(Boolean)
-  return rows.length ? `<h3>Ryšiai pagal tipą</h3><div class="graph-relation-breakdown">${rows.join("")}</div>` : ""
+  return rows.length ? `<h3 class="graph-relation-heading"><span>Ryšiai pagal tipą</span><small>Aktyvūs / visi</small></h3><div class="graph-relation-breakdown">${rows.join("")}</div>` : ""
 }
 function activeFilterSummary(state: GraphState, topology: GraphTopology): string {
   const labels:string[]=[]
@@ -153,10 +154,11 @@ async function renderNodePanel(panel: HTMLElement, node: RuntimeNode, graph: Vis
     return
   }
   const details = await nodeDetails(node.id, topology)
-  const total = Object.values(node.relationCounts ?? {}).reduce((sum, count) => sum + count.in + count.out, 0)
+  const counts = summarizeFocusedGraph(graph)
   panel.innerHTML = `${panelControls(state)}
     <header class="graph-explorer-panel-header"><p>${escapeHtml(typeLabels[node.type] ?? node.type)}</p><h2>${escapeHtml(node.title)}</h2></header>
-    <dl class="graph-explorer-stats"><div><dt>Teiginiai</dt><dd>${node.claimCount}</dd></div><div><dt>Citatos</dt><dd>${node.quoteCount}</dd></div><div><dt>Rodomi ryšiai</dt><dd>${graph.edges.filter((edge) => edge.from === node.id || edge.to === node.id).length} / ${total}</dd></div></dl>
+    <dl class="graph-explorer-stats"><div><dt>Teiginiai</dt><dd>${node.claimCount}</dd></div><div><dt>Citatos</dt><dd>${node.quoteCount}</dd></div><div><dt>Susiję objektai</dt><dd>${counts.linkedObjects}</dd></div><div><dt>Tiesioginiai ryšiai</dt><dd>${counts.directEdges} / ${counts.possibleDirectEdges}</dd></div><div><dt>Subgrafo ryšiai</dt><dd>${counts.subgraphEdges}</dd></div></dl>
+    <p class="graph-count-explanation">Tiesioginiai ryšiai jungia pasirinktą objektą su jo kaimynais. Subgrafo ryšiai apima ir ekrane rodomų kaimynų tarpusavio ryšius. Skaičiai pateikti kaip aktyvūs / visi.</p>
     ${activeFilterSummary(state,topology)}
     ${details?.summary ? `<p class="graph-explorer-summary">${escapeHtml(details.summary)}</p>` : ""}
     <div class="graph-explorer-actions"><a href="${relativePageUrl(node.id)}">Atidaryti</a></div>
@@ -316,7 +318,85 @@ async function setup(root: HTMLElement) {
   const saveCamera=()=>{historyEntries[historyIndex].camera=camera;window.history.replaceState({graphIndex:historyIndex,camera},"",stateUrl(state,defaults))}
   const commit=(mode:"push"|"replace"="push")=>{const entry={state:cloneGraphState(state),camera};if(mode==="push"){historyEntries=historyEntries.slice(0,historyIndex+1);historyEntries.push(entry);historyIndex++;window.history.pushState({graphIndex:historyIndex,camera},"",stateUrl(state,defaults))}else{historyEntries[historyIndex]=entry;window.history.replaceState({graphIndex:historyIndex,camera},"",stateUrl(state,defaults))}updateHistoryButtons()}
   async function ensureLayers(){for(const kind of state.relations)if(genericKinds.has(kind)&&!layerCache.has(kind)){allEdges.push(...await loadLayer(kind,topology))}}
-  async function rerender(restoreCamera?:Camera){const token=++renderToken;status.hidden=false;status.textContent="Ruošiamas žemėlapis…";await ensureLayers();const graph=buildVisibleGraph(topology,allEdges,state,selectedSourceIds());await layoutGraph(graph,worker);if(token!==renderToken)return;renderer?.destroy();renderer=await renderGraph(canvas,graph,{focus:(slug)=>{state={...state,focus:slug,depth:1,panel:state.panel==="hidden"?"details":state.panel};commit();sync();void rerender()},edge:(edge)=>{state={...state,panel:"details"};root.dataset.panel="details";commit("replace");void renderEdgePanel(panel,edge,topology,state,(mode)=>{state={...state,panel:mode};root.dataset.panel=mode;commit("replace");void rerender()})},camera:(value)=>{camera=value;saveCamera()}});if(restoreCamera)renderer.applyCamera(restoreCamera);status.hidden=true;root.dataset.panel=state.panel;root.querySelector<HTMLElement>("[data-focus-context]")!.hidden=!graph.focus;if(graph.focus){root.querySelector<HTMLElement>("[data-focus-title]")!.textContent=graph.focus.title;root.querySelector<HTMLElement>("[data-focus-visible]")!.textContent=`Rodomi ${graph.edges.filter((edge)=>edge.from===graph.focus!.id||edge.to===graph.focus!.id).length}`;const total=Object.values(graph.focus.relationCounts).reduce((sum,count)=>sum+count.in+count.out,0);root.querySelector<HTMLElement>("[data-focus-total]")!.textContent=`Visi ryšiai ${total}`;if(state.panel!=="hidden")void renderNodePanel(panel,graph.focus,graph,topology,state,(mode)=>{state={...state,panel:mode};commit("replace");void rerender()},(kind)=>{state.relations=state.relations.includes(kind)?state.relations.filter((value)=>value!==kind):[...state.relations,kind];commit();sync();void rerender()})}else if(state.panel!=="hidden"){panel.innerHTML=`${panelControls(state)}<h2>${graph.nodes.length.toLocaleString("lt-LT")} objektai</h2><p>${graph.edges.length.toLocaleString("lt-LT")} ryšiai. Pasirink objektą arba ryšį.</p>`;bindPanelControls(panel,(mode)=>{state={...state,panel:mode};commit("replace");void rerender()})}root.querySelector<HTMLElement>("[data-graph-legend]")!.innerHTML=`<span>${graph.nodes.length.toLocaleString("lt-LT")} objektai</span><span>${graph.edges.length.toLocaleString("lt-LT")} ryšiai</span>`}
+  async function rerender(restoreCamera?: Camera) {
+    const token = ++renderToken
+    status.hidden = false
+    status.textContent = "Ruošiamas žemėlapis…"
+    await ensureLayers()
+    const graph = buildVisibleGraph(topology, allEdges, state, selectedSourceIds())
+    await layoutGraph(graph, worker)
+    if (token !== renderToken) return
+
+    renderer?.destroy()
+    renderer = await renderGraph(canvas, graph, {
+      focus: (slug) => {
+        state = { ...state, focus: slug, depth: 1, panel: state.panel === "hidden" ? "details" : state.panel }
+        commit()
+        sync()
+        void rerender()
+      },
+      edge: (edge) => {
+        state = { ...state, panel: "details" }
+        root.dataset.panel = "details"
+        commit("replace")
+        void renderEdgePanel(panel, edge, topology, state, (mode) => {
+          state = { ...state, panel: mode }
+          root.dataset.panel = mode
+          commit("replace")
+          void rerender(camera)
+        })
+      },
+      camera: (value) => {
+        camera = value
+        saveCamera()
+      },
+    })
+    if (restoreCamera) renderer.applyCamera(restoreCamera)
+
+    status.hidden = true
+    root.dataset.panel = state.panel
+    root.querySelector<HTMLElement>("[data-focus-context]")!.hidden = !graph.focus
+
+    if (graph.focus) {
+      const counts = summarizeFocusedGraph(graph)
+      root.querySelector<HTMLElement>("[data-focus-title]")!.textContent = graph.focus.title
+      root.querySelector<HTMLElement>("[data-focus-neighbours]")!.textContent = `${counts.linkedObjects.toLocaleString("lt-LT")} susiję objektai`
+      root.querySelector<HTMLElement>("[data-focus-direct]")!.textContent = `${counts.directEdges.toLocaleString("lt-LT")} tiesioginiai ryšiai`
+      root.querySelector<HTMLElement>("[data-focus-subgraph]")!.textContent = `${counts.subgraphEdges.toLocaleString("lt-LT")} ryšiai subgrafe`
+      if (state.panel !== "hidden") {
+        void renderNodePanel(
+          panel,
+          graph.focus,
+          graph,
+          topology,
+          state,
+          (mode) => {
+            state = { ...state, panel: mode }
+            commit("replace")
+            void rerender(camera)
+          },
+          (kind) => {
+            state.relations = state.relations.includes(kind)
+              ? state.relations.filter((value) => value !== kind)
+              : [...state.relations, kind]
+            commit()
+            sync()
+            void rerender()
+          },
+        )
+      }
+    } else if (state.panel !== "hidden") {
+      panel.innerHTML = `${panelControls(state)}<h2>${graph.nodes.length.toLocaleString("lt-LT")} objektai</h2><p>${graph.edges.length.toLocaleString("lt-LT")} ryšiai visame matomame tinkle. Pasirink objektą arba ryšį.</p>`
+      bindPanelControls(panel, (mode) => {
+        state = { ...state, panel: mode }
+        commit("replace")
+        void rerender(camera)
+      })
+    }
+
+    const scope = graph.focus ? "Subgrafas" : "Tinklas"
+    root.querySelector<HTMLElement>("[data-graph-legend]")!.innerHTML = `<span>${scope}: ${graph.nodes.length.toLocaleString("lt-LT")} objektai</span><span>${graph.edges.length.toLocaleString("lt-LT")} ryšiai</span>`
+  }
   function sync(){typeOptions(root,topology,state,()=>{commit();sync();void rerender()});relationOptions(root,topology,state,()=>{commit();sync();void rerender()});root.querySelector<HTMLElement>("[data-type-count]")!.textContent=String(state.types.length);root.querySelector<HTMLElement>("[data-relation-count]")!.textContent=String(state.relations.length);(root.querySelector("input[name='minClaims']") as HTMLInputElement).value=String(state.minClaims);(root.querySelector("input[name='minQuotes']") as HTMLInputElement).value=String(state.minQuotes);(root.querySelector("input[name='minConfidence']") as HTMLInputElement).value=String(state.minConfidence);(root.querySelector("select[name='direction']") as HTMLSelectElement).value=state.direction;root.querySelector<HTMLOutputElement>("[data-confidence-output]")!.value=`${Math.round(state.minConfidence*100)}%`;(root.querySelector("input[name='from']") as HTMLInputElement).value=state.from===null?"":String(state.from);(root.querySelector("input[name='to']") as HTMLInputElement).value=state.to===null?"":String(state.to);root.querySelectorAll<HTMLInputElement>("input[name='depth']").forEach((input)=>input.checked=Number(input.value)===state.depth);root.dataset.panel=state.panel;updateHistoryButtons()}
   popovers(root); sync(); updateHistoryButtons(); window.history.replaceState({graphIndex:0},"",stateUrl(state,defaults))
   const search=root.querySelector<HTMLInputElement>("[data-graph-search-input]")!,suggest=root.querySelector<HTMLElement>("[data-graph-suggest]")!,suggestList=root.querySelector<HTMLElement>("[data-graph-suggest-list]")!;let suggestions:TopologyNode[]=[];let active=0

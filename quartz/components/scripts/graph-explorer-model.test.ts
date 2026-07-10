@@ -4,6 +4,7 @@ import {
   buildVisibleGraph,
   parseGraphState,
   serializeGraphState,
+  summarizeFocusedGraph,
   type GraphState,
   type GraphTopology,
   type TopologyEdge,
@@ -81,6 +82,18 @@ describe("graph explorer model", () => {
     const graph = buildVisibleGraph(topology, edges, state({ focus: "A", depth: 1 }))
     assert.deepEqual(new Set(graph.nodes.map((entry) => entry.id)), new Set(["A", "B", "C"]))
     assert.deepEqual(new Set(graph.edges.map((entry) => entry.id)), new Set(["e1", "e2", "e4"]))
+  })
+
+  test("focus summary distinguishes neighbours, direct edges and subgraph edges", () => {
+    const graph = buildVisibleGraph(topology, edges, state({ focus: "A", depth: 1 }))
+    graph.focus!.relationCounts = { puole: { out: 3, in: 4 } }
+    assert.deepEqual(summarizeFocusedGraph(graph), {
+      directEdges: 2,
+      linkedObjects: 2,
+      possibleDirectEdges: 7,
+      subgraphEdges: 3,
+      subgraphNodes: 3,
+    })
   })
 
   test("direction filter distinguishes outgoing and incoming neighbours", () => {
