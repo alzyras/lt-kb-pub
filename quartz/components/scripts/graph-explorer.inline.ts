@@ -332,6 +332,8 @@ async function setup(root: HTMLElement) {
     if (token !== renderToken) return
 
     root.querySelector<HTMLElement>("[data-focus-context]")!.hidden = !graph.focus
+    await new Promise<void>((resolve) => requestAnimationFrame(() => resolve()))
+    if (token !== renderToken) return
     renderer?.destroy()
     renderer = await renderGraph(canvas, graph, {
       focus: (slug) => {
