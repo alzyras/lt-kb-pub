@@ -90,7 +90,9 @@ const OptionsPanel: QuartzComponent = ({ displayClass }: QuartzComponentProps) =
           <button class="options-panel-reset" type="button" data-options-reset="">
             Atstatyti
           </button>
-          <a class="options-panel-settings-link" href="/nustatymai">Visi nustatymai</a>
+          <a class="options-panel-settings-link" href="/nustatymai" data-router-ignore>
+            Visi nustatymai
+          </a>
         </div>
       </div>
     </div>

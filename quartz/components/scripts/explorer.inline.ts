@@ -188,8 +188,11 @@ function createFileNode(
     : []
   const slugParts = node.slug.split("/")
   const isObjectPage = slugParts[0] === "objektai" && slugParts.length >= 3
-  a.href = resolveRelative(currentSlug, node.slug)
+  a.href = node.slug === "nustatymai" ? "/nustatymai" : resolveRelative(currentSlug, node.slug)
   a.dataset.for = node.slug
+  if (node.slug === "nustatymai") {
+    a.dataset.routerIgnore = ""
+  }
   const title = document.createElement("span")
   title.className = "explorer-file-title"
   title.textContent = node.displayName
@@ -292,9 +295,13 @@ async function setupExplorer(currentSlug: FullSlug, targetExplorer?: HTMLElement
     : ([...document.querySelectorAll("div.explorer")] as HTMLElement[])
 
   for (const explorer of allExplorers) {
-    if (explorer.dataset.explorerBuilt === "true") {
+    if (
+      explorer.dataset.explorerBuilt === "true" ||
+      explorer.dataset.explorerBuilt === "building"
+    ) {
       continue
     }
+    explorer.dataset.explorerBuilt = "building"
     const dataFns = JSON.parse(explorer.dataset.dataFns || "{}")
     const opts: ParsedOptions = {
       folderClickBehavior: (explorer.dataset.behavior || "collapse") as "collapse" | "link",
@@ -313,7 +320,13 @@ async function setupExplorer(currentSlug: FullSlug, targetExplorer?: HTMLElement
       serializedExplorerState.map((entry: FolderState) => [entry.path, entry.collapsed]),
     )
 
-    const data = await (explorerWindow.loadContentMeta?.() ?? Promise.resolve({}))
+    let data: Record<string, ContentMetaDetails>
+    try {
+      data = await (explorerWindow.loadContentMeta?.() ?? Promise.resolve({}))
+    } catch (error) {
+      delete explorer.dataset.explorerBuilt
+      throw error
+    }
     const entries = [...Object.entries(data)] as [FullSlug, ContentMetaDetails][]
     const trie = FileTrieNode.fromEntries(entries)
 
@@ -344,7 +357,10 @@ async function setupExplorer(currentSlug: FullSlug, targetExplorer?: HTMLElement
     })
 
     const explorerUl = explorer.querySelector(".explorer-ul")
-    if (!explorerUl) continue
+    if (!explorerUl) {
+      delete explorer.dataset.explorerBuilt
+      continue
+    }
     explorer.dataset.explorerBuilt = "true"
     explorerUl
       .querySelectorAll("[data-explorer-fallback='true']")
