@@ -326,7 +326,7 @@ async function setup(root: HTMLElement) {
   root.querySelector<HTMLButtonElement>("[data-history-back]")!.onclick=()=>{if(historyIndex>0)window.history.back()}
   root.querySelector<HTMLButtonElement>("[data-history-forward]")!.onclick=()=>{if(historyIndex<historyEntries.length-1)window.history.forward()}
   root.querySelector<HTMLButtonElement>("[data-graph-home]")!.onclick=()=>{state={...state,focus:"",depth:1,panel:"hidden"};commit();sync();void rerender()}
-  root.querySelector<HTMLButtonElement>("[data-clear-focus]")!.onclick=()=>{state={...state,focus:"",depth:1};commit();sync();void rerender()}
+  root.querySelector<HTMLButtonElement>("[data-clear-focus]")!.onclick=()=>{state={...state,focus:"",depth:1};const context=root.querySelector<HTMLElement>("[data-focus-context]")!;context.hidden=true;root.querySelector<HTMLElement>("[data-focus-title]")!.textContent="";commit();sync();void rerender()}
   root.querySelector<HTMLButtonElement>("[data-graph-reset]")!.onclick=()=>{state={...stateFromUrl(defaults.relations,defaults.types),sources:[]};commit();sync();void rerender()}
   root.querySelector<HTMLButtonElement>("[data-panel-toggle]")!.onclick=()=>{state={...state,panel:state.panel==="hidden"?"details":"hidden"};commit("replace");sync();void rerender()};root.querySelector<HTMLButtonElement>("[data-panel-show]")!.onclick=()=>{state={...state,panel:"details"};commit("replace");sync();void rerender()}
   root.querySelectorAll<HTMLInputElement>("input[name='depth']").forEach((input)=>input.onchange=()=>{state.depth=Number(input.value);commit();sync();void rerender()})
