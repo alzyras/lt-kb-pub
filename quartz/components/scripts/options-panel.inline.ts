@@ -14,7 +14,10 @@ type OptionsWindow = Window &
   typeof globalThis & {
     applyQuartzOptionFilters?: () => void
     addCleanup?: (cleanup: () => void) => void
-    loadGraphExplorerIndex?: () => Promise<Record<string, { links?: Array<{ target: string; sourceIds?: string[] }> }>>
+    loadGraphTopology?: () => Promise<{
+      nodes?: Array<{ slug: string }>
+      edges?: Array<{ from: string; to: string; sourceTitles?: string[] }>
+    }>
   }
 
 type OptionsRoot = HTMLElement & {
@@ -425,16 +428,15 @@ async function applyRelationFilters() {
     })
     return
   }
-  const index: Record<string, { links?: Array<{ target: string; sourceIds?: string[] }> }> =
-    await optionsWindow.loadGraphExplorerIndex?.().catch(() => ({})) ?? {}
+  const topology = await optionsWindow.loadGraphTopology?.().catch(() => ({ nodes: [], edges: [] })) ?? { nodes: [], edges: [] }
   const currentSlug = normalizedSlug(document.body.dataset.slug ?? "")
-  const matchingKey = Object.keys(index).find((key) => normalizedSlug(key) === currentSlug)
-  const node = index[currentSlug] ?? (matchingKey ? index[matchingKey] : undefined)
-  if (!node) {
+  const matchingNode = (topology.nodes ?? []).find((node) => normalizedSlug(node.slug) === currentSlug)
+  if (!matchingNode) {
     rows.forEach((row) => { row.hidden = true })
     return
   }
-  const selected = new Set(selectedSources(cachedSources, "text", state.textSources).map((source) => source.id))
+  const selected = new Set(selectedSources(cachedSources, "text", state.textSources).map((source) => source.title))
+  const nodeEdges = (topology.edges ?? []).filter((edge) => normalizedSlug(edge.from) === currentSlug)
   rows.forEach((row) => {
     if (!originalRelationRows.has(row)) originalRelationRows.set(row, row.innerHTML)
     const original = originalRelationRows.get(row)
@@ -443,11 +445,11 @@ async function applyRelationFilters() {
     const anchors = [...row.querySelectorAll<HTMLAnchorElement>(":scope > a.internal")]
     const edgeForAnchor = (anchor: HTMLAnchorElement) => {
       const target = normalizedSlug(anchor.dataset.slug ?? anchor.getAttribute("href") ?? "")
-      return (node.links ?? []).filter((edge) => normalizedSlug(edge.target) === target)
+      return nodeEdges.filter((edge) => normalizedSlug(edge.to) === target)
     }
     const visibleAnchors = anchors.filter((anchor) =>
       edgeForAnchor(anchor).some((edge) =>
-        (edge.sourceIds ?? []).some((sourceId) => selected.has(sourceId)),
+        (edge.sourceTitles ?? []).some((sourceTitle) => selected.has(sourceTitle)),
       ),
     )
 
@@ -476,7 +478,7 @@ async function applyRelationFilters() {
     row.hidden =
       matchingEdges.length === 0 ||
       !matchingEdges.some((edge) =>
-        (edge.sourceIds ?? []).some((sourceId) => selected.has(sourceId)),
+        (edge.sourceTitles ?? []).some((sourceTitle) => selected.has(sourceTitle)),
       )
   })
 }

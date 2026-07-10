@@ -1,1655 +1,342 @@
-import {
-  SimulationLinkDatum,
-  SimulationNodeDatum,
-  forceCenter,
-  forceCollide,
-  forceLink,
-  forceManyBody,
-  forceSimulation,
-  select,
-  zoom,
-  zoomIdentity,
-} from "d3"
-import type {
-  GraphExplorerIndexDetails,
-  GraphExplorerLinkDetails,
-} from "../../plugins/emitters/contentIndex"
+import { Application, Container, Graphics, Text } from "pixi.js"
+import { select, zoom, zoomIdentity, ZoomTransform } from "d3"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
-import { loadSourceCatalog, readSettingsState, selectedSources } from "../../util/sourceSettings"
+import { loadSourceCatalog } from "../../util/sourceSettings"
+import {
+  buildVisibleGraph,
+  cloneGraphState,
+  parseGraphState,
+  serializeGraphState,
+  type GraphState,
+  type GraphTopology,
+  type RuntimeEdge,
+  type RuntimeNode,
+  type TopologyEdge,
+  type TopologyNode,
+  type VisibleGraph,
+} from "./graph-explorer-model"
 
-type ExplorerRuntime = typeof globalThis & {
-  loadGraphExplorerIndex?: () => Promise<Record<FullSlug, GraphExplorerIndexDetails>>
-  fetchCitationSources?: Promise<CitationSourceRegistryEntry[]>
-  spaNavigate?: (url: URL) => void
+type NodeDetails = { summary: string; topClaims: Array<{ id: string; text: string }>; sources: string[] }
+type EdgeEvidence = { claimId: string; claimText: string; quoteId: string; quoteText: string; source: string; confidence: number }
+type Camera = { x: number; y: number; k: number }
+type HistoryEntry = { state: GraphState; camera?: Camera }
+type SourceEntry = { id: string; title: string; quoteCount?: number; objectCount?: number }
+
+const typeLabels: Record<string, string> = {
+  asmuo: "Asmenys", autorius: "Autoriai", ivykis: "Įvykiai", grupe: "Grupės", vieta: "Vietos",
+  daiktas: "Daiktai", paprotys: "Papročiai", posakis: "Posakiai", zodyno_irasas: "Žodynas",
 }
-
-type CitationSourceRegistryEntry = {
-  id: string
-  title: string
-  objectCount?: number
-  quoteCount?: number
-  count?: number
+const typeColors: Record<string, number> = {
+  asmuo: 0x286456, autorius: 0x5d6f63, ivykis: 0x923120, grupe: 0x9b7b49, vieta: 0x557d8b,
+  daiktas: 0x735a91, paprotys: 0xb66941, posakis: 0x8d4d72, zodyno_irasas: 0x626262,
 }
+const genericKinds = new Set(["claim_entity_mention", "quote_entity_mention", "shared_public_quote"])
+const nodeDetailCache = new Map<string, Record<string, NodeDetails>>()
+const evidenceCache = new Map<string, Record<string, EdgeEvidence[]>>()
+const layerCache = new Map<string, TopologyEdge[]>()
+const sourceTitleCache = new Map<string, string>()
+const graphDataBase = new URL("../static/graph-data/", window.location.href)
 
-type FilterState = {
-  focus: SimpleSlug | ""
-  q: string
-  preset: string
-  types: string[]
-  minClaims: number
-  minQuotes: number
-  sources: string[]
-  from: number | null
-  to: number | null
-  depth: number
-  maxNodes: number
-  showPlaces: boolean
-  showTopics: boolean
-  panel: "details" | "page" | "hidden"
+function escapeHtml(value: unknown): string {
+  return String(value ?? "").replace(/[&<>'"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[char]!)
 }
-
-type RuntimeNode = GraphExplorerIndexDetails &
-  SimulationNodeDatum & {
-    id: SimpleSlug
-    degree: number
-    globalDegree: number
-    hop: number
-    score: number
-  }
-
-type RuntimeLink = SimulationLinkDatum<RuntimeNode> & {
-  source: RuntimeNode
-  target: RuntimeNode
-  details: GraphExplorerLinkDetails
+function normalize(value: string): string {
+  return value.toLocaleLowerCase("lt-LT").normalize("NFD").replace(/[\u0300-\u036f]/g, "")
 }
-
-type SearchSuggestion = {
-  slug: SimpleSlug
-  node: GraphExplorerIndexDetails
-  score: number
-  reason: string
-}
-
-type LabelBounds = {
-  left: number
-  right: number
-  top: number
-  bottom: number
-}
-
-const runtime = globalThis as ExplorerRuntime
-let cachedCitationSources: CitationSourceRegistryEntry[] | null = null
-let globalTextSourceIds = new Set<string>()
-let globalTextFilterActive = false
-
-const noTypeSelection = "__none__"
-const graphTypeValues = [
-  "asmuo",
-  "autorius",
-  "ivykis",
-  "grupe",
-  "vieta",
-  "daiktas",
-  "paprotys",
-  "posakis",
-  "zodyno_irasas",
-  "tema",
-] as const
-const defaultVisibleTypes = graphTypeValues.filter((type) => type !== "vieta" && type !== "tema")
-
-const defaultState: FilterState = {
-  focus: "",
-  q: "",
-  preset: "important",
-  types: [],
-  minClaims: 3,
-  minQuotes: 1,
-  sources: [],
-  from: null,
-  to: null,
-  depth: -1,
-  maxNodes: 250,
-  showPlaces: false,
-  showTopics: false,
-  panel: "hidden",
-}
-
-function mobileGraphProfile(): boolean {
+function parseNumber(value: string | null, fallback: number): number { const parsed=Number(value); return value!==null&&value!==""&&Number.isFinite(parsed)?parsed:fallback }
+function parseOptional(value: string | null): number | null { if(!value)return null;const parsed=Number(value);return Number.isFinite(parsed)?parsed:null }
+function mobileProfile(): boolean {
   return window.matchMedia("(max-width: 760px), (pointer: coarse)").matches
 }
-
-const typeColors: Record<string, string> = {
-  asmuo: "#286456",
-  autorius: "#5d6f63",
-  ivykis: "#923120",
-  grupe: "#9b7b49",
-  vieta: "#557d8b",
-  daiktas: "#735a91",
-  paprotys: "#b66941",
-  posakis: "#8d4d72",
-  zodyno_irasas: "#626262",
-  tema: "#445f8f",
+function stateFromUrl(defaultRelations: string[], allTypes: string[]): GraphState {
+  const state=parseGraphState(new URLSearchParams(window.location.search),defaultRelations,allTypes)
+  state.focus=state.focus?simplifySlug(state.focus as FullSlug):""
+  return state
 }
-
-function parseNumber(value: string | null, fallback: number): number {
-  if (value == null || value === "") {
-    return fallback
-  }
-  const parsed = Number(value)
-  return Number.isFinite(parsed) ? parsed : fallback
+function stateUrl(state: GraphState, defaults: { relations: string[]; types: string[] }): string {
+  const p=serializeGraphState(state,defaults)
+  const query = p.toString()
+  return query ? `${window.location.pathname}?${query}` : window.location.pathname
 }
-
-function parseOptionalNumber(value: string | null): number | null {
-  if (!value) return null
-  const parsed = Number(value)
-  return Number.isFinite(parsed) ? parsed : null
+async function json<T>(url: URL): Promise<T> {
+  const response = await fetch(url, { cache: "force-cache" })
+  if (!response.ok) throw new Error(`${response.status} ${url.pathname}`)
+  return response.json() as Promise<T>
 }
-
-function readState(): FilterState {
-  const params = new URLSearchParams(window.location.search)
-  const panel = params.get("panel")
-  const mobile = mobileGraphProfile()
-  const explicitFocus = params.get("focus")
-  const defaultDepth = explicitFocus ? (mobile ? 1 : 2) : defaultState.depth
-  const sources = (params.get("sources") ?? params.get("source") ?? "")
-    .split(",")
-    .map((value) => value.trim())
-    .filter(Boolean)
-  return {
-    focus: (explicitFocus ? simplifySlug(explicitFocus as FullSlug) : "") as
-      | SimpleSlug
-      | "",
-    q: params.get("q") ?? "",
-    preset: params.get("preset") ?? defaultState.preset,
-    types: (params.get("types") ?? "")
-      .split(",")
-      .map((value) => value.trim())
-      .filter(Boolean),
-    minClaims: parseNumber(params.get("minClaims"), defaultState.minClaims),
-    minQuotes: parseNumber(params.get("minQuotes"), defaultState.minQuotes),
-    sources: [...new Set(sources)],
-    from: parseOptionalNumber(params.get("from")),
-    to: parseOptionalNumber(params.get("to")),
-    depth: parseNumber(params.get("depth"), defaultDepth),
-    maxNodes: parseNumber(params.get("maxNodes"), mobile ? 110 : defaultState.maxNodes),
-    showPlaces: params.get("showPlaces") === "1",
-    showTopics: params.get("showTopics") === "1",
-    panel: panel === "details" || panel === "page" || panel === "hidden" ? panel : defaultState.panel,
-  }
+async function bucketFor(value: string, count: number): Promise<string> {
+  const digest = new Uint8Array(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(value)))
+  const first = ((digest[0] << 24) | (digest[1] << 16) | (digest[2] << 8) | digest[3]) >>> 0
+  return (first % count).toString(16).padStart(2, "0")
 }
-
-function writeState(state: FilterState) {
-  const params = new URLSearchParams()
-  if (state.focus) params.set("focus", state.focus)
-  if (state.q) params.set("q", state.q)
-  if (state.preset !== defaultState.preset) params.set("preset", state.preset)
-  if (state.types.length > 0) params.set("types", state.types.join(","))
-  if (state.minClaims !== defaultState.minClaims) params.set("minClaims", String(state.minClaims))
-  if (state.minQuotes !== defaultState.minQuotes) params.set("minQuotes", String(state.minQuotes))
-  if (state.sources.length > 0) params.set("sources", state.sources.join(","))
-  if (state.from !== null) params.set("from", String(state.from))
-  if (state.to !== null) params.set("to", String(state.to))
-  if (state.depth !== defaultState.depth) params.set("depth", String(state.depth))
-  if (state.maxNodes !== defaultState.maxNodes) params.set("maxNodes", String(state.maxNodes))
-  if (state.showPlaces) params.set("showPlaces", "1")
-  if (state.showTopics) params.set("showTopics", "1")
-  if (state.panel !== defaultState.panel) params.set("panel", state.panel)
-  const query = params.toString()
-  window.history.replaceState(null, "", query ? `${window.location.pathname}?${query}` : window.location.pathname)
+async function nodeDetails(slug: string, topology: GraphTopology): Promise<NodeDetails | undefined> {
+  const bucket = await bucketFor(slug, topology.nodeBuckets)
+  if (!nodeDetailCache.has(bucket)) { const url=new URL(`nodes/${bucket}.json`,graphDataBase);url.searchParams.set("v",topology.generatedAt);nodeDetailCache.set(bucket,await json(url)) }
+  return nodeDetailCache.get(bucket)?.[slug]
 }
-
-function normalizedText(value: string | undefined): string {
-  return (value ?? "")
-    .toLocaleLowerCase("lt-LT")
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
+async function edgeEvidence(edgeId: string, topology: GraphTopology): Promise<EdgeEvidence[]> {
+  const bucket = await bucketFor(edgeId, topology.evidenceBuckets)
+  if (!evidenceCache.has(bucket)) { const url=new URL(`evidence/${bucket}.json`,graphDataBase);url.searchParams.set("v",topology.generatedAt);evidenceCache.set(bucket,await json(url)) }
+  return evidenceCache.get(bucket)?.[edgeId] ?? []
 }
-
-function normalizeCitationSources(sources: CitationSourceRegistryEntry[]): CitationSourceRegistryEntry[] {
-  return sources
-    .filter(
-      (source) =>
-        typeof source?.id === "string" &&
-        source.id.trim().length > 0 &&
-        typeof source?.title === "string" &&
-        source.title.trim().length > 0,
-    )
-    .map((source) => {
-      const quoteCount = Number.isFinite(source.quoteCount)
-        ? Math.max(0, Number(source.quoteCount))
-        : Number.isFinite(source.count)
-          ? Math.max(0, Number(source.count))
-          : 0
-      return {
-        id: source.id.trim(),
-        title: source.title.trim(),
-        objectCount: Number.isFinite(source.objectCount)
-          ? Math.max(0, Number(source.objectCount))
-          : 0,
-        quoteCount,
-        count: quoteCount,
-      }
-    })
-    .sort((a, b) => {
-      const objectDiff = Number(b.objectCount ?? 0) - Number(a.objectCount ?? 0)
-      if (objectDiff !== 0) return objectDiff
-      const quoteDiff = Number(b.quoteCount ?? b.count ?? 0) - Number(a.quoteCount ?? a.count ?? 0)
-      return quoteDiff === 0 ? a.title.localeCompare(b.title, "lt", { sensitivity: "base" }) : quoteDiff
-    })
-}
-
-async function loadCitationSources(): Promise<CitationSourceRegistryEntry[]> {
-  if (cachedCitationSources) return cachedCitationSources
-  try {
-    const resolved = await runtime.fetchCitationSources
-    cachedCitationSources = normalizeCitationSources(Array.isArray(resolved) ? resolved : [])
-  } catch (error) {
-    console.warn("Citation source registry failed to load for graph explorer.", error)
-    cachedCitationSources = []
-  }
-  return cachedCitationSources
-}
-
-function sourceMatches(node: GraphExplorerIndexDetails, selectedSources: string[]): boolean {
-  if (globalTextFilterActive) {
-    const nodeSources = node.citationSourceIds ?? []
-    if (!nodeSources.some((source) => globalTextSourceIds.has(source))) return false
-  }
-  if (selectedSources.length === 0) return true
-  const sourceIds = node.citationSourceIds ?? []
-  if (selectedSources.some((source) => sourceIds.includes(source))) return true
-
-  const needles = selectedSources.map((source) => normalizedText(source)).filter(Boolean)
-  const sources = normalizedText([...(node.citationSourceIds ?? []), ...(node.citationSourceTitles ?? [])].join(" "))
-  return needles.some((needle) => sources.includes(needle))
-}
-
-function linkMatchesGlobalSources(link: GraphExplorerLinkDetails): boolean {
-  if (!globalTextFilterActive) return true
-  return (link.sourceIds ?? []).some((source) => globalTextSourceIds.has(source))
-}
-
-async function refreshGlobalSourceSelection() {
-  const settings = readSettingsState()
-  const catalog = await loadSourceCatalog()
-  globalTextSourceIds = new Set(selectedSources(catalog, "text", settings.textSources).map((entry) => entry.id))
-  globalTextFilterActive = settings.textSources.mode !== "all" || settings.textSources.rules.length > 0
-}
-
-function graphExplorerIndexUrls(): string[] {
-  const urls: string[] = []
-  const push = (url: URL) => {
-    const value = url.toString()
-    if (!urls.includes(value)) urls.push(value)
-  }
-
-  const prescript = [...document.scripts].find((script) => script.src.includes("prescript.js"))
-  if (prescript?.src) {
-    const sourceUrl = new URL(prescript.src)
-    push(new URL(`static/graphExplorerIndex.json${sourceUrl.search}`, sourceUrl))
-    push(new URL("static/graphExplorerIndex.json", sourceUrl))
-  }
-  push(new URL("../static/graphExplorerIndex.json", window.location.href))
-
-  const cacheBusted = new URL(urls[0] ?? new URL("../static/graphExplorerIndex.json", window.location.href).toString())
-  cacheBusted.searchParams.set("reload", String(Date.now()))
-  push(cacheBusted)
-  return urls
-}
-
-function assertExplorerIndex(value: unknown): Record<FullSlug, GraphExplorerIndexDetails> {
-  if (!value || typeof value !== "object" || Array.isArray(value)) {
-    throw new Error("graphExplorerIndex.json is not an object")
-  }
-  if (Object.keys(value as Record<string, unknown>).length === 0) {
-    throw new Error("graphExplorerIndex.json is empty")
-  }
-  return value as Record<FullSlug, GraphExplorerIndexDetails>
-}
-
-async function fetchExplorerIndexUrl(
-  url: string,
-  cache: RequestCache,
-): Promise<Record<FullSlug, GraphExplorerIndexDetails>> {
-  const response = await fetch(url, { cache })
-  if (!response.ok) {
-    throw new Error(`Failed to fetch ${url}: ${response.status}`)
-  }
-  return assertExplorerIndex(await response.json())
-}
-
-async function loadExplorerIndex(): Promise<Record<FullSlug, GraphExplorerIndexDetails>> {
-  if (runtime.loadGraphExplorerIndex) {
-    try {
-      return assertExplorerIndex(await runtime.loadGraphExplorerIndex())
-    } catch (error) {
-      console.warn("Bundled graph explorer index loader failed, retrying directly.", error)
-    }
-  }
-
-  let lastError: unknown
-  const urls = graphExplorerIndexUrls()
-  for (const [index, url] of urls.entries()) {
-    try {
-      return await fetchExplorerIndexUrl(url, index === 0 ? "force-cache" : "no-store")
-    } catch (error) {
-      lastError = error
-      console.warn("Graph explorer index fetch failed.", { url, error })
-    }
-  }
-  throw lastError instanceof Error ? lastError : new Error("Failed to load graph explorer index")
-}
-
-function nodeType(node: GraphExplorerIndexDetails): string {
-  if (node.slug.startsWith("temos/")) return "tema"
-  if (node.slug.startsWith("objektai/ivykiai/")) return "ivykis"
-  if (node.slug.startsWith("objektai/grupes/")) return "grupe"
-  if (node.slug.startsWith("objektai/vietos/")) return "vieta"
-  if (node.slug.startsWith("objektai/daiktai/")) return "daiktas"
-  if (node.slug.startsWith("objektai/paprociai/")) return "paprotys"
-  if (node.slug.startsWith("objektai/posakiai/")) return "posakis"
-  if (node.slug.startsWith("objektai/zodynas/")) return "zodyno_irasas"
-  if (node.slug.startsWith("objektai/autoriai/")) return "autorius"
-  return node.type || "asmuo"
-}
-
-function graphAllowed(node: GraphExplorerIndexDetails, state: FilterState): boolean {
-  if (node.slug.startsWith("laikotarpiai/")) return false
-  if (node.slug.startsWith("objektai/saltiniai/")) return false
-  const kind = nodeType(node)
-  if (kind === "vieta" && !typeFilterAllows(kind, state)) return false
-  if (kind === "tema" && !typeFilterAllows(kind, state) && state.preset !== "topics") return false
-  return true
-}
-
-function typeFilterAllows(kind: string, state: FilterState): boolean {
-  if (state.types.includes(noTypeSelection)) return false
-  if (state.types.length > 0) return state.types.includes(kind)
-  if (kind === "vieta") return state.showPlaces
-  if (kind === "tema") return state.showTopics || state.preset === "topics"
-  return true
-}
-
-function dateOverlaps(node: GraphExplorerIndexDetails, from: number | null, to: number | null): boolean {
-  if (from === null && to === null) return true
-  if (node.dateStart === undefined && node.dateEnd === undefined) return false
-  const start = node.dateStart ?? node.dateEnd!
-  const end = node.dateEnd ?? node.dateStart!
-  if (from !== null && end < from) return false
-  if (to !== null && start > to) return false
-  return true
-}
-
-function matchesPreset(node: GraphExplorerIndexDetails, state: FilterState): boolean {
-  const title = normalizedText(node.title)
-  const tags = normalizedText((node.tags ?? []).join(" "))
-  const periods = normalizedText([...(node.centuries ?? []), ...(node.periodGroups ?? [])].join(" "))
-  switch (state.preset) {
-    case "vytautas":
-      return title.includes("vytaut") || tags.includes("vytaut")
-    case "ldk":
-      return periods.includes("ldk") || title.includes("lietuvos did") || tags.includes("ldk")
-    case "xx":
-      return (node.centuries ?? []).includes("XX") || dateOverlaps(node, 1901, 2000)
-    case "people-events": {
-      const kind = nodeType(node)
-      return kind === "asmuo" || kind === "autorius" || kind === "ivykis"
-    }
-    case "events":
-      return nodeType(node) === "ivykis"
-    case "topics":
-      return node.slug.startsWith("temos/")
-    default:
-      return true
-  }
-}
-
-function passesFilters(node: GraphExplorerIndexDetails, state: FilterState, ignoreVolume = false): boolean {
-  if (!graphAllowed(node, state)) return false
-  const kind = nodeType(node)
-  if (!typeFilterAllows(kind, state)) return false
-  if (!matchesPreset(node, state)) return false
-  if (!ignoreVolume && node.claimCount < state.minClaims && node.quoteCount < state.minQuotes) {
-    return false
-  }
-  if (!sourceMatches(node, state.sources)) return false
-  if (!dateOverlaps(node, state.from, state.to)) return false
-  if (state.q) {
-    const needle = normalizedText(state.q)
-    const haystack = normalizedText(
-      [node.title, node.summary, ...(node.tags ?? []), ...(node.citationSourceTitles ?? [])].join(" "),
-    )
-    if (!haystack.includes(needle)) return false
-  }
-  return true
-}
-
-function passesFocusTraversalFilters(node: GraphExplorerIndexDetails, state: FilterState): boolean {
-  if (!graphAllowed(node, state)) return false
-  if (!typeFilterAllows(nodeType(node), state)) return false
-  if (!dateOverlaps(node, state.from, state.to)) return false
-  if (!sourceMatches(node, state.sources)) return false
-  return true
-}
-
-function passesSuggestionFilters(node: GraphExplorerIndexDetails, state: FilterState): boolean {
-  if (!graphAllowed(node, state)) return false
-  const kind = nodeType(node)
-  if (!typeFilterAllows(kind, state)) return false
-  if (!sourceMatches(node, state.sources)) return false
-  if (!dateOverlaps(node, state.from, state.to)) return false
-  return true
-}
-
-function scoreNode(node: GraphExplorerIndexDetails, degree: number): number {
-  return node.claimCount + node.quoteCount * 1.8 + degree * 0.35
-}
-
-function suggestionPeriodHint(node: GraphExplorerIndexDetails): string {
-  const explicit = [
-    node.dateStart !== undefined || node.dateEnd !== undefined
-      ? [node.dateStart ?? "?", node.dateEnd ?? node.dateStart ?? "?"].join("–")
-      : "",
-    ...(node.centuries ?? []),
-    ...(node.periodGroups ?? []),
-  ].filter(Boolean)
-  if (explicit.length > 0) return explicit.slice(0, 2).join(", ")
-  return (node.citationSourceTitles ?? []).slice(0, 1).join("")
-}
-
-function suggestionRank(
-  slug: SimpleSlug,
-  node: GraphExplorerIndexDetails,
-  query: string,
-  globalDegree: number,
-): SearchSuggestion | null {
-  const needle = normalizedText(query)
-  if (!needle) return null
-  const title = normalizedText(node.title)
-  const tags = normalizedText((node.tags ?? []).join(" "))
-  const sources = normalizedText((node.citationSourceTitles ?? []).join(" "))
-  const summary = normalizedText(node.summary)
-  const slugText = normalizedText(slug)
-  let score = 0
-  let reason = ""
-  if (title === needle) {
-    score = 10000
-    reason = "tikslus pavadinimas"
-  } else if (title.startsWith(needle)) {
-    score = 7600
-    reason = "pavadinimo pradžia"
-  } else if (title.includes(needle)) {
-    score = 5200
-    reason = "pavadinimas"
-  } else if (slugText.includes(needle)) {
-    score = 4200
-    reason = "kelias"
-  } else if (tags.includes(needle)) {
-    score = 3200
-    reason = "žyma"
-  } else if (sources.includes(needle)) {
-    score = 2400
-    reason = "šaltinis"
-  } else if (summary.includes(needle)) {
-    score = 1200
-    reason = "santrauka"
-  } else {
-    return null
-  }
-  score += Math.log1p(node.claimCount + node.quoteCount * 1.5 + globalDegree * 2) * 95
-  return { slug, node, score, reason }
-}
-
-function searchSuggestions(
-  nodesBySlug: Map<SimpleSlug, GraphExplorerIndexDetails>,
-  state: FilterState,
-  query: string,
-  globalDegrees: Map<SimpleSlug, number>,
-): SearchSuggestion[] {
-  return [...nodesBySlug.entries()]
-    .filter(([, node]) => passesSuggestionFilters(node, state))
-    .map(([slug, node]) => suggestionRank(slug, node, query, globalDegrees.get(slug) ?? 0))
-    .filter((suggestion): suggestion is SearchSuggestion => Boolean(suggestion))
-    .sort((a, b) => {
-      const diff = b.score - a.score
-      return diff === 0 ? a.node.title.localeCompare(b.node.title, "lt") : diff
-    })
-    .slice(0, 10)
-}
-
-function computeGlobalDegrees(nodesBySlug: Map<SimpleSlug, GraphExplorerIndexDetails>): Map<SimpleSlug, number> {
-  const degrees = new Map<SimpleSlug, Set<SimpleSlug>>()
-  for (const [source, node] of nodesBySlug) {
-    for (const link of node.links ?? []) {
-      const target = simplifySlug(link.target as FullSlug)
-      if (!nodesBySlug.has(target)) continue
-      degrees.set(source, (degrees.get(source) ?? new Set()).add(target))
-      degrees.set(target, (degrees.get(target) ?? new Set()).add(source))
-    }
-  }
-  return new Map([...degrees.entries()].map(([slug, targets]) => [slug, targets.size]))
-}
-
-function resolveFocus(
-  nodes: Map<SimpleSlug, GraphExplorerIndexDetails>,
-  state: FilterState,
-): SimpleSlug | "" {
-  if (state.focus && nodes.has(state.focus)) return state.focus
-  if (state.focus) {
-    const bySimplified = [...nodes.keys()].find((slug) => slug === simplifySlug(state.focus as FullSlug))
-    if (bySimplified) return bySimplified
-  }
-  const query = state.q || (state.preset === "vytautas" ? "Vytautas" : "")
-  if (!query) return ""
-  const needle = normalizedText(query)
-  return (
-    [...nodes.entries()].find(([, node]) => normalizedText(node.title) === needle)?.[0] ??
-    [...nodes.entries()].find(([, node]) => normalizedText(node.title).includes(needle))?.[0] ??
-    ""
-  )
-}
-
-function buildVisibleGraph(
-  nodesBySlug: Map<SimpleSlug, GraphExplorerIndexDetails>,
-  state: FilterState,
-): { nodes: RuntimeNode[]; links: RuntimeLink[]; focus: SimpleSlug | "" } {
-  const adjacency = new Map<SimpleSlug, Set<SimpleSlug>>()
-  const linkDetails = new Map<string, GraphExplorerLinkDetails>()
-  for (const [source, node] of nodesBySlug) {
-    for (const link of node.links ?? []) {
-      const target = simplifySlug(link.target as FullSlug)
-      if (!nodesBySlug.has(target)) continue
-      if (!graphAllowed(nodesBySlug.get(target)!, state) || !graphAllowed(node, state)) continue
-      adjacency.set(source, (adjacency.get(source) ?? new Set()).add(target))
-      adjacency.set(target, (adjacency.get(target) ?? new Set()).add(source))
-      linkDetails.set(`${source} ${target}`, link)
-      linkDetails.set(`${target} ${source}`, {
-        ...link,
-        target: source as unknown as FullSlug,
-        targetTitle: node.title,
-        targetType: node.type,
-      })
-    }
-  }
-
-  const focus = resolveFocus(nodesBySlug, state)
-  let selected = new Set<SimpleSlug>()
-  const distances = new Map<SimpleSlug, number>()
-  if (focus && state.depth >= 0) {
-    selected.add(focus)
-    distances.set(focus, 0)
-    let frontier = new Set<SimpleSlug>([focus])
-    for (let step = 0; step < state.depth; step++) {
-      const next = new Set<SimpleSlug>()
-      for (const slug of frontier) {
-        for (const neighbour of adjacency.get(slug) ?? []) {
-          const node = nodesBySlug.get(neighbour)
-          if (node && passesFocusTraversalFilters(node, state)) {
-            next.add(neighbour)
-            selected.add(neighbour)
-            if (!distances.has(neighbour)) {
-              distances.set(neighbour, step + 1)
-            }
-          }
-        }
-      }
-      frontier = next
-    }
-  } else {
-    for (const [slug, node] of nodesBySlug) {
-      if (passesFilters(node, state)) {
-        selected.add(slug)
-      }
-    }
-  }
-
-  if (selected.size > state.maxNodes) {
-    selected = new Set(
-      [...selected]
-        .sort((a, b) => {
-          const aNode = nodesBySlug.get(a)!
-          const bNode = nodesBySlug.get(b)!
-          const distanceDiff = (distances.get(a) ?? Number.POSITIVE_INFINITY) - (distances.get(b) ?? Number.POSITIVE_INFINITY)
-          if (distanceDiff !== 0) return distanceDiff
-          const diff =
-            scoreNode(bNode, adjacency.get(b)?.size ?? 0) - scoreNode(aNode, adjacency.get(a)?.size ?? 0)
-          return diff === 0 ? aNode.title.localeCompare(bNode.title, "lt") : diff
-        })
-        .slice(0, state.maxNodes),
-    )
-    if (focus) selected.add(focus)
-  }
-
-  const runtimeNodes: RuntimeNode[] = [...selected].map((slug) => {
-    const node = nodesBySlug.get(slug)!
-    const degree = [...(adjacency.get(slug) ?? [])].filter((target) => selected.has(target)).length
-    const globalDegree = adjacency.get(slug)?.size ?? 0
-    return {
-      ...node,
-      id: slug,
-      degree,
-      globalDegree,
-      hop: distances.get(slug) ?? -1,
-      score: scoreNode(node, globalDegree),
-    }
+async function loadLayer(kind: string, topology: GraphTopology): Promise<TopologyEdge[]> {
+  if (layerCache.has(kind)) return layerCache.get(kind)!
+  const file = topology.layerFiles[kind]
+  if (!file) return []
+  const url=new URL(file,graphDataBase);url.searchParams.set("v",topology.generatedAt)
+  type CompactEdge = [string, number, number, number, number, number, number[]]
+  const payload = await json<CompactEdge[]>(url)
+  const edges:TopologyEdge[]=payload.map(([id,fromIndex,toIndex,kindIndex,confidence,evidenceCount,sourceRefs])=>{
+    const sourceIds=sourceRefs.map((index)=>topology.sourceIds[index]).filter(Boolean)
+    return{id,from:topology.nodes[fromIndex].slug,to:topology.nodes[toIndex].slug,kind:topology.relationKindCodes[kindIndex]??kind,layer:kind,confidence,evidenceCount,sourceIds,sourceTitles:sourceIds.map((id)=>sourceTitleCache.get(id)??id)}
   })
-  const runtimeBySlug = new Map(runtimeNodes.map((node) => [node.id, node]))
-  const runtimeLinks: RuntimeLink[] = []
-  const seenLinks = new Set<string>()
-  for (const source of selected) {
-    for (const target of adjacency.get(source) ?? []) {
-      if (!selected.has(target)) continue
-      const pairKey = [source, target].sort().join(" ")
-      if (seenLinks.has(pairKey)) continue
-      seenLinks.add(pairKey)
-      const details = linkDetails.get(`${source} ${target}`)
-      if (!details) continue
-      if (!linkMatchesGlobalSources(details)) continue
-      runtimeLinks.push({
-        source: runtimeBySlug.get(source)!,
-        target: runtimeBySlug.get(target)!,
-        details,
-      })
-    }
-  }
-  return { nodes: runtimeNodes, links: runtimeLinks, focus }
+  layerCache.set(kind, edges)
+  return edges
 }
-
-function radius(node: RuntimeNode, focus: SimpleSlug | "" = ""): number {
-  const base = Math.min(22, Math.max(5, 4 + Math.log1p(node.score) * 2.15))
-  return node.id === focus ? Math.min(28, base + 5) : base
+function createLayoutWorker(): Worker {
+  const source = `onmessage=e=>{const{nodes,focus}=e.data;if(!focus){postMessage(nodes);return}const byHop={};for(const n of nodes){const hop=Math.max(0,n.hop);(byHop[hop]??=[]).push(n)}let previousOuter=0;for(const [raw,hopNodes] of Object.entries(byHop)){const hop=+raw;if(hop===0){hopNodes[0].px=0;hopNodes[0].py=0;continue}const typeGroups={};for(const n of hopNodes)(typeGroups[n.type]??=[]).push(n);const groups=Object.values(typeGroups).sort((a,b)=>b.length-a.length||a[0].type.localeCompare(b[0].type));const total=hopNodes.length;const inner=hop===1?75:previousOuter+95;const outer=inner+Math.max(180,Math.min(560,110+Math.sqrt(total)*20));previousOuter=outer;let offset=0;for(const list of groups){list.sort((a,b)=>b.degree-a.degree||a.id.localeCompare(b.id));const share=list.length/total;const start=(offset/total)*Math.PI*2;const span=Math.max(.16,share*Math.PI*2);for(let i=0;i<list.length;i++){const n=list[i];const seed=[...n.id].reduce((v,c)=>(v*33+c.charCodeAt(0))>>>0,5381);const phase=((i*.61803398875)%1);const angle=start+span*(.08+.84*phase)+(seed%37)*.0009;const radius=inner+Math.sqrt((i+.65)/Math.max(1,list.length))*(outer-inner)+(seed%13-6)*1.5;n.px=Math.cos(angle)*radius;n.py=Math.sin(angle)*radius}offset+=list.length}}postMessage(nodes)}`
+  return new Worker(URL.createObjectURL(new Blob([source], { type: "text/javascript" })))
 }
-
-function relativePageUrl(slug: SimpleSlug): URL {
-  const current = getFullSlug(window)
-  const href = resolveRelative(current, slug)
-  return new URL(href, window.location.toString())
-}
-
-function pageFetchUrls(slug: SimpleSlug): URL[] {
-  const cleanUrl = relativePageUrl(slug)
-  const htmlUrl = new URL(cleanUrl.toString())
-  if (!htmlUrl.pathname.endsWith("/") && !htmlUrl.pathname.endsWith(".html")) {
-    htmlUrl.pathname = `${htmlUrl.pathname}.html`
-  }
-  return htmlUrl.toString() === cleanUrl.toString() ? [cleanUrl] : [cleanUrl, htmlUrl]
-}
-
-function panelModeControls(state: FilterState): string {
-  const button = (mode: FilterState["panel"], label: string) =>
-    `<button type="button" data-panel-mode="${mode}" class="${state.panel === mode ? "is-active" : ""}">${label}</button>`
-  return `<div class="graph-explorer-panel-modes" role="group" aria-label="Panelio režimas">${button("details", "Detalės")}${button("page", "Puslapis")}${button("hidden", "Slėpti")}</div>`
-}
-
-function bindPanelModeControls(panel: HTMLElement, setPanelMode: (mode: FilterState["panel"]) => void) {
-  panel.querySelectorAll<HTMLButtonElement>("[data-panel-mode]").forEach((button) => {
-    button.addEventListener("click", () => {
-      const mode = button.dataset.panelMode
-      if (mode === "details" || mode === "page" || mode === "hidden") {
-        setPanelMode(mode)
-      }
-    })
+async function layoutGraph(graph: VisibleGraph, worker: Worker): Promise<void> {
+  if (!graph.focus) return
+  const result = await new Promise<Array<{ id: string; px: number; py: number }>>((resolve) => {
+    const listener = (event: MessageEvent) => { worker.removeEventListener("message", listener); resolve(event.data) }
+    worker.addEventListener("message", listener)
+    worker.postMessage({ focus: graph.focus!.id, nodes: graph.nodes.map(({ id, px, py, hop, degree, type }) => ({ id, px, py, hop, degree, type })) })
   })
+  const positions = new Map(result.map((node) => [node.id, node]))
+  for (const node of graph.nodes) { const position = positions.get(node.id); if (position) { node.px = position.px; node.py = position.py } }
 }
-
-function normalizePanelContent(content: Element, pageUrl: URL): HTMLElement {
-  const clone = content.cloneNode(true) as HTMLElement
-  clone.querySelectorAll("script, style, iframe, canvas, .popover, .graph, .breadcrumbs").forEach((el) => el.remove())
-  clone.querySelectorAll<HTMLAnchorElement>("a[href]").forEach((link) => {
-    const href = link.getAttribute("href")
-    if (!href) return
-    link.href = new URL(href, pageUrl).toString()
-    link.dataset.noPopover = "true"
-  })
-  clone.querySelectorAll<HTMLImageElement>("img[src]").forEach((img) => {
-    const src = img.getAttribute("src")
-    if (!src) return
-    img.src = new URL(src, pageUrl).toString()
-  })
-  return clone
+function nodeRadius(node: RuntimeNode, focused: boolean): number {
+  return Math.min(17, 3.8 + Math.log1p(node.claimCount + node.quoteCount * 1.4 + node.degree) * 1.25) + (focused ? 4 : 0)
 }
-
-async function renderPagePanel(
-  panel: HTMLElement,
-  node: RuntimeNode,
-  state: FilterState,
-  setPanelMode: (mode: FilterState["panel"]) => void,
-) {
-  const pageUrls = pageFetchUrls(node.id)
-  const pageUrl = pageUrls[0]
-  panel.innerHTML = `
-    ${panelModeControls(state)}
-    <div class="graph-explorer-panel-header">
-      <p>${nodeType(node)}</p>
-      <h2>${node.title}</h2>
-    </div>
-    <p class="graph-explorer-loading">Kraunamas puslapis...</p>
-  `
-  bindPanelModeControls(panel, setPanelMode)
-  try {
-    let response: Response | null = null
-    let responseUrl = pageUrl
-    for (const candidateUrl of pageUrls) {
-      const candidateResponse = await fetch(candidateUrl, { cache: "force-cache" })
-      if (candidateResponse.ok) {
-        response = candidateResponse
-        responseUrl = candidateUrl
-        break
-      }
-    }
-    if (!response) {
-      panel.querySelector(".graph-explorer-loading")!.textContent = "Nepavyko rasti puslapio turinio."
-      return
-    }
-    const html = new DOMParser().parseFromString(await response.text(), "text/html")
-    const article = html.querySelector("article.popover-hint") ?? html.querySelector("article") ?? html.querySelector("main")
-    if (!article) {
-      panel.querySelector(".graph-explorer-loading")!.textContent = "Nepavyko rasti puslapio turinio."
-      return
-    }
-    const content = normalizePanelContent(article, responseUrl)
-    content.classList.add("graph-explorer-page-content")
-    panel.querySelector(".graph-explorer-loading")?.replaceWith(content)
-  } catch (error) {
-    console.error(error)
-    const loading = panel.querySelector(".graph-explorer-loading")
-    if (loading) loading.textContent = "Nepavyko įkelti puslapio."
-  }
+function relativePageUrl(slug: string): string {
+  return new URL(resolveRelative(getFullSlug(window), slug as SimpleSlug), window.location.href).toString()
 }
-
-function setFormState(root: HTMLElement, state: FilterState) {
-  const form = root.querySelector("[data-graph-filters]") as HTMLFormElement | null
-  if (!form) return
-  ;(form.elements.namedItem("q") as HTMLInputElement).value = state.q
-  ;(form.elements.namedItem("preset") as HTMLSelectElement).value = state.preset
-  ;(form.elements.namedItem("minClaims") as HTMLInputElement).value = String(state.minClaims)
-  ;(form.elements.namedItem("minQuotes") as HTMLInputElement).value = String(state.minQuotes)
-  ;(form.elements.namedItem("from") as HTMLInputElement).value = state.from === null ? "" : String(state.from)
-  ;(form.elements.namedItem("to") as HTMLInputElement).value = state.to === null ? "" : String(state.to)
-  const activeDepth = form.querySelector<HTMLInputElement>(`input[name="depth"][value="${state.depth}"]`)
-  if (activeDepth) activeDepth.checked = true
-  ;(form.elements.namedItem("maxNodes") as HTMLInputElement).value = String(state.maxNodes)
-  const selectedTypes = new Set(
-    state.types.length > 0
-      ? state.types
-      : [
-          ...defaultVisibleTypes,
-          ...(state.showPlaces ? ["vieta"] : []),
-          ...(state.showTopics || state.preset === "topics" ? ["tema"] : []),
-        ],
-  )
-  form.querySelectorAll<HTMLInputElement>("[data-type-toggle]").forEach((input) => {
-    input.checked = selectedTypes.has(input.value)
-  })
+function panelControls(state: GraphState): string {
+  return `<div class="graph-explorer-panel-modes"><button data-panel-mode="details" class="${state.panel === "details" ? "is-active" : ""}">Detalės</button><button data-panel-mode="page" class="${state.panel === "page" ? "is-active" : ""}">Puslapis</button><button data-panel-mode="hidden">Slėpti</button></div>`
 }
-
-function readSelectedTypes(form: HTMLFormElement): string[] {
-  const selected = [...form.querySelectorAll<HTMLInputElement>("[data-type-toggle]")]
-    .filter((input) => input.checked)
-    .map((input) => input.value)
-  return selected.length > 0 ? selected : [noTypeSelection]
+function bindPanelControls(panel: HTMLElement, change: (mode: GraphState["panel"]) => void) {
+  panel.querySelectorAll<HTMLButtonElement>("[data-panel-mode]").forEach((button) => button.addEventListener("click", () => change(button.dataset.panelMode as GraphState["panel"])))
 }
-
-function shouldWriteExplicitTypes(types: string[]): boolean {
-  if (types.includes(noTypeSelection)) return true
-  if (types.length !== defaultVisibleTypes.length) return true
-  const defaults = new Set(defaultVisibleTypes)
-  return types.some((type) => !defaults.has(type as (typeof defaultVisibleTypes)[number]))
+function relationBreakdown(node: TopologyNode, graph: VisibleGraph, topology: GraphTopology, state: GraphState): string {
+  const rows = Object.entries(node.relationCounts ?? {}).map(([kind, count]) => {
+    const spec = topology.relationKinds[kind]
+    if (!spec) return ""
+    const active = state.relations.includes(kind)
+    const shownOut = graph.edges.filter((edge) => edge.kind === kind && edge.from === node.slug).length
+    const shownIn = graph.edges.filter((edge) => edge.kind === kind && edge.to === node.slug).length
+    return `<button type="button" class="graph-relation-count ${active ? "is-active" : ""}" data-panel-relation="${escapeHtml(kind)}"><span>${escapeHtml(spec.label)}</span><b>${shownOut} / ${count.out}</b><small>${escapeHtml(spec.inverseLabel)}</small><b>${shownIn} / ${count.in}</b></button>`
+  }).filter(Boolean)
+  return rows.length ? `<h3>Ryšiai pagal tipą</h3><div class="graph-relation-breakdown">${rows.join("")}</div>` : ""
 }
-
-function normalizedTypesForState(types: string[]): string[] {
-  return shouldWriteExplicitTypes(types) ? types : []
+function activeFilterSummary(state: GraphState, topology: GraphTopology): string {
+  const labels:string[]=[]
+  if(state.direction!=="both")labels.push(state.direction==="out"?"tik išeinantys ryšiai":"tik įeinantys ryšiai")
+  if(state.minClaims)labels.push(`nuo ${state.minClaims} teiginių`)
+  if(state.minQuotes)labels.push(`nuo ${state.minQuotes} citatų`)
+  if(state.minConfidence!==.5)labels.push(`patikimumas nuo ${Math.round(state.minConfidence*100)} %`)
+  if(state.from!==null||state.to!==null)labels.push(`laikotarpis ${state.from??"…"}–${state.to??"…"}`)
+  if(state.sources.length)labels.push(`${state.sources.length} pasirinkt. knygų`)
+  const defaultRelations=Object.values(topology.relationKinds).filter((spec)=>spec.defaultOn).length
+  if(state.relations.length!==defaultRelations)labels.push(`${state.relations.length} ryšių tipai`)
+  return labels.length?`<div class="graph-active-filters"><strong>Aktyvūs filtrai</strong><span>${labels.map(escapeHtml).join(" · ")}</span></div>`:""
 }
-
-function typeIsSelected(types: string[], type: string): boolean {
-  return types.includes(type)
-}
-
-function formTypesForLegacyFlags(types: string[]): { types: string[]; showPlaces: boolean; showTopics: boolean } {
-  return {
-    types: normalizedTypesForState(types),
-    showPlaces: typeIsSelected(types, "vieta"),
-    showTopics: typeIsSelected(types, "tema"),
-  }
-}
-
-function readFormState(root: HTMLElement, previous: FilterState): FilterState {
-  const form = root.querySelector("[data-graph-filters]") as HTMLFormElement
-  const activeDepth = form.querySelector<HTMLInputElement>("input[name='depth']:checked")
-  const typeState = formTypesForLegacyFlags(readSelectedTypes(form))
-  return {
-    ...previous,
-    q: (form.elements.namedItem("q") as HTMLInputElement).value.trim(),
-    preset: (form.elements.namedItem("preset") as HTMLSelectElement).value,
-    minClaims: Math.max(0, parseNumber((form.elements.namedItem("minClaims") as HTMLInputElement).value, 0)),
-    minQuotes: Math.max(0, parseNumber((form.elements.namedItem("minQuotes") as HTMLInputElement).value, 0)),
-    from: parseOptionalNumber((form.elements.namedItem("from") as HTMLInputElement).value),
-    to: parseOptionalNumber((form.elements.namedItem("to") as HTMLInputElement).value),
-    depth: parseNumber(activeDepth?.value ?? null, -1),
-    maxNodes: Math.max(25, parseNumber((form.elements.namedItem("maxNodes") as HTMLInputElement).value, 250)),
-    showPlaces: typeState.showPlaces,
-    showTopics: typeState.showTopics,
-    types: typeState.types,
-  }
-}
-
-function sourceOptionLabel(source: CitationSourceRegistryEntry): string {
-  const objectCount = Number(source.objectCount ?? 0)
-  const quoteCount = Number(source.quoteCount ?? source.count ?? 0)
-  return objectCount > 0 || quoteCount > 0
-    ? `${source.title} — ${objectCount} ob. (${quoteCount} cit.)`
-    : source.title
-}
-
-function escapeHtml(value: string): string {
-  return value
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#39;")
-}
-
-function sourceSummaryLabel(state: FilterState, sources: CitationSourceRegistryEntry[]): string {
-  if (state.sources.length === 0) return "Visos knygos"
-  if (state.sources.length === 1) {
-    const source = sources.find((entry) => entry.id === state.sources[0])
-    return source ? source.title : "1 knyga"
-  }
-  return `${state.sources.length} knygos`
-}
-
-function syncSourceControls(
-  root: HTMLElement,
-  state: FilterState,
-  onSourcesChange: (sources: string[]) => void,
-) {
-  const sources = cachedCitationSources ?? []
-  const list = root.querySelector<HTMLElement>("[data-source-list]")
-  const summary = root.querySelector<HTMLElement>("[data-source-summary]")
-  const search = root.querySelector<HTMLInputElement>("[data-source-search]")
-  if (summary) {
-    summary.textContent = sourceSummaryLabel(state, sources)
-  }
-  if (!list) return
-  if (!cachedCitationSources) {
-    list.innerHTML = `<p class="graph-explorer-empty">Kraunamos knygos...</p>`
-    return
-  }
-  const selected = new Set(state.sources)
-  const query = normalizedText(search?.value ?? "")
-  const filtered = sources.filter((source) => normalizedText(source.title).includes(query))
-  if (filtered.length === 0) {
-    list.innerHTML = `<p class="graph-explorer-empty">Nerasta knygų.</p>`
-    return
-  }
-  list.innerHTML = filtered
-    .map((source) => {
-      const checked = selected.has(source.id) ? `checked` : ""
-      return `
-        <label class="graph-explorer-source-option">
-          <input type="checkbox" value="${escapeHtml(source.id)}" ${checked} data-source-checkbox />
-          <span>${escapeHtml(sourceOptionLabel(source))}</span>
-        </label>
-      `
-    })
-    .join("")
-  list.querySelectorAll<HTMLInputElement>("[data-source-checkbox]").forEach((checkbox) => {
-    checkbox.addEventListener("change", () => {
-      const next = new Set(state.sources)
-      if (checkbox.checked) {
-        next.add(checkbox.value)
-      } else {
-        next.delete(checkbox.value)
-      }
-      onSourcesChange([...next])
-    })
-  })
-}
-
-function renderNodePanel(
-  panel: HTMLElement,
-  node: RuntimeNode,
-  state: FilterState,
-  activateFocus: (slug: SimpleSlug) => void,
-  clearFocus: () => void,
-  setPanelMode: (mode: FilterState["panel"]) => void,
-) {
-  const period = [
-    node.dateStart !== undefined || node.dateEnd !== undefined
-      ? [node.dateStart ?? "?", node.dateEnd ?? node.dateStart ?? "?"].join("–")
-      : "",
-    ...(node.centuries ?? []),
-  ]
-    .filter(Boolean)
-    .join(", ")
+async function renderNodePanel(panel: HTMLElement, node: RuntimeNode, graph: VisibleGraph, topology: GraphTopology, state: GraphState, setPanel: (mode: GraphState["panel"]) => void, toggleRelation: (kind: string) => void) {
+  panel.scrollTop = 0
   if (state.panel === "page") {
-    renderPagePanel(panel, node, state, setPanelMode)
+    panel.innerHTML = `${panelControls(state)}<p>Kraunamas puslapis…</p>`; bindPanelControls(panel, setPanel)
+    try {
+      const response = await fetch(relativePageUrl(node.id)); const html = await response.text(); const doc = new DOMParser().parseFromString(html, "text/html")
+      const article = doc.querySelector("article.popover-hint, article")
+      panel.innerHTML = `${panelControls(state)}<div class="graph-explorer-page-content">${article?.innerHTML ?? "Puslapio nepavyko įkelti."}</div>`; bindPanelControls(panel, setPanel)
+    } catch { panel.innerHTML = `${panelControls(state)}<p>Puslapio nepavyko įkelti.</p>`; bindPanelControls(panel, setPanel) }
     return
   }
-  panel.innerHTML = `
-    ${panelModeControls(state)}
-    <div class="graph-explorer-panel-header">
-      <p>${nodeType(node)}</p>
-      <h2>${node.title}</h2>
-    </div>
-    <dl class="graph-explorer-stats">
-      <div><dt>Teiginiai</dt><dd>${node.claimCount}</dd></div>
-      <div><dt>Citatos</dt><dd>${node.quoteCount}</dd></div>
-      <div><dt>Ryšiai</dt><dd>${node.degree}</dd></div>
-    </dl>
-    ${period ? `<p class="graph-explorer-period">${period}</p>` : ""}
-    ${node.summary ? `<p class="graph-explorer-summary">${node.summary}</p>` : ""}
-    <div class="graph-explorer-actions">
-      <a class="graph-explorer-button" href="${relativePageUrl(node.id)}">Atidaryti</a>
-      ${
-        state.focus === node.id
-          ? `<button type="button" data-action="clear-focus">Grįžti į bendrą žemėlapį</button>`
-          : `<button type="button" data-action="focus">Rodyti tiesioginius ryšius</button>`
+  const details = await nodeDetails(node.id, topology)
+  const total = Object.values(node.relationCounts ?? {}).reduce((sum, count) => sum + count.in + count.out, 0)
+  panel.innerHTML = `${panelControls(state)}
+    <header class="graph-explorer-panel-header"><p>${escapeHtml(typeLabels[node.type] ?? node.type)}</p><h2>${escapeHtml(node.title)}</h2></header>
+    <dl class="graph-explorer-stats"><div><dt>Teiginiai</dt><dd>${node.claimCount}</dd></div><div><dt>Citatos</dt><dd>${node.quoteCount}</dd></div><div><dt>Rodomi ryšiai</dt><dd>${graph.edges.filter((edge) => edge.from === node.id || edge.to === node.id).length} / ${total}</dd></div></dl>
+    ${activeFilterSummary(state,topology)}
+    ${details?.summary ? `<p class="graph-explorer-summary">${escapeHtml(details.summary)}</p>` : ""}
+    <div class="graph-explorer-actions"><a href="${relativePageUrl(node.id)}">Atidaryti</a></div>
+    ${relationBreakdown(node, graph, topology, state)}
+    ${details?.topClaims?.length ? `<h3>Teiginiai</h3><ol>${details.topClaims.slice(0, 3).map((claim) => `<li>${escapeHtml(claim.text)}</li>`).join("")}</ol>` : ""}
+    ${details?.sources?.length ? `<h3>Šaltiniai</h3><ul>${details.sources.slice(0, 8).map((source) => `<li>${escapeHtml(source)}</li>`).join("")}</ul>` : ""}`
+  bindPanelControls(panel, setPanel)
+  panel.querySelectorAll<HTMLButtonElement>("[data-panel-relation]").forEach((button) => button.addEventListener("click", () => toggleRelation(button.dataset.panelRelation!)))
+}
+async function renderEdgePanel(panel: HTMLElement, edge: RuntimeEdge, topology: GraphTopology, state: GraphState, setPanel: (mode: GraphState["panel"]) => void) {
+  panel.scrollTop = 0
+  const spec = topology.relationKinds[edge.kind]
+  const evidence = await edgeEvidence(edge.id, topology)
+  panel.innerHTML = `${panelControls(state)}<header class="graph-explorer-panel-header"><p>Ryšys</p><h2>${escapeHtml(edge.source.title)} <span>${escapeHtml(spec?.label ?? edge.kind)}</span> ${escapeHtml(edge.target.title)}</h2></header>
+    <dl class="graph-explorer-stats"><div><dt>Patikimumas</dt><dd>${Math.round(edge.confidence * 100)}%</dd></div><div><dt>Įrodymai</dt><dd>${edge.evidenceCount}</dd></div><div><dt>Sluoksnis</dt><dd>${escapeHtml(edge.layer)}</dd></div></dl>
+    ${edge.sourceTitles.length?`<p class="graph-edge-sources"><strong>Šaltiniai:</strong> ${edge.sourceTitles.map(escapeHtml).join(", ")}</p>`:""}
+    ${evidence.slice(0, 3).map((item) => `<article class="graph-edge-evidence"><strong>${escapeHtml(item.claimId)}</strong><p>${escapeHtml(item.claimText)}</p>${item.quoteText ? `<blockquote>${escapeHtml(item.quoteText)}</blockquote>` : ""}<small>${escapeHtml(item.source)}</small></article>`).join("") || "<p>Ryšys pateiktas viešame puslapyje be atskiros citatos peržiūros.</p>"}`
+  bindPanelControls(panel, setPanel)
+}
+type Renderer = { destroy: () => void; camera: () => Camera; applyCamera: (camera: Camera) => void }
+async function renderPixi(container: HTMLElement, graph: VisibleGraph, handlers: { focus: (slug: string) => void; edge: (edge: RuntimeEdge) => void; camera: (camera: Camera) => void }): Promise<Renderer> {
+  container.querySelector("canvas")?.remove()
+  const width = Math.max(320, container.clientWidth), height = Math.max(320, container.clientHeight)
+  const app = new Application()
+  await app.init({ width, height, antialias: true, autoStart: false, autoDensity: true, backgroundAlpha: 0, preference: "webgl", resolution: Math.min(2, window.devicePixelRatio) })
+  container.prepend(app.canvas)
+  const world = new Container(); const edgeGfx = new Graphics(); const nodeGfx = new Graphics(); const labelLayer = new Container<Text>()
+  world.addChild(edgeGfx, nodeGfx, labelLayer); app.stage.addChild(world)
+  let transform: ZoomTransform = zoomIdentity
+  let hovered: RuntimeNode | null = null
+  const labels = new Map<string, Text>()
+  const rankedNodes = [...graph.nodes].sort((a, b) => (b.degree + b.claimCount * .08) - (a.degree + a.claimCount * .08))
+  const byNodeId = new Map(graph.nodes.map((node)=>[node.id,node]))
+  function ensureLabel(node: RuntimeNode): Text {
+    let label=labels.get(node.id)
+    if(!label){label=new Text({text:node.title,anchor:{x:.5,y:1.3},style:{fontSize:12,fill:0x241c18,fontFamily:"Arial, sans-serif",fontWeight:node===graph.focus?"700":"500",stroke:{color:0xf8f2e8,width:3}}});label.position.set(node.px,node.py-nodeRadius(node,node===graph.focus));labelLayer.addChild(label);labels.set(node.id,label)}
+    return label
+  }
+  function updateLabels(){
+    const limit=mobileProfile()?(transform.k<.7?20:transform.k<1.4?60:250):(transform.k<.35?30:transform.k<.7?90:transform.k<1.2?180:transform.k<2?500:1400)
+    const wanted=new Set(rankedNodes.slice(0,limit).map((node)=>node.id));if(graph.focus)wanted.add(graph.focus.id);if(hovered)wanted.add(hovered.id)
+    for(const id of wanted){const node=byNodeId.get(id);if(node)ensureLabel(node)}
+    for(const [id,label] of labels){label.visible=wanted.has(id);label.scale.set(1/Math.max(.75,Math.sqrt(transform.k)))}
+  }
+  function draw(redrawGeometry=true) {
+    if(redrawGeometry){
+      edgeGfx.clear(); nodeGfx.clear()
+      for (const edge of graph.edges) {
+        const selected = hovered && (edge.from === hovered.id || edge.to === hovered.id)
+        const touchesFocus = graph.focus && (edge.from === graph.focus.id || edge.to === graph.focus.id)
+        const density = graph.edges.length > 900 ? .34 : graph.edges.length > 350 ? .56 : 1
+        const alpha = selected ? .9 : Math.max(.025, Math.min(touchesFocus ? .3 : .2, edge.confidence * .42 * density * (touchesFocus ? 1 : .55)))
+        const color = selected ? 0xa52d20 : edge.layer === "semantic" ? 0x756149 : 0xb0a18a
+      edgeGfx.moveTo(edge.source.px, edge.source.py).lineTo(edge.target.px, edge.target.py).stroke({ color, alpha, width: selected ? 2.2 : Math.min(2.1, .35 + Math.log1p(edge.evidenceCount) * .28) })
       }
-    </div>
-    ${
-      node.topClaims.length > 0
-        ? `<h3>Teiginiai</h3><ol>${node.topClaims
-            .slice(0, 3)
-            .map((claim) => `<li>${claim.text}</li>`)
-            .join("")}</ol>`
-        : ""
-    }
-    ${
-      node.citationSourceTitles.length > 0
-        ? `<h3>Šaltiniai</h3><ul>${node.citationSourceTitles
-            .slice(0, 8)
-            .map((source) => `<li>${source}</li>`)
-            .join("")}</ul>`
-        : ""
-    }
-  `
-  bindPanelModeControls(panel, setPanelMode)
-  panel.querySelector<HTMLButtonElement>("[data-action='focus']")?.addEventListener("click", () => {
-    activateFocus(node.id)
-  })
-  panel.querySelector<HTMLButtonElement>("[data-action='clear-focus']")?.addEventListener("click", () => {
-    clearFocus()
-  })
-}
-
-function linkNode(linkEnd: RuntimeNode | string | number): RuntimeNode {
-  return linkEnd as RuntimeNode
-}
-
-type CanvasTransform = {
-  x: number
-  y: number
-  k: number
-}
-
-function linkEndpoints(link: RuntimeLink): [RuntimeNode, RuntimeNode] {
-  return [linkNode(link.source), linkNode(link.target)]
-}
-
-function nodeScreenPosition(node: RuntimeNode, transform: CanvasTransform): { x: number; y: number } {
-  return {
-    x: (node.x ?? 0) * transform.k + transform.x,
-    y: (node.y ?? 0) * transform.k + transform.y,
-  }
-}
-
-function distanceToSegment(
-  pointX: number,
-  pointY: number,
-  startX: number,
-  startY: number,
-  endX: number,
-  endY: number,
-): number {
-  const dx = endX - startX
-  const dy = endY - startY
-  if (dx === 0 && dy === 0) return Math.hypot(pointX - startX, pointY - startY)
-  const t = Math.max(0, Math.min(1, ((pointX - startX) * dx + (pointY - startY) * dy) / (dx * dx + dy * dy)))
-  return Math.hypot(pointX - (startX + t * dx), pointY - (startY + t * dy))
-}
-
-function labelPriority(node: RuntimeNode, focus: SimpleSlug | ""): number {
-  return (node.id === focus ? 10000 : 0) + node.score + node.globalDegree * 1.4 + node.quoteCount * 0.8
-}
-
-function labelCandidates(nodes: RuntimeNode[], focus: SimpleSlug | "", mobile: boolean): RuntimeNode[] {
-  const sorted = [...nodes].sort((a, b) => {
-    const diff = labelPriority(b, focus) - labelPriority(a, focus)
-    return diff === 0 ? a.title.localeCompare(b.title, "lt") : diff
-  })
-  if (!mobile && nodes.length <= 300) {
-    return sorted
-  }
-  const cap = mobile ? 42 : 140
-  return sorted
-    .filter((node) => node.id === focus || node.globalDegree > 2 || node.score > (mobile ? 16 : 10))
-    .slice(0, cap)
-}
-
-function boundsOverlap(a: LabelBounds, b: LabelBounds): boolean {
-  return a.left < b.right && a.right > b.left && a.top < b.bottom && a.bottom > b.top
-}
-
-function labelBounds(x: number, y: number, width: number, height: number): LabelBounds {
-  return {
-    left: x - width / 2,
-    right: x + width / 2,
-    top: y - height,
-    bottom: y,
-  }
-}
-
-function uniqueLabelNodes(nodes: RuntimeNode[], extra: Array<RuntimeNode | null | undefined>): RuntimeNode[] {
-  const seen = new Set<SimpleSlug>()
-  const result: RuntimeNode[] = []
-  for (const node of [...extra.filter(Boolean), ...nodes] as RuntimeNode[]) {
-    if (seen.has(node.id)) continue
-    seen.add(node.id)
-    result.push(node)
-  }
-  return result
-}
-
-function renderEdgePanel(
-  panel: HTMLElement,
-  link: RuntimeLink,
-  state: FilterState,
-  setPanelMode: (mode: FilterState["panel"]) => void,
-) {
-  const source = linkNode(link.source)
-  const target = linkNode(link.target)
-  panel.innerHTML = `
-    ${panelModeControls({ ...state, panel: "details" })}
-    <div class="graph-explorer-panel-header">
-      <p>${link.details.relationKind}</p>
-      <h2>${source.title} → ${target.title}</h2>
-    </div>
-    <dl class="graph-explorer-stats">
-      <div><dt>Įrodymai</dt><dd>${link.details.evidenceCount}</dd></div>
-      <div><dt>Pasitikėjimas</dt><dd>${link.details.confidence.toFixed(2)}</dd></div>
-    </dl>
-    ${
-      link.details.evidencePreview.length > 0
-        ? `<h3>Pagrindimas</h3>${link.details.evidencePreview
-            .slice(0, 3)
-            .map(
-              (item) => `
-                <article class="graph-explorer-evidence">
-                  <p>${item.claimText ?? item.quoteText ?? "Ryšys ateina iš public nuorodos."}</p>
-                  ${item.quoteText && item.claimText ? `<blockquote>${item.quoteText}</blockquote>` : ""}
-                </article>
-              `,
-            )
-            .join("")}`
-        : `<p class="graph-explorer-summary">Ryšys rastas public puslapio nuorodose; citatos preview šiame indekse nėra.</p>`
-    }
-  `
-  bindPanelModeControls(panel, setPanelMode)
-}
-
-function renderGraph(
-  root: HTMLElement,
-  canvas: HTMLElement,
-  panel: HTMLElement,
-  graph: { nodes: RuntimeNode[]; links: RuntimeLink[]; focus: SimpleSlug | "" },
-  state: FilterState,
-  activateFocus: (slug: SimpleSlug) => void,
-  clearFocus: () => void,
-  setPanelMode: (mode: FilterState["panel"]) => void,
-) {
-  root.dataset.panel = state.panel
-  canvas.innerHTML = ""
-  const width = Math.max(canvas.clientWidth, 320)
-  const height = Math.max(canvas.clientHeight, 320)
-  const mobile = mobileGraphProfile()
-  const pixelRatio = Math.min(window.devicePixelRatio || 1, mobile ? 1.5 : 2)
-  const canvasElement = document.createElement("canvas")
-  canvasElement.className = "graph-explorer-renderer"
-  canvasElement.width = Math.floor(width * pixelRatio)
-  canvasElement.height = Math.floor(height * pixelRatio)
-  canvasElement.style.width = `${width}px`
-  canvasElement.style.height = `${height}px`
-  canvasElement.setAttribute("role", "img")
-  canvasElement.setAttribute("aria-label", "Objektų ryšių žemėlapis")
-  canvas.append(canvasElement)
-  const ctx = canvasElement.getContext("2d")
-  if (!ctx) return
-
-  const showPanelButton = document.createElement("button")
-  showPanelButton.className = "graph-explorer-show-panel"
-  showPanelButton.type = "button"
-  showPanelButton.dataset.panelShow = "true"
-  showPanelButton.textContent = "Rodyti panelį"
-  showPanelButton.addEventListener("click", () => setPanelMode("details"))
-  canvas.append(showPanelButton)
-
-  let transform: CanvasTransform = { x: width / 2, y: height / 2, k: 1 }
-  let selectedLink: RuntimeLink | null = null
-  let hoverNode: RuntimeNode | null = null
-  let draggingNode: RuntimeNode | null = null
-  const focusNode = graph.focus ? graph.nodes.find((node) => node.id === graph.focus) : undefined
-  const labels = labelCandidates(graph.nodes, graph.focus, mobile)
-
-  const draw = () => {
-    ctx.save()
-    ctx.scale(pixelRatio, pixelRatio)
-    ctx.clearRect(0, 0, width, height)
-    ctx.fillStyle = getComputedStyle(canvasElement).getPropertyValue("--light") || "#f8f2e8"
-    ctx.fillRect(0, 0, width, height)
-
-    for (const link of graph.links) {
-      const [source, target] = linkEndpoints(link)
-      const s = nodeScreenPosition(source, transform)
-      const t = nodeScreenPosition(target, transform)
-      const evidenceWeight = Math.min(4.5, 0.55 + Math.log1p(link.details.evidenceCount) * 1.2)
-      ctx.beginPath()
-      ctx.moveTo(s.x, s.y)
-      ctx.lineTo(t.x, t.y)
-      ctx.strokeStyle =
-        link === selectedLink
-          ? "#923120"
-          : link.details.relationKind === "public_relation"
-            ? "rgba(150, 130, 94, 0.52)"
-            : "rgba(111, 88, 58, 0.68)"
-      ctx.globalAlpha = Math.max(0.28, Math.min(0.86, link.details.confidence))
-      ctx.lineWidth = evidenceWeight
-      ctx.stroke()
-    }
-    ctx.globalAlpha = 1
-
-    for (const node of graph.nodes) {
-      const pos = nodeScreenPosition(node, transform)
-      const r = radius(node, graph.focus) * Math.max(0.72, Math.min(1.25, Math.sqrt(transform.k)))
-      ctx.beginPath()
-      ctx.arc(pos.x, pos.y, r, 0, Math.PI * 2)
-      ctx.fillStyle = typeColors[nodeType(node)] ?? "#9b7b49"
-      ctx.fill()
-      ctx.strokeStyle =
-        node.id === graph.focus
-          ? "#923120"
-          : node === hoverNode
-            ? "rgba(146, 49, 32, 0.9)"
-            : "rgba(255, 250, 241, 0.9)"
-      ctx.lineWidth = node.id === graph.focus ? 4 : node === hoverNode ? 2.4 : 1.2
-      ctx.stroke()
-    }
-
-    const visibleLabels = uniqueLabelNodes(
-      transform.k < 0.44 && focusNode
-        ? labels.filter((node) => node.id === focusNode.id || node.globalDegree > (mobile ? 12 : 8))
-        : labels,
-      [focusNode, hoverNode],
-    )
-    const drawnLabelBounds: LabelBounds[] = []
-    for (const node of visibleLabels) {
-      const pos = nodeScreenPosition(node, transform)
-      const required = node.id === graph.focus || node === hoverNode
-      const baseSize = node.id === graph.focus ? 14.5 : node.globalDegree > 10 ? 12.6 : 11.4
-      const size = Math.max(required ? 11 : 9.5, Math.min(17, baseSize / Math.sqrt(Math.max(0.78, transform.k))))
-      const r = radius(node, graph.focus) * Math.max(0.72, Math.min(1.25, Math.sqrt(transform.k)))
-      ctx.font = `${node.id === graph.focus ? 700 : 500} ${size}px var(--bodyFont, serif)`
-      const labelWidth = Math.min(width - 20, ctx.measureText(node.title).width + 8)
-      const labelHeight = size + 7
-      const labelY = pos.y - r - 4
-      const bounds = labelBounds(pos.x, labelY, labelWidth, labelHeight)
-      const inCanvas =
-        bounds.right >= 0 &&
-        bounds.left <= width &&
-        bounds.bottom >= 0 &&
-        bounds.top <= height
-      if (!inCanvas && !required) continue
-      if (!required && drawnLabelBounds.some((existing) => boundsOverlap(existing, bounds))) continue
-      drawnLabelBounds.push(bounds)
-      ctx.textAlign = "center"
-      ctx.textBaseline = "bottom"
-      ctx.lineWidth = 4
-      ctx.strokeStyle = "rgba(248, 242, 232, 0.88)"
-      ctx.fillStyle = "#33241a"
-      ctx.strokeText(node.title, pos.x, labelY)
-      ctx.fillText(node.title, pos.x, labelY)
-    }
-    ctx.restore()
-  }
-
-  const hitNode = (event: PointerEvent | MouseEvent): RuntimeNode | null => {
-    const rect = canvasElement.getBoundingClientRect()
-    const x = event.clientX - rect.left
-    const y = event.clientY - rect.top
-    return (
-      [...graph.nodes]
-        .reverse()
-        .find((node) => {
-          const pos = nodeScreenPosition(node, transform)
-          const hitRadius = Math.max(12, radius(node, graph.focus) * Math.sqrt(transform.k) + 6)
-          return Math.hypot(pos.x - x, pos.y - y) <= hitRadius
-        }) ?? null
-    )
-  }
-
-  const hitLink = (event: PointerEvent | MouseEvent): RuntimeLink | null => {
-    const rect = canvasElement.getBoundingClientRect()
-    const x = event.clientX - rect.left
-    const y = event.clientY - rect.top
-    let best: { link: RuntimeLink; distance: number } | null = null
-    for (const link of graph.links) {
-      const [source, target] = linkEndpoints(link)
-      const s = nodeScreenPosition(source, transform)
-      const t = nodeScreenPosition(target, transform)
-      const distance = distanceToSegment(x, y, s.x, s.y, t.x, t.y)
-      if (distance <= 7 && (!best || distance < best.distance)) {
-        best = { link, distance }
+      for (const node of graph.nodes) {
+        const focused = node === graph.focus, active = node === hovered
+        nodeGfx.circle(node.px, node.py, nodeRadius(node, focused)).fill({ color: typeColors[node.type] ?? 0x85755f, alpha: .96 }).stroke({ color: focused ? 0xb52c1e : active ? 0x301d18 : 0xfffaf1, width: focused ? 4 : active ? 2.5 : 1.1 })
       }
     }
-    return best?.link ?? null
+    updateLabels()
+    app.render()
   }
-
-  const zoomBehavior = zoom<HTMLCanvasElement, unknown>()
-    .scaleExtent([0.2, 5])
-    .on("zoom", (event) => {
-      transform = {
-        x: event.transform.x,
-        y: event.transform.y,
-        k: event.transform.k,
-      }
-      draw()
-    })
-
-  select(canvasElement).call(zoomBehavior as any)
-  canvasElement.addEventListener("pointermove", (event) => {
-    if (draggingNode) {
-      const rect = canvasElement.getBoundingClientRect()
-      draggingNode.fx = (event.clientX - rect.left - transform.x) / transform.k
-      draggingNode.fy = (event.clientY - rect.top - transform.y) / transform.k
-      draggingNode.x = draggingNode.fx
-      draggingNode.y = draggingNode.fy
-      draw()
-      return
-    }
-    const nextHover = hitNode(event)
-    if (nextHover !== hoverNode) {
-      hoverNode = nextHover
-      canvasElement.style.cursor = hoverNode ? "pointer" : hitLink(event) ? "pointer" : "grab"
-      draw()
-    }
-  })
-  canvasElement.addEventListener("pointerdown", (event) => {
-    const node = hitNode(event)
-    if (!node) return
-    event.preventDefault()
-    draggingNode = node
-    node.fx = node.x
-    node.fy = node.y
-    canvasElement.setPointerCapture(event.pointerId)
-  })
-  canvasElement.addEventListener("pointerup", (event) => {
-    const dragged = draggingNode
-    if (draggingNode) {
-      draggingNode.fx = null
-      draggingNode.fy = null
-      draggingNode = null
-      canvasElement.releasePointerCapture(event.pointerId)
-    }
-    const node = hitNode(event)
-    if (node && node === dragged) {
-      activateFocus(node.id)
-      return
-    }
-    const link = hitLink(event)
-    if (link) {
-      selectedLink = link
-      if (state.panel === "hidden") setPanelMode("details")
-      renderEdgePanel(panel, link, { ...state, panel: "details" }, setPanelMode)
-      draw()
-    }
-  })
-
-  const simulation = forceSimulation<RuntimeNode>(graph.nodes)
-    .force("charge", forceManyBody<RuntimeNode>().strength((node) => -90 - Math.min(60, node.score * 1.6)))
-    .force("center", forceCenter(0, 0).strength(0.18))
-    .force(
-      "link",
-      forceLink<RuntimeNode, RuntimeLink>(graph.links)
-        .id((node) => node.id)
-        .distance((link) => 54 + Math.max(0, 5 - link.details.evidenceCount) * 7),
-    )
-    .force("collide", forceCollide<RuntimeNode>((node) => radius(node, graph.focus) + 9).iterations(mobile ? 1 : 2))
-
-  const fitGraphToCanvas = () => {
-    if (graph.nodes.length === 0) return
-    const labelNodes = new Set(labelCandidates(graph.nodes, graph.focus, mobile).map((node) => node.id))
-    const bounds = graph.nodes.map((node) => {
-      const x = node.x ?? 0
-      const y = node.y ?? 0
-      const r = radius(node, graph.focus) + 28
-      const labelWidth = labelNodes.has(node.id) ? Math.min(280, node.title.length * 7 + 22) : 0
-      const labelHeight = labelNodes.has(node.id) ? 28 : 0
-      const halfWidth = Math.max(r, labelWidth / 2)
-      return {
-        minX: x - halfWidth,
-        maxX: x + halfWidth,
-        minY: y - r - labelHeight,
-        maxY: y + r + 8,
-      }
-    })
-    const minX = Math.min(...bounds.map((bound) => bound.minX))
-    const maxX = Math.max(...bounds.map((bound) => bound.maxX))
-    const minY = Math.min(...bounds.map((bound) => bound.minY))
-    const maxY = Math.max(...bounds.map((bound) => bound.maxY))
-    const graphWidth = Math.max(1, maxX - minX)
-    const graphHeight = Math.max(1, maxY - minY)
-    const safePadding = mobile ? 68 : 96
-    const availableWidth = Math.max(160, width - safePadding * 2)
-    const availableHeight = Math.max(160, height - safePadding * 2)
-    const scale = Math.max(
-      mobile ? 0.28 : 0.32,
-      Math.min(2.1, Math.min(availableWidth / graphWidth, availableHeight / graphHeight)),
-    )
-    const centerX = (minX + maxX) / 2
-    const centerY = (minY + maxY) / 2
-    select(canvasElement)
-      .transition()
-      .duration(mobile ? 180 : 360)
-      .call(zoomBehavior.transform as any, zoomIdentity.translate(width / 2 - centerX * scale, height / 2 - centerY * scale).scale(scale))
+  const spatialCellSize = 100
+  const spatial = new Map<string, RuntimeNode[]>()
+  for (const node of graph.nodes) {
+    const key = `${Math.floor(node.px / spatialCellSize)}:${Math.floor(node.py / spatialCellSize)}`
+    const bucket = spatial.get(key) ?? []
+    bucket.push(node)
+    spatial.set(key, bucket)
   }
-
-  simulation.stop()
-  simulation.tick(mobile ? 45 : 90)
+  function hitNode(event: PointerEvent): RuntimeNode | null {
+    const rect = app.canvas.getBoundingClientRect(); const x = (event.clientX - rect.left - transform.x) / transform.k; const y = (event.clientY - rect.top - transform.y) / transform.k
+    let best: RuntimeNode | null = null, distance = Infinity
+    const cellX = Math.floor(x / spatialCellSize), cellY = Math.floor(y / spatialCellSize)
+    const candidates: RuntimeNode[] = []
+    for (let dx = -1; dx <= 1; dx++) for (let dy = -1; dy <= 1; dy++) candidates.push(...(spatial.get(`${cellX + dx}:${cellY + dy}`) ?? []))
+    for (const node of candidates) { const d = Math.hypot(node.px - x, node.py - y); if (d < distance && d <= nodeRadius(node, node === graph.focus) + 7 / transform.k) { best = node; distance = d } }
+    return best
+  }
+  function hitEdge(event: PointerEvent): RuntimeEdge | null {
+    const rect = app.canvas.getBoundingClientRect(); const x = (event.clientX - rect.left - transform.x) / transform.k; const y = (event.clientY - rect.top - transform.y) / transform.k
+    let best: RuntimeEdge | null = null, bestDistance = 7 / transform.k
+    for (const edge of graph.edges) { const ax=edge.source.px, ay=edge.source.py, bx=edge.target.px, by=edge.target.py, dx=bx-ax, dy=by-ay; const t=Math.max(0,Math.min(1,((x-ax)*dx+(y-ay)*dy)/(dx*dx+dy*dy||1))); const d=Math.hypot(x-(ax+t*dx),y-(ay+t*dy)); if(d<bestDistance){best=edge;bestDistance=d} }
+    return best
+  }
+  const zoomBehavior = zoom<HTMLCanvasElement, unknown>().scaleExtent([.08, 8]).on("zoom", (event) => { transform=event.transform; world.position.set(transform.x, transform.y); world.scale.set(transform.k); draw(false) }).on("end", () => handlers.camera({ x: transform.x, y: transform.y, k: transform.k }))
+  select(app.canvas).call(zoomBehavior as any)
+  app.canvas.addEventListener("pointermove", (event) => { const node=hitNode(event); if(node!==hovered){hovered=node; app.canvas.style.cursor=node?"pointer":"grab"; draw()} })
+  app.canvas.addEventListener("click", (event) => { const node=hitNode(event); if(node){handlers.focus(node.id);return} const edge=hitEdge(event); if(edge){handlers.edge(edge);draw()} })
+  const bounds = graph.nodes.reduce((acc,node)=>({minX:Math.min(acc.minX,node.px-25),maxX:Math.max(acc.maxX,node.px+25),minY:Math.min(acc.minY,node.py-35),maxY:Math.max(acc.maxY,node.py+25)}),{minX:Infinity,maxX:-Infinity,minY:Infinity,maxY:-Infinity})
+  if (graph.nodes.length) { const graphWidth=Math.max(1,bounds.maxX-bounds.minX), graphHeight=Math.max(1,bounds.maxY-bounds.minY), padding=mobileProfile()?46:72; const scale=Math.max(.08,Math.min(2.4,Math.min((width-padding*2)/graphWidth,(height-padding*2)/graphHeight))); const cx=(bounds.minX+bounds.maxX)/2,cy=(bounds.minY+bounds.maxY)/2; select(app.canvas).call(zoomBehavior.transform as any,zoomIdentity.translate(width/2-cx*scale,height/2-cy*scale).scale(scale)) }
   draw()
-  fitGraphToCanvas()
-
-  if (focusNode && state.panel !== "hidden") {
-    renderNodePanel(panel, focusNode, state, activateFocus, clearFocus, setPanelMode)
-  } else if (state.panel === "hidden") {
-    panel.innerHTML = ""
-  } else {
-    panel.innerHTML = `
-      ${panelModeControls(state)}
-      <div class="graph-explorer-panel-header">
-        <p>${state.preset === "important" ? "Svarbiausi objektai" : "Žemėlapis"}</p>
-        <h2>${graph.nodes.length} objektai</h2>
-      </div>
-      <p class="graph-explorer-summary">Spustelėk objektą arba ryšį, kad pamatytum detales ir citatų pagrindimą.</p>
-    `
-    bindPanelModeControls(panel, setPanelMode)
-  }
-
-  root.dataset.nodes = String(graph.nodes.length)
-  root.dataset.links = String(graph.links.length)
+  return { destroy: () => app.destroy(true), camera: () => ({x:transform.x,y:transform.y,k:transform.k}), applyCamera: (camera) => select(app.canvas).call(zoomBehavior.transform as any,zoomIdentity.translate(camera.x,camera.y).scale(camera.k)) }
+}
+function renderCanvasFallback(container: HTMLElement, graph: VisibleGraph, handlers: { focus: (slug: string) => void; edge: (edge: RuntimeEdge) => void; camera: (camera: Camera) => void }): Renderer {
+  container.querySelector("canvas")?.remove()
+  const canvas = document.createElement("canvas")
+  const width = Math.max(320, container.clientWidth), height = Math.max(320, container.clientHeight)
+  const ratio = Math.min(2, window.devicePixelRatio || 1)
+  canvas.width = Math.round(width * ratio); canvas.height = Math.round(height * ratio)
+  canvas.style.width = `${width}px`; canvas.style.height = `${height}px`
+  container.prepend(canvas)
+  const context = canvas.getContext("2d")!
+  let transform: ZoomTransform = zoomIdentity
+  const important = new Set([...graph.nodes].sort((a,b)=>(b.degree+b.claimCount*.08)-(a.degree+a.claimCount*.08)).slice(0,mobileProfile()?20:80).map((node)=>node.id))
+  const spatialCellSize=100, spatial=new Map<string,RuntimeNode[]>()
+  for(const node of graph.nodes){const key=`${Math.floor(node.px/spatialCellSize)}:${Math.floor(node.py/spatialCellSize)}`;const bucket=spatial.get(key)??[];bucket.push(node);spatial.set(key,bucket)}
+  const point=(event:PointerEvent)=>{const rect=canvas.getBoundingClientRect();return{x:(event.clientX-rect.left-transform.x)/transform.k,y:(event.clientY-rect.top-transform.y)/transform.k}}
+  const hitNode=(event:PointerEvent)=>{const {x,y}=point(event);const cx=Math.floor(x/spatialCellSize),cy=Math.floor(y/spatialCellSize);let best:RuntimeNode|null=null,distance=Infinity;for(let dx=-1;dx<=1;dx++)for(let dy=-1;dy<=1;dy++)for(const node of spatial.get(`${cx+dx}:${cy+dy}`)??[]){const d=Math.hypot(node.px-x,node.py-y);if(d<distance&&d<=nodeRadius(node,node===graph.focus)+7/transform.k){best=node;distance=d}}return best}
+  const hitEdge=(event:PointerEvent)=>{const {x,y}=point(event);let best:RuntimeEdge|null=null,distance=7/transform.k;for(const edge of graph.edges){const ax=edge.source.px,ay=edge.source.py,bx=edge.target.px,by=edge.target.py,dx=bx-ax,dy=by-ay,t=Math.max(0,Math.min(1,((x-ax)*dx+(y-ay)*dy)/(dx*dx+dy*dy||1))),d=Math.hypot(x-(ax+t*dx),y-(ay+t*dy));if(d<distance){best=edge;distance=d}}return best}
+  function draw(){context.setTransform(ratio,0,0,ratio,0,0);context.clearRect(0,0,width,height);context.save();context.translate(transform.x,transform.y);context.scale(transform.k,transform.k);const density=graph.edges.length>900?.34:graph.edges.length>350?.56:1;for(const edge of graph.edges){const touchesFocus=graph.focus&&(edge.from===graph.focus.id||edge.to===graph.focus.id),alpha=Math.max(.025,Math.min(touchesFocus?.3:.2,edge.confidence*.42*density*(touchesFocus?1:.55)));context.beginPath();context.moveTo(edge.source.px,edge.source.py);context.lineTo(edge.target.px,edge.target.py);context.strokeStyle=edge.layer==="semantic"?`rgba(117,97,73,${alpha})`:`rgba(176,161,138,${alpha})`;context.lineWidth=Math.min(2.1,.35+Math.log1p(edge.evidenceCount)*.28);context.stroke()}for(const node of graph.nodes){const focus=node===graph.focus;context.beginPath();context.arc(node.px,node.py,nodeRadius(node,focus),0,Math.PI*2);context.fillStyle=`#${(typeColors[node.type]??0x85755f).toString(16).padStart(6,"0")}`;context.fill();context.lineWidth=focus?4:1.1;context.strokeStyle=focus?"#b52c1e":"#fffaf1";context.stroke();if((transform.k>=.65&&important.has(node.id))||focus){context.save();context.scale(1/transform.k,1/transform.k);context.font=`${focus?700:500} 12px Arial, sans-serif`;context.textAlign="center";context.lineWidth=3;const tx=node.px*transform.k,ty=(node.py-nodeRadius(node,focus)-5)*transform.k;context.strokeStyle="#f8f2e8";context.strokeText(node.title,tx,ty);context.fillStyle="#241c18";context.fillText(node.title,tx,ty);context.restore()}}context.restore()}
+  const zoomBehavior=zoom<HTMLCanvasElement,unknown>().scaleExtent([.08,8]).on("zoom",(event)=>{transform=event.transform;draw()}).on("end",()=>handlers.camera({x:transform.x,y:transform.y,k:transform.k}))
+  select(canvas).call(zoomBehavior as any)
+  canvas.addEventListener("pointermove",(event)=>canvas.style.cursor=hitNode(event)?"pointer":"grab")
+  canvas.addEventListener("click",(event)=>{const node=hitNode(event);if(node){handlers.focus(node.id);return}const edge=hitEdge(event);if(edge)handlers.edge(edge)})
+  const bounds=graph.nodes.reduce((acc,node)=>({minX:Math.min(acc.minX,node.px-25),maxX:Math.max(acc.maxX,node.px+25),minY:Math.min(acc.minY,node.py-35),maxY:Math.max(acc.maxY,node.py+25)}),{minX:Infinity,maxX:-Infinity,minY:Infinity,maxY:-Infinity})
+  if(graph.nodes.length){const graphWidth=Math.max(1,bounds.maxX-bounds.minX),graphHeight=Math.max(1,bounds.maxY-bounds.minY),padding=mobileProfile()?46:72,scale=Math.max(.08,Math.min(2.4,Math.min((width-padding*2)/graphWidth,(height-padding*2)/graphHeight))),cx=(bounds.minX+bounds.maxX)/2,cy=(bounds.minY+bounds.maxY)/2;select(canvas).call(zoomBehavior.transform as any,zoomIdentity.translate(width/2-cx*scale,height/2-cy*scale).scale(scale))}
+  draw()
+  return{destroy:()=>{select(canvas).on(".zoom",null);canvas.remove()},camera:()=>({x:transform.x,y:transform.y,k:transform.k}),applyCamera:(camera)=>select(canvas).call(zoomBehavior.transform as any,zoomIdentity.translate(camera.x,camera.y).scale(camera.k))}
+}
+async function renderGraph(container: HTMLElement, graph: VisibleGraph, handlers: { focus: (slug: string) => void; edge: (edge: RuntimeEdge) => void; camera: (camera: Camera) => void }): Promise<Renderer> {
+  try { return await renderPixi(container, graph, handlers) }
+  catch (error) { console.warn("WebGL nepasiekiamas, naudojamas Canvas2D rendereris.", error); return renderCanvasFallback(container, graph, handlers) }
+}
+function typeOptions(root: HTMLElement, topology: GraphTopology, state: GraphState, onChange: () => void) {
+  const list=root.querySelector<HTMLElement>("[data-type-list]")!; const counts=new Map<string,number>(); for(const node of topology.nodes)counts.set(node.type,(counts.get(node.type)??0)+1)
+  list.innerHTML=[...counts].filter(([type])=>typeLabels[type]).sort((a,b)=>typeLabels[a[0]].localeCompare(typeLabels[b[0]],"lt")).map(([type,count])=>`<label><input type="checkbox" value="${escapeHtml(type)}" ${state.types.includes(type)?"checked":""}/><span>${escapeHtml(typeLabels[type])}</span><b>${count}</b></label>`).join("")
+  list.querySelectorAll<HTMLInputElement>("input").forEach((input)=>input.addEventListener("change",()=>{state.types=input.checked?[...new Set([...state.types,input.value])]:state.types.filter((value)=>value!==input.value);onChange()}))
+  const isolated=root.querySelector<HTMLInputElement>("input[name='showIsolated']")!; isolated.checked=state.showIsolated; isolated.onchange=()=>{state.showIsolated=isolated.checked;onChange()}
+  root.querySelector<HTMLElement>("[data-isolated-count]")!.textContent=String(topology.nodes.filter((node)=>!node.connected).length)
+}
+function relationOptions(root: HTMLElement, topology: GraphTopology, state: GraphState, onChange: (kind?:string)=>void) {
+  const container=root.querySelector<HTMLElement>("[data-relation-groups]")!; const groups=new Map<string,{label:string;kinds:string[]}>()
+  for(const [kind,spec] of Object.entries(topology.relationKinds)){const group=groups.get(spec.group)??{label:spec.groupLabel,kinds:[]};group.kinds.push(kind);groups.set(spec.group,group)}
+  container.innerHTML=[...groups].map(([group,data])=>{const active=data.kinds.filter((kind)=>state.relations.includes(kind)).length;const count=data.kinds.reduce((sum,kind)=>sum+(topology.relationKinds[kind].edgeCount??0),0);return `<details ${group!=="bendri"?"open":""}><summary><label><input type="checkbox" data-relation-group="${group}" ${active===data.kinds.length?"checked":""}/><span>${escapeHtml(data.label)}</span><b>${count}</b></label></summary><div>${data.kinds.sort((a,b)=>topology.relationKinds[a].label.localeCompare(topology.relationKinds[b].label,"lt")).map((kind)=>`<label><input type="checkbox" value="${kind}" ${state.relations.includes(kind)?"checked":""}/><span>${escapeHtml(topology.relationKinds[kind].label)}</span><b>${topology.relationKinds[kind].edgeCount??0}</b></label>`).join("")}</div></details>`}).join("")
+  container.querySelectorAll<HTMLInputElement>("input[value]").forEach((input)=>input.addEventListener("change",()=>{state.relations=input.checked?[...new Set([...state.relations,input.value])]:state.relations.filter((value)=>value!==input.value);onChange(input.value)}))
+  container.querySelectorAll<HTMLInputElement>("[data-relation-group]").forEach((input)=>input.addEventListener("change",()=>{const kinds=groups.get(input.dataset.relationGroup!)!.kinds;state.relations=input.checked?[...new Set([...state.relations,...kinds])]:state.relations.filter((value)=>!kinds.includes(value));onChange()}))
+}
+function popovers(root: HTMLElement) {
+  const close=()=>{root.querySelectorAll<HTMLElement>("[data-popover-panel]").forEach((panel)=>panel.hidden=true);root.querySelectorAll<HTMLButtonElement>("[data-popover-toggle]").forEach((button)=>button.setAttribute("aria-expanded","false"))}
+  root.querySelectorAll<HTMLButtonElement>("[data-popover-toggle]").forEach((button)=>button.addEventListener("click",()=>{const panel=root.querySelector<HTMLElement>(`[data-popover-panel='${button.dataset.popoverToggle}']`)!;const opening=panel.hidden;close();panel.hidden=!opening;button.setAttribute("aria-expanded",String(opening))}))
+  root.querySelectorAll<HTMLButtonElement>("[data-popover-close]").forEach((button)=>button.addEventListener("click",close))
+  document.addEventListener("keydown",(event)=>{if(event.key==="Escape")close()})
+}
+async function setup(root: HTMLElement) {
+  document.body.classList.add("graph-explorer-active")
+  const status=root.querySelector<HTMLElement>("[data-graph-status]")!,canvas=root.querySelector<HTMLElement>("[data-graph-canvas]")!,panel=root.querySelector<HTMLElement>("[data-graph-panel]")!
+  const runtime=globalThis as typeof globalThis & {loadGraphTopology?:()=>Promise<GraphTopology>}
+  const topology=runtime.loadGraphTopology?await runtime.loadGraphTopology():await json<GraphTopology>(new URL("topology.json",graphDataBase)); const allTypes=[...new Set(topology.nodes.map((node)=>node.type))].filter((type)=>typeLabels[type]); const defaults={relations:Object.entries(topology.relationKinds).filter(([,spec])=>spec.defaultOn).map(([kind])=>kind),types:allTypes}
+  let state=stateFromUrl(defaults.relations,defaults.types); let allEdges=[...topology.edges]; let renderer:Renderer|null=null; const worker=createLayoutWorker(); let renderToken=0; let camera:Camera|undefined
+  let historyEntries:HistoryEntry[]=[{state:cloneGraphState(state)}],historyIndex=0
+  const sourceCatalog=(await loadSourceCatalog().catch(()=>[])) as SourceEntry[]
+  for(const source of sourceCatalog)sourceTitleCache.set(source.id,source.title)
+  const selectedSourceIds=()=>new Set(state.sources)
+  const updateHistoryButtons=()=>{(root.querySelector("[data-history-back]") as HTMLButtonElement).disabled=historyIndex<=0;(root.querySelector("[data-history-forward]") as HTMLButtonElement).disabled=historyIndex>=historyEntries.length-1}
+  const saveCamera=()=>{historyEntries[historyIndex].camera=camera;window.history.replaceState({graphIndex:historyIndex,camera},"",stateUrl(state,defaults))}
+  const commit=(mode:"push"|"replace"="push")=>{const entry={state:cloneGraphState(state),camera};if(mode==="push"){historyEntries=historyEntries.slice(0,historyIndex+1);historyEntries.push(entry);historyIndex++;window.history.pushState({graphIndex:historyIndex,camera},"",stateUrl(state,defaults))}else{historyEntries[historyIndex]=entry;window.history.replaceState({graphIndex:historyIndex,camera},"",stateUrl(state,defaults))}updateHistoryButtons()}
+  async function ensureLayers(){for(const kind of state.relations)if(genericKinds.has(kind)&&!layerCache.has(kind)){allEdges.push(...await loadLayer(kind,topology))}}
+  async function rerender(restoreCamera?:Camera){const token=++renderToken;status.hidden=false;status.textContent="Ruošiamas žemėlapis…";await ensureLayers();const graph=buildVisibleGraph(topology,allEdges,state,selectedSourceIds());await layoutGraph(graph,worker);if(token!==renderToken)return;renderer?.destroy();renderer=await renderGraph(canvas,graph,{focus:(slug)=>{state={...state,focus:slug,depth:1,panel:state.panel==="hidden"?"details":state.panel};commit();sync();void rerender()},edge:(edge)=>{state={...state,panel:"details"};root.dataset.panel="details";commit("replace");void renderEdgePanel(panel,edge,topology,state,(mode)=>{state={...state,panel:mode};root.dataset.panel=mode;commit("replace");void rerender()})},camera:(value)=>{camera=value;saveCamera()}});if(restoreCamera)renderer.applyCamera(restoreCamera);status.hidden=true;root.dataset.panel=state.panel;root.querySelector<HTMLElement>("[data-focus-context]")!.hidden=!graph.focus;if(graph.focus){root.querySelector<HTMLElement>("[data-focus-title]")!.textContent=graph.focus.title;root.querySelector<HTMLElement>("[data-focus-visible]")!.textContent=`Rodomi ${graph.edges.filter((edge)=>edge.from===graph.focus!.id||edge.to===graph.focus!.id).length}`;const total=Object.values(graph.focus.relationCounts).reduce((sum,count)=>sum+count.in+count.out,0);root.querySelector<HTMLElement>("[data-focus-total]")!.textContent=`Visi ryšiai ${total}`;if(state.panel!=="hidden")void renderNodePanel(panel,graph.focus,graph,topology,state,(mode)=>{state={...state,panel:mode};commit("replace");void rerender()},(kind)=>{state.relations=state.relations.includes(kind)?state.relations.filter((value)=>value!==kind):[...state.relations,kind];commit();sync();void rerender()})}else if(state.panel!=="hidden"){panel.innerHTML=`${panelControls(state)}<h2>${graph.nodes.length.toLocaleString("lt-LT")} objektai</h2><p>${graph.edges.length.toLocaleString("lt-LT")} ryšiai. Pasirink objektą arba ryšį.</p>`;bindPanelControls(panel,(mode)=>{state={...state,panel:mode};commit("replace");void rerender()})}root.querySelector<HTMLElement>("[data-graph-legend]")!.innerHTML=`<span>${graph.nodes.length.toLocaleString("lt-LT")} objektai</span><span>${graph.edges.length.toLocaleString("lt-LT")} ryšiai</span>`}
+  function sync(){typeOptions(root,topology,state,()=>{commit();sync();void rerender()});relationOptions(root,topology,state,()=>{commit();sync();void rerender()});root.querySelector<HTMLElement>("[data-type-count]")!.textContent=String(state.types.length);root.querySelector<HTMLElement>("[data-relation-count]")!.textContent=String(state.relations.length);(root.querySelector("input[name='minClaims']") as HTMLInputElement).value=String(state.minClaims);(root.querySelector("input[name='minQuotes']") as HTMLInputElement).value=String(state.minQuotes);(root.querySelector("input[name='minConfidence']") as HTMLInputElement).value=String(state.minConfidence);(root.querySelector("select[name='direction']") as HTMLSelectElement).value=state.direction;root.querySelector<HTMLOutputElement>("[data-confidence-output]")!.value=`${Math.round(state.minConfidence*100)}%`;(root.querySelector("input[name='from']") as HTMLInputElement).value=state.from===null?"":String(state.from);(root.querySelector("input[name='to']") as HTMLInputElement).value=state.to===null?"":String(state.to);root.querySelectorAll<HTMLInputElement>("input[name='depth']").forEach((input)=>input.checked=Number(input.value)===state.depth);root.dataset.panel=state.panel;updateHistoryButtons()}
+  popovers(root); sync(); updateHistoryButtons(); window.history.replaceState({graphIndex:0},"",stateUrl(state,defaults))
+  const search=root.querySelector<HTMLInputElement>("[data-graph-search-input]")!,suggest=root.querySelector<HTMLElement>("[data-graph-suggest]")!,suggestList=root.querySelector<HTMLElement>("[data-graph-suggest-list]")!;let suggestions:TopologyNode[]=[];let active=0
+  const renderSuggestions=()=>{const needle=normalize(search.value.trim());if(needle.length<2){suggest.hidden=true;return}suggestions=topology.nodes.filter((node)=>normalize(node.title).includes(needle)).sort((a,b)=>{const ae=normalize(a.title)===needle?1:0,be=normalize(b.title)===needle?1:0;return be-ae||b.degree-a.degree||a.title.localeCompare(b.title,"lt")}).slice(0,10);suggestList.innerHTML=suggestions.map((node,index)=>`<button type="button" role="option" class="${index===active?"is-active":""}" data-suggestion="${escapeHtml(node.slug)}"><strong>${escapeHtml(node.title)}</strong><span>${escapeHtml(typeLabels[node.type]??node.type)} · ${node.claimCount} teig. · ${node.quoteCount} cit.</span></button>`).join("")||"<p>Nerasta objektų.</p>";suggest.hidden=false;suggestList.querySelectorAll<HTMLButtonElement>("[data-suggestion]").forEach((button)=>button.addEventListener("click",()=>choose(button.dataset.suggestion!)))}
+  const choose=(slug:string)=>{search.value="";suggest.hidden=true;state={...state,focus:slug,depth:1,panel:state.panel==="hidden"?"details":state.panel};commit();sync();void rerender()}
+  search.addEventListener("input",()=>{active=0;renderSuggestions()});search.addEventListener("keydown",(event)=>{if(event.key==="ArrowDown"){active=Math.min(suggestions.length-1,active+1);event.preventDefault();renderSuggestions()}else if(event.key==="ArrowUp"){active=Math.max(0,active-1);event.preventDefault();renderSuggestions()}else if(event.key==="Enter"&&suggestions[active]){event.preventDefault();choose(suggestions[active].slug)}else if(event.key==="Escape")suggest.hidden=true})
+  root.querySelector<HTMLButtonElement>("[data-history-back]")!.onclick=()=>{if(historyIndex>0)window.history.back()}
+  root.querySelector<HTMLButtonElement>("[data-history-forward]")!.onclick=()=>{if(historyIndex<historyEntries.length-1)window.history.forward()}
+  root.querySelector<HTMLButtonElement>("[data-graph-home]")!.onclick=()=>{state={...state,focus:"",depth:1,panel:"hidden"};commit();sync();void rerender()}
+  root.querySelector<HTMLButtonElement>("[data-clear-focus]")!.onclick=()=>{state={...state,focus:"",depth:1};commit();sync();void rerender()}
+  root.querySelector<HTMLButtonElement>("[data-graph-reset]")!.onclick=()=>{state={...stateFromUrl(defaults.relations,defaults.types),sources:[]};commit();sync();void rerender()}
+  root.querySelector<HTMLButtonElement>("[data-panel-toggle]")!.onclick=()=>{state={...state,panel:state.panel==="hidden"?"details":"hidden"};commit("replace");sync();void rerender()};root.querySelector<HTMLButtonElement>("[data-panel-show]")!.onclick=()=>{state={...state,panel:"details"};commit("replace");sync();void rerender()}
+  root.querySelectorAll<HTMLInputElement>("input[name='depth']").forEach((input)=>input.onchange=()=>{state.depth=Number(input.value);commit();sync();void rerender()})
+  for(const name of ["minClaims","minQuotes","from","to"]){const input=root.querySelector<HTMLInputElement>(`input[name='${name}']`)!;input.onchange=()=>{if(name==="minClaims")state.minClaims=parseNumber(input.value,0);if(name==="minQuotes")state.minQuotes=parseNumber(input.value,0);if(name==="from")state.from=parseOptional(input.value);if(name==="to")state.to=parseOptional(input.value);commit();void rerender()}}
+  const confidence=root.querySelector<HTMLInputElement>("input[name='minConfidence']")!;confidence.oninput=()=>{state.minConfidence=Number(confidence.value);root.querySelector<HTMLOutputElement>("[data-confidence-output]")!.value=`${Math.round(state.minConfidence*100)}%`;commit("replace");void rerender()};confidence.onchange=()=>commit()
+  const direction=root.querySelector<HTMLSelectElement>("select[name='direction']")!;direction.onchange=()=>{state.direction=direction.value as GraphState["direction"];commit();void rerender()}
+  const sourceList=root.querySelector<HTMLElement>("[data-source-list]")!,sourceSearch=root.querySelector<HTMLInputElement>("[data-source-search]")!;const renderSources=()=>{const needle=normalize(sourceSearch.value);sourceList.innerHTML=sourceCatalog.filter((source)=>normalize(source.title).includes(needle)).map((source)=>`<label><input type="checkbox" value="${escapeHtml(source.id)}" ${state.sources.includes(source.id)?"checked":""}/><span>${escapeHtml(source.title)}</span><b>${source.quoteCount??0}</b></label>`).join("");sourceList.querySelectorAll<HTMLInputElement>("input").forEach((input)=>input.onchange=()=>{state.sources=input.checked?[...new Set([...state.sources,input.value])]:state.sources.filter((value)=>value!==input.value);commit();void rerender()})};sourceSearch.oninput=renderSources;root.querySelector<HTMLButtonElement>("[data-source-select-all]")!.onclick=()=>{state.sources=[];commit();renderSources();void rerender()};root.querySelector<HTMLButtonElement>("[data-source-clear]")!.onclick=()=>{state.sources=["__none__"];commit();renderSources();void rerender()};renderSources()
+  window.addEventListener("popstate",(event)=>{const index=Number(event.state?.graphIndex);if(Number.isInteger(index)&&historyEntries[index]){historyIndex=index;state=cloneGraphState(historyEntries[index].state);camera=historyEntries[index].camera}else{state=stateFromUrl(defaults.relations,defaults.types)}sync();void rerender(camera)})
+  await rerender()
+  window.addCleanup?.(()=>{renderer?.destroy();worker.terminate();document.body.classList.remove("graph-explorer-active")})
 }
 
-function renderSuggestionItems(
-  list: HTMLElement,
-  suggestions: SearchSuggestion[],
-  activeIndex: number,
-) {
-  if (suggestions.length === 0) {
-    list.innerHTML = `<p class="graph-explorer-suggest-empty">Nerasta objektų.</p>`
-    return
-  }
-  list.innerHTML = suggestions
-    .map((suggestion, index) => {
-      const node = suggestion.node
-      const active = index === activeIndex ? " is-active" : ""
-      const hint = suggestionPeriodHint(node)
-      const meta = [
-        nodeType(node),
-        `${node.claimCount} teig.`,
-        `${node.quoteCount} cit.`,
-        hint,
-      ].filter(Boolean)
-      return `
-        <button
-          type="button"
-          class="graph-explorer-suggest-option${active}"
-          role="option"
-          aria-selected="${index === activeIndex ? "true" : "false"}"
-          data-suggest-slug="${escapeHtml(suggestion.slug)}"
-        >
-          <strong>${escapeHtml(node.title)}</strong>
-          <span>${escapeHtml(meta.join(" · "))}</span>
-        </button>
-      `
-    })
-    .join("")
-}
-
-async function setupGraphExplorer(root: HTMLElement) {
-  const canvas = root.querySelector<HTMLElement>("[data-graph-canvas]")
-  const panel = root.querySelector<HTMLElement>("[data-graph-panel]")
-  const form = root.querySelector<HTMLFormElement>("[data-graph-filters]")
-  const reset = root.querySelector<HTMLButtonElement>("[data-graph-reset]")
-  const searchInput = root.querySelector<HTMLInputElement>("[data-graph-search-input]")
-  const suggest = root.querySelector<HTMLElement>("[data-graph-suggest]")
-  const suggestList = root.querySelector<HTMLElement>("[data-graph-suggest-list]")
-  if (!canvas || !panel || !form) return
-
-  canvas.innerHTML = `<p class="graph-explorer-loading">Kraunamas žemėlapis...</p>`
-  await refreshGlobalSourceSelection()
-  const rawIndex = await loadExplorerIndex()
-  const nodesBySlug = new Map<SimpleSlug, GraphExplorerIndexDetails>(
-    Object.entries(rawIndex).map(([slug, details]) => [simplifySlug(slug as FullSlug), details]),
-  )
-  const globalDegrees = computeGlobalDegrees(nodesBySlug)
-
-  let state = readState()
-  setFormState(root, state)
-  let activeSuggestionIndex = -1
-  let currentSuggestions: SearchSuggestion[] = []
-
-  let pendingRenderFrame = 0
-  const setSources = (sources: string[]) => {
-    state = { ...state, sources: [...new Set(sources.filter(Boolean))] }
-    writeState(state)
-    syncSourceControls(root, state, setSources)
-    rerender()
-  }
-
-  const rerender = () => {
-    pendingRenderFrame = 0
-    root.dataset.panel = state.panel
-    const graph = buildVisibleGraph(nodesBySlug, state)
-    renderGraph(root, canvas, panel, graph, state, activateFocus, clearFocus, setPanelMode)
-  }
-
-  const scheduleRerender = () => {
-    if (pendingRenderFrame) {
-      window.cancelAnimationFrame(pendingRenderFrame)
-    }
-    pendingRenderFrame = window.requestAnimationFrame(rerender)
-  }
-
-  const setPanelMode = (mode: FilterState["panel"]) => {
-    state = { ...state, panel: mode }
-    writeState(state)
-    rerender()
-  }
-
-  const activateFocus = (slug: SimpleSlug) => {
-    state = {
-      ...state,
-      focus: slug,
-      depth: mobileGraphProfile() ? 1 : 2,
-      q: "",
-      panel: state.panel === "hidden" ? "details" : state.panel,
-    }
-    writeState(state)
-    setFormState(root, state)
-    syncSourceControls(root, state, setSources)
-    rerender()
-  }
-
-  const hideSuggestions = () => {
-    activeSuggestionIndex = -1
-    currentSuggestions = []
-    if (suggest) suggest.hidden = true
-    if (suggestList) suggestList.innerHTML = ""
-  }
-
-  const syncSuggestions = () => {
-    if (!searchInput || !suggest || !suggestList) return
-    const query = searchInput.value.trim()
-    if (query.length < 2) {
-      hideSuggestions()
-      return
-    }
-    currentSuggestions = searchSuggestions(nodesBySlug, state, query, globalDegrees)
-    activeSuggestionIndex = currentSuggestions.length > 0 ? Math.max(0, Math.min(activeSuggestionIndex, currentSuggestions.length - 1)) : -1
-    renderSuggestionItems(suggestList, currentSuggestions, activeSuggestionIndex)
-    suggest.hidden = false
-  }
-
-  const selectSuggestion = (suggestion: SearchSuggestion | undefined) => {
-    if (!suggestion) return
-    hideSuggestions()
-    activateFocus(suggestion.slug)
-  }
-
-  const clearFocus = () => {
-    state = {
-      ...defaultState,
-      panel: state.panel === "hidden" ? "details" : state.panel,
-    }
-    writeState(state)
-    setFormState(root, state)
-    syncSourceControls(root, state, setSources)
-    rerender()
-  }
-
-  const updateFromForm = (immediate = false) => {
-    state = readFormState(root, state)
-    writeState(state)
-    if (immediate) {
-      if (pendingRenderFrame) {
-        window.cancelAnimationFrame(pendingRenderFrame)
-        pendingRenderFrame = 0
-      }
-      rerender()
-    } else {
-      scheduleRerender()
-    }
-  }
-
-  form.addEventListener("submit", (event) => {
-    event.preventDefault()
-    if (currentSuggestions.length > 0) {
-      selectSuggestion(currentSuggestions[Math.max(0, activeSuggestionIndex)])
-    }
-  })
-  form.addEventListener("input", (event) => {
-    updateFromForm(false)
-    if (event.target === searchInput) {
-      syncSuggestions()
-    }
-  })
-  form.addEventListener("change", () => updateFromForm(true))
-  searchInput?.addEventListener("focus", syncSuggestions)
-  searchInput?.addEventListener("keydown", (event) => {
-    if (event.key === "Escape") {
-      hideSuggestions()
-      return
-    }
-    if (event.key === "ArrowDown" || event.key === "ArrowUp") {
-      if (currentSuggestions.length === 0) syncSuggestions()
-      if (currentSuggestions.length === 0) return
-      event.preventDefault()
-      const direction = event.key === "ArrowDown" ? 1 : -1
-      activeSuggestionIndex =
-        (activeSuggestionIndex + direction + currentSuggestions.length) % currentSuggestions.length
-      if (suggestList) renderSuggestionItems(suggestList, currentSuggestions, activeSuggestionIndex)
-      return
-    }
-    if (event.key === "Enter" && currentSuggestions.length > 0) {
-      event.preventDefault()
-      selectSuggestion(currentSuggestions[Math.max(0, activeSuggestionIndex)])
-    }
-  })
-  suggestList?.addEventListener("click", (event) => {
-    const button = (event.target as Element | null)?.closest<HTMLButtonElement>("[data-suggest-slug]")
-    if (!button) return
-    event.preventDefault()
-    const slug = button.dataset.suggestSlug as SimpleSlug | undefined
-    selectSuggestion(currentSuggestions.find((suggestion) => suggestion.slug === slug))
-  })
-  reset?.addEventListener("click", () => {
-    state = { ...defaultState }
-    writeState(state)
-    setFormState(root, state)
-    syncSourceControls(root, state, setSources)
-    rerender()
-  })
-  root.querySelector<HTMLButtonElement>("[data-panel-show]")?.addEventListener("click", () => {
-    setPanelMode("details")
-  })
-  root.querySelector<HTMLButtonElement>("[data-panel-toggle]")?.addEventListener("click", () => {
-    setPanelMode(state.panel === "hidden" ? "details" : "hidden")
-  })
-  root.querySelector<HTMLInputElement>("[data-source-search]")?.addEventListener("input", () => {
-    syncSourceControls(root, state, setSources)
-  })
-  root.querySelector<HTMLButtonElement>("[data-source-select-all]")?.addEventListener("click", () => {
-    setSources([])
-  })
-  root.querySelector<HTMLButtonElement>("[data-source-clear]")?.addEventListener("click", () => {
-    setSources([])
-  })
-
-  const closePopovers = () => {
-    root.querySelectorAll<HTMLElement>("[data-popover-panel]").forEach((panel) => {
-      panel.hidden = true
-    })
-    root.querySelectorAll<HTMLButtonElement>("[data-popover-toggle]").forEach((button) => {
-      button.setAttribute("aria-expanded", "false")
-    })
-  }
-  root.querySelectorAll<HTMLButtonElement>("[data-popover-toggle]").forEach((button) => {
-    button.addEventListener("click", (event) => {
-      event.preventDefault()
-      event.stopPropagation()
-      const targetName = button.dataset.popoverToggle
-      const target = targetName
-        ? root.querySelector<HTMLElement>(`[data-popover-panel="${targetName}"]`)
-        : null
-      const shouldOpen = Boolean(target?.hidden)
-      closePopovers()
-      if (target && shouldOpen) {
-        target.hidden = false
-        button.setAttribute("aria-expanded", "true")
-      }
-    })
-  })
-  root.querySelectorAll<HTMLButtonElement>("[data-popover-close]").forEach((button) => {
-    button.addEventListener("click", closePopovers)
-  })
-  document.addEventListener("click", (event) => {
-    const target = event.target
-    if (target instanceof Node && !form.contains(target)) {
-      closePopovers()
-      hideSuggestions()
-    }
-  })
-
-  await loadCitationSources()
-  syncSourceControls(root, state, setSources)
-  rerender()
-  const onSettingsChange = () => {
-    refreshGlobalSourceSelection().then(rerender)
-  }
-  document.addEventListener("quartz-settings-change", onSettingsChange)
-  window.addCleanup?.(() => document.removeEventListener("quartz-settings-change", onSettingsChange))
-}
-
-document.addEventListener("nav", () => {
-  const root = document.querySelector<HTMLElement>("[data-graph-explorer]")
-  document.body.classList.toggle("graph-explorer-active", Boolean(root))
-  if (!root || root.dataset.loaded === "true") return
-  root.dataset.loaded = "true"
-  setupGraphExplorer(root).catch((error) => {
-    console.error(error)
-    const canvas = root.querySelector<HTMLElement>("[data-graph-canvas]")
-    if (canvas) {
-      canvas.innerHTML = `<p class="graph-explorer-loading">Nepavyko įkelti žemėlapio.</p>`
-    }
-  })
-})
+document.addEventListener("nav",()=>{const root=document.querySelector<HTMLElement>("[data-graph-explorer]");if(root)void setup(root).catch((error)=>{const status=root.querySelector<HTMLElement>("[data-graph-status]");if(status)status.textContent=`Nepavyko įkelti žemėlapio: ${error instanceof Error?error.message:String(error)}`})})

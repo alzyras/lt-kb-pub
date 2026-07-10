@@ -654,7 +654,6 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       const graphIndex = Object.fromEntries(
         Array.from(linkIndex).map(([slug, content]) => [slug, asGraphIndex(content)]),
       )
-      const graphExplorerIndex = buildGraphExplorerIndex(linkIndex)
       const randomClaimsIndex = Object.fromEntries(
         Array.from(linkIndex)
           .map(([slug, content]) => [slug, asRandomClaims(content)] as const)
@@ -667,7 +666,6 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         [joinSegments("static", "contentMeta") as FullSlug, contentMetaIndex],
         [joinSegments("static", "searchIndex") as FullSlug, searchIndex],
         [joinSegments("static", "graphIndex") as FullSlug, graphIndex],
-        [joinSegments("static", "graphExplorerIndex") as FullSlug, graphExplorerIndex],
         [joinSegments("static", "randomClaims") as FullSlug, randomClaimsIndex],
         // Backward-compatible alias. It intentionally no longer contains full page bodies.
         [joinSegments("static", "contentIndex") as FullSlug, contentMetaIndex],

@@ -27,7 +27,10 @@ type ObjectMapPreviewNode = {
 }
 
 type ObjectMapPreviewRuntime = typeof globalThis & {
-  loadGraphExplorerIndex?: () => Promise<Record<string, ObjectMapPreviewNode>>
+  loadGraphTopology?: () => Promise<{
+    nodes?: Array<{ slug: string; title: string; type: string; claimCount: number; quoteCount: number }>
+    edges?: Array<{ from: string; to: string; kind: string; evidenceCount: number; confidence: number }>
+  }>
   addCleanup?: (cleanup: () => void) => void
 }
 
@@ -84,26 +87,55 @@ const objectMapTypeColors: Record<string, string> = {
 async function loadObjectMapIndex(): Promise<Record<string, ObjectMapPreviewNode>> {
   if (!objectMapIndexPromise) {
     objectMapIndexPromise = (async () => {
-      if (objectMapRuntime.loadGraphExplorerIndex) {
+      if (objectMapRuntime.loadGraphTopology) {
         try {
-          return await objectMapRuntime.loadGraphExplorerIndex()
+          const topology = await objectMapRuntime.loadGraphTopology()
+          const index: Record<string, ObjectMapPreviewNode> = {}
+          for (const node of topology.nodes ?? []) {
+            index[node.slug] = { ...node, links: [] }
+          }
+          for (const edge of topology.edges ?? []) {
+            const target = index[edge.to]
+            const source = index[edge.from]
+            if (!source || !target) continue
+            source.links!.push({
+              target: edge.to,
+              targetTitle: target.title,
+              targetType: target.type,
+              evidenceCount: edge.evidenceCount,
+              confidence: edge.confidence,
+              relationKind: edge.kind,
+            })
+          }
+          return index
         } catch {
           // Fall back to stable static paths; object pages live several folders deep.
         }
       }
 
       const candidates = [
-        "/static/graphExplorerIndex.json",
-        "../static/graphExplorerIndex.json",
-        "../../static/graphExplorerIndex.json",
-        "../../../static/graphExplorerIndex.json",
+        "/static/graph-data/topology.json",
+        "../static/graph-data/topology.json",
+        "../../static/graph-data/topology.json",
+        "../../../static/graph-data/topology.json",
       ]
 
       for (const candidate of candidates) {
         try {
           const response = await fetch(candidate, { cache: "force-cache" })
           if (response.ok) {
-            return (await response.json()) as Record<string, ObjectMapPreviewNode>
+            const topology = (await response.json()) as {
+              nodes?: Array<{ slug: string; title: string; type: string; claimCount: number; quoteCount: number }>
+              edges?: Array<{ from: string; to: string; kind: string; evidenceCount: number; confidence: number }>
+            }
+            const index: Record<string, ObjectMapPreviewNode> = {}
+            for (const node of topology.nodes ?? []) index[node.slug] = { ...node, links: [] }
+            for (const edge of topology.edges ?? []) {
+              const source = index[edge.from]
+              const target = index[edge.to]
+              if (source && target) source.links!.push({ target: edge.to, targetTitle: target.title, targetType: target.type, evidenceCount: edge.evidenceCount, confidence: edge.confidence, relationKind: edge.kind })
+            }
+            return index
           }
         } catch {
           // Try the next candidate.

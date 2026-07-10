@@ -29,13 +29,13 @@ export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
 ): StaticResources {
-  const assetVersion = "20260710-source-settings-nav-v2"
+  const assetVersion = "20260710-graph-topology-v2"
   const versionedAsset = (path: string) => `${path}?v=${assetVersion}`
   const staticJsonPath = (path: string) => versionedAsset(joinSegments("/", "static", path))
   const contentMetaPath = staticJsonPath("contentMeta.json")
   const searchIndexPath = staticJsonPath("searchIndex.json")
   const graphIndexPath = staticJsonPath("graphIndex.json")
-  const graphExplorerIndexPath = staticJsonPath("graphExplorerIndex.json")
+  const graphTopologyPath = staticJsonPath("graph-data/topology.json")
   const randomClaimsPath = staticJsonPath("randomClaims.json")
   const citationSourcesPath = staticJsonPath("citationSources.json")
   const sourceCatalogPath = staticJsonPath("sourceCatalog.json")
@@ -60,7 +60,7 @@ globalThis.loadStaticJson ??= (path) => {
 globalThis.loadContentMeta = () => globalThis.loadStaticJson("${contentMetaPath}")
 globalThis.loadSearchIndex = () => globalThis.loadStaticJson("${searchIndexPath}")
 globalThis.loadGraphIndex = () => globalThis.loadStaticJson("${graphIndexPath}")
-globalThis.loadGraphExplorerIndex = () => globalThis.loadStaticJson("${graphExplorerIndexPath}")
+globalThis.loadGraphTopology = () => globalThis.loadStaticJson("${graphTopologyPath}")
 globalThis.loadRandomClaims = () => globalThis.loadStaticJson("${randomClaimsPath}")
 globalThis.fetchSourceCatalog = globalThis.loadStaticJson("${sourceCatalogPath}").catch(() => [])
 // Compatibility only: callers should prefer purpose-specific loaders.

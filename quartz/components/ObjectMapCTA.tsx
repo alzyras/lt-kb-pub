@@ -24,7 +24,7 @@ const ObjectMapCTA: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const galleryHref = resolveRelative(currentSlug, objectGallerySlug(objectSlug))
   const mapHref = `/zemelapis/?focus=${encodeURIComponent(
     objectSlug,
-  )}&depth=1&panel=details&maxNodes=1000&types=${encodeURIComponent(objectMapTypes)}`
+  )}&depth=1&panel=details`
 
   return (
     <div
@@ -64,18 +64,6 @@ const ObjectMapCTA: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     </div>
   )
 }
-
-const objectMapTypes = [
-  "asmuo",
-  "autorius",
-  "ivykis",
-  "grupe",
-  "vieta",
-  "daiktas",
-  "paprotys",
-  "posakis",
-  "zodyno_irasas",
-].join(",")
 
 ObjectMapCTA.afterDOMLoaded = script
 
