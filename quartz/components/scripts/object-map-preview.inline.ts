@@ -1,13 +1,3 @@
-import {
-  SimulationLinkDatum,
-  SimulationNodeDatum,
-  forceCenter,
-  forceCollide,
-  forceLink,
-  forceManyBody,
-  forceSimulation,
-} from "d3"
-
 type ObjectMapPreviewLink = {
   target?: string
   targetTitle?: string
@@ -15,6 +5,7 @@ type ObjectMapPreviewLink = {
   evidenceCount?: number
   confidence?: number
   relationKind?: string
+  defaultOn?: boolean
 }
 
 type ObjectMapPreviewNode = {
@@ -30,6 +21,7 @@ type ObjectMapPreviewRuntime = typeof globalThis & {
   loadGraphTopology?: () => Promise<{
     nodes?: Array<{ slug: string; title: string; type: string; claimCount: number; quoteCount: number }>
     edges?: Array<{ from: string; to: string; kind: string; evidenceCount: number; confidence: number }>
+    relationKinds?: Record<string, { defaultOn?: boolean }>
   }>
   addCleanup?: (cleanup: () => void) => void
 }
@@ -42,7 +34,7 @@ type ObjectMapNeighbour = {
   confidence: number
 }
 
-type ObjectMapRuntimeNode = SimulationNodeDatum & {
+type ObjectMapRuntimeNode = {
   id: string
   title: string
   type: string
@@ -50,9 +42,11 @@ type ObjectMapRuntimeNode = SimulationNodeDatum & {
   degree: number
   evidenceCount: number
   focus: boolean
+  x: number
+  y: number
 }
 
-type ObjectMapRuntimeLink = SimulationLinkDatum<ObjectMapRuntimeNode> & {
+type ObjectMapRuntimeLink = {
   source: ObjectMapRuntimeNode
   target: ObjectMapRuntimeNode
   evidenceCount: number
@@ -84,30 +78,42 @@ const objectMapTypeColors: Record<string, string> = {
   tema: "#445f8f",
 }
 
+const objectMapPreviewMinConfidence = 0.5
+
+function objectMapIndexFromTopology(topology: {
+  nodes?: Array<{ slug: string; title: string; type: string; claimCount: number; quoteCount: number }>
+  edges?: Array<{ from: string; to: string; kind: string; evidenceCount: number; confidence: number }>
+  relationKinds?: Record<string, { defaultOn?: boolean }>
+}): Record<string, ObjectMapPreviewNode> {
+  const index: Record<string, ObjectMapPreviewNode> = {}
+  for (const node of topology.nodes ?? []) {
+    index[node.slug] = { ...node, links: [] }
+  }
+  for (const edge of topology.edges ?? []) {
+    const source = index[edge.from]
+    const target = index[edge.to]
+    const relation = topology.relationKinds?.[edge.kind]
+    if (!source || !target || !relation?.defaultOn || edge.confidence < objectMapPreviewMinConfidence) continue
+    source.links!.push({
+      target: edge.to,
+      targetTitle: target.title,
+      targetType: target.type,
+      evidenceCount: edge.evidenceCount,
+      confidence: edge.confidence,
+      relationKind: edge.kind,
+      defaultOn: relation?.defaultOn ?? true,
+    })
+  }
+  return index
+}
+
 async function loadObjectMapIndex(): Promise<Record<string, ObjectMapPreviewNode>> {
   if (!objectMapIndexPromise) {
     objectMapIndexPromise = (async () => {
       if (objectMapRuntime.loadGraphTopology) {
         try {
           const topology = await objectMapRuntime.loadGraphTopology()
-          const index: Record<string, ObjectMapPreviewNode> = {}
-          for (const node of topology.nodes ?? []) {
-            index[node.slug] = { ...node, links: [] }
-          }
-          for (const edge of topology.edges ?? []) {
-            const target = index[edge.to]
-            const source = index[edge.from]
-            if (!source || !target) continue
-            source.links!.push({
-              target: edge.to,
-              targetTitle: target.title,
-              targetType: target.type,
-              evidenceCount: edge.evidenceCount,
-              confidence: edge.confidence,
-              relationKind: edge.kind,
-            })
-          }
-          return index
+          return objectMapIndexFromTopology(topology)
         } catch {
           // Fall back to stable static paths; object pages live several folders deep.
         }
@@ -128,14 +134,7 @@ async function loadObjectMapIndex(): Promise<Record<string, ObjectMapPreviewNode
               nodes?: Array<{ slug: string; title: string; type: string; claimCount: number; quoteCount: number }>
               edges?: Array<{ from: string; to: string; kind: string; evidenceCount: number; confidence: number }>
             }
-            const index: Record<string, ObjectMapPreviewNode> = {}
-            for (const node of topology.nodes ?? []) index[node.slug] = { ...node, links: [] }
-            for (const edge of topology.edges ?? []) {
-              const source = index[edge.from]
-              const target = index[edge.to]
-              if (source && target) source.links!.push({ target: edge.to, targetTitle: target.title, targetType: target.type, evidenceCount: edge.evidenceCount, confidence: edge.confidence, relationKind: edge.kind })
-            }
-            return index
+            return objectMapIndexFromTopology(topology)
           }
         } catch {
           // Try the next candidate.
@@ -308,6 +307,7 @@ function buildObjectMapPreviewGraph(
     const pairKey = [sourceSlug, targetSlug].sort().join(" ")
     const evidenceCount = Math.max(0, Number(link.evidenceCount) || 0)
     const confidence = Math.max(0, Math.min(1, Number(link.confidence) || 0.34))
+    if (link.defaultOn === false || confidence < objectMapPreviewMinConfidence) return
     const existing = linksByPair.get(pairKey)
     if (existing) {
       existing.evidenceCount += evidenceCount
@@ -350,6 +350,48 @@ function buildObjectMapPreviewGraph(
   return { nodes, links }
 }
 
+function layoutObjectMapPreviewGraph(nodes: ObjectMapRuntimeNode[]) {
+  const focus = nodes.find((node) => node.focus)
+  if (!focus) return
+  focus.x = 0
+  focus.y = 0
+
+  const groups = new Map<string, ObjectMapRuntimeNode[]>()
+  for (const node of nodes) {
+    if (node.focus) continue
+    const group = groups.get(node.type) ?? []
+    group.push(node)
+    groups.set(node.type, group)
+  }
+  const outerNodes = nodes.filter((node) => !node.focus)
+  const total = Math.max(1, outerNodes.length)
+  let offset = 0
+  const innerRadius = 92
+  const outerRadius = innerRadius + Math.max(132, Math.min(296, 104 + Math.sqrt(total) * 23))
+  const orderedGroups = [...groups.values()].sort(
+    (a, b) => b.length - a.length || a[0].type.localeCompare(b[0].type, "lt"),
+  )
+
+  for (const group of orderedGroups) {
+    group.sort((a, b) => b.score - a.score || b.degree - a.degree || a.title.localeCompare(b.title, "lt"))
+    const start = (offset / total) * Math.PI * 2
+    const span = Math.max(0.14, (group.length / total) * Math.PI * 2)
+    for (let index = 0; index < group.length; index++) {
+      const node = group[index]
+      const seed = objectMapHash(node.id)
+      const phase = (index * 0.61803398875) % 1
+      const angle = start + span * (0.09 + phase * 0.82) + (seed % 37) * 0.0009
+      const radius =
+        innerRadius +
+        Math.sqrt((index + 0.65) / Math.max(1, group.length)) * (outerRadius - innerRadius) +
+        ((seed % 13) - 6) * 1.5
+      node.x = Math.cos(angle) * radius
+      node.y = Math.sin(angle) * radius
+    }
+    offset += group.length
+  }
+}
+
 function drawObjectMapPreview(
   canvas: HTMLCanvasElement,
   neighbours: ObjectMapNeighbour[],
@@ -358,8 +400,8 @@ function drawObjectMapPreview(
   node: ObjectMapPreviewNode,
 ) {
   const rect = canvas.getBoundingClientRect()
-  const width = Math.max(360, rect.width || canvas.clientWidth || 460)
-  const height = Math.max(230, rect.height || canvas.clientHeight || 280)
+  const width = Math.max(430, rect.width || canvas.clientWidth || 540)
+  const height = Math.max(290, rect.height || canvas.clientHeight || 350)
   const pixelRatio = Math.min(window.devicePixelRatio || 1, 2)
   canvas.width = Math.floor(width * pixelRatio)
   canvas.height = Math.floor(height * pixelRatio)
@@ -370,40 +412,18 @@ function drawObjectMapPreview(
   if (!ctx) return
   ctx.setTransform(pixelRatio, 0, 0, pixelRatio, 0, 0)
   ctx.clearRect(0, 0, width, height)
-  ctx.fillStyle = "#fff"
+  ctx.fillStyle = "#fdfcf9"
   ctx.fillRect(0, 0, width, height)
 
   const graph = buildObjectMapPreviewGraph(index, slug, node, neighbours)
-
-  const simulation = forceSimulation<ObjectMapRuntimeNode>(graph.nodes)
-    .force(
-      "charge",
-      forceManyBody<ObjectMapRuntimeNode>().strength((runtimeNode) =>
-        runtimeNode.focus ? -170 : -90 - Math.min(60, runtimeNode.score * 1.45),
-      ),
-    )
-    .force("center", forceCenter(0, 0).strength(0.18))
-    .force(
-      "link",
-      forceLink<ObjectMapRuntimeNode, ObjectMapRuntimeLink>(graph.links)
-        .id((runtimeNode) => runtimeNode.id)
-        .distance((link) => 54 + Math.max(0, 5 - Math.min(5, link.evidenceCount)) * 7)
-        .strength((link) => (link.source.focus || link.target.focus ? 0.32 : 0.24)),
-    )
-    .force(
-      "collide",
-      forceCollide<ObjectMapRuntimeNode>((runtimeNode) => objectMapRuntimeRadius(runtimeNode) + 9).iterations(2),
-    )
-
-  simulation.stop()
-  simulation.tick(graph.nodes.length > 140 ? 120 : 90)
+  layoutObjectMapPreviewGraph(graph.nodes)
 
   const labelNodes = [...graph.nodes]
     .sort((a, b) => {
       const diff = (b.focus ? 10000 : 0) + b.score + b.degree * 2 - ((a.focus ? 10000 : 0) + a.score + a.degree * 2)
       return diff === 0 ? a.title.localeCompare(b.title, "lt") : diff
     })
-    .slice(0, graph.nodes.length > 140 ? 50 : 64)
+    .slice(0, graph.nodes.length > 96 ? 38 : 54)
   const labelSet = new Set(labelNodes.map((runtimeNode) => runtimeNode.id))
   const bounds = graph.nodes.map((runtimeNode) => {
     const x = runtimeNode.x ?? 0
@@ -424,7 +444,7 @@ function drawObjectMapPreview(
   const maxY = Math.max(...bounds.map((bound) => bound.maxY))
   const graphWidth = Math.max(1, maxX - minX)
   const graphHeight = Math.max(1, maxY - minY)
-  const padding = graph.nodes.length > 140 ? 24 : 34
+  const padding = graph.nodes.length > 96 ? 26 : 38
   const scale = Math.min((width - padding * 2) / graphWidth, (height - padding * 2) / graphHeight)
   const offsetX = width / 2 - ((minX + maxX) / 2) * scale
   const offsetY = height / 2 - ((minY + maxY) / 2) * scale
@@ -441,10 +461,10 @@ function drawObjectMapPreview(
     ctx.beginPath()
     ctx.moveTo(s.x, s.y)
     ctx.lineTo(t.x, t.y)
-    ctx.globalAlpha = Math.max(0.18, Math.min(0.76, link.confidence || 0.34))
+    ctx.globalAlpha = Math.max(0.18, Math.min(0.68, (link.confidence || 0.34) * 0.72))
     ctx.strokeStyle =
-      link.relationKind === "public_relation" ? "rgba(150, 130, 94, 0.52)" : "rgba(111, 88, 58, 0.68)"
-    ctx.lineWidth = Math.max(0.45, Math.min(3.4, 0.5 + Math.log1p(link.evidenceCount) * 0.7))
+      link.relationKind === "public_relation" ? "rgba(176, 161, 138, 0.7)" : "rgba(117, 97, 73, 0.78)"
+    ctx.lineWidth = Math.max(0.5, Math.min(2.3, 0.45 + Math.log1p(link.evidenceCount) * 0.42))
     ctx.stroke()
   }
   ctx.globalAlpha = 1

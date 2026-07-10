@@ -198,11 +198,11 @@ body:not([data-slug="index"]) .page-header .period-chip {
 }
 
 .page-header > .popover-hint:has(.object-map-cta) {
-  --object-map-preview-width: min(42rem, 55%);
-  --object-map-preview-height: clamp(19rem, 25vw, 23rem);
+  --object-map-preview-width: min(46rem, 58%);
+  --object-map-preview-height: clamp(22rem, 28vw, 28rem);
   position: relative;
   display: block;
-  min-height: calc(var(--object-map-preview-height) + 3.35rem);
+  min-height: calc(var(--object-map-preview-height) + 2.8rem);
   padding-right: calc(var(--object-map-preview-width) + clamp(1.5rem, 4vw, 3.4rem));
 }
 
@@ -213,13 +213,13 @@ body:not([data-slug="index"]) .page-header .period-chip {
 }
 
 .page-header > .popover-hint:has(.object-map-cta):has(.article-title--long) {
-  --object-map-preview-width: min(39rem, 52%);
-  --object-map-preview-height: clamp(16rem, 21vw, 19rem);
+  --object-map-preview-width: min(41rem, 54%);
+  --object-map-preview-height: clamp(18rem, 23vw, 22rem);
 }
 
 .page-header > .popover-hint:has(.object-map-cta):has(.article-title--very-long) {
   --object-map-preview-width: min(36rem, 48%);
-  --object-map-preview-height: clamp(14rem, 18vw, 17rem);
+  --object-map-preview-height: clamp(16rem, 20vw, 19rem);
   min-height: calc(var(--object-map-preview-height) + 2.5rem);
 }
 
@@ -1546,7 +1546,7 @@ body.graph-explorer-active .page {
 
   .page-header > .popover-hint:has(.object-map-cta) {
     --object-map-preview-width: 100%;
-    --object-map-preview-height: 11rem;
+    --object-map-preview-height: 13rem;
     display: block;
     min-height: 0;
     padding-right: 0;
@@ -1594,7 +1594,7 @@ body.graph-explorer-active .page {
     right: auto;
     width: 100%;
     height: auto;
-    min-height: 11rem;
+    min-height: 13rem;
   }
 
   .object-primary-media {
