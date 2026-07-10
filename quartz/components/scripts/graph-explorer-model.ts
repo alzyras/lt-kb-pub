@@ -105,6 +105,49 @@ export function summarizeFocusedGraph(graph: VisibleGraph): FocusGraphSummary {
   }
 }
 
+export function layoutGlobalGraph(nodes: RuntimeNode[]): void {
+  if (!nodes.length) return
+
+  const groups = new Map<string, RuntimeNode[]>()
+  for (const node of nodes) {
+    const group = groups.get(node.type) ?? []
+    group.push(node)
+    groups.set(node.type, group)
+  }
+
+  const orderedGroups = [...groups.values()].sort(
+    (a, b) => b.length - a.length || a[0].type.localeCompare(b[0].type, "lt"),
+  )
+  const total = nodes.length
+  const innerRadius = 42
+  const outerRadius = Math.max(520, Math.min(900, Math.sqrt(total) * 10.5))
+  let offset = 0
+
+  for (const group of orderedGroups) {
+    group.sort((a, b) => b.degree - a.degree || a.id.localeCompare(b.id, "lt"))
+    const start = (offset / total) * Math.PI * 2
+    const span = (group.length / total) * Math.PI * 2
+
+    for (let index = 0; index < group.length; index++) {
+      const node = group[index]
+      const seed = [...node.id].reduce(
+        (value, character) => (value * 33 + character.charCodeAt(0)) >>> 0,
+        5381,
+      )
+      const phase = (index * 0.61803398875) % 1
+      const angle = start + span * (0.025 + phase * 0.95) + (seed % 31) * 0.0007
+      const radius =
+        innerRadius +
+        Math.sqrt((index + 0.75) / Math.max(1, group.length)) *
+          (outerRadius - innerRadius) +
+        ((seed % 11) - 5) * 1.2
+      node.px = Math.cos(angle) * radius
+      node.py = Math.sin(angle) * radius
+    }
+    offset += group.length
+  }
+}
+
 function parseNumber(value: string | null, fallback: number): number {
   const parsed = Number(value)
   return value !== null && value !== "" && Number.isFinite(parsed) ? parsed : fallback

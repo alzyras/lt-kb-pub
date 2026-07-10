@@ -2,6 +2,7 @@ import assert from "node:assert/strict"
 import test, { describe } from "node:test"
 import {
   buildVisibleGraph,
+  layoutGlobalGraph,
   parseGraphState,
   serializeGraphState,
   summarizeFocusedGraph,
@@ -76,6 +77,20 @@ describe("graph explorer model", () => {
 
     const withIsolated = buildVisibleGraph(topology, edges, state({ showIsolated: true }))
     assert.equal(withIsolated.nodes.length, 5)
+  })
+
+  test("global layout is deterministic and keeps every node in a compact radial field", () => {
+    const graph = buildVisibleGraph(topology, edges, state())
+    layoutGlobalGraph(graph.nodes)
+    const first = graph.nodes.map(({ id, px, py }) => ({ id, px, py }))
+    assert.ok(first.every(({ px, py }) => Number.isFinite(px) && Number.isFinite(py)))
+    assert.ok(first.every(({ px, py }) => Math.hypot(px, py) <= 910))
+
+    layoutGlobalGraph(graph.nodes)
+    assert.deepEqual(
+      graph.nodes.map(({ id, px, py }) => ({ id, px, py })),
+      first,
+    )
   })
 
   test("depth one includes every incoming and outgoing neighbour", () => {

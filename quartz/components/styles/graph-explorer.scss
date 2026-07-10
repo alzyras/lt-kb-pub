@@ -40,16 +40,20 @@ body.graph-explorer-active {
   box-sizing: border-box;
   color: #241c18;
   display: grid;
-  grid-template-rows: auto auto minmax(0, 1fr);
-  height: auto;
+  grid-template-rows: auto minmax(0, 1fr);
+  height: 100dvh;
   inset: 0;
   max-height: none;
   max-width: none;
-  min-height: 100dvh;
+  min-height: 0;
   min-width: 100%;
   overflow: hidden;
   position: fixed;
   width: auto;
+
+  &:has(.graph-explorer-context:not([hidden])) {
+    grid-template-rows: auto auto minmax(0, 1fr);
+  }
 }
 .sr-only { clip: rect(0,0,0,0); border: 0; height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; white-space: nowrap; width: 1px; }
 

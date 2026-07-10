@@ -5,6 +5,7 @@ import { loadSourceCatalog } from "../../util/sourceSettings"
 import {
   buildVisibleGraph,
   cloneGraphState,
+  layoutGlobalGraph,
   parseGraphState,
   serializeGraphState,
   summarizeFocusedGraph,
@@ -98,7 +99,10 @@ function createLayoutWorker(): Worker {
   return new Worker(URL.createObjectURL(new Blob([source], { type: "text/javascript" })))
 }
 async function layoutGraph(graph: VisibleGraph, worker: Worker): Promise<void> {
-  if (!graph.focus) return
+  if (!graph.focus) {
+    layoutGlobalGraph(graph.nodes)
+    return
+  }
   const result = await new Promise<Array<{ id: string; px: number; py: number }>>((resolve) => {
     const listener = (event: MessageEvent) => { worker.removeEventListener("message", listener); resolve(event.data) }
     worker.addEventListener("message", listener)
@@ -327,6 +331,7 @@ async function setup(root: HTMLElement) {
     await layoutGraph(graph, worker)
     if (token !== renderToken) return
 
+    root.querySelector<HTMLElement>("[data-focus-context]")!.hidden = !graph.focus
     renderer?.destroy()
     renderer = await renderGraph(canvas, graph, {
       focus: (slug) => {
@@ -355,7 +360,6 @@ async function setup(root: HTMLElement) {
 
     status.hidden = true
     root.dataset.panel = state.panel
-    root.querySelector<HTMLElement>("[data-focus-context]")!.hidden = !graph.focus
 
     if (graph.focus) {
       const counts = summarizeFocusedGraph(graph)
