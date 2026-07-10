@@ -32,8 +32,18 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.ArticleTitle(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.ContentMeta({ showReadingTime: false }),
-    Component.ObjectMapCTA(),
+    Component.ConditionalRender({
+      component: Component.SettingsPage(),
+      condition: (page) => page.fileData.slug === "nustatymai",
+    }),
+    Component.ConditionalRender({
+      component: Component.ContentMeta({ showReadingTime: false }),
+      condition: (page) => page.fileData.slug !== "nustatymai",
+    }),
+    Component.ConditionalRender({
+      component: Component.ObjectMapCTA(),
+      condition: (page) => page.fileData.slug !== "nustatymai",
+    }),
     Component.ConditionalRender({
       component: Component.HomeCollection(),
       condition: (page) => page.fileData.slug === "index",

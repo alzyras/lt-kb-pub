@@ -78,6 +78,7 @@ describe("GraphExplorerIndex", () => {
     assert.strictEqual(vytautas.links[0].relationKind, "claim_quote_mention")
     assert.strictEqual(vytautas.links[0].evidencePreview[0].claimId, "t-001")
     assert.strictEqual(vytautas.links[0].evidencePreview[0].quoteId, "c-001")
+    assert.deepStrictEqual(vytautas.links[0].sourceIds, ["testinis-saltinis"])
   })
 
   test("excludes period and source targets from object graph index", () => {

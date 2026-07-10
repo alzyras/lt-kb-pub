@@ -15,6 +15,7 @@ import type {
   GraphExplorerLinkDetails,
 } from "../../plugins/emitters/contentIndex"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
+import { loadSourceCatalog, readSettingsState, selectedSources } from "../../util/sourceSettings"
 
 type ExplorerRuntime = typeof globalThis & {
   loadGraphExplorerIndex?: () => Promise<Record<FullSlug, GraphExplorerIndexDetails>>
@@ -78,6 +79,8 @@ type LabelBounds = {
 
 const runtime = globalThis as ExplorerRuntime
 let cachedCitationSources: CitationSourceRegistryEntry[] | null = null
+let globalTextSourceIds = new Set<string>()
+let globalTextFilterActive = false
 
 const noTypeSelection = "__none__"
 const graphTypeValues = [
@@ -248,6 +251,10 @@ async function loadCitationSources(): Promise<CitationSourceRegistryEntry[]> {
 }
 
 function sourceMatches(node: GraphExplorerIndexDetails, selectedSources: string[]): boolean {
+  if (globalTextFilterActive) {
+    const nodeSources = node.citationSourceIds ?? []
+    if (!nodeSources.some((source) => globalTextSourceIds.has(source))) return false
+  }
   if (selectedSources.length === 0) return true
   const sourceIds = node.citationSourceIds ?? []
   if (selectedSources.some((source) => sourceIds.includes(source))) return true
@@ -255,6 +262,18 @@ function sourceMatches(node: GraphExplorerIndexDetails, selectedSources: string[
   const needles = selectedSources.map((source) => normalizedText(source)).filter(Boolean)
   const sources = normalizedText([...(node.citationSourceIds ?? []), ...(node.citationSourceTitles ?? [])].join(" "))
   return needles.some((needle) => sources.includes(needle))
+}
+
+function linkMatchesGlobalSources(link: GraphExplorerLinkDetails): boolean {
+  if (!globalTextFilterActive) return true
+  return (link.sourceIds ?? []).some((source) => globalTextSourceIds.has(source))
+}
+
+async function refreshGlobalSourceSelection() {
+  const settings = readSettingsState()
+  const catalog = await loadSourceCatalog()
+  globalTextSourceIds = new Set(selectedSources(catalog, "text", settings.textSources).map((entry) => entry.id))
+  globalTextFilterActive = settings.textSources.mode !== "all" || settings.textSources.rules.length > 0
 }
 
 function graphExplorerIndexUrls(): string[] {
@@ -625,6 +644,7 @@ function buildVisibleGraph(
       seenLinks.add(pairKey)
       const details = linkDetails.get(`${source} ${target}`)
       if (!details) continue
+      if (!linkMatchesGlobalSources(details)) continue
       runtimeLinks.push({
         source: runtimeBySlug.get(source)!,
         target: runtimeBySlug.get(target)!,
@@ -1406,6 +1426,7 @@ async function setupGraphExplorer(root: HTMLElement) {
   if (!canvas || !panel || !form) return
 
   canvas.innerHTML = `<p class="graph-explorer-loading">Kraunamas žemėlapis...</p>`
+  await refreshGlobalSourceSelection()
   const rawIndex = await loadExplorerIndex()
   const nodesBySlug = new Map<SimpleSlug, GraphExplorerIndexDetails>(
     Object.entries(rawIndex).map(([slug, details]) => [simplifySlug(slug as FullSlug), details]),
@@ -1612,6 +1633,11 @@ async function setupGraphExplorer(root: HTMLElement) {
   await loadCitationSources()
   syncSourceControls(root, state, setSources)
   rerender()
+  const onSettingsChange = () => {
+    refreshGlobalSourceSelection().then(rerender)
+  }
+  document.addEventListener("quartz-settings-change", onSettingsChange)
+  window.addCleanup?.(() => document.removeEventListener("quartz-settings-change", onSettingsChange))
 }
 
 document.addEventListener("nav", () => {

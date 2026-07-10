@@ -59,7 +59,11 @@ export const ObjectPrimaryMedia: QuartzTransformerPlugin = () => ({
           const meta = displayMeta(fallbackPrimary)
           const license = cleanText(fallbackPrimary.license)
 
-          const section = element("section", { className: ["object-primary-media"] }, [
+          const provider = cleanText(fallbackPrimary.provider).toLowerCase() || "other"
+          const section = element("section", {
+            className: ["object-primary-media"],
+            "data-media-source-id": `media-${provider}`,
+          }, [
             element("a", {
               className: ["object-primary-media-figure"],
               href: sourceHref,

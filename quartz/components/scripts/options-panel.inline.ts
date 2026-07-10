@@ -1,235 +1,32 @@
-type CitationSourceRegistryEntry = {
-  id: string
-  title: string
-  objectCount?: number
-  quoteCount?: number
-  count: number
-}
-
-type OptionsState = {
-  minClaimCount: number
-  showPersonParentheticals: boolean
-  sourceSelectionMode: "all" | "custom"
-  selectedSourceIds: string[]
-}
+import {
+  DEFAULT_SETTINGS_STATE,
+  dispatchSettingsChange,
+  loadSourceCatalog,
+  readSettingsState,
+  selectedSources,
+  sourceMatchesSelection,
+  writeSettingsState,
+  type SettingsState,
+  type SourceCatalogEntry,
+} from "../../util/sourceSettings"
 
 type OptionsWindow = Window &
   typeof globalThis & {
     applyQuartzOptionFilters?: () => void
     addCleanup?: (cleanup: () => void) => void
+    loadGraphExplorerIndex?: () => Promise<Record<string, { links?: Array<{ target: string; sourceIds?: string[] }> }>>
   }
 
 type OptionsRoot = HTMLElement & {
   __optionsPanelBound?: boolean
 }
 
-type CitationSourceGlobal = typeof globalThis & {
-  fetchCitationSources?: Promise<CitationSourceRegistryEntry[]>
-}
-
-const OPTIONS_STORAGE_KEY = "ltkb-options-v4"
-const DEFAULT_STATE: OptionsState = {
-  minClaimCount: 5,
-  showPersonParentheticals: true,
-  sourceSelectionMode: "all",
-  selectedSourceIds: [],
-}
-
 const optionsWindow = window as OptionsWindow
-const citationSourceGlobal = globalThis as CitationSourceGlobal
-let state = readState()
-let cachedSources: CitationSourceRegistryEntry[] = []
+let state: SettingsState = readSettingsState()
+let cachedSources: SourceCatalogEntry[] = []
 let personParentheticalObserver: MutationObserver | null = null
 let personParentheticalObserverScheduled = false
-
-function normalizeSources(sources: CitationSourceRegistryEntry[]): CitationSourceRegistryEntry[] {
-  return sources
-    .filter(
-      (source) =>
-        typeof source?.id === "string" &&
-        source.id.trim().length > 0 &&
-        typeof source?.title === "string" &&
-        source.title.trim().length > 0,
-    )
-    .map((source) => ({
-      id: source.id.trim(),
-      title: source.title.trim(),
-      objectCount: Number.isFinite(source.objectCount)
-        ? Math.max(0, Number(source.objectCount))
-        : 0,
-      quoteCount: Number.isFinite(source.quoteCount)
-        ? Math.max(0, Number(source.quoteCount))
-        : Number.isFinite(source.count)
-          ? Math.max(0, Number(source.count))
-          : 0,
-      count: Number.isFinite(source.quoteCount)
-        ? Math.max(0, Number(source.quoteCount))
-        : Number.isFinite(source.count)
-          ? Math.max(0, Number(source.count))
-          : 0,
-    }))
-    .sort((a, b) => {
-      const aObjects = Number(a.objectCount ?? 0)
-      const bObjects = Number(b.objectCount ?? 0)
-      if (bObjects !== aObjects) {
-        return bObjects - aObjects
-      }
-      if (b.count !== a.count) {
-        return b.count - a.count
-      }
-      return a.title.localeCompare(b.title, "lt", { sensitivity: "base" })
-    })
-}
-
-function deriveSourcesFromDom(): CitationSourceRegistryEntry[] {
-  const byId = new Map<string, CitationSourceRegistryEntry>()
-
-  document.querySelectorAll<HTMLElement>('[data-citation-entry="true"]').forEach((entry) => {
-    const id = String(entry.dataset.citationSourceId ?? "").trim()
-    const title = String(entry.dataset.citationSourceTitle ?? "").trim()
-    if (!id) {
-      return
-    }
-    const existing = byId.get(id)
-    if (existing) {
-      existing.count += 1
-      existing.quoteCount = Number(existing.quoteCount ?? 0) + 1
-      if (!existing.title && title) {
-        existing.title = title
-      }
-    } else {
-      byId.set(id, { id, title: title || id, objectCount: 1, quoteCount: 1, count: 1 })
-    }
-  })
-
-  document.querySelectorAll<HTMLElement>("[data-citation-sources]").forEach((entry) => {
-    const ids = parseSourceIds(entry.dataset.citationSources)
-    ids.forEach((id) => {
-      const existing = byId.get(id)
-      if (existing) {
-        existing.objectCount = Number(existing.objectCount ?? 0) + 1
-      } else {
-        byId.set(id, { id, title: id, objectCount: 1, quoteCount: 0, count: 0 })
-      }
-    })
-  })
-
-  return normalizeSources([...byId.values()])
-}
-
-async function fetchRegistryAt(url: string): Promise<CitationSourceRegistryEntry[] | null> {
-  try {
-    const response = await fetch(url, { cache: "no-store" })
-    if (!response.ok) {
-      return null
-    }
-    const data = await response.json()
-    if (!Array.isArray(data)) {
-      return null
-    }
-    return normalizeSources(data as CitationSourceRegistryEntry[])
-  } catch {
-    return null
-  }
-}
-
-async function loadCitationSources(): Promise<CitationSourceRegistryEntry[]> {
-  const fromGlobal = citationSourceGlobal.fetchCitationSources
-  if (fromGlobal) {
-    try {
-      const resolved = await fromGlobal
-      const normalized = normalizeSources(Array.isArray(resolved) ? resolved : [])
-      if (normalized.length > 0) {
-        return normalized
-      }
-    } catch {
-      // fallback below
-    }
-  }
-
-  const candidates = [
-    "/static/citationSources.json",
-    "/lt-kb-pub/static/citationSources.json",
-    "./static/citationSources.json",
-    "../static/citationSources.json",
-    "../../static/citationSources.json",
-  ]
-
-  for (const candidate of candidates) {
-    const resolved = await fetchRegistryAt(candidate)
-    if (resolved && resolved.length > 0) {
-      return resolved
-    }
-  }
-
-  return deriveSourcesFromDom()
-}
-
-function escapeOptionsHtml(text: string): string {
-  return text
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#39;")
-}
-
-function readState(): OptionsState {
-  const stored = localStorage.getItem(OPTIONS_STORAGE_KEY)
-  if (!stored) {
-    return { ...DEFAULT_STATE }
-  }
-  try {
-    const parsed = JSON.parse(stored) as Partial<OptionsState>
-    const minClaimCount = Number.isFinite(parsed.minClaimCount)
-      ? Math.max(0, Number(parsed.minClaimCount))
-      : DEFAULT_STATE.minClaimCount
-    const selectedSourceIds = Array.isArray(parsed.selectedSourceIds)
-      ? parsed.selectedSourceIds.filter((value): value is string => typeof value === "string")
-      : []
-    const showPersonParentheticals =
-      typeof parsed.showPersonParentheticals === "boolean"
-        ? parsed.showPersonParentheticals
-        : DEFAULT_STATE.showPersonParentheticals
-    // Migrate older saved states: if there was an explicit selection saved before
-    // sourceSelectionMode existed, preserve that custom subset instead of forcing "all".
-    const sourceSelectionMode =
-      parsed.sourceSelectionMode === "custom"
-        ? "custom"
-        : parsed.sourceSelectionMode === "all"
-          ? "all"
-          : selectedSourceIds.length > 0
-            ? "custom"
-            : "all"
-    return { minClaimCount, showPersonParentheticals, sourceSelectionMode, selectedSourceIds }
-  } catch {
-    return { ...DEFAULT_STATE }
-  }
-}
-
-function persistState() {
-  localStorage.setItem(OPTIONS_STORAGE_KEY, JSON.stringify(state))
-}
-
-function normalizeState() {
-  state = {
-    minClaimCount: Math.max(0, Number(state.minClaimCount) || 0),
-    showPersonParentheticals: state.showPersonParentheticals !== false,
-    sourceSelectionMode: state.sourceSelectionMode === "custom" ? "custom" : "all",
-    selectedSourceIds: [...new Set(state.selectedSourceIds.filter(Boolean))],
-  }
-}
-
-function selectedSourceSet(): Set<string> {
-  return new Set(state.selectedSourceIds)
-}
-
-function isSourceSelected(sourceId: string): boolean {
-  if (state.sourceSelectionMode === "all") {
-    return true
-  }
-  return selectedSourceSet().has(sourceId)
-}
+const originalRelationRows = new WeakMap<HTMLLIElement, string>()
 
 function parseSourceIds(value: string | undefined): string[] {
   return (value ?? "")
@@ -239,14 +36,20 @@ function parseSourceIds(value: string | undefined): string[] {
 }
 
 function matchesSourceSelection(itemSourceIds: string[]): boolean {
-  if (state.sourceSelectionMode === "all") {
-    return true
-  }
-  if (state.selectedSourceIds.length === 0) {
-    return false
-  }
-  const selected = selectedSourceSet()
-  return itemSourceIds.some((id) => selected.has(id))
+  if (state.textSources.mode === "all" && state.textSources.rules.length === 0) return true
+  return itemSourceIds.some((id) => {
+    const entry = cachedSources.find((source) => source.id === id) ?? {
+      id,
+      title: id,
+      channel: "text" as const,
+      kind: "book" as const,
+      objectCount: 0,
+      claimCount: 0,
+      quoteCount: 0,
+      mediaCount: 0,
+    }
+    return sourceMatchesSelection(entry, state.textSources)
+  })
 }
 
 function targetLooksLikePersonSlug(value: string | undefined | null): boolean {
@@ -345,7 +148,7 @@ function initPersonParentheticalObserver() {
 }
 
 function optionFiltersActive(): boolean {
-  return state.minClaimCount > 0 || state.sourceSelectionMode === "custom"
+  return state.minClaimCount > 0 || state.textSources.mode === "custom" || state.textSources.rules.length > 0
 }
 
 function optionsMatchItem({
@@ -556,7 +359,7 @@ function applyCitationFilters() {
 
   const claimRows = document.querySelectorAll<HTMLElement>('[data-claim-row="true"]')
   claimRows.forEach((row) => {
-    if (state.sourceSelectionMode === "all") {
+    if (state.textSources.mode === "all" && state.textSources.rules.length === 0) {
       row.hidden = false
       return
     }
@@ -589,19 +392,107 @@ function applyCitationFilters() {
   )
 }
 
+function applyPrimaryMediaFilter() {
+  document.querySelectorAll<HTMLElement>("[data-media-source-id].object-primary-media").forEach((section) => {
+    const sourceId = section.dataset.mediaSourceId ?? "media-other"
+    const entry = cachedSources.find((source) => source.id === sourceId)
+    section.hidden = entry ? !sourceMatchesSelection(entry, state.mediaSources) : false
+  })
+}
+
+function normalizedSlug(value: string): string {
+  return decodeURIComponent(value)
+    .replace(/^https?:\/\/[^/]+/i, "")
+    .replace(/^\//, "")
+    .replace(/\.html$/, "")
+    .replace(/\/$/, "")
+}
+
+async function applyRelationFilters() {
+  const heading = document.querySelector<HTMLElement>("#ryšiai, #rysiai")
+  if (!heading) return
+  const rows: HTMLLIElement[] = []
+  let sibling = heading.nextElementSibling
+  while (sibling && !/^H[1-6]$/.test(sibling.tagName)) {
+    rows.push(...sibling.querySelectorAll<HTMLLIElement>(":scope > li, :scope > ul > li"))
+    sibling = sibling.nextElementSibling
+  }
+  if (state.textSources.mode === "all" && state.textSources.rules.length === 0) {
+    rows.forEach((row) => {
+      const original = originalRelationRows.get(row)
+      if (original !== undefined) row.innerHTML = original
+      row.hidden = false
+    })
+    return
+  }
+  const index: Record<string, { links?: Array<{ target: string; sourceIds?: string[] }> }> =
+    await optionsWindow.loadGraphExplorerIndex?.().catch(() => ({})) ?? {}
+  const currentSlug = normalizedSlug(document.body.dataset.slug ?? "")
+  const matchingKey = Object.keys(index).find((key) => normalizedSlug(key) === currentSlug)
+  const node = index[currentSlug] ?? (matchingKey ? index[matchingKey] : undefined)
+  if (!node) {
+    rows.forEach((row) => { row.hidden = true })
+    return
+  }
+  const selected = new Set(selectedSources(cachedSources, "text", state.textSources).map((source) => source.id))
+  rows.forEach((row) => {
+    if (!originalRelationRows.has(row)) originalRelationRows.set(row, row.innerHTML)
+    const original = originalRelationRows.get(row)
+    if (original !== undefined) row.innerHTML = original
+
+    const anchors = [...row.querySelectorAll<HTMLAnchorElement>(":scope > a.internal")]
+    const edgeForAnchor = (anchor: HTMLAnchorElement) => {
+      const target = normalizedSlug(anchor.dataset.slug ?? anchor.getAttribute("href") ?? "")
+      return (node.links ?? []).filter((edge) => normalizedSlug(edge.target) === target)
+    }
+    const visibleAnchors = anchors.filter((anchor) =>
+      edgeForAnchor(anchor).some((edge) =>
+        (edge.sourceIds ?? []).some((sourceId) => selected.has(sourceId)),
+      ),
+    )
+
+    const childNodes = [...row.childNodes]
+    const firstAnchorIndex = childNodes.findIndex((child) => child instanceof HTMLAnchorElement)
+    const isGroupedTargetList =
+      firstAnchorIndex > 0 &&
+      childNodes.slice(firstAnchorIndex).every((child) =>
+        child instanceof HTMLAnchorElement ||
+        (child.nodeType === Node.TEXT_NODE && /^\s*[,;]?\s*$/.test(child.textContent ?? "")),
+      )
+
+    if (isGroupedTargetList) {
+      const prefix = childNodes.slice(0, firstAnchorIndex).map((child) => child.cloneNode(true))
+      const targets: Node[] = []
+      visibleAnchors.forEach((anchor, index) => {
+        if (index > 0) targets.push(document.createTextNode(", "))
+        targets.push(anchor.cloneNode(true))
+      })
+      row.replaceChildren(...prefix, ...targets)
+      row.hidden = visibleAnchors.length === 0
+      return
+    }
+
+    const matchingEdges = anchors.flatMap((anchor) => edgeForAnchor(anchor))
+    row.hidden =
+      matchingEdges.length === 0 ||
+      !matchingEdges.some((edge) =>
+        (edge.sourceIds ?? []).some((sourceId) => selected.has(sourceId)),
+      )
+  })
+}
+
 function applyFilters() {
-  normalizeState()
-  persistState()
+  state = { ...state, minClaimCount: Math.max(0, Number(state.minClaimCount) || 0) }
+  writeSettingsState(state, cachedSources)
   applyPersonParentheticalDisplay()
   applyListFilters()
   applyExplorerFilters()
   applyCitationFilters()
+  applyPrimaryMediaFilter()
+  void applyRelationFilters()
   syncCurrentPageFilter()
   syncPanelState()
-  const event: CustomEventMap["quartz-options-change"] = new CustomEvent("quartz-options-change", {
-    detail: {},
-  })
-  document.dispatchEvent(event)
+  dispatchSettingsChange()
 }
 
 function syncPanelState() {
@@ -614,6 +505,7 @@ function syncPanelState() {
       "[data-options-person-parentheticals]",
     )
     const selectedSummary = root.querySelector<HTMLElement>("[data-options-selected-summary]")
+    const activeCount = root.querySelector<HTMLElement>("[data-options-active-count]")
     if (range) {
       range.max = `${maxValue}`
       range.value = `${Math.min(state.minClaimCount, maxValue)}`
@@ -625,84 +517,21 @@ function syncPanelState() {
       personParentheticals.checked = state.showPersonParentheticals
     }
     if (selectedSummary) {
-      const selectedCount =
-        state.sourceSelectionMode === "all" ? cachedSources.length : state.selectedSourceIds.length
-      selectedSummary.textContent =
-        state.sourceSelectionMode === "all" && cachedSources.length > 0
-          ? `Pasirinkta: visos (${selectedCount})`
-          : `Pasirinkta: ${selectedCount}`
-    }
-
-    root
-      .querySelectorAll<HTMLInputElement>("[data-options-source-checkbox]")
-      .forEach((checkbox) => {
-        checkbox.checked = isSourceSelected(checkbox.value)
-      })
-  })
-}
-
-function renderSourceList(root: HTMLElement, sources: CitationSourceRegistryEntry[]) {
-  const list = root.querySelector<HTMLElement>("[data-options-source-list]")
-  const search = root.querySelector<HTMLInputElement>("[data-options-source-search]")
-  if (!list) {
-    return
-  }
-
-  const filterTerm = (search?.value ?? "").trim().toLocaleLowerCase("lt")
-  const visibleSources = sources.filter((source) =>
-    source.title.toLocaleLowerCase("lt").includes(filterTerm),
-  )
-
-  if (visibleSources.length === 0) {
-    list.innerHTML = `<p class="options-panel-empty">Nerasta knygų.</p>`
-    return
-  }
-
-  list.innerHTML = visibleSources
-    .map((source) => {
-      const checked = isSourceSelected(source.id) ? 'checked="checked"' : ""
-      return `
-        <div class="options-panel-source-row">
-          <label>
-            <input type="checkbox" value="${source.id}" data-options-source-checkbox="" ${checked} />
-            <span class="options-panel-source-title">${escapeOptionsHtml(source.title)}</span>
-          </label>
-          <span class="options-panel-source-count">${Number(source.objectCount ?? 0)} ob. (${Number(source.quoteCount ?? source.count ?? 0)} cit.)</span>
-        </div>
-      `
-    })
-    .join("")
-
-  list.querySelectorAll<HTMLInputElement>("[data-options-source-checkbox]").forEach((checkbox) => {
-    const onChange = () => {
-      const currentSelection =
-        state.sourceSelectionMode === "all"
-          ? cachedSources.map((source) => source.id)
-          : [...state.selectedSourceIds]
-      if (checkbox.checked) {
-        const nextSelection = [...new Set([...currentSelection, checkbox.value])]
-        if (cachedSources.length > 0 && nextSelection.length >= cachedSources.length) {
-          state.sourceSelectionMode = "all"
-          state.selectedSourceIds = []
-        } else {
-          state.sourceSelectionMode = "custom"
-          state.selectedSourceIds = nextSelection
-        }
-      } else {
-        state.sourceSelectionMode = "custom"
-        state.selectedSourceIds = currentSelection.filter((value) => value !== checkbox.value)
+      const textSources = cachedSources.filter((source) => source.channel === "text")
+      const selectedCount = selectedSources(cachedSources, "text", state.textSources).length
+      selectedSummary.textContent = selectedCount === textSources.length
+        ? `Pasirinkti visi (${selectedCount})`
+        : `Pasirinkta ${selectedCount} iš ${textSources.length}`
+      if (activeCount) {
+        const active = state.minClaimCount > 0 || selectedCount !== textSources.length
+        activeCount.hidden = !active
+        activeCount.textContent = String((state.minClaimCount > 0 ? 1 : 0) + (selectedCount !== textSources.length ? 1 : 0))
       }
-      applyFilters()
     }
-    checkbox.addEventListener("change", onChange)
-    optionsWindow.addCleanup?.(() => checkbox.removeEventListener("change", onChange))
   })
 }
 
 function rerenderSourceLists() {
-  document.querySelectorAll<HTMLElement>("[data-options-root]").forEach((root) => {
-    renderSourceList(root, cachedSources)
-  })
   applyFilters()
 }
 
@@ -731,7 +560,6 @@ function initPanel(root: HTMLElement) {
   const personParentheticals = root.querySelector<HTMLInputElement>(
     "[data-options-person-parentheticals]",
   )
-  const search = root.querySelector<HTMLInputElement>("[data-options-source-search]")
 
   const onToggle = () => {
     const popover = root.querySelector<HTMLElement>("[data-options-popover]")
@@ -739,11 +567,7 @@ function initPanel(root: HTMLElement) {
   }
   const onClose = () => setPanelOpen(root, false)
   const onReset = () => {
-    state = { ...DEFAULT_STATE }
-    if (search) {
-      search.value = ""
-    }
-    renderSourceList(root, cachedSources)
+    state = structuredClone(DEFAULT_SETTINGS_STATE)
     applyFilters()
   }
   const onRangeInput = () => {
@@ -758,7 +582,6 @@ function initPanel(root: HTMLElement) {
     state.showPersonParentheticals = personParentheticals?.checked !== false
     applyFilters()
   }
-  const onSearchInput = () => renderSourceList(root, cachedSources)
   const onDocumentClick = (event: MouseEvent) => {
     const target = event.target
     if (!(target instanceof Node)) {
@@ -777,7 +600,6 @@ function initPanel(root: HTMLElement) {
   number?.addEventListener("input", onNumberInput)
   number?.addEventListener("change", onNumberInput)
   personParentheticals?.addEventListener("change", onPersonParentheticalsChange)
-  search?.addEventListener("input", onSearchInput)
   document.addEventListener("click", onDocumentClick)
 
   optionsWindow.addCleanup?.(() => toggle?.removeEventListener("click", onToggle))
@@ -790,14 +612,12 @@ function initPanel(root: HTMLElement) {
   optionsWindow.addCleanup?.(() =>
     personParentheticals?.removeEventListener("change", onPersonParentheticalsChange),
   )
-  optionsWindow.addCleanup?.(() => search?.removeEventListener("input", onSearchInput))
   optionsWindow.addCleanup?.(() => document.removeEventListener("click", onDocumentClick))
   optionsWindow.addCleanup?.(() => {
     optionsRoot.__optionsPanelBound = false
   })
 
   syncPanelState()
-  renderSourceList(root, cachedSources)
 }
 
 function initOptionsPanels() {
@@ -810,14 +630,20 @@ function initOptionsPanels() {
 optionsWindow.applyQuartzOptionFilters = applyFilters
 initOptionsPanels()
 
-loadCitationSources()
+loadSourceCatalog()
   .then((sources) => {
     cachedSources = sources
     rerenderSourceLists()
   })
   .catch(() => {
-    cachedSources = deriveSourcesFromDom()
+    cachedSources = []
     rerenderSourceLists()
   })
+
+document.addEventListener("quartz-settings-change", () => {
+  state = readSettingsState()
+  applyPersonParentheticalDisplay()
+  syncPanelState()
+})
 document.addEventListener("DOMContentLoaded", initOptionsPanels)
 document.addEventListener("nav", initOptionsPanels)

@@ -10,7 +10,7 @@ const OptionsPanel: QuartzComponent = ({ displayClass }: QuartzComponentProps) =
       <button
         class="options-panel-toggle"
         type="button"
-        aria-label="Atidaryti filtravimo parinktis"
+        aria-label="Atidaryti filtrus"
         title="Filtrai"
         data-options-toggle=""
         aria-expanded="false"
@@ -31,11 +31,12 @@ const OptionsPanel: QuartzComponent = ({ displayClass }: QuartzComponentProps) =
           <path d="M10 11H6.5a1.5 1.5 0 0 1-1.5-1.5V6a1 1 0 0 1 1-1h5v4a6 6 0 0 1-6 6" />
           <path d="M19 11h-3.5A1.5 1.5 0 0 1 14 9.5V6a1 1 0 0 1 1-1h5v4a6 6 0 0 1-6 6" />
         </svg>
-        <span class="options-panel-toggle-label">Advanced</span>
+        <span class="options-panel-toggle-label">Filtrai</span>
+        <span class="options-panel-badge" data-options-active-count hidden></span>
       </button>
       <div class="options-panel-popover" data-options-popover="" hidden>
         <div class="options-panel-header">
-          <strong>Advanced</strong>
+          <strong>Greiti filtrai</strong>
           <button
             class="options-panel-close"
             type="button"
@@ -81,28 +82,15 @@ const OptionsPanel: QuartzComponent = ({ displayClass }: QuartzComponentProps) =
             <span>Rodyti asmenų paaiškinimus skliaustuose</span>
           </label>
         </div>
-        <div class="options-panel-section">
-          <label class="options-panel-label" for="ltkb-source-search">
-            Knygos su citatomis
-          </label>
-          <input
-            id="ltkb-source-search"
-            class="options-panel-search"
-            type="search"
-            placeholder="Filtruoti knygas..."
-            data-options-source-search=""
-          />
-          <div class="options-panel-selected" data-options-selected-summary="">
-            Pasirinkta: 0
-          </div>
-          <div class="options-panel-source-list" data-options-source-list="">
-            <p class="options-panel-empty">Kraunamas knygų sąrašas…</p>
-          </div>
+        <div class="options-panel-section options-panel-source-summary">
+          <span class="options-panel-label">Tekstiniai šaltiniai</span>
+          <div class="options-panel-selected" data-options-selected-summary>Pasirinkti visi</div>
         </div>
         <div class="options-panel-actions">
           <button class="options-panel-reset" type="button" data-options-reset="">
             Atstatyti
           </button>
+          <a class="options-panel-settings-link" href="/nustatymai">Visi nustatymai</a>
         </div>
       </div>
     </div>

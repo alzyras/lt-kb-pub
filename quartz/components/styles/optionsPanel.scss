@@ -51,6 +51,22 @@
   text-transform: uppercase;
 }
 
+.options-panel-badge {
+  display: inline-flex;
+  min-width: 1.1rem;
+  height: 1.1rem;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--secondary);
+  color: var(--light);
+  font-family: var(--codeFont);
+  font-size: 0.62rem;
+  font-weight: 850;
+}
+
+.options-panel-badge[hidden] { display: none; }
+
 .sr-only {
   position: absolute;
   width: 1px;
@@ -95,6 +111,12 @@
 .options-panel-header,
 .options-panel-actions {
   justify-content: space-between;
+}
+
+.options-panel-settings-link {
+  color: var(--secondary);
+  font-weight: 750;
+  text-decoration: none;
 }
 
 .options-panel-section {

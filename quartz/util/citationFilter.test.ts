@@ -10,7 +10,7 @@ import {
   normalizeCitationSourceId,
   parseEvidenceSections,
 } from "./citationFilter"
-import { buildCitationSourceRegistry } from "../plugins/emitters/citationSources"
+import { buildCitationSourceRegistry, buildSourceCatalog } from "../plugins/emitters/citationSources"
 import { defaultProcessedContent } from "../plugins/vfile"
 import type { FilePath, FullSlug } from "./path"
 
@@ -161,6 +161,9 @@ describe("citationFilter metadata", () => {
         count: 2,
       },
     )
+    const catalog = buildSourceCatalog([first, second])
+    assert.equal(catalog.find((entry) => entry.id === sapokaId)?.channel, "text")
+    assert.equal(catalog.find((entry) => entry.id === sapokaId)?.kind, "book")
   })
 
   test("keeps Vytautas citations and evidence links intact", () => {

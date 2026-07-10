@@ -20,6 +20,7 @@ import {
   isObjectPage,
   parseEvidenceSections,
 } from "../../util/citationFilter"
+import { normalizeCitationSourceId } from "../../util/citationFilter"
 
 export type ContentIndexMap = Map<FullSlug, ContentDetails>
 export type ContentDetails = {
@@ -81,6 +82,7 @@ export type GraphExplorerLinkDetails = {
   claimIds: string[]
   quoteIds: string[]
   evidencePreview: GraphExplorerEvidencePreview[]
+  sourceIds: string[]
 }
 
 export type GraphExplorerClaimDetails = {
@@ -260,6 +262,7 @@ function evidenceQuoteEntries(markdown: string): GraphExplorerQuoteDetails[] {
   const sections = parseEvidenceSections(markdown)
   const out: GraphExplorerQuoteDetails[] = []
   for (const sectionName of [
+    "Citatos",
     "Reikšmingi paminėjimai",
     "Šaltiniai ir įrodymai",
     "Bibliografiniai įrodymai",
@@ -304,13 +307,14 @@ function edgeEvidence(
   target: ContentDetails,
 ): Pick<
   GraphExplorerLinkDetails,
-  "relationKind" | "confidence" | "evidenceCount" | "claimIds" | "quoteIds" | "evidencePreview"
+  "relationKind" | "confidence" | "evidenceCount" | "claimIds" | "quoteIds" | "evidencePreview" | "sourceIds"
 > {
   const targetTerms = basenameTerms(target)
   const quotesById = new Map((source.quoteEntries ?? []).map((quote) => [quote.id, quote]))
   const claimIds: string[] = []
   const quoteIds = new Set<string>()
   const previews: GraphExplorerEvidencePreview[] = []
+  const sourceIds = new Set<string>()
 
   for (const claim of source.claimEntries ?? []) {
     const quoteMatches = claim.quoteIds
@@ -326,6 +330,8 @@ function edgeEvidence(
     claimIds.push(claim.id)
     for (const quote of matchingQuotes.length ? matchingQuotes : quoteMatches.slice(0, 1)) {
       quoteIds.add(quote.id)
+      const sourceId = normalizeCitationSourceId(quote.sourceTitle)
+      if (sourceId) sourceIds.add(sourceId)
       if (previews.length < 3) {
         previews.push({
           claimId: claim.id,
@@ -346,6 +352,7 @@ function edgeEvidence(
       claimIds: [...new Set(claimIds)],
       quoteIds: [...quoteIds],
       evidencePreview: previews,
+      sourceIds: [...sourceIds],
     }
   }
 
@@ -356,6 +363,7 @@ function edgeEvidence(
     claimIds: [],
     quoteIds: [],
     evidencePreview: [],
+    sourceIds: [],
   }
 }
 

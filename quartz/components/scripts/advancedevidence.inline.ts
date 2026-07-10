@@ -1,7 +1,11 @@
+import { dispatchSettingsChange, loadSourceCatalog, readSettingsState, writeSettingsState } from "../../util/sourceSettings"
+
 const STORAGE_KEY = "advancedEvidenceMode"
 const DEFAULT_MODE: "on" | "off" = "off"
 
 function readMode(): "on" | "off" {
+  const settings = readSettingsState()
+  if (settings.advancedEvidence) return "on"
   const stored = localStorage.getItem(STORAGE_KEY)
   return stored === "on" ? "on" : DEFAULT_MODE
 }
@@ -46,6 +50,11 @@ document.addEventListener("nav", () => {
     mode = mode === "on" ? "off" : "on"
     localStorage.setItem(STORAGE_KEY, mode)
     applyMode(mode)
+    const settings = { ...readSettingsState(), advancedEvidence: mode === "on" }
+    loadSourceCatalog().then((catalog) => {
+      writeSettingsState(settings, catalog)
+      dispatchSettingsChange()
+    })
   }
 
   for (const button of document.getElementsByClassName("advanced-evidence-toggle")) {

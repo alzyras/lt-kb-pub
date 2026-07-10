@@ -89,6 +89,7 @@ const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps)
             <article
               class="object-media-card"
               data-media-card="true"
+              data-media-source-id={`media-${String(entry.provider ?? "other").trim().toLowerCase() || "other"}`}
               data-media-directness={String(entry.directness ?? "weak")}
               data-media-relation={String(entry.relationType ?? "")}
             >

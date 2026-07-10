@@ -29,7 +29,7 @@ export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
 ): StaticResources {
-  const assetVersion = "20260705-explorer-badge-inline"
+  const assetVersion = "20260710-source-settings-v1"
   const versionedAsset = (path: string) => `${path}?v=${assetVersion}`
   const staticJsonPath = (path: string) => versionedAsset(joinSegments("/", "static", path))
   const contentMetaPath = staticJsonPath("contentMeta.json")
@@ -38,6 +38,7 @@ export function pageResources(
   const graphExplorerIndexPath = staticJsonPath("graphExplorerIndex.json")
   const randomClaimsPath = staticJsonPath("randomClaims.json")
   const citationSourcesPath = staticJsonPath("citationSources.json")
+  const sourceCatalogPath = staticJsonPath("sourceCatalog.json")
   const staticIndexScript = `
 globalThis.__ltkbStaticJsonCache ??= new Map()
 globalThis.loadStaticJson ??= (path) => {
@@ -61,6 +62,7 @@ globalThis.loadSearchIndex = () => globalThis.loadStaticJson("${searchIndexPath}
 globalThis.loadGraphIndex = () => globalThis.loadStaticJson("${graphIndexPath}")
 globalThis.loadGraphExplorerIndex = () => globalThis.loadStaticJson("${graphExplorerIndexPath}")
 globalThis.loadRandomClaims = () => globalThis.loadStaticJson("${randomClaimsPath}")
+globalThis.fetchSourceCatalog = globalThis.loadStaticJson("${sourceCatalogPath}").catch(() => [])
 // Compatibility only: callers should prefer purpose-specific loaders.
 globalThis.fetchData = {
   then: (resolve, reject) => globalThis.loadContentMeta().then(resolve, reject),

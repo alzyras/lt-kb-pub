@@ -7,6 +7,7 @@ import Darkmode from "./Darkmode"
 import ReaderMode from "./ReaderMode"
 import AdvancedEvidenceToggle from "./AdvancedEvidenceToggle"
 import OptionsPanel from "./OptionsPanel"
+import SettingsPage from "./SettingsPage"
 import HomeRandomTeiginiai from "./HomeRandomTeiginiai"
 import HomeCollection from "./HomeCollection"
 import LIHeader from "./LIHeader"
@@ -41,6 +42,7 @@ export {
   ReaderMode,
   AdvancedEvidenceToggle,
   OptionsPanel,
+  SettingsPage,
   HomeRandomTeiginiai,
   HomeCollection,
   LIHeader,
