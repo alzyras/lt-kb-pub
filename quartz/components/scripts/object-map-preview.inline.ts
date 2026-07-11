@@ -90,7 +90,7 @@ const objectMapVisual = objectMapRuntime.__ltkbGraphVisualRegistry ?? {
   focus: 0xb52c1e,
   edgeSemantic: 0x756149,
   edgeExplicit: 0xb0a18a,
-  canvasBackground: "#fdfcf9",
+  canvasBackground: "transparent",
   label: "#241c18",
   labelHalo: "#f8f2e8",
 }
@@ -102,6 +102,14 @@ function objectMapColor(value: number | undefined, fallback: number): string {
 function objectMapRgba(value: number | undefined, fallback: number, alpha: number): string {
   const color = Number(value ?? fallback)
   return `rgba(${(color >> 16) & 255},${(color >> 8) & 255},${color & 255},${alpha})`
+}
+
+function objectMapThemeColor(
+  styles: CSSStyleDeclaration,
+  property: string,
+  fallback: string,
+): string {
+  return styles.getPropertyValue(property).trim() || fallback
 }
 
 const objectMapPreviewMinConfidence = 0.5
@@ -461,10 +469,17 @@ function drawObjectMapPreview(
 
   const ctx = canvas.getContext("2d")
   if (!ctx) return
+  const styles = window.getComputedStyle(canvas)
+  const surfaceColor = objectMapThemeColor(styles, "--ui-surface", "#ffffff")
+  const textColor = objectMapThemeColor(styles, "--ui-text", "#241c18")
+  const accentColor = objectMapThemeColor(styles, "--bm-red", "#d6421f")
   ctx.setTransform(pixelRatio, 0, 0, pixelRatio, 0, 0)
   ctx.clearRect(0, 0, width, height)
-  ctx.fillStyle = objectMapVisual.canvasBackground ?? "#fdfcf9"
-  ctx.fillRect(0, 0, width, height)
+  const canvasBackground = objectMapVisual.canvasBackground ?? "transparent"
+  if (canvasBackground !== "transparent") {
+    ctx.fillStyle = canvasBackground
+    ctx.fillRect(0, 0, width, height)
+  }
 
   const graph = buildObjectMapPreviewGraph(index, slug, node, neighbours)
   layoutObjectMapPreviewGraph(graph.nodes)
@@ -533,7 +548,7 @@ function drawObjectMapPreview(
     ctx.fill()
     ctx.strokeStyle = runtimeNode.focus
       ? objectMapColor(objectMapVisual.focus, 0xb52c1e)
-      : "rgba(255, 255, 255, 0.9)"
+      : surfaceColor
     ctx.lineWidth = runtimeNode.focus ? 3.2 : 1.2
     ctx.stroke()
   }
@@ -561,8 +576,8 @@ function drawObjectMapPreview(
     if (!required && drawnLabelBounds.some((existing) => objectMapBoundsOverlap(existing, labelBounds))) continue
     drawnLabelBounds.push(labelBounds)
     ctx.lineWidth = 3
-    ctx.strokeStyle = objectMapVisual.labelHalo ?? "#f8f2e8"
-    ctx.fillStyle = objectMapVisual.label ?? "#241c18"
+    ctx.strokeStyle = surfaceColor
+    ctx.fillStyle = textColor
     ctx.strokeText(label, pos.x, labelY)
     ctx.fillText(label, pos.x, labelY)
   }
@@ -570,7 +585,7 @@ function drawObjectMapPreview(
   ctx.font = "700 10px var(--codeFont, monospace)"
   ctx.textAlign = "left"
   ctx.textBaseline = "bottom"
-  ctx.fillStyle = "#d6421f"
+  ctx.fillStyle = accentColor
   ctx.fillText(`${neighbours.length.toLocaleString("lt-LT")} RYS.`, 12, height - 12)
 }
 
@@ -630,6 +645,12 @@ function initObjectMapPreviews() {
       window.requestAnimationFrame(() => renderObjectMapPreview(root))
     }
     render()
+
+    const handleThemeChange = () => render()
+    document.addEventListener("themechange", handleThemeChange)
+    objectMapRuntime.addCleanup?.(() =>
+      document.removeEventListener("themechange", handleThemeChange),
+    )
 
     const observer = "ResizeObserver" in window ? new ResizeObserver(render) : undefined
     if (observer) {

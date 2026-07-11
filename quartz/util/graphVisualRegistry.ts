@@ -27,7 +27,7 @@ export const graphVisualRegistry = {
   focus: 0xb52c1e,
   edgeSemantic: 0x756149,
   edgeExplicit: 0xb0a18a,
-  canvasBackground: "#fdfcf9",
+  canvasBackground: "transparent",
   label: "#241c18",
   labelHalo: "#f8f2e8",
 } as const
