@@ -56,9 +56,10 @@ const dateLabel = (value: unknown) => cleanText(value).replace(/\s+date\s+QS:.*$
 
 function MediaCard({ entry, index }: { entry: MediaGalleryBootstrap["initialEntries"][number]; index: number }) {
   const tags = (entry.tags ?? []).slice(0, 2)
+  const mediaHref = `?media=${encodeURIComponent(cleanText(entry.mediaId))}`
   return (
     <article class="media-gallery-card" data-media-id={entry.mediaId}>
-      <button type="button" data-media-open={index} aria-label={`Atidaryti: ${displayCaption(entry)}`}>
+      <a href={mediaHref} data-media-open={index} aria-label={`Atidaryti: ${displayCaption(entry)}`}>
         <span class="media-gallery-card-media">
           <img
             src={entry.thumbUrl || entry.sourceUrl}
@@ -78,7 +79,7 @@ function MediaCard({ entry, index }: { entry: MediaGalleryBootstrap["initialEntr
           </span>
         </span>
         <span class="sr-only">{tags.map((tag) => tag.label).join(", ")}</span>
-      </button>
+      </a>
     </article>
   )
 }

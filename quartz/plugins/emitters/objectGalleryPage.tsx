@@ -1,4 +1,6 @@
 import { createHash } from "node:crypto"
+import { readFileSync } from "node:fs"
+import { resolve } from "node:path"
 import { QuartzEmitterPlugin } from "../types"
 import { QuartzComponentProps } from "../../components/types"
 import BodyConstructor from "../../components/Body"
@@ -22,10 +24,6 @@ import {
   MEDIA_GALLERY_PAGE_SIZE,
   type MediaGalleryBootstrap,
 } from "../../util/mediaGallery"
-import { QuartzComponent } from "../../components/types"
-import { transform as transpile } from "esbuild"
-// @ts-ignore
-import objectMediaGalleryScript from "../../components/scripts/object-media-gallery.inline"
 
 function lightEntry(entry: MediaEntry): MediaEntry {
   const {
@@ -37,6 +35,20 @@ function lightEntry(entry: MediaEntry): MediaEntry {
     ...light
   } = entry
   return light
+}
+
+function loadCanonicalMediaCatalog(): MediaEntry[] {
+  try {
+    const path = resolve(process.cwd(), "quartz/static/mediaCatalogSource.json")
+    const payload = JSON.parse(readFileSync(path, "utf8")) as { entries?: unknown }
+    return Array.isArray(payload.entries)
+      ? payload.entries.filter(
+          (entry): entry is MediaEntry => Boolean(entry && typeof entry === "object"),
+        )
+      : []
+  } catch {
+    return []
+  }
 }
 
 export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
@@ -51,27 +63,19 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
 
   const { head: Head, pageBody, footer: Footer } = opts
   const Body = BodyConstructor()
-  const StyleOnly: QuartzComponent = () => null
-  StyleOnly.css = pageBody.css
 
   return {
     name: "ObjectGalleryPage",
     getQuartzComponents() {
-      return [Head, Body, StyleOnly, Footer]
+      // Register the gallery component globally so its lifecycle script is already
+      // listening when Quartz navigates to a generated gallery page.
+      return [Head, Body, pageBody, Footer]
     },
     async *emit(ctx, content, resources) {
       const cfg = ctx.cfg.configuration
       const allFiles = content.map((c) => c[1].data)
       const objectEntries = new Map<string, MediaEntry[]>()
       const allEntries: MediaEntry[] = []
-
-      const compiledScript = await transpile(objectMediaGalleryScript, { minify: true })
-      yield write({
-        ctx,
-        content: compiledScript.code,
-        slug: "static/object-media-gallery" as FullSlug,
-        ext: ".js",
-      })
 
       for (const [_tree, file] of content) {
         const slug = file.data.slug
@@ -83,7 +87,16 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
         allEntries.push(...entries)
       }
 
-      const catalog = mergeMediaEntries(allEntries)
+      const canonicalCatalog = loadCanonicalMediaCatalog()
+      const catalog = mergeMediaEntries([...canonicalCatalog, ...allEntries])
+      objectEntries.clear()
+      for (const entry of catalog) {
+        for (const object of entry.relatedObjects ?? []) {
+          const notePath = cleanText(object.notePath)
+          if (!notePath) continue
+          objectEntries.set(notePath, [...(objectEntries.get(notePath) ?? []), entry])
+        }
+      }
       const lightCatalog = catalog.map(lightEntry)
       const catalogContent = JSON.stringify(lightCatalog)
       const catalogVersion = createHash("sha256").update(catalogContent).digest("hex").slice(0, 12)
@@ -129,12 +142,6 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
           },
         })
         const externalResources = pageResources(pathToRoot(slug), resources)
-        externalResources.js.push({
-          src: "/static/object-media-gallery.js",
-          contentType: "external",
-          loadTime: "afterDOMReady",
-          moduleType: "module",
-        })
         const componentData: QuartzComponentProps = {
           ctx,
           fileData: vfile.data,

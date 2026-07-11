@@ -122,46 +122,73 @@ function card(entry: MediaEntry, index: number): HTMLElement {
   const date = displayDate(entry.dateDisplay)
   const creator = text(entry.creator)
   const objects = (entry.relatedObjects ?? []).slice(0, 2).map((object) => object.title).join(" · ")
-  article.innerHTML = `<button type="button" data-media-open="${index}" aria-label="Atidaryti: ${escapeHtml(caption)}">
+  const href = galleryUrl(emptyGalleryState(), text(entry.mediaId))
+  article.innerHTML = `<a href="${escapeHtml(href)}" data-media-open="${index}" aria-label="Atidaryti: ${escapeHtml(caption)}">
     <span class="media-gallery-card-media"><img src="${escapeHtml(entry.thumbUrl || entry.sourceUrl)}" alt="${escapeHtml(caption)}" ${entry.width ? `width="${Number(entry.width)}"` : ""} ${entry.height ? `height="${Number(entry.height)}"` : ""} loading="lazy" decoding="async">
     <span class="media-gallery-card-overlay"><span class="media-gallery-card-title">${escapeHtml(caption)}</span>${date ? `<span>${escapeHtml(date)}</span>` : ""}</span>
-    <span class="media-gallery-card-hover" aria-hidden="true"><span>${escapeHtml(creator)}</span><span>${escapeHtml(objects)}</span></span></span></button>`
+    <span class="media-gallery-card-hover" aria-hidden="true"><span>${escapeHtml(creator)}</span><span>${escapeHtml(objects)}</span></span></span></a>`
   return article
 }
 
+function detailsSkeleton(entry: MediaEntry): string {
+  return `<div class="media-viewer-panel-inner is-loading" aria-live="polite">
+    <p class="media-viewer-kicker">Vaizdo informacija</p>
+    <h2>${escapeHtml(displayCaption(entry))}</h2>
+    <div class="media-viewer-skeleton"><span></span><span></span><span></span></div>
+  </div>`
+}
+
 function detailsHtml(entry: MediaEntry): string {
-  const objects = (entry.relatedObjects ?? []).map((object) => `<a href="${objectHref(object.notePath)}">${escapeHtml(object.title)}</a>`).join("")
+  const objects = (entry.relatedObjects ?? []).map((object) => `<a href="${escapeHtml(objectHref(object.notePath))}">${escapeHtml(object.title)}</a>`).join("")
   const uniqueTags = [...new Map((entry.tags ?? []).map((tag) => [tag.code || tag.label, tag])).values()]
   const tags = uniqueTags.map((tag) => `<button type="button" data-viewer-tag="${escapeHtml(tag.code)}">#${escapeHtml(tag.label)}</button>`).join("")
   const originalTitle = text(entry.originalTitle || entry.title)
-  const provenance = [entry.institution, entry.providerLabel || entry.provider, entry.collection].map(text).filter(Boolean).join(" · ")
-  return `<h2>${escapeHtml(displayCaption(entry))}</h2>
-    ${originalTitle && originalTitle !== displayCaption(entry) ? `<p>${escapeHtml(originalTitle)}</p>` : ""}
-    <p>${escapeHtml([entry.creator, displayDate(entry.dateDisplay), relationLabel(entry.relationType)].map(text).filter(Boolean).join(" · "))}</p>
-    ${objects ? `<div class="pswp__media-objects">${objects}</div>` : ""}
-    ${provenance ? `<p>${escapeHtml(provenance)}</p>` : ""}
-    <p>${escapeHtml([mediaLicenseLabel(entry.license), entry.attribution].map(text).filter(Boolean).join(" · "))}</p>
+  const creator = text(entry.creator)
+  const date = displayDate(entry.dateDisplay)
+  const imageType = relationLabel(entry.relationType)
+  const institution = text(entry.institution)
+  const provider = text(entry.providerLabel || entry.provider)
+  const collection = text(entry.collection)
+  const license = mediaLicenseLabel(entry.license)
+  const fact = (label: string, value: string) => value ? `<div><dt>${escapeHtml(label)}</dt><dd>${escapeHtml(value)}</dd></div>` : ""
+  return `<div class="media-viewer-panel-inner">
+    <header class="media-viewer-heading">
+      <p class="media-viewer-kicker">Vaizdo informacija</p>
+      <h2>${escapeHtml(displayCaption(entry))}</h2>
+      ${originalTitle && originalTitle !== displayCaption(entry) ? `<p class="media-viewer-original-title">${escapeHtml(originalTitle)}</p>` : ""}
+    </header>
+    <dl class="media-viewer-facts">${fact("Kūrėjas", creator)}${fact("Data", date)}${fact("Tipas", imageType)}</dl>
+    ${objects ? `<section class="media-viewer-section"><h3>Susiję objektai</h3><div class="pswp__media-objects">${objects}</div></section>` : ""}
+    ${tags ? `<section class="media-viewer-section"><h3>Temos</h3><div class="pswp__media-tags">${tags}</div></section>` : ""}
+    <section class="media-viewer-section media-viewer-provenance"><h3>Šaltinis</h3><dl>${fact("Institucija", institution)}${fact("Rinkinys", collection)}${fact("Tiekėjas", provider)}</dl></section>
+    <section class="media-viewer-section media-viewer-rights"><h3>Naudojimo teisės</h3><p><strong>${escapeHtml(license || "Nenurodyta")}</strong>${entry.attribution ? `<br>${escapeHtml(entry.attribution)}` : ""}</p></section>
     <div class="pswp__media-links">${entry.canonicalUrl ? `<a href="${escapeHtml(entry.canonicalUrl)}" target="_blank" rel="noreferrer noopener">Atidaryti originalą</a>` : ""}${entry.licenseUrl ? `<a href="${escapeHtml(entry.licenseUrl)}" target="_blank" rel="noreferrer noopener">Licencijos sąlygos</a>` : ""}<button type="button" data-copy-media>Kopijuoti nuorodą</button></div>
-    ${tags ? `<div class="pswp__media-tags">${tags}</div>` : ""}
-    <details><summary>Išplėstiniai duomenys</summary><p>Surinkta: ${escapeHtml(entry.firstDiscoveredAt || "—")} · Peržiūrėta: ${escapeHtml(entry.reviewedAt || "—")} · Patikimumas: ${escapeHtml(entry.confidenceLevel || entry.confidence || "—")}</p><p>${escapeHtml(entry.visualEvidence || "")}</p><p>${escapeHtml(entry.metadataEvidence || entry.judgeReason || "")}</p></details>`
+    <details class="media-viewer-advanced"><summary>Išplėstiniai duomenys</summary><dl>${fact("Surinkta", text(entry.firstDiscoveredAt || "—"))}${fact("Peržiūrėta", text(entry.reviewedAt || "—"))}${fact("Patikimumas", text(entry.confidenceLevel || entry.confidence || "—"))}</dl>${entry.visualEvidence ? `<p>${escapeHtml(entry.visualEvidence)}</p>` : ""}${entry.metadataEvidence || entry.judgeReason ? `<p>${escapeHtml(entry.metadataEvidence || entry.judgeReason)}</p>` : ""}</details>
+  </div>`
 }
 
 function initViewer(root: HTMLElement, getEntries: () => MediaEntry[], getState: () => GalleryState, rerender: () => void) {
   let details: HTMLElement | undefined
   let openedWithPush = false
+  let openedScrollY = 0
   const dataSource = () => getEntries().map((entry) => ({
     src: entry.sourceUrl || entry.thumbUrl, msrc: entry.thumbUrl || entry.sourceUrl,
     width: Number(entry.width || 1600), height: Number(entry.height || 1200),
     alt: displayCaption(entry), mediaId: entry.mediaId,
   }))
   const lightbox = new PhotoSwipeLightbox({
-    dataSource: dataSource(), pswpModule: PhotoSwipe, bgOpacity: 0.98,
+    dataSource: dataSource(), pswpModule: PhotoSwipe, bgOpacity: 0.985,
+    closeTitle: "Uždaryti", zoomTitle: "Didinti", arrowPrevTitle: "Ankstesnis vaizdas", arrowNextTitle: "Kitas vaizdas",
     paddingFn: () => {
       const header = document.querySelector<HTMLElement>(".li-header-shell")
       const mobileBrand = header?.querySelector<HTMLElement>(".li-header-brand")
-      const top = Math.ceil((innerWidth <= 700 ? mobileBrand : header)?.getBoundingClientRect().height ?? 0)
-      const bottom = Math.ceil(Math.min(innerHeight * (innerWidth <= 700 ? 0.46 : 0.38), innerWidth <= 700 ? 390 : 384))
-      return { top, right: 0, bottom, left: 0 }
+      const top = Math.ceil((innerWidth <= 900 ? mobileBrand : header)?.getBoundingClientRect().height ?? 0)
+      if (innerWidth <= 900) {
+        const bottom = Math.ceil(Math.min(innerHeight * 0.46, 390))
+        return { top: top + 8, right: 8, bottom: bottom + 8, left: 8 }
+      }
+      const right = Math.ceil(Math.min(420, Math.max(360, innerWidth * 0.29)))
+      return { top: top + 16, right: right + 16, bottom: 16, left: 16 }
     },
   })
   lightbox.on("uiRegister", () => {
@@ -174,51 +201,102 @@ function initViewer(root: HTMLElement, getEntries: () => MediaEntry[], getState:
           const entry = getEntries()[pswp.currIndex]
           if (!entry) return
           const requestedId = entry.mediaId
-          element.innerHTML = detailsHtml(entry)
+          element.innerHTML = detailsSkeleton(entry)
           const detail = await loadDetail(entry)
           if (getEntries()[pswp.currIndex]?.mediaId !== requestedId) return
           element.innerHTML = detailsHtml(detail)
           element.querySelector<HTMLButtonElement>("[data-copy-media]")?.addEventListener("click", async () => {
-            await navigator.clipboard.writeText(new URL(galleryUrl(getState(), text(detail.mediaId)), location.origin).toString())
+            const copy = element.querySelector<HTMLButtonElement>("[data-copy-media]")!
+            try {
+              await navigator.clipboard.writeText(new URL(galleryUrl(getState(), text(detail.mediaId)), location.origin).toString())
+              copy.textContent = "Nukopijuota"
+              copy.classList.add("is-copied")
+              window.setTimeout(() => { copy.textContent = "Kopijuoti nuorodą"; copy.classList.remove("is-copied") }, 1800)
+            } catch {
+              copy.textContent = "Nepavyko nukopijuoti"
+            }
           })
           element.querySelectorAll<HTMLButtonElement>("[data-viewer-tag]").forEach((button) => button.addEventListener("click", () => {
             const code = button.dataset.viewerTag || ""
             const state = getState()
             if (code && !state.tags.includes(code)) state.tags.push(code)
-            pswp.close(); rerender()
+            openedWithPush = false
+            pswp.close()
+            rerender()
           }))
         }
         pswp.on("change", () => { void update(); const entry = getEntries()[pswp.currIndex]; if (entry) writeUrl(getState(), text(entry.mediaId)) })
         void update()
       },
     })
+    lightbox.pswp?.ui?.registerElement({
+      name: "media-position", order: 8, appendTo: "bar",
+      onInit: (element, pswp) => {
+        element.className = "pswp__media-position"
+        const update = () => { element.textContent = `${pswp.currIndex + 1} / ${getEntries().length}` }
+        pswp.on("change", update)
+        update()
+      },
+    })
   })
-  lightbox.on("afterInit", () => document.body.classList.add("media-viewer-open"))
+  lightbox.on("afterInit", () => {
+    const header = document.querySelector<HTMLElement>(".li-header-shell")
+    const headerHeight = Math.ceil(header?.getBoundingClientRect().height ?? 0)
+    lightbox.pswp?.element?.style.setProperty("--media-viewer-header-height", `${headerHeight}px`)
+    document.body.classList.add("media-viewer-open")
+  })
   lightbox.on("close", () => {
     document.body.classList.remove("media-viewer-open")
-    if (openedWithPush && new URLSearchParams(location.search).has("media")) { openedWithPush = false; history.back() }
+    if (openedWithPush && new URLSearchParams(location.search).has("media")) {
+      openedWithPush = false
+      history.back()
+      requestAnimationFrame(() => scrollTo({ top: openedScrollY }))
+    }
     else writeUrl(getState())
   })
   lightbox.on("contentLoadImage", ({ content }) => {
     if (content.element instanceof HTMLImageElement) content.element.addEventListener("error", () => {
-      details?.insertAdjacentHTML("afterbegin", '<p class="media-viewer-error">Vaizdo nepavyko užkrauti. Atidarykite originalą šaltinio svetainėje.</p>')
+      const entry = getEntries()[lightbox.pswp?.currIndex ?? 0]
+      const original = entry?.canonicalUrl ? ` <a href="${escapeHtml(entry.canonicalUrl)}" target="_blank" rel="noreferrer noopener">Atidaryti originalą</a>` : ""
+      details?.insertAdjacentHTML("afterbegin", `<p class="media-viewer-error">Vaizdo nepavyko užkrauti.${original}</p>`)
     }, { once: true })
   })
   lightbox.init()
-  root.addEventListener("click", (event) => {
-    const button = (event.target as Element).closest<HTMLButtonElement>("[data-media-open]")
-    if (!button) return
-    const index = Number(button.dataset.mediaOpen || 0)
-    openedWithPush = true
-    writeUrl(getState(), text(getEntries()[index]?.mediaId), "push")
+  const open = (index: number, push = false) => {
+    if (index < 0 || index >= getEntries().length) return false
+    openedWithPush = push
+    openedScrollY = scrollY
+    if (push) writeUrl(getState(), text(getEntries()[index]?.mediaId), "push")
     lightbox.loadAndOpen(index)
-  })
-  return { lightbox, refresh: () => { lightbox.options.dataSource = dataSource() } }
+    return true
+  }
+  const onRootClick = (event: MouseEvent) => {
+    const link = (event.target as Element).closest<HTMLAnchorElement>("[data-media-open]")
+    if (!link || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return
+    const mediaId = link.closest<HTMLElement>("[data-media-id]")?.dataset.mediaId || ""
+    const index = getEntries().findIndex((entry) => text(entry.mediaId) === mediaId)
+    if (index < 0) return
+    event.preventDefault()
+    event.stopPropagation()
+    open(index, true)
+  }
+  root.addEventListener("click", onRootClick)
+  return {
+    lightbox,
+    open,
+    refresh: () => { lightbox.options.dataSource = dataSource() },
+    destroy: () => {
+      openedWithPush = false
+      root.removeEventListener("click", onRootClick)
+      lightbox.destroy()
+      document.body.classList.remove("media-viewer-open")
+    },
+  }
 }
 
 function applyJustifiedLayout(grid: HTMLElement, entries: MediaEntry[]) {
   const cards = [...grid.querySelectorAll<HTMLElement>(".media-gallery-card")]
-  if (innerWidth <= 700 || !cards.length) {
+  if (innerWidth < 600 || !cards.length) {
     grid.classList.remove("is-justified")
     grid.style.removeProperty("height")
     cards.forEach((card) => card.removeAttribute("style"))
@@ -275,8 +353,8 @@ function activeFilterCount(state: GalleryState): number {
 }
 
 function initGallery(root: HTMLElement) {
-  if (root.dataset.ready === "true") return
-  root.dataset.ready = "true"
+  if (root.dataset.galleryInitialized === "true") return
+  root.dataset.galleryInitialized = "true"
   const bootstrap = parseBootstrap(root)
   const lockedObject = root.dataset.objectPath || bootstrap.lockedObject || ""
   let state = parseGalleryState(location.search, lockedObject)
@@ -399,6 +477,13 @@ function initGallery(root: HTMLElement) {
   refreshViewer = viewer.refresh
   refreshViewer()
 
+  const openRequestedMedia = () => {
+    const requested = new URLSearchParams(location.search).get("media")
+    if (!requested || viewer.lightbox.pswp) return false
+    return viewer.open(filtered.findIndex((entry) => entry.mediaId === requested), false)
+  }
+  openRequestedMedia()
+
   async function hydrate(retry = false) {
     showStatus(retry ? "Katalogas kraunamas iš naujo…" : "")
     try {
@@ -408,11 +493,7 @@ function initGallery(root: HTMLElement) {
       baseFacets = computeFacetSummary(filterMediaEntries(catalog, emptyGalleryState(), undefined, { lockedObject }))
       showStatus("")
       render(false)
-      const requested = new URLSearchParams(location.search).get("media")
-      if (requested && !viewer.lightbox.pswp) {
-        const index = filtered.findIndex((entry) => entry.mediaId === requested)
-        if (index >= 0) viewer.lightbox.loadAndOpen(index)
-      }
+      openRequestedMedia()
     } catch {
       catalogComplete = false
       showStatus("Nepavyko atnaujinti vaizdų katalogo. Rodomi serverio pateikti vaizdai.")
@@ -420,21 +501,36 @@ function initGallery(root: HTMLElement) {
     }
   }
 
-  window.addEventListener("popstate", () => {
+  const onPopState = () => {
     state = parseGalleryState(location.search, lockedObject)
     visibleLimit = MEDIA_GALLERY_PAGE_SIZE
     render(false)
     const mediaId = new URLSearchParams(location.search).get("media")
     if (!mediaId && viewer.lightbox.pswp) viewer.lightbox.pswp.close()
-    else if (mediaId && !viewer.lightbox.pswp) {
-      const index = filtered.findIndex((entry) => entry.mediaId === mediaId)
-      if (index >= 0) viewer.lightbox.loadAndOpen(index)
-    }
+    else if (mediaId && !viewer.lightbox.pswp) openRequestedMedia()
+  }
+  const onKeyDown = (event: KeyboardEvent) => { if (event.key === "Escape" && root.classList.contains("filters-open")) closeFilters() }
+  const onSettingsRefresh = () => render()
+  window.addEventListener("popstate", onPopState)
+  document.addEventListener("keydown", onKeyDown)
+  root.addEventListener("media-settings-refresh", onSettingsRefresh)
+  window.addCleanup(() => {
+    resizeObserver.disconnect()
+    intersectionObserver.disconnect()
+    viewer.destroy()
+    window.removeEventListener("popstate", onPopState)
+    document.removeEventListener("keydown", onKeyDown)
+    root.removeEventListener("media-settings-refresh", onSettingsRefresh)
+    delete root.dataset.galleryInitialized
+    document.body.classList.remove("media-filters-open")
   })
-  document.addEventListener("keydown", (event) => { if (event.key === "Escape" && root.classList.contains("filters-open")) closeFilters() })
-  root.addEventListener("media-settings-refresh", () => render())
   void hydrate()
 }
 
-document.querySelectorAll<HTMLElement>("[data-media-gallery]").forEach(initGallery)
+function initGalleries() {
+  document.querySelectorAll<HTMLElement>("[data-media-gallery]").forEach(initGallery)
+}
+
+initGalleries()
+document.addEventListener("nav", initGalleries)
 document.addEventListener("quartz-settings-change", () => document.querySelectorAll<HTMLElement>("[data-media-gallery]").forEach((root) => root.dispatchEvent(new Event("media-settings-refresh"))))
