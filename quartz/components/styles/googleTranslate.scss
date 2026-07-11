@@ -9,30 +9,31 @@
   white-space: nowrap;
 }
 
-.google-translate button {
-  min-width: 1.65rem;
-  padding: 0.35rem 0.12rem;
-  opacity: 0.62;
-  transition: opacity 140ms ease;
-}
-
-.google-translate button.is-active,
-.google-translate button[aria-pressed="true"] {
-  opacity: 1;
-  text-decoration: underline;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 0.3rem;
-}
-
-.google-translate button:disabled {
-  cursor: not-allowed;
-  opacity: 0.3;
-}
-
-.google-translate-divider {
-  color: rgba(255, 255, 255, 0.45);
+.google-translate select {
+  width: 9.4rem;
+  min-height: 1.9rem;
+  padding: 0.3rem 1.8rem 0.3rem 0.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  border-radius: 0;
+  background: #333;
+  color: #fff;
+  cursor: pointer;
+  font-family: var(--codeFont);
   font-size: 0.68rem;
-  font-weight: 700;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.google-translate select:hover,
+.google-translate select:focus-visible {
+  border-color: #fff;
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
+
+.google-translate select:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
 }
 
 #google_translate_element {

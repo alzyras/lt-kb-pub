@@ -1,4 +1,19 @@
-type SiteLanguage = "lt" | "en"
+const SITE_LANGUAGES = ["lt", "en", "pl", "lv", "et", "be", "ru", "uk", "de", "yi", "he"] as const
+type SiteLanguage = (typeof SITE_LANGUAGES)[number]
+
+const LANGUAGE_NAMES: Record<SiteLanguage, string> = {
+  lt: "lietuvių",
+  en: "anglų",
+  pl: "lenkų",
+  lv: "latvių",
+  et: "estų",
+  be: "baltarusių",
+  ru: "rusų",
+  uk: "ukrainiečių",
+  de: "vokiečių",
+  yi: "jidiš",
+  he: "hebrajų",
+}
 
 const TRANSLATE_STORAGE_KEY = "li-language"
 const TRANSLATE_SCRIPT_ID = "google-translate-script"
@@ -10,19 +25,21 @@ function translateRoot() {
   return document.querySelector<HTMLElement>("[data-google-translate]")
 }
 
-function isLithuanianOnlyPage(): boolean {
-  const slug = document.body?.dataset.slug ?? ""
-  return slug === "galerija" || slug.endsWith("/galerija")
+function isSiteLanguage(language: string | null): language is SiteLanguage {
+  return SITE_LANGUAGES.includes(language as SiteLanguage)
+}
+
+function widgetLanguage(language: SiteLanguage): string {
+  return language === "he" ? "iw" : language
 }
 
 function preferredLanguage(): SiteLanguage {
-  if (isLithuanianOnlyPage()) return "lt"
-
   const urlLanguage = new URLSearchParams(window.location.search).get("lang")
-  if (urlLanguage === "en") return "en"
+  if (isSiteLanguage(urlLanguage)) return urlLanguage
 
   try {
-    return localStorage.getItem(TRANSLATE_STORAGE_KEY) === "en" ? "en" : "lt"
+    const storedLanguage = localStorage.getItem(TRANSLATE_STORAGE_KEY)
+    return isSiteLanguage(storedLanguage) ? storedLanguage : "lt"
   } catch {
     return "lt"
   }
@@ -30,8 +47,8 @@ function preferredLanguage(): SiteLanguage {
 
 function syncLanguageUrl(language: SiteLanguage) {
   const url = new URL(window.location.href)
-  if (language === "en") {
-    url.searchParams.set("lang", "en")
+  if (language !== "lt") {
+    url.searchParams.set("lang", language)
   } else {
     url.searchParams.delete("lang")
   }
@@ -52,8 +69,8 @@ function rememberLanguage(language: SiteLanguage) {
 }
 
 function setTranslationCookie(language: SiteLanguage) {
-  if (language === "en") {
-    document.cookie = "googtrans=/lt/en; path=/; SameSite=Lax"
+  if (language !== "lt") {
+    document.cookie = `googtrans=/lt/${widgetLanguage(language)}; path=/; SameSite=Lax`
     return
   }
 
@@ -70,19 +87,18 @@ function updateControls(language: SiteLanguage, unavailable = false) {
 
   root.dataset.language = language
   root.classList.toggle("is-unavailable", unavailable)
-  root.querySelectorAll<HTMLButtonElement>("[data-translate-language]").forEach((button) => {
-    const active = button.dataset.translateLanguage === language
-    button.classList.toggle("is-active", active)
-    button.setAttribute("aria-pressed", active ? "true" : "false")
-    button.disabled = unavailable && button.dataset.translateLanguage === "en"
-  })
+  const control = root.querySelector<HTMLSelectElement>("[data-translate-language]")
+  if (control) {
+    control.value = language
+    control.disabled = unavailable
+  }
 
   const status = root.querySelector<HTMLElement>("[data-translate-status]")
   if (status) {
     status.textContent = unavailable
       ? "Vertimas šiuo metu nepasiekiamas"
-      : language === "en"
-        ? "Puslapis verčiamas į anglų kalbą"
+      : language !== "lt"
+        ? `Puslapis verčiamas į ${LANGUAGE_NAMES[language]} kalbą`
         : "Puslapis rodomas lietuvių kalba"
   }
 }
@@ -99,8 +115,8 @@ function applyLanguage(language: SiteLanguage, attempt = 0) {
 
   const select = widgetSelect()
   if (select) {
-    const targetValue = language === "en" ? "en" : ""
-    if (select.value !== targetValue || language === "en") {
+    const targetValue = language === "lt" ? "" : widgetLanguage(language)
+    if (select.value !== targetValue || language !== "lt") {
       select.value = targetValue
       select.dispatchEvent(new Event("change", { bubbles: true }))
     }
@@ -114,15 +130,9 @@ function applyLanguage(language: SiteLanguage, attempt = 0) {
 }
 
 function selectLanguage(language: SiteLanguage) {
-  if (language === "en" && isLithuanianOnlyPage()) {
-    rememberLanguage("lt")
-    applyLanguage("lt")
-    return
-  }
-
   rememberLanguage(language)
 
-  if (language === "lt" && widgetSelect()?.value === "en") {
+  if (language === "lt" && widgetSelect()?.value) {
     updateControls("lt")
     document.documentElement.lang = "lt"
     setTranslationCookie("lt")
@@ -154,7 +164,11 @@ function initializeGoogleWidget() {
   if (!TranslateElement) return
 
   new TranslateElement(
-    { pageLanguage: "lt", includedLanguages: "en", autoDisplay: false },
+    {
+      pageLanguage: "lt",
+      includedLanguages: "en,pl,lv,et,be,ru,uk,de,yi,iw",
+      autoDisplay: false,
+    },
     "google_translate_element",
   )
   root.dataset.widgetReady = "true"
@@ -189,14 +203,13 @@ function setupGoogleTranslate() {
 
   if (!document.documentElement.dataset.translateControlsBound) {
     document.documentElement.dataset.translateControlsBound = "true"
-    document.addEventListener("click", (event) => {
+    document.addEventListener("change", (event) => {
       const target = event.target
       if (!(target instanceof Element)) return
-      const button = target.closest<HTMLButtonElement>("[data-translate-language]")
-      if (!button) return
+      const control = target.closest<HTMLSelectElement>("[data-translate-language]")
+      if (!control || !isSiteLanguage(control.value)) return
 
-      const selected = button.dataset.translateLanguage === "en" ? "en" : "lt"
-      selectLanguage(selected)
+      selectLanguage(control.value)
     })
   }
 

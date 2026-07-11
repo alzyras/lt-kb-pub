@@ -112,7 +112,6 @@ const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps)
   return (
     <main
       class="media-gallery-page"
-      translate="no"
       data-media-gallery="true"
       data-object-path={objectPath}
       data-catalog-url={bootstrap.catalogUrl}
