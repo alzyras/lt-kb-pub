@@ -1,0 +1,35 @@
+export const graphVisualRegistry = {
+  typeLabels: {
+    asmuo: "Asmenys",
+    autorius: "Autoriai",
+    ivykis: "Įvykiai",
+    grupe: "Grupės",
+    vieta: "Vietos",
+    daiktas: "Daiktai",
+    paprotys: "Papročiai",
+    posakis: "Posakiai",
+    zodyno_irasas: "Žodynas",
+    tema: "Temos",
+  },
+  typeColors: {
+    asmuo: 0x286456,
+    autorius: 0x5d6f63,
+    ivykis: 0x923120,
+    grupe: 0x9b7b49,
+    vieta: 0x557d8b,
+    daiktas: 0x735a91,
+    paprotys: 0xb66941,
+    posakis: 0x8d4d72,
+    zodyno_irasas: 0x626262,
+    tema: 0x445f8f,
+  },
+  fallbackNode: 0x85755f,
+  focus: 0xb52c1e,
+  edgeSemantic: 0x756149,
+  edgeExplicit: 0xb0a18a,
+  canvasBackground: "#fdfcf9",
+  label: "#241c18",
+  labelHalo: "#f8f2e8",
+} as const
+
+export type GraphVisualRegistry = typeof graphVisualRegistry

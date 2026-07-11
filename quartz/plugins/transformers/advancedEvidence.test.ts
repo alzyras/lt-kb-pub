@@ -37,10 +37,17 @@ const markdown = `# Objektas
     Cituojamas sakinys.
 `
 
+function inspectLazyClaimPayloads(output: string): string {
+  return output.replace(
+    /<script type="application\/json" data-claim-detail-payload="true">([^<]*)<\/script>/g,
+    (_match, payload: string) => JSON.parse(payload),
+  )
+}
+
 describe("AdvancedEvidence transformer", () => {
   test("renders citations inline under their supporting claim and keeps a hidden citation store", () => {
     const plugin = AdvancedEvidence()
-    const transformed =
+    const transformed = inspectLazyClaimPayloads(
       plugin.textTransform?.(
         {
           allSlugs: [
@@ -51,7 +58,8 @@ describe("AdvancedEvidence transformer", () => {
           ] as FullSlug[],
         } as any,
         markdown,
-      ) ?? markdown
+      ) ?? markdown,
+    )
 
     assert.match(transformed, /data-claim-row="true"/)
     assert.match(transformed, /<thead><tr><th>Teiginys<\/th><\/tr><\/thead>/)
@@ -156,7 +164,9 @@ describe("AdvancedEvidence transformer", () => {
     Testinė citata.
 `
 
-    const transformed = plugin.textTransform?.({ allSlugs: [] } as any, sourceOnlyMarkdown) ?? sourceOnlyMarkdown
+    const transformed = inspectLazyClaimPayloads(
+      plugin.textTransform?.({ allSlugs: [] } as any, sourceOnlyMarkdown) ?? sourceOnlyMarkdown,
+    )
 
     assert.doesNotMatch(transformed, /<strong>Autorius:<\/strong>/)
     assert.match(transformed, /data-citation-author=""/)
@@ -184,7 +194,9 @@ describe("AdvancedEvidence transformer", () => {
     Antra citata.
 `
 
-    const transformed = plugin.textTransform?.({ allSlugs: [] } as any, multiCitationMarkdown) ?? multiCitationMarkdown
+    const transformed = inspectLazyClaimPayloads(
+      plugin.textTransform?.({ allSlugs: [] } as any, multiCitationMarkdown) ?? multiCitationMarkdown,
+    )
 
     assert.match(transformed, /data-claim-citation-id="c-001"/)
     assert.match(transformed, /data-claim-citation-id="c-002"/)
@@ -217,7 +229,9 @@ describe("AdvancedEvidence transformer", () => {
     Tikroji teiginio citata.
 `
 
-    const transformed = plugin.textTransform?.({ allSlugs: [] } as any, markdownWithCitatos) ?? markdownWithCitatos
+    const transformed = inspectLazyClaimPayloads(
+      plugin.textTransform?.({ allSlugs: [] } as any, markdownWithCitatos) ?? markdownWithCitatos,
+    )
 
     assert.match(transformed, /data-claim-citation-id="c-34195"/)
     assert.match(transformed, /Tikroji teiginio citata\./)
@@ -236,7 +250,9 @@ describe("AdvancedEvidence transformer", () => {
     - c-404
 `
 
-    const transformed = plugin.textTransform?.({ allSlugs: [] } as any, missingCitationMarkdown) ?? missingCitationMarkdown
+    const transformed = inspectLazyClaimPayloads(
+      plugin.textTransform?.({ allSlugs: [] } as any, missingCitationMarkdown) ?? missingCitationMarkdown,
+    )
 
     assert.match(transformed, /data-claim-detail="t-001-1"/)
     assert.match(transformed, /aria-controls="claim-evidence-t-001-1"/)
@@ -271,7 +287,9 @@ describe("AdvancedEvidence transformer", () => {
     Antra citata.
 `
 
-    const transformed = plugin.textTransform?.({ allSlugs: [] } as any, duplicateLocalIdMarkdown) ?? duplicateLocalIdMarkdown
+    const transformed = inspectLazyClaimPayloads(
+      plugin.textTransform?.({ allSlugs: [] } as any, duplicateLocalIdMarkdown) ?? duplicateLocalIdMarkdown,
+    )
 
     assert.match(transformed, /data-claim-id="t-111"/)
     assert.match(transformed, /data-claim-id="t-222"/)
@@ -315,7 +333,9 @@ describe("AdvancedEvidence transformer", () => {
     Antra citata.
 `
 
-    const transformed = plugin.textTransform?.({ allSlugs: [] } as any, duplicateGlobalIdMarkdown) ?? duplicateGlobalIdMarkdown
+    const transformed = inspectLazyClaimPayloads(
+      plugin.textTransform?.({ allSlugs: [] } as any, duplicateGlobalIdMarkdown) ?? duplicateGlobalIdMarkdown,
+    )
 
     assert.match(transformed, /id="claim-evidence-t-333"/)
     assert.match(transformed, /id="claim-evidence-t-333-2"/)
@@ -341,13 +361,14 @@ describe("AdvancedEvidence transformer", () => {
     - c-001
 `
 
-    const transformed =
+    const transformed = inspectLazyClaimPayloads(
       plugin.textTransform?.(
         {
           allSlugs: ["objektai/vietos/Lietuva"] as FullSlug[],
         } as any,
         unresolvedMarkdown,
-      ) ?? unresolvedMarkdown
+      ) ?? unresolvedMarkdown,
+    )
 
     assert.match(transformed, /mentioned_place: Nežinoma/)
     assert.doesNotMatch(transformed, /href="[^"]*Nežinoma/)
@@ -366,7 +387,7 @@ describe("AdvancedEvidence transformer", () => {
     - c-001
 `
 
-    const transformed =
+    const transformed = inspectLazyClaimPayloads(
       plugin.textTransform?.(
         {
           allSlugs: [
@@ -375,7 +396,8 @@ describe("AdvancedEvidence transformer", () => {
           ] as FullSlug[],
         } as any,
         markdownWithStopword,
-      ) ?? markdownWithStopword
+      ) ?? markdownWithStopword,
+    )
 
     assert.match(transformed, /mentioned_person: tame/)
     assert.doesNotMatch(transformed, /href="objektai\/asmenys\/Tame-\(Baigos-brolis\)"/)

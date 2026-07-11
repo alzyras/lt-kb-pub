@@ -570,7 +570,15 @@ function renderClaimsSection(
     const claimCell = `${toggle}${claimPill} ${markdownCell(claim)}`
     out.push(
       `<tr${anchorAttr} data-claim-row="true" data-claim-id="${escapeHtml(domKey)}" data-claim-key="${escapeHtml(domKey)}" data-public-claim-id="${escapeHtml(publicId)}" data-original-claim-id="${escapeHtml(entry.id)}"${globalAttrs} data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${claimCell}</td></tr>`,
-      renderClaimEvidenceDetailRow(entry, detailId, domKey, publicId, refs, citationsById, resolveIndex),
+      renderClaimEvidenceDetailRow(
+        entry,
+        detailId,
+        domKey,
+        publicId,
+        refs,
+        citationsById,
+        resolveIndex,
+      ),
     )
   })
   out.push(
@@ -583,13 +591,23 @@ function renderClaimsSection(
   return out
 }
 
-function claimAdvancedRows(entry: EvidenceEntry, publicId: string, resolveIndex: SlugResolveIndex): string[] {
+function claimAdvancedRows(
+  entry: EvidenceEntry,
+  publicId: string,
+  resolveIndex: SlugResolveIndex,
+): string[] {
   const rows: string[] = []
-  rows.push(`<tr><th>${escapeHtml(advancedLabel("public_id"))}</th><td>${escapeHtml(markdownText(publicId))}</td></tr>`)
-  rows.push(`<tr><th>${escapeHtml(advancedLabel("original_local_id"))}</th><td>${escapeHtml(markdownText(entry.id))}</td></tr>`)
+  rows.push(
+    `<tr><th>${escapeHtml(advancedLabel("public_id"))}</th><td>${escapeHtml(markdownText(publicId))}</td></tr>`,
+  )
+  rows.push(
+    `<tr><th>${escapeHtml(advancedLabel("original_local_id"))}</th><td>${escapeHtml(markdownText(entry.id))}</td></tr>`,
+  )
   const globalId = entry.fields.get("global_id")
   if (globalId) {
-    rows.push(`<tr><th>${escapeHtml(advancedLabel("global_id"))}</th><td>${escapeHtml(markdownText(globalId))}</td></tr>`)
+    rows.push(
+      `<tr><th>${escapeHtml(advancedLabel("global_id"))}</th><td>${escapeHtml(markdownText(globalId))}</td></tr>`,
+    )
   }
   for (const key of CLAIM_ADVANCED_KEYS) {
     const value = entry.fields.get(key)
@@ -719,11 +737,10 @@ function renderClaimEvidenceDetailRow(
     .filter((entry): entry is EvidenceEntry => Boolean(entry))
     .map((entry) => renderCitationCard(claimEntry, entry, resolveIndex))
   const citationContent =
-    cards.length > 0
-      ? cards.join("")
-      : `<p class="claim-citation-missing">Citata nerasta.</p>`
+    cards.length > 0 ? cards.join("") : `<p class="claim-citation-missing">Citata nerasta.</p>`
   const content = `${claimTechnicalHtml}${citationContent}`
-  return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(domKey)}" data-original-claim-id="${escapeHtml(claimEntry.id)}" data-public-claim-id="${escapeHtml(publicId)}" hidden><td colspan="1"><div class="claim-evidence-detail">${content}</div></td></tr>`
+  const payload = JSON.stringify(content).replaceAll("<", "\\u003c")
+  return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(domKey)}" data-original-claim-id="${escapeHtml(claimEntry.id)}" data-public-claim-id="${escapeHtml(publicId)}" hidden><td colspan="1"><div class="claim-evidence-detail" data-claim-detail-content="true"></div><script type="application/json" data-claim-detail-payload="true">${payload}</script></td></tr>`
 }
 
 function advancedRows(
@@ -734,7 +751,9 @@ function advancedRows(
   const rows: string[] = []
   const original = entry.fields.get(QUOTE_ORIGINAL_KEY) ?? ""
   if (original && original.trim() !== displayedQuote.trim()) {
-    rows.push(`<tr><th>${escapeHtml(advancedLabel("citata_originali"))}</th><td>${advancedCell(original)}</td></tr>`)
+    rows.push(
+      `<tr><th>${escapeHtml(advancedLabel("citata_originali"))}</th><td>${advancedCell(original)}</td></tr>`,
+    )
   }
   for (const key of CLAIM_ADVANCED_KEYS) {
     const value = entry.fields.get(key)
@@ -752,9 +771,7 @@ function advancedRows(
   return rows
 }
 
-function renderMentionsSection(
-  sectionLines: string[],
-): string[] | null {
+function renderMentionsSection(sectionLines: string[]): string[] | null {
   const entries = parseEntries(sectionLines).filter((entry) => entry.id.startsWith("c-"))
   if (entries.length === 0) {
     return null

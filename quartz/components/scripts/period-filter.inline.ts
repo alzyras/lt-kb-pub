@@ -90,14 +90,22 @@ function updateFilter(refs: PeriodFilterRefs, changed: "start" | "end", writeUrl
 
   if (writeUrl) {
     const url = new URL(location.href)
-    selectedStart === min ? url.searchParams.delete("from") : url.searchParams.set("from", String(selectedStart))
-    selectedEnd === max ? url.searchParams.delete("to") : url.searchParams.set("to", String(selectedEnd))
-    refs.unknownInput.checked ? url.searchParams.delete("unknown") : url.searchParams.set("unknown", "0")
+    selectedStart === min
+      ? url.searchParams.delete("from")
+      : url.searchParams.set("from", String(selectedStart))
+    selectedEnd === max
+      ? url.searchParams.delete("to")
+      : url.searchParams.set("to", String(selectedEnd))
+    refs.unknownInput.checked
+      ? url.searchParams.delete("unknown")
+      : url.searchParams.set("unknown", "0")
     url.searchParams.delete("page")
     history.replaceState({}, "", url)
   }
 
-  const entries = refs.lists.flatMap((list) => [...list.querySelectorAll<HTMLLIElement>("li.section-li")])
+  const entries = refs.lists.flatMap((list) => [
+    ...list.querySelectorAll<HTMLLIElement>("li.section-li"),
+  ])
   entries.forEach((entry) => {
     const isFilterable = entry.dataset.periodFilterable === "true"
     const start = Number(entry.dataset.periodStart)
@@ -125,7 +133,7 @@ function updateFilter(refs: PeriodFilterRefs, changed: "start" | "end", writeUrl
     })
     refs.summary.textContent = `Rodoma ${visible} iš ${entries.length}`
   }
-  ;(document as EventTarget).dispatchEvent(new CustomEvent("periodfilterchange"))
+  document.dispatchEvent(new CustomEvent<{}>("periodfilterchange", { detail: {} }))
 }
 
 function initPeriodFilters() {

@@ -57,10 +57,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.TagList(),
   ],
-  left: [
-    Component.PageTitle(),
-    Component.Explorer(),
-  ],
+  left: [Component.PageTitle(), Component.Explorer()],
   right: [
     Component.ConditionalRender({
       component: Component.Graph(),

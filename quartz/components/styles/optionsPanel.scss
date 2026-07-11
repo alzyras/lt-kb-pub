@@ -65,7 +65,9 @@
   font-weight: 850;
 }
 
-.options-panel-badge[hidden] { display: none; }
+.options-panel-badge[hidden] {
+  display: none;
+}
 
 .sr-only {
   position: absolute;

@@ -90,7 +90,11 @@ function cleanRules(value: unknown): SourceSelectionRule[] {
     const key = `${scope}:${id}`
     if (seen.has(key)) continue
     seen.add(key)
-    out.push({ scope: scope as SourceSelectionRule["scope"], id, include: (raw as SourceSelectionRule).include !== false })
+    out.push({
+      scope: scope as SourceSelectionRule["scope"],
+      id,
+      include: (raw as SourceSelectionRule).include !== false,
+    })
   }
   return out
 }
@@ -115,12 +119,16 @@ function migrateLegacy(storage: Pick<Storage, "getItem">): SettingsState {
       sourceSelectionMode?: "all" | "custom"
       selectedSourceIds?: unknown[]
     }
-    if (Number.isFinite(legacy.minClaimCount)) minClaimCount = Math.max(0, Number(legacy.minClaimCount))
+    if (Number.isFinite(legacy.minClaimCount))
+      minClaimCount = Math.max(0, Number(legacy.minClaimCount))
     if (typeof legacy.showPersonParentheticals === "boolean") {
       showPersonParentheticals = legacy.showPersonParentheticals
     }
     const selected = Array.isArray(legacy.selectedSourceIds)
-      ? legacy.selectedSourceIds.map(String).map((id) => id.trim()).filter(Boolean)
+      ? legacy.selectedSourceIds
+          .map(String)
+          .map((id) => id.trim())
+          .filter(Boolean)
       : []
     if (legacy.sourceSelectionMode === "custom" || selected.length > 0) {
       textSources = {
@@ -166,7 +174,10 @@ export function readSettingsState(storage: Pick<Storage, "getItem"> = localStora
   }
 }
 
-export function sourceMatchesSelection(entry: SourceCatalogEntry, selection: SourceSelection): boolean {
+export function sourceMatchesSelection(
+  entry: SourceCatalogEntry,
+  selection: SourceSelection,
+): boolean {
   let included = selection.mode === "all"
   const scopes: SourceSelectionRule["scope"][] = ["kind", "series", "source"]
   for (const scope of scopes) {
@@ -187,7 +198,9 @@ export function selectedSources(
   channel: SourceChannel,
   selection: SourceSelection,
 ): SourceCatalogEntry[] {
-  return catalog.filter((entry) => entry.channel === channel && sourceMatchesSelection(entry, selection))
+  return catalog.filter(
+    (entry) => entry.channel === channel && sourceMatchesSelection(entry, selection),
+  )
 }
 
 export function setSelectionRule(
@@ -201,8 +214,7 @@ export function setSelectionRule(
     if (candidate.scope === rule.scope && candidate.id === rule.id) return true
     if (rule.scope === "source") return false
     return entries.some((entry) => {
-      const belongs =
-        rule.scope === "kind" ? entry.kind === rule.id : entry.seriesId === rule.id
+      const belongs = rule.scope === "kind" ? entry.kind === rule.id : entry.seriesId === rule.id
       if (!belongs) return false
       return (
         (candidate.scope === "source" && candidate.id === entry.id) ||
@@ -224,13 +236,18 @@ export function writeSettingsState(
   storage.setItem(SETTINGS_STORAGE_KEY, JSON.stringify(state))
   storage.setItem(ADVANCED_EVIDENCE_STORAGE_KEY, state.advancedEvidence ? "on" : "off")
   if (catalog.length > 0) {
-    const selectedText = selectedSources(catalog, "text", state.textSources).map((entry) => entry.id)
+    const selectedText = selectedSources(catalog, "text", state.textSources).map(
+      (entry) => entry.id,
+    )
     storage.setItem(
       LEGACY_OPTIONS_STORAGE_KEY,
       JSON.stringify({
         minClaimCount: state.minClaimCount,
         showPersonParentheticals: state.showPersonParentheticals,
-        sourceSelectionMode: state.textSources.mode === "all" && state.textSources.rules.length === 0 ? "all" : "custom",
+        sourceSelectionMode:
+          state.textSources.mode === "all" && state.textSources.rules.length === 0
+            ? "all"
+            : "custom",
         selectedSourceIds: selectedText,
       }),
     )
@@ -247,17 +264,19 @@ export function normalizeCatalog(value: unknown): SourceCatalogEntry[] {
   if (!Array.isArray(value)) return []
   return value
     .filter((entry): entry is SourceCatalogEntry => Boolean(entry && typeof entry === "object"))
-    .map((entry): SourceCatalogEntry => ({
-      ...entry,
-      id: String(entry.id ?? "").trim(),
-      title: String(entry.title ?? "").trim(),
-      channel: entry.channel === "media" ? "media" : "text",
-      kind: SOURCE_KIND_SPECS.some((spec) => spec.code === entry.kind) ? entry.kind : "other",
-      objectCount: Math.max(0, Number(entry.objectCount) || 0),
-      claimCount: Math.max(0, Number(entry.claimCount) || 0),
-      quoteCount: Math.max(0, Number(entry.quoteCount) || 0),
-      mediaCount: Math.max(0, Number(entry.mediaCount) || 0),
-    }))
+    .map(
+      (entry): SourceCatalogEntry => ({
+        ...entry,
+        id: String(entry.id ?? "").trim(),
+        title: String(entry.title ?? "").trim(),
+        channel: entry.channel === "media" ? "media" : "text",
+        kind: SOURCE_KIND_SPECS.some((spec) => spec.code === entry.kind) ? entry.kind : "other",
+        objectCount: Math.max(0, Number(entry.objectCount) || 0),
+        claimCount: Math.max(0, Number(entry.claimCount) || 0),
+        quoteCount: Math.max(0, Number(entry.quoteCount) || 0),
+        mediaCount: Math.max(0, Number(entry.mediaCount) || 0),
+      }),
+    )
     .filter((entry) => entry.id && entry.title)
 }
 

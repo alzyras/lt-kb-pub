@@ -60,6 +60,9 @@ export type ContentMetaDetails = Pick<
   | "quoteCount"
   | "citationSourceIds"
   | "claimCount"
+  | "itemType"
+  | "dateStart"
+  | "dateEnd"
 >
 
 export type GraphIndexDetails = Pick<ContentDetails, "slug" | "title" | "links" | "tags">
@@ -307,7 +310,13 @@ function edgeEvidence(
   target: ContentDetails,
 ): Pick<
   GraphExplorerLinkDetails,
-  "relationKind" | "confidence" | "evidenceCount" | "claimIds" | "quoteIds" | "evidencePreview" | "sourceIds"
+  | "relationKind"
+  | "confidence"
+  | "evidenceCount"
+  | "claimIds"
+  | "quoteIds"
+  | "evidencePreview"
+  | "sourceIds"
 > {
   const targetTerms = basenameTerms(target)
   const quotesById = new Map((source.quoteEntries ?? []).map((quote) => [quote.id, quote]))
@@ -387,6 +396,9 @@ function asContentMeta(content: ContentDetails): ContentMetaDetails {
     quoteCount: content.quoteCount,
     citationSourceIds: content.citationSourceIds,
     claimCount: content.claimCount,
+    itemType: content.itemType,
+    dateStart: content.dateStart,
+    dateEnd: content.dateEnd,
   }
 }
 

@@ -398,6 +398,10 @@ body:not([data-slug="index"]) .page-header .period-chip {
   text-transform: uppercase;
 }
 
+.object-map-preview-status:not([hidden]) {
+  display: grid;
+}
+
 .object-section-nav {
   position: sticky;
   top: 0;
@@ -410,9 +414,21 @@ body:not([data-slug="index"]) .page-header .period-chip {
   width: min(100% - 2rem, 1064px);
   min-height: 2.65rem;
   margin: 0 auto;
-  padding: 0 .25rem;
+  padding: 0 0.25rem;
   border-block: 1px solid var(--bm-border);
   background: var(--ui-surface, var(--bm-white));
+}
+
+body[data-slug^="objektai/"] .page > #quartz-body:has(.object-section-nav) {
+  grid-template-areas:
+    "grid-header grid-header grid-header"
+    "grid-object-nav grid-object-nav grid-object-nav"
+    "grid-sidebar-left grid-center grid-sidebar-right"
+    "grid-sidebar-left grid-footer grid-sidebar-right" !important;
+}
+
+body[data-slug^="objektai/"] .object-section-nav {
+  grid-area: grid-object-nav;
 }
 
 .object-section-nav a {
@@ -574,7 +590,12 @@ body:is([data-slug="galerija"], [data-slug$="/galerija"]) .page > #quartz-body .
 }
 
 body:is([data-slug="galerija"], [data-slug$="/galerija"]) .page > #quartz-body .center > article,
-body:is([data-slug="galerija"], [data-slug$="/galerija"]) .page > #quartz-body .center > article > .popover-hint {
+body:is([data-slug="galerija"], [data-slug$="/galerija"])
+  .page
+  > #quartz-body
+  .center
+  > article
+  > .popover-hint {
   width: 100%;
   max-width: none;
 }
@@ -895,10 +916,7 @@ body[data-slug="404"] .page > #quartz-body {
   grid-template-areas:
     "grid-sidebar-left grid-header grid-sidebar-right"
     "grid-center grid-center grid-center" !important;
-  grid-template-columns: minmax(0, 1fr) minmax(0, var(--bm-site-max, 1600px)) minmax(
-      0,
-      1fr
-    ) !important;
+  grid-template-columns: minmax(0, 1fr) minmax(0, var(--bm-site-max, 1600px)) minmax(0, 1fr) !important;
   grid-template-rows: auto auto !important;
 }
 
@@ -939,8 +957,7 @@ body[data-slug="404"] footer {
   overflow: hidden;
   border: 0 !important;
   background:
-    linear-gradient(135deg, color-mix(in srgb, var(--bm-red) 5%, white), transparent 38rem),
-    #fff;
+    linear-gradient(135deg, color-mix(in srgb, var(--bm-red) 5%, white), transparent 38rem), #fff;
   color: var(--bm-purple);
 }
 

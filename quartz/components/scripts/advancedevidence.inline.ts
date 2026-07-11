@@ -1,4 +1,9 @@
-import { dispatchSettingsChange, loadSourceCatalog, readSettingsState, writeSettingsState } from "../../util/sourceSettings"
+import {
+  dispatchSettingsChange,
+  loadSourceCatalog,
+  readSettingsState,
+  writeSettingsState,
+} from "../../util/sourceSettings"
 
 const STORAGE_KEY = "advancedEvidenceMode"
 const DEFAULT_MODE: "on" | "off" = "off"
@@ -86,6 +91,21 @@ document.addEventListener("nav", () => {
     const detail = detailForRow(row)
     if (!detail) {
       return
+    }
+
+    if (open) {
+      const content = detail.querySelector<HTMLElement>("[data-claim-detail-content]")
+      const payload = detail.querySelector<HTMLScriptElement>("[data-claim-detail-payload]")
+      if (content && payload) {
+        try {
+          const decoder = document.createElement("textarea")
+          decoder.innerHTML = payload.textContent ?? '""'
+          content.innerHTML = JSON.parse(decoder.value)
+          payload.remove()
+        } catch {
+          content.textContent = "Citatos duomenų nepavyko parodyti."
+        }
+      }
     }
 
     detail.hidden = !open

@@ -2,9 +2,11 @@
 from __future__ import annotations
 
 import argparse
+import html as html_lib
 import json
 import re
 import subprocess
+import unicodedata
 from html.parser import HTMLParser
 from pathlib import Path
 from typing import Iterable
@@ -150,11 +152,64 @@ def audit_claim_html(public: Path) -> list[dict[str, object]]:
     return issues
 
 
+def audit_graph_identity(public: Path) -> list[dict[str, object]]:
+    issues: list[dict[str, object]] = []
+    topology_path = public / "static/graph-data/topology.json"
+    slug_map_path = public / "static/graphSlugMap.json"
+    if not topology_path.is_file() or not slug_map_path.is_file():
+        return [{"reason": "missing_graph_identity_artifact"}]
+
+    topology = json.loads(topology_path.read_text(encoding="utf-8"))
+    slug_map = json.loads(slug_map_path.read_text(encoding="utf-8"))
+    public_to_graph = slug_map.get("publicToGraph") or {}
+    collisions = slug_map.get("collisions") or {}
+    aliases = slug_map.get("aliases") or {}
+    topology_slugs = {str(node.get("slug") or "") for node in topology.get("nodes") or []}
+
+    def canonical_graph_slug(value: str) -> str:
+        mapped = public_to_graph.get(value) or aliases.get(value) or value
+        return aliases.get(mapped) or mapped
+
+    for page in public.glob("objektai/**/index.html"):
+        if "objektai/saltiniai/" in page.as_posix():
+            continue
+        html = page.read_text(encoding="utf-8", errors="ignore")
+        if 'data-object-map-cta="true"' not in html:
+            continue
+        graph_match = re.search(r'data-object-slug="([^"]+)"', html)
+        public_match = re.search(r'data-public-object-slug="([^"]+)"', html)
+        rel = str(page.relative_to(public))
+        if not graph_match or not public_match:
+            issues.append({"path": rel, "reason": "missing_object_graph_identity"})
+            continue
+        page_graph_slug = unicodedata.normalize("NFC", html_lib.unescape(graph_match.group(1)))
+        page_public_slug = unicodedata.normalize("NFC", html_lib.unescape(public_match.group(1)))
+        canonical_slug = canonical_graph_slug(page_graph_slug)
+        if canonical_slug not in topology_slugs:
+            issues.append({
+                "path": rel,
+                "graph_slug": page_graph_slug,
+                "canonical_graph_slug": canonical_slug,
+                "reason": "object_page_graph_slug_missing_from_topology",
+            })
+            continue
+        public_candidates = collisions.get(page_public_slug) or [canonical_graph_slug(page_public_slug)]
+        if canonical_slug not in public_candidates and canonical_graph_slug(page_public_slug) != canonical_slug:
+            issues.append({
+                "path": rel,
+                "graph_slug": canonical_slug,
+                "public_slug": page_public_slug,
+                "reason": "object_page_public_graph_mapping_mismatch",
+            })
+    return issues
+
+
 def run_audit(public: Path, content: Path) -> dict[str, object]:
     buckets = {
         "filename_bytes": audit_filename_bytes(content),
         "media_primary": audit_primary_media(content),
         "claim_html": audit_claim_html(public),
+        "graph_identity": audit_graph_identity(public),
     }
     issue_count = sum(len(values) for values in buckets.values())
     return {"schema": "ltkb-public-build-audit/v1", "issue_count": issue_count, "issues": buckets, "status": "failed" if issue_count else "passed"}

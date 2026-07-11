@@ -32,6 +32,7 @@ let cachedSources: SourceCatalogEntry[] = []
 let personParentheticalObserver: MutationObserver | null = null
 let personParentheticalObserverScheduled = false
 const originalRelationRows = new WeakMap<HTMLLIElement, string>()
+let proxyingGlobalControl = false
 
 function parseSourceIds(value: string | undefined): string[] {
   return (value ?? "")
@@ -153,7 +154,11 @@ function initPersonParentheticalObserver() {
 }
 
 function optionFiltersActive(): boolean {
-  return state.minClaimCount > 0 || state.textSources.mode === "custom" || state.textSources.rules.length > 0
+  return (
+    state.minClaimCount > 0 ||
+    state.textSources.mode === "custom" ||
+    state.textSources.rules.length > 0
+  )
 }
 
 function optionsMatchItem({
@@ -212,20 +217,22 @@ function syncPageListGroups() {
 }
 
 function updateObjectListSummaries() {
-  document.querySelectorAll<HTMLElement>('[data-object-list-controls="true"]').forEach((control) => {
-    const summary = control.querySelector<HTMLElement>("[data-object-list-summary]")
-    if (!summary) {
-      return
-    }
-    const root = control.parentElement ?? document.body
-    const entries = [
-      ...root.querySelectorAll<HTMLLIElement>(
-        'ul.section-ul[data-object-list-sortable="true"] > li.section-li',
-      ),
-    ]
-    const visible = entries.filter((entry) => !entry.hidden).length
-    summary.textContent = `Rodoma ${visible} iš ${entries.length}`
-  })
+  document
+    .querySelectorAll<HTMLElement>('[data-object-list-controls="true"]')
+    .forEach((control) => {
+      const summary = control.querySelector<HTMLElement>("[data-object-list-summary]")
+      if (!summary) {
+        return
+      }
+      const root = control.parentElement ?? document.body
+      const entries = [
+        ...root.querySelectorAll<HTMLLIElement>(
+          'ul.section-ul[data-object-list-sortable="true"] > li.section-li',
+        ),
+      ]
+      const visible = entries.filter((entry) => !entry.hidden).length
+      summary.textContent = `Rodoma ${visible} iš ${entries.length}`
+    })
 }
 
 function applyListFilters() {
@@ -399,11 +406,13 @@ function applyCitationFilters() {
 }
 
 function applyPrimaryMediaFilter() {
-  document.querySelectorAll<HTMLElement>("[data-media-source-id].object-primary-media").forEach((section) => {
-    const sourceId = section.dataset.mediaSourceId ?? "media-other"
-    const entry = cachedSources.find((source) => source.id === sourceId)
-    section.hidden = entry ? !sourceMatchesSelection(entry, state.mediaSources) : false
-  })
+  document
+    .querySelectorAll<HTMLElement>("[data-media-source-id].object-primary-media")
+    .forEach((section) => {
+      const sourceId = section.dataset.mediaSourceId ?? "media-other"
+      const entry = cachedSources.find((source) => source.id === sourceId)
+      section.hidden = entry ? !sourceMatchesSelection(entry, state.mediaSources) : false
+    })
 }
 
 function normalizedSlug(value: string): string {
@@ -431,15 +440,25 @@ async function applyRelationFilters() {
     })
     return
   }
-  const topology = await optionsWindow.loadGraphTopology?.().catch(() => ({ nodes: [], edges: [] })) ?? { nodes: [], edges: [] }
+  const topology = (await optionsWindow
+    .loadGraphTopology?.()
+    .catch(() => ({ nodes: [], edges: [] }))) ?? { nodes: [], edges: [] }
   const currentSlug = normalizedSlug(document.body.dataset.slug ?? "")
-  const matchingNode = (topology.nodes ?? []).find((node) => normalizedSlug(node.slug) === currentSlug)
+  const matchingNode = (topology.nodes ?? []).find(
+    (node) => normalizedSlug(node.slug) === currentSlug,
+  )
   if (!matchingNode) {
-    rows.forEach((row) => { row.hidden = true })
+    rows.forEach((row) => {
+      row.hidden = true
+    })
     return
   }
-  const selected = new Set(selectedSources(cachedSources, "text", state.textSources).map((source) => source.title))
-  const nodeEdges = (topology.edges ?? []).filter((edge) => normalizedSlug(edge.from) === currentSlug)
+  const selected = new Set(
+    selectedSources(cachedSources, "text", state.textSources).map((source) => source.title),
+  )
+  const nodeEdges = (topology.edges ?? []).filter(
+    (edge) => normalizedSlug(edge.from) === currentSlug,
+  )
   rows.forEach((row) => {
     if (!originalRelationRows.has(row)) originalRelationRows.set(row, row.innerHTML)
     const original = originalRelationRows.get(row)
@@ -460,10 +479,13 @@ async function applyRelationFilters() {
     const firstAnchorIndex = childNodes.findIndex((child) => child instanceof HTMLAnchorElement)
     const isGroupedTargetList =
       firstAnchorIndex > 0 &&
-      childNodes.slice(firstAnchorIndex).every((child) =>
-        child instanceof HTMLAnchorElement ||
-        (child.nodeType === Node.TEXT_NODE && /^\s*[,;]?\s*$/.test(child.textContent ?? "")),
-      )
+      childNodes
+        .slice(firstAnchorIndex)
+        .every(
+          (child) =>
+            child instanceof HTMLAnchorElement ||
+            (child.nodeType === Node.TEXT_NODE && /^\s*[,;]?\s*$/.test(child.textContent ?? "")),
+        )
 
     if (isGroupedTargetList) {
       const prefix = childNodes.slice(0, firstAnchorIndex).map((child) => child.cloneNode(true))
@@ -526,13 +548,16 @@ function syncPanelState() {
     if (selectedSummary) {
       const textSources = cachedSources.filter((source) => source.channel === "text")
       const selectedCount = selectedSources(cachedSources, "text", state.textSources).length
-      selectedSummary.textContent = selectedCount === textSources.length
-        ? `Pasirinkti visi (${selectedCount})`
-        : `Pasirinkta ${selectedCount} iš ${textSources.length}`
+      selectedSummary.textContent =
+        selectedCount === textSources.length
+          ? `Pasirinkti visi (${selectedCount})`
+          : `Pasirinkta ${selectedCount} iš ${textSources.length}`
       if (activeCount) {
         const active = state.minClaimCount > 0 || selectedCount !== textSources.length
         activeCount.hidden = !active
-        activeCount.textContent = String((state.minClaimCount > 0 ? 1 : 0) + (selectedCount !== textSources.length ? 1 : 0))
+        activeCount.textContent = String(
+          (state.minClaimCount > 0 ? 1 : 0) + (selectedCount !== textSources.length ? 1 : 0),
+        )
       }
     }
     if (sourceList) {
@@ -542,30 +567,32 @@ function syncPanelState() {
         .filter((source) => !needle || source.title.toLocaleLowerCase("lt").includes(needle))
         .sort((a, b) => b.claimCount - a.claimCount || a.title.localeCompare(b.title, "lt"))
         .slice(0, 80)
-      sourceList.replaceChildren(...visibleSources.map((source) => {
-        const row = document.createElement("label")
-        row.className = "options-panel-source-row"
-        const input = document.createElement("input")
-        input.type = "checkbox"
-        input.checked = sourceMatchesSelection(source, state.textSources)
-        input.addEventListener("change", () => {
-          state.textSources = setSelectionRule(
-            state.textSources,
-            { scope: "source", id: source.id, include: input.checked },
-            cachedSources,
-            "text",
-          )
-          applyFilters()
-        })
-        const title = document.createElement("span")
-        title.className = "options-panel-source-title"
-        title.textContent = source.title
-        const count = document.createElement("small")
-        count.className = "options-panel-source-count"
-        count.textContent = `${source.claimCount.toLocaleString("lt-LT")} teig.`
-        row.append(input, title, count)
-        return row
-      }))
+      sourceList.replaceChildren(
+        ...visibleSources.map((source) => {
+          const row = document.createElement("label")
+          row.className = "options-panel-source-row"
+          const input = document.createElement("input")
+          input.type = "checkbox"
+          input.checked = sourceMatchesSelection(source, state.textSources)
+          input.addEventListener("change", () => {
+            state.textSources = setSelectionRule(
+              state.textSources,
+              { scope: "source", id: source.id, include: input.checked },
+              cachedSources,
+              "text",
+            )
+            applyFilters()
+          })
+          const title = document.createElement("span")
+          title.className = "options-panel-source-title"
+          title.textContent = source.title
+          const count = document.createElement("small")
+          count.className = "options-panel-source-count"
+          count.textContent = `${source.claimCount.toLocaleString("lt-LT")} teig.`
+          row.append(input, title, count)
+          return row
+        }),
+      )
       if (visibleSources.length === 0) {
         const empty = document.createElement("p")
         empty.className = "options-panel-empty"
@@ -606,7 +633,11 @@ function syncCommandState(root: HTMLElement) {
 }
 
 function clickGlobalControl(selector: string) {
+  proxyingGlobalControl = true
   document.querySelector<HTMLButtonElement>(selector)?.click()
+  queueMicrotask(() => {
+    proxyingGlobalControl = false
+  })
 }
 
 function initPanel(root: HTMLElement) {
@@ -655,6 +686,7 @@ function initPanel(root: HTMLElement) {
   const onResearch = () => clickGlobalControl(".advanced-evidence-toggle")
   const onSourceSearch = () => syncPanelState()
   const onDocumentClick = (event: MouseEvent) => {
+    if (proxyingGlobalControl) return
     const target = event.target
     if (!(target instanceof Node)) {
       return
@@ -725,6 +757,7 @@ document.addEventListener("quartz-settings-change", () => {
   state = readSettingsState()
   applyPersonParentheticalDisplay()
   syncPanelState()
+  document.querySelectorAll<HTMLElement>("[data-options-root]").forEach(syncCommandState)
 })
 document.addEventListener("themechange", () => {
   document.querySelectorAll<HTMLElement>("[data-options-root]").forEach(syncCommandState)

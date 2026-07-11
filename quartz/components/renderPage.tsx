@@ -12,6 +12,8 @@ import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
 import { collectCitationMetadata, collectClaimCount, isObjectPage } from "../util/citationFilter"
 import { styleText } from "util"
+import { buildAssetVersion } from "../util/buildVersion"
+import { graphVisualRegistry } from "../util/graphVisualRegistry"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -29,18 +31,21 @@ export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
 ): StaticResources {
-  const assetVersion = "20260710-graph-viewport-v3"
+  const assetVersion = buildAssetVersion
   const versionedAsset = (path: string) => `${path}?v=${assetVersion}`
   const staticJsonPath = (path: string) => versionedAsset(joinSegments("/", "static", path))
   const contentMetaPath = staticJsonPath("contentMeta.json")
   const searchIndexPath = staticJsonPath("searchIndex.json")
   const graphIndexPath = staticJsonPath("graphIndex.json")
   const graphTopologyPath = staticJsonPath("graph-data/topology.json")
+  const graphSlugMapPath = staticJsonPath("graphSlugMap.json")
   const randomClaimsPath = staticJsonPath("randomClaims.json")
   const citationSourcesPath = staticJsonPath("citationSources.json")
   const sourceCatalogPath = staticJsonPath("sourceCatalog.json")
   const staticIndexScript = `
 globalThis.__ltkbStaticJsonCache ??= new Map()
+globalThis.__ltkbAssetVersion = "${assetVersion}"
+globalThis.__ltkbGraphVisualRegistry = ${JSON.stringify(graphVisualRegistry)}
 globalThis.loadStaticJson ??= (path) => {
   const cache = globalThis.__ltkbStaticJsonCache
   if (!cache.has(path)) {
@@ -61,6 +66,7 @@ globalThis.loadContentMeta = () => globalThis.loadStaticJson("${contentMetaPath}
 globalThis.loadSearchIndex = () => globalThis.loadStaticJson("${searchIndexPath}")
 globalThis.loadGraphIndex = () => globalThis.loadStaticJson("${graphIndexPath}")
 globalThis.loadGraphTopology = () => globalThis.loadStaticJson("${graphTopologyPath}")
+globalThis.loadGraphSlugMap = () => globalThis.loadStaticJson("${graphSlugMapPath}")
 globalThis.loadRandomClaims = () => globalThis.loadStaticJson("${randomClaimsPath}")
 globalThis.fetchSourceCatalog = globalThis.loadStaticJson("${sourceCatalogPath}").catch(() => [])
 // Compatibility only: callers should prefer purpose-specific loaders.

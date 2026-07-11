@@ -311,6 +311,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     return (
       <li
         class="section-li"
+        data-list-slug={page.slug}
         data-original-index={`${originalIndex}`}
         data-sort-title={normalizeSortTitle(title)}
         data-period-filterable={isTargetType ? "true" : "false"}
@@ -383,7 +384,11 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   return (
     <>
       {showObjectListControls && (
-        <div class="object-list-controls" data-object-list-controls="true">
+        <div
+          class="object-list-controls"
+          data-object-list-controls="true"
+          data-object-list-prefix={(fileData.slug ?? "").replace(/\/index$/, "")}
+        >
           <div class="object-list-control-group object-list-query-control">
             <label for="object-list-query">Paieška</label>
             <input
@@ -425,13 +430,19 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
             aria-label="Rezultatų puslapiai"
             data-object-list-pagination=""
           >
-            <a href="?page=1" data-object-list-previous aria-label="Ankstesnis puslapis">←</a>
+            <a href="?page=1" data-object-list-previous aria-label="Ankstesnis puslapis">
+              ←
+            </a>
             <span data-object-list-page-label>Puslapis 1</span>
-            <a href="?page=2" data-object-list-next aria-label="Kitas puslapis">→</a>
+            <a href="?page=2" data-object-list-next aria-label="Kitas puslapis">
+              →
+            </a>
           </nav>
           <div class="object-list-active-filters" data-object-list-active-filters="" hidden>
             <div data-object-list-active-pills="" />
-            <button type="button" data-object-list-reset="">Atstatyti visus</button>
+            <button type="button" data-object-list-reset="">
+              Atstatyti visus
+            </button>
           </div>
         </div>
       )}
@@ -492,7 +503,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
             data-period-filter-list={showPeriodFilter ? "true" : undefined}
             data-period-filter-enabled={showPeriodFilter ? "true" : undefined}
           >
-            {items.map(renderItem)}
+            {(showObjectListControls ? items.slice(0, 50) : items).map(renderItem)}
           </ul>
         </section>
       ))}

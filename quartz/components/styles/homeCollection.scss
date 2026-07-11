@@ -9,9 +9,14 @@
   width: min(100%, var(--bm-site-max, 1600px));
   min-height: 100vh;
   margin: 0 auto;
-  background: #fff;
+  background: var(--ui-surface, #fff);
   color: var(--collection-purple);
   font-family: var(--bm-font);
+}
+
+:root[saved-theme="dark"] .collection-home {
+  --collection-purple: #d5a8da;
+  --collection-rule: #484047;
 }
 
 .collection-home *,
@@ -355,7 +360,7 @@
   max-height: min(26rem, 52vh);
   overflow: auto;
   border: 1px solid var(--collection-rule);
-  background: #fff;
+  background: var(--ui-surface-raised, #fff);
   box-shadow: 0 1.4rem 3.5rem rgba(22, 10, 24, 0.28);
   color: var(--collection-purple);
 }
@@ -385,7 +390,7 @@
   gap: 0.35rem 1rem;
   padding: 1rem;
   border-bottom: 1px solid var(--collection-rule);
-  background: #fff;
+  background: var(--ui-surface-raised, #fff);
   color: var(--collection-purple);
   text-decoration: none;
 }
@@ -397,7 +402,7 @@
 .collection-search-result:hover,
 .collection-search-result:focus-visible,
 .collection-search-result.is-active {
-  background: #fbf2ee;
+  background: color-mix(in srgb, var(--ui-surface-raised, #fff) 88%, var(--collection-red) 12%);
   outline: none;
 }
 
@@ -513,7 +518,7 @@
   border-right: 1px solid var(--collection-rule);
   border-bottom: 3px solid transparent;
   border-radius: 0;
-  background: #fff;
+  background: var(--ui-surface-raised, #fff);
   color: var(--collection-purple);
   cursor: pointer;
   font-family: var(--bm-font);

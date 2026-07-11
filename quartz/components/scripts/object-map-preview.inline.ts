@@ -23,6 +23,21 @@ type ObjectMapPreviewRuntime = typeof globalThis & {
     edges?: Array<{ from: string; to: string; kind: string; evidenceCount: number; confidence: number }>
     relationKinds?: Record<string, { defaultOn?: boolean }>
   }>
+  loadGraphSlugMap?: () => Promise<{
+    publicToGraph?: Record<string, string>
+    graphToPublic?: Record<string, string>
+    aliases?: Record<string, string>
+  }>
+  __ltkbGraphVisualRegistry?: {
+    typeColors?: Record<string, number>
+    fallbackNode?: number
+    focus?: number
+    edgeSemantic?: number
+    edgeExplicit?: number
+    canvasBackground?: string
+    label?: string
+    labelHalo?: string
+  }
   addCleanup?: (cleanup: () => void) => void
 }
 
@@ -63,19 +78,30 @@ type ObjectMapLabelBounds = {
 
 const objectMapRuntime = globalThis as ObjectMapPreviewRuntime
 let objectMapIndexPromise: Promise<Record<string, ObjectMapPreviewNode>> | undefined
+let objectMapSlugMapPromise: Promise<{
+  publicToGraph: Record<string, string>
+  aliases: Record<string, string>
+}> | undefined
 const objectMapPreviewInitialized = new WeakSet<HTMLElement>()
 
-const objectMapTypeColors: Record<string, string> = {
-  asmuo: "#286456",
-  autorius: "#5d6f63",
-  ivykis: "#923120",
-  grupe: "#9b7b49",
-  vieta: "#557d8b",
-  daiktas: "#735a91",
-  paprotys: "#b66941",
-  posakis: "#8d4d72",
-  zodyno_irasas: "#626262",
-  tema: "#445f8f",
+const objectMapVisual = objectMapRuntime.__ltkbGraphVisualRegistry ?? {
+  typeColors: {},
+  fallbackNode: 0x85755f,
+  focus: 0xb52c1e,
+  edgeSemantic: 0x756149,
+  edgeExplicit: 0xb0a18a,
+  canvasBackground: "#fdfcf9",
+  label: "#241c18",
+  labelHalo: "#f8f2e8",
+}
+
+function objectMapColor(value: number | undefined, fallback: number): string {
+  return `#${Number(value ?? fallback).toString(16).padStart(6, "0")}`
+}
+
+function objectMapRgba(value: number | undefined, fallback: number, alpha: number): string {
+  const color = Number(value ?? fallback)
+  return `rgba(${(color >> 16) & 255},${(color >> 8) & 255},${color & 255},${alpha})`
 }
 
 const objectMapPreviewMinConfidence = 0.5
@@ -147,6 +173,21 @@ async function loadObjectMapIndex(): Promise<Record<string, ObjectMapPreviewNode
   return objectMapIndexPromise
 }
 
+async function loadObjectMapSlugMap(): Promise<{
+  publicToGraph: Record<string, string>
+  aliases: Record<string, string>
+}> {
+  if (!objectMapSlugMapPromise) {
+    objectMapSlugMapPromise = objectMapRuntime.loadGraphSlugMap
+      ? objectMapRuntime.loadGraphSlugMap().then((value) => ({
+          publicToGraph: value.publicToGraph ?? {},
+          aliases: value.aliases ?? {},
+        }))
+      : Promise.resolve({ publicToGraph: {}, aliases: {} })
+  }
+  return objectMapSlugMapPromise
+}
+
 function objectMapNodeType(slug: string, node?: ObjectMapPreviewNode): string {
   if (node?.type) return node.type
   if (slug.startsWith("temos/")) return "tema"
@@ -177,8 +218,18 @@ function objectMapResolveNode(
   if (direct) return [slug, direct]
 
   const simplified = slug.replace(/\/index$/, "")
-  const match = Object.entries(index).find(([candidate]) => candidate.replace(/\/index$/, "") === simplified)
-  return match
+  const exact = Object.entries(index).find(
+    ([candidate]) => candidate.replace(/\/index$/, "") === simplified,
+  )
+  if (exact) return exact
+
+  const normalized = simplified.normalize("NFC").toLocaleLowerCase("lt-LT")
+  const matches = Object.entries(index).filter(
+    ([candidate]) =>
+      candidate.replace(/\/index$/, "").normalize("NFC").toLocaleLowerCase("lt-LT") ===
+      normalized,
+  )
+  return matches.length === 1 ? matches[0] : undefined
 }
 
 function objectMapNeighbours(
@@ -412,7 +463,7 @@ function drawObjectMapPreview(
   if (!ctx) return
   ctx.setTransform(pixelRatio, 0, 0, pixelRatio, 0, 0)
   ctx.clearRect(0, 0, width, height)
-  ctx.fillStyle = "#fdfcf9"
+  ctx.fillStyle = objectMapVisual.canvasBackground ?? "#fdfcf9"
   ctx.fillRect(0, 0, width, height)
 
   const graph = buildObjectMapPreviewGraph(index, slug, node, neighbours)
@@ -462,8 +513,9 @@ function drawObjectMapPreview(
     ctx.moveTo(s.x, s.y)
     ctx.lineTo(t.x, t.y)
     ctx.globalAlpha = Math.max(0.18, Math.min(0.68, (link.confidence || 0.34) * 0.72))
-    ctx.strokeStyle =
-      link.relationKind === "public_relation" ? "rgba(176, 161, 138, 0.7)" : "rgba(117, 97, 73, 0.78)"
+    ctx.strokeStyle = link.relationKind === "explicit_wikilink"
+      ? objectMapRgba(objectMapVisual.edgeExplicit, 0xb0a18a, 0.7)
+      : objectMapRgba(objectMapVisual.edgeSemantic, 0x756149, 0.78)
     ctx.lineWidth = Math.max(0.5, Math.min(2.3, 0.45 + Math.log1p(link.evidenceCount) * 0.42))
     ctx.stroke()
   }
@@ -474,9 +526,14 @@ function drawObjectMapPreview(
     const nodeRadius = Math.max(2.5, objectMapRuntimeRadius(runtimeNode) * Math.sqrt(scale))
     ctx.beginPath()
     ctx.arc(pos.x, pos.y, nodeRadius, 0, Math.PI * 2)
-    ctx.fillStyle = objectMapTypeColors[runtimeNode.type] ?? "#735a91"
+    ctx.fillStyle = objectMapColor(
+      objectMapVisual.typeColors?.[runtimeNode.type],
+      objectMapVisual.fallbackNode ?? 0x85755f,
+    )
     ctx.fill()
-    ctx.strokeStyle = runtimeNode.focus ? "#d6421f" : "rgba(255, 255, 255, 0.9)"
+    ctx.strokeStyle = runtimeNode.focus
+      ? objectMapColor(objectMapVisual.focus, 0xb52c1e)
+      : "rgba(255, 255, 255, 0.9)"
     ctx.lineWidth = runtimeNode.focus ? 3.2 : 1.2
     ctx.stroke()
   }
@@ -504,8 +561,8 @@ function drawObjectMapPreview(
     if (!required && drawnLabelBounds.some((existing) => objectMapBoundsOverlap(existing, labelBounds))) continue
     drawnLabelBounds.push(labelBounds)
     ctx.lineWidth = 3
-    ctx.strokeStyle = "rgba(255,255,255,0.9)"
-    ctx.fillStyle = "#33241a"
+    ctx.strokeStyle = objectMapVisual.labelHalo ?? "#f8f2e8"
+    ctx.fillStyle = objectMapVisual.label ?? "#241c18"
     ctx.strokeText(label, pos.x, labelY)
     ctx.fillText(label, pos.x, labelY)
   }
@@ -531,23 +588,22 @@ async function renderObjectMapPreview(root: HTMLElement) {
   if (!slug || !canvas) return
 
   try {
-    const index = await loadObjectMapIndex()
-    const resolved = objectMapResolveNode(index, slug)
+    const [index, slugMap] = await Promise.all([loadObjectMapIndex(), loadObjectMapSlugMap()])
+    const mappedSlug = slugMap.publicToGraph[slug] ?? slugMap.aliases[slug] ?? slug
+    const canonicalSlug = slugMap.aliases[mappedSlug] ?? mappedSlug
+    const resolved = objectMapResolveNode(index, canonicalSlug)
     if (!resolved) {
-      if (count) count.textContent = "Žemėlapio duomenų šiam objektui dar nėra."
-      setObjectMapStatus(root, "Nėra duomenų")
+      if (count) count.textContent = "Objekto nepavyko susieti su žemėlapio duomenimis."
+      setObjectMapStatus(root, "Žemėlapio tapatybės klaida")
       return
     }
 
     const [resolvedSlug, node] = resolved
     const neighbours = objectMapNeighbours(index, resolvedSlug, node)
     if (count) {
-      count.textContent =
-        neighbours.length === 0
-          ? "Ryšių šiame žemėlapyje dar nėra."
-          : `${neighbours.length.toLocaleString("lt-LT")} ryšiai`
+      count.textContent = `${neighbours.length.toLocaleString("lt-LT")} ryšiai`
     }
-    setObjectMapStatus(root, neighbours.length === 0 ? "Nėra ryšių" : "", neighbours.length > 0)
+    setObjectMapStatus(root, "", true)
     drawObjectMapPreview(canvas, neighbours, index, resolvedSlug, node)
   } catch {
     if (count) count.textContent = "Žemėlapio preview nepavyko įkelti."

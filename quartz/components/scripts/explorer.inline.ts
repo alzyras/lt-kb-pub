@@ -62,10 +62,9 @@ function toggleExplorer(this: HTMLElement) {
   )
   const expanded = !explorerCollapsed
   this.setAttribute("aria-expanded", String(expanded))
-  nearestExplorer.querySelector<HTMLElement>(".explorer-content")?.setAttribute(
-    "aria-expanded",
-    String(expanded),
-  )
+  nearestExplorer
+    .querySelector<HTMLElement>(".explorer-content")
+    ?.setAttribute("aria-expanded", String(expanded))
   this.setAttribute("aria-label", expanded ? "Uždaryti naršyklę" : "Atidaryti naršyklę")
 
   if (!explorerCollapsed) {
@@ -98,7 +97,7 @@ function bindExplorerToggle(
   }
   toggle.dataset.explorerToggleBound = "true"
   toggle.addEventListener("click", handler)
-  window.addCleanup(() => toggle.removeEventListener("click", handler))
+  window.addCleanup?.(() => toggle.removeEventListener("click", handler))
 }
 
 function toggleFolder(evt: MouseEvent) {
@@ -157,7 +156,7 @@ function bindFolderToggleControls(root: ParentNode) {
     if (control.dataset.folderToggleBound === "true") continue
     control.dataset.folderToggleBound = "true"
     control.addEventListener("click", toggleFolder)
-    window.addCleanup(() => control.removeEventListener("click", toggleFolder))
+    window.addCleanup?.(() => control.removeEventListener("click", toggleFolder))
   }
 }
 
@@ -221,7 +220,9 @@ function createFileNode(
     const claimLabel =
       claimCount % 10 === 1 && claimCount % 100 !== 11
         ? `${claimCount} teiginys`
-        : claimCount % 10 >= 2 && claimCount % 10 <= 9 && (claimCount % 100 < 10 || claimCount % 100 >= 20)
+        : claimCount % 10 >= 2 &&
+            claimCount % 10 <= 9 &&
+            (claimCount % 100 < 10 || claimCount % 100 >= 20)
           ? `${claimCount} teiginiai`
           : `${claimCount} teiginių`
     const badge = document.createElement("span")
@@ -441,9 +442,25 @@ function setupExplorerShell(explorer: HTMLElement, currentSlug: FullSlug) {
   }
   const onKeyDown = (event: KeyboardEvent) => {
     if (event.key === "Escape") closeMobileExplorer(explorer)
+    if (event.key !== "Tab" || explorer.classList.contains("collapsed")) return
+    const focusable = [
+      ...explorer.querySelectorAll<HTMLElement>(
+        'button:not([disabled]), a[href], [tabindex]:not([tabindex="-1"])',
+      ),
+    ].filter((element) => isElementVisible(element))
+    if (!focusable.length) return
+    const first = focusable[0]
+    const last = focusable.at(-1)!
+    if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault()
+      last.focus()
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault()
+      first.focus()
+    }
   }
   explorer.addEventListener("keydown", onKeyDown)
-  window.addCleanup(() => explorer.removeEventListener("keydown", onKeyDown))
+  window.addCleanup?.(() => explorer.removeEventListener("keydown", onKeyDown))
 }
 
 document.addEventListener("prenav", async () => {
@@ -454,29 +471,22 @@ document.addEventListener("prenav", async () => {
 })
 
 async function setupExplorersForSlug(currentSlug: FullSlug) {
-  // if mobile hamburger is visible, collapse by default
   for (const explorer of document.getElementsByClassName("explorer")) {
-    const mobileExplorer = explorer.querySelector(".mobile-explorer")
-    if (!mobileExplorer) {
-      await setupExplorer(currentSlug, explorer as HTMLElement)
-      continue
+    const explorerElement = explorer as HTMLElement
+    explorerElement.classList.add("collapsed")
+    explorerElement.setAttribute("aria-expanded", "false")
+    explorerElement
+      .querySelector<HTMLElement>(".explorer-content")
+      ?.setAttribute("aria-expanded", "false")
+    for (const toggle of explorerElement.querySelectorAll<HTMLElement>(".explorer-toggle")) {
+      toggle.setAttribute("aria-expanded", "false")
+      toggle.setAttribute("aria-label", "Atidaryti naršyklę")
     }
-
-    if (isElementVisible(mobileExplorer)) {
-      explorer.classList.add("collapsed")
-      explorer.setAttribute("aria-expanded", "false")
-      mobileExplorer.setAttribute("aria-expanded", "false")
-      explorer.querySelector<HTMLElement>(".explorer-content")?.setAttribute("aria-expanded", "false")
-      setupExplorerShell(explorer as HTMLElement, currentSlug)
-
-      // Allow <html> to be scrollable when mobile explorer is collapsed
-      document.documentElement.classList.remove("mobile-no-scroll")
-    } else {
-      await setupExplorer(currentSlug, explorer as HTMLElement)
-      setupExplorerShell(explorer as HTMLElement, currentSlug)
-    }
-
-    mobileExplorer.classList.remove("hide-until-loaded")
+    setupExplorerShell(explorerElement, currentSlug)
+    explorerElement
+      .querySelector<HTMLElement>(".mobile-explorer")
+      ?.classList.remove("hide-until-loaded")
+    document.documentElement.classList.remove("mobile-no-scroll")
   }
 }
 

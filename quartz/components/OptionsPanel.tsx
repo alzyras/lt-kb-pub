@@ -47,9 +47,15 @@ const OptionsPanel: QuartzComponent = ({ displayClass }: QuartzComponentProps) =
           </button>
         </div>
         <div class="options-panel-command-grid" aria-label="Rodymo įrankiai">
-          <button type="button" data-options-reader aria-pressed="false">Skaitymo režimas</button>
-          <button type="button" data-options-theme>Keisti temą</button>
-          <button type="button" data-options-research aria-pressed="false">Tyrimo režimas</button>
+          <button type="button" data-options-reader aria-pressed="false">
+            Skaitymo režimas
+          </button>
+          <button type="button" data-options-theme>
+            Keisti temą
+          </button>
+          <button type="button" data-options-research aria-pressed="false">
+            Tyrimo režimas
+          </button>
         </div>
         <div class="options-panel-section">
           <label class="options-panel-label" for="ltkb-min-claim-count-number">
@@ -89,7 +95,9 @@ const OptionsPanel: QuartzComponent = ({ displayClass }: QuartzComponentProps) =
         </div>
         <div class="options-panel-section options-panel-source-summary">
           <span class="options-panel-label">Tekstiniai šaltiniai</span>
-          <div class="options-panel-selected" data-options-selected-summary>Pasirinkti visi</div>
+          <div class="options-panel-selected" data-options-selected-summary>
+            Pasirinkti visi
+          </div>
           <input
             class="options-panel-search"
             type="search"

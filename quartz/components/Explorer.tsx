@@ -103,7 +103,9 @@ export default ((userOpts?: Partial<Options>) => {
           type="button"
           class="title-button explorer-toggle desktop-explorer"
           data-mobile={false}
-          aria-expanded={true}
+          aria-expanded={false}
+          aria-controls={id}
+          aria-label="Atidaryti naršyklę"
         >
           <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
           <svg

@@ -119,12 +119,15 @@ export default ((opts?: Partial<FolderContentOptions>) => {
           }
         })
         .filter((page) => page !== undefined) ?? []
+    const uniquePagesInFolder = [
+      ...new Map(allPagesInFolder.map((page) => [page.slug, page])).values(),
+    ]
     const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
     const classes = cssClasses.join(" ")
     const listProps = {
       ...props,
       sort: options.sort,
-      allFiles: allPagesInFolder,
+      allFiles: uniquePagesInFolder,
     }
 
     const content = (
@@ -135,7 +138,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const rawTitle = String(fileData.frontmatter?.title ?? folder.displayName)
     const title = folderTitle(fileData.slug, rawTitle)
     const folderType = folderLabel(fileData.slug, title)
-    const folderCount = allPagesInFolder.length.toLocaleString("lt-LT")
+    const folderCount = uniquePagesInFolder.length.toLocaleString("lt-LT")
 
     return (
       <div class="popover-hint bm-list-page bm-folder-page">
@@ -156,7 +159,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
           {options.showFolderCount && (
             <p>
               {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
-                count: allPagesInFolder.length,
+                count: uniquePagesInFolder.length,
               })}
             </p>
           )}
