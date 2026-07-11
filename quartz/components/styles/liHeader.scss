@@ -27,6 +27,15 @@ header:has(.li-header-shell) > .advanced-evidence-toggle {
   display: none;
 }
 
+/* Keep legacy utility components loaded for their scripts, but never render their
+   standalone Quartz buttons in the Lietuvos istorija header. This must not rely
+   only on :has(), because otherwise the buttons can leak next to the search UI. */
+header > .darkmode,
+header > .readermode,
+header > .advanced-evidence-toggle {
+  display: none !important;
+}
+
 header:has(.li-header-shell) > .options-panel-root .options-panel-toggle {
   height: 2.45rem;
   padding: 0 0.1rem;
